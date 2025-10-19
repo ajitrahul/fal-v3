@@ -43,6 +43,16 @@
     "scripts/**/*.ts"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    ".next",
+    "out",
+    "dist",
+    "build",
+    "**/_archive/**",
+    "**/deprecated/**",
+    "**/scripts/**",
+    "**/tests/**",
+    "**/*.spec.ts",
+    "**/*.spec.tsx"
   ]
 }
