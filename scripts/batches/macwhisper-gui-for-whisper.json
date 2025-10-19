@@ -1,0 +1,128 @@
+{
+  "id": "macwhisper-gui-for-whisper",
+  "name": "MacWhisper (GUI for Whisper)",
+  "slug": "macwhisper-gui-for-whisper",
+  "logo_url": "https://www.macwhisper.com/favicon.ico",
+  "icon_url": "https://www.macwhisper.com/favicon.ico",
+  "images": [
+    "https://www.macwhisper.com/favicon.ico"
+  ],
+  "website_url": "https://www.macwhisper.com",
+  "tagline": "macOS app to run Whisper transcription locally.",
+  "summary": "MacWhisper (GUI for Whisper) provides self‑serve dictation/transcription apps for individuals or creators.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Editing",
+    "Export"
+  ],
+  "use_cases": [
+    "Notes",
+    "Interviews",
+    "Content"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "MacWhisper",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/macwhisper/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.macwhisper.com",
+    "changelog": null,
+    "support": "https://www.macwhisper.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:13:43Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.macwhisper.com/favicon.ico",
+      "caption": "MacWhisper (GUI for Whisper) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

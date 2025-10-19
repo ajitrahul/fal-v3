@@ -1,0 +1,184 @@
+{
+  "id": "databricks-assistant",
+  "name": "Databricks Assistant",
+  "slug": "databricks-assistant",
+  "logo_url": "https://databricks.com/wp-content/uploads/2024/06/favicon-32x32-1.png",
+  "icon_url": "https://databricks.com/wp-content/uploads/2024/06/favicon-32x32-1.png",
+  "images": [
+    "https://databricks.com/wp-content/uploads/2024/06/favicon-32x32-1.png"
+  ],
+  "website_url": "https://docs.databricks.com/",
+  "tagline": "Context‑aware AI assistant for notebooks, SQL, dashboards, and files in Databricks.",
+  "summary": "Databricks Assistant is a context‑aware AI helper built into the Databricks Lakehouse platform that accelerates work in notebooks, the SQL editor, jobs, AI/BI dashboards, and the file editor. It can generate and explain code (Python, SQL, Scala), draft documentation, transform queries, and suggest fixes based on the current workspace context. Because it’s integrated into Databricks, the assistant can reference tables, schemas, and workspace objects (subject to permissions) to provide grounded suggestions; administrators can manage features as part of platform governance. \n\nThe official documentation covers where the Assistant appears in the UI, how to use chat for code and data questions, and how permissions control what the Assistant can see. Setup is lightweight for end users—open a notebook or SQL editor and start asking for help. For organizations, Databricks provides guidance on trust and safety, including links to privacy, security, and data handling policies for AI assistive features; customers can disable or limit features based on their risk posture. \n\nTeams use Databricks Assistant to cut down the time spent authoring and debugging queries and to translate between SQL and Python, draft ETL code with Spark, and scaffold jobs and dashboards. Tutorials and demos from Databricks show workflows that start with natural‑language intent and finish with runnable code or charts. Because the Assistant lives inside the Lakehouse, migration is minimal—enable the feature and train users to incorporate it into daily analytics and ML work. \n\nDatabricks Assistant is best for data and analytics teams already working in the Databricks environment who want an assistant grounded in their workspace metadata, with controls aligned to existing access permissions.",
+  "main_category": "Code Assistant",
+  "subcategory": "Data & Analytics Assistant",
+  "categories": [
+    "Data Engineering",
+    "Analytics",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Generate SQL/Python code",
+    "Explain & fix queries",
+    "Draft docs",
+    "Assist in dashboards/files"
+  ],
+  "use_cases": [
+    "Analytics and BI",
+    "ETL/ELT development",
+    "Data science notebooks"
+  ],
+  "best_for": [
+    "Teams on Databricks Lakehouse"
+  ],
+  "ideal_industries": [
+    "Financial services",
+    "Retail",
+    "Manufacturing",
+    "Media"
+  ],
+  "roles": [
+    "Data Engineers",
+    "Data Scientists",
+    "Analysts"
+  ],
+  "job_roles": [
+    "Data Engineer",
+    "Data Scientist",
+    "Analytics Engineer"
+  ],
+  "models": [
+    "Databricks‑hosted models; partner models optional"
+  ],
+  "platforms": [
+    "Databricks web UI"
+  ],
+  "languages": [
+    "SQL",
+    "Python",
+    "Scala"
+  ],
+  "integrations": [
+    "Lakehouse tables & schemas",
+    "Workspace objects",
+    "Dashboards"
+  ],
+  "compliance": [
+    "Trust & safety resources for AI assistive features"
+  ],
+  "data_controls": [
+    "Permission‑aware context via workspace ACLs"
+  ],
+  "governance": [
+    "Admin feature controls within Databricks"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "Enterprise SSO via Databricks"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": "See Databricks AI assistive features trust & safety",
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Workspace‑aware assistance",
+      "Minimal setup for users",
+      "Governance through existing controls"
+    ],
+    "cons": [
+      "Tied to Databricks platform"
+    ]
+  },
+  "key_differentiators": [
+    "Assistant grounded in Lakehouse metadata"
+  ],
+  "limitations": [
+    "Requires Databricks workspace access"
+  ],
+  "import_export": [
+    "Notebooks, SQL queries, dashboard assets"
+  ],
+  "setup_time": "Minutes for end users; admin policy review for orgs",
+  "case_studies": [],
+  "migration_paths": [
+    "Enable Assistant in workspace; train users; align policies"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives: BigQuery DataFrames + assistants, Snowflake Copilot (platform‑specific).",
+  "vendor": {
+    "name": "Databricks",
+    "hq_country": "USA",
+    "twitter": "https://twitter.com/databricks",
+    "linkedin": "https://www.linkedin.com/company/databricks/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://docs.databricks.com/notebooks/use-databricks-assistant",
+    "changelog": null,
+    "support": "https://docs.databricks.com/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://databricks.com/wp-content/uploads/2024/06/favicon-32x32-1.png",
+      "caption": "Databricks icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "See Databricks Assistant in Action! (official)",
+      "youtube": "https://www.youtube.com/watch?v=4pIUI-1lkgM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Databricks Assistant Overview (official)",
+      "youtube": "https://www.youtube.com/watch?v=vaZM67ef8O8",
+      "provider": "YouTube"
+    },
+    {
+      "title": "The ultimate guide to Databricks AI Assistant (community)",
+      "youtube": "https://www.youtube.com/watch?v=G0bwTvX2V3g",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

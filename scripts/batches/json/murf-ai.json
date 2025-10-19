@@ -1,0 +1,164 @@
+{
+  "id": "murf-ai",
+  "name": "Murf AI",
+  "slug": "murf-ai",
+  "logo_url": "https://murf.ai/favicon.ico",
+  "icon_url": "https://murf.ai/favicon.ico",
+  "images": [
+    "https://murf.ai/favicon.ico"
+  ],
+  "website_url": "https://murf.ai",
+  "tagline": "AI voice generator for business content with studio & teams.",
+  "summary": "Murf AI is a voiceover platform for business content such as explainers, e‑learning, and presentations. The studio provides a script editor, timeline, pronunciation dictionary, and a voice catalog across languages. Team plans offer collaboration features and brand management for consistent delivery. Murf integrates stock media and supports exporting for use in common video editors or slide tools.\n\nOrganizations use Murf to replace or augment traditional voiceover production, accelerating turnaround and enabling easy localization. Tutorials cover script best practices, timing with visuals, and multi‑speaker projects. Pricing spans individual and team tiers, with enterprise options available through sales.\n\nMurf is best for marketing and L&D teams who want a simple, template‑friendly workflow with minimal setup.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Voiceovers",
+    "Pronunciation control",
+    "Localization"
+  ],
+  "use_cases": [
+    "Explainers",
+    "Training",
+    "Presentations"
+  ],
+  "best_for": [
+    "SMBs/Enterprises",
+    "Agencies"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Murf neural TTS"
+  ],
+  "platforms": [
+    "Web Studio"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Stock media libraries"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free trial",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription tiers",
+    "plans": [
+      {
+        "name": "Basic/Pro/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Business‑ready studio",
+      "Collaboration features"
+    ],
+    "cons": [
+      "Advanced audio control limited vs. DAWs"
+    ]
+  },
+  "key_differentiators": [
+    "Slide/video oriented workflow"
+  ],
+  "limitations": [
+    "Complex audio mixing best done in external tools"
+  ],
+  "import_export": [
+    "MP3/WAV exports"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Murf",
+    "hq_country": null,
+    "twitter": "https://twitter.com/murf_ai",
+    "linkedin": "https://www.linkedin.com/company/murf-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://murf.ai/pricing",
+    "docs": "https://murf.ai",
+    "changelog": null,
+    "support": "https://support.murf.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://murf.ai/favicon.ico",
+      "caption": "Murf AI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Murf channel (official)",
+      "youtube": "https://www.youtube.com/@murf_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create business voiceovers (official)",
+      "youtube": "https://www.youtube.com/@murf_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Localization with Murf (official)",
+      "youtube": "https://www.youtube.com/@murf_ai",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

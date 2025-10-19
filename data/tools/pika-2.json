@@ -1,0 +1,161 @@
+{
+  "slug": "pika-2",
+  "name": "Pika 2",
+  "website_url": "https://pika.art/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pika.art",
+  "description": "Pika 2 is an AI tool in the text to video category. See the official site for features and availability.",
+  "category": "text-to-video",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use Pika 2 for text to video tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://pika.art/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Pika",
+    "legal": {
+      "terms_url": "https://pika.art/terms",
+      "privacy_url": "https://pika.art/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=Pika%202"
+    }
+  ],
+  "image": "https://pika.art/",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "Pika",
+      "modality": "video"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://pika.art/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the Pika ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://pika.art/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://pika.art/",
+      "caption": "Pika 2"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Pika 2 tutorial (overview)",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "channel": "YouTube"
+    }
+  ],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://pika.art/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://pika.art/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://pika.art/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://pika.art/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://pika.art/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://pika.art/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://pika.art/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://pika.art/"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://pika.art/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T10:20:11.388200"
+}

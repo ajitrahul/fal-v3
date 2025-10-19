@@ -1,0 +1,128 @@
+{
+  "id": "invoca",
+  "name": "Invoca",
+  "slug": "invoca",
+  "logo_url": "https://www.invoca.com/favicon.ico",
+  "icon_url": "https://www.invoca.com/favicon.ico",
+  "images": [
+    "https://www.invoca.com/favicon.ico"
+  ],
+  "website_url": "https://www.invoca.com",
+  "tagline": "Call tracking & conversation intelligence with transcripts.",
+  "summary": "Invoca offers call tracking and conversation intelligence, transcribing calls to derive marketing and sales insights. It connects ad campaigns to outcomes and integrates with CRMs and ad platforms.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Attribution",
+    "Insights"
+  ],
+  "use_cases": [
+    "Performance marketing",
+    "Sales optimization"
+  ],
+  "best_for": [
+    "Marketing & sales teams with phone leads"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + analytics"
+  ],
+  "platforms": [
+    "Web platform",
+    "Integrations/APIs"
+  ],
+  "languages": [
+    "Selected locales (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Invoca, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/invoca",
+    "linkedin": "https://www.linkedin.com/company/invoca/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.invoca.com/request-a-demo",
+    "docs": "https://community.invoca.com",
+    "changelog": null,
+    "support": "https://community.invoca.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.invoca.com/favicon.ico",
+      "caption": "Invoca icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

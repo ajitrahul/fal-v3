@@ -1,0 +1,171 @@
+{
+  "id": "adobe-firefly",
+  "name": "Adobe Firefly",
+  "slug": "adobe-firefly",
+  "logo_url": "https://www.adobe.com/products/firefly.html/favicon.ico",
+  "icon_url": "https://www.adobe.com/products/firefly.html/favicon.ico",
+  "images": [
+    "https://www.adobe.com/products/firefly.html/favicon.ico"
+  ],
+  "website_url": "https://www.adobe.com/products/firefly.html",
+  "tagline": "Generative AI for images, text effects, video, and more—integrated across Adobe apps.",
+  "summary": "Adobe Firefly is Adobe’s generative AI service for creative work across images, text effects, and increasingly video and audio—accessible on the web and inside flagship apps like Photoshop, Illustrator, Adobe Express, and Premiere Pro. Firefly’s Text to Image tool supports prompt-based synthesis, style presets, structure/sketch guidance, and content editing operations (e.g., Generative Fill/Expand in Photoshop). Firefly emphasizes commercially safe usage for enterprises and transparency controls; Adobe states that Firefly image models are trained on Adobe Stock, openly licensed content, and public-domain materials, and also provides a credit-based usage system across web and mobile experiences. Recent product updates expanded Firefly to mobile and introduced access to third‑party models (e.g., OpenAI, Google) from within the Firefly app, while keeping Creative Cloud workflows and asset handoff intact.\n\nTypical uses include campaign concepting, social visuals, product shots, mood boards, and rapid iteration of design directions before moving into pixel‑perfect editing. Firefly integrates with Libraries, Brand Controls (via Express and CC), and Photoshop’s non‑destructive layers so creatives can mix AI‑generated assets with manual retouching and vector composition. Teams adopt Firefly to accelerate ideation while maintaining brand safety and license clarity, and many organizations value the indemnification available on qualified enterprise plans. Migration is straightforward for existing Adobe customers: enable Firefly in the browser or within supported apps, allocate credits to teams, and apply governance policies consistent with Creative Cloud.\n\nFirefly is best for designers, marketers, and content teams already working in Adobe—especially where handoff to Photoshop/Illustrator/Express is essential and organizations want model provenance and enterprise guardrails.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Adobe Firefly Image Model (latest)",
+    "Partner models (e.g., OpenAI, Google)"
+  ],
+  "platforms": [
+    "Web",
+    "Photoshop",
+    "Illustrator",
+    "Express",
+    "Premiere Pro",
+    "Mobile (Firefly app)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Creative Cloud Libraries",
+    "Photoshop Generative Fill/Expand",
+    "Express Brand Controls"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": "Trained on Adobe Stock, openly licensed content, and public domain content (expired copyright).",
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Credit-based usage with free and paid allocations",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Credit-based within Creative Cloud/Firefly plans",
+    "plans": [
+      {
+        "name": "Creative Cloud + Firefly credits",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Deep Adobe app integration",
+      "Commercial safeguards & provenance efforts",
+      "Rich editing pipeline"
+    ],
+    "cons": [
+      "Credit system; advanced features gated to plans"
+    ]
+  },
+  "key_differentiators": [
+    "Tight Photoshop/Illustrator/Express handoff",
+    "Enterprise indemnification options",
+    "Stock-licensed training set"
+  ],
+  "limitations": [
+    "Requires Adobe account; some features are desktop‑app only"
+  ],
+  "import_export": [
+    "PSD/AI/PNG/JPG/SVG (via Adobe apps)"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Estée Lauder Companies scale production with Firefly",
+      "url": "https://business.adobe.com/customer-success-stories.html"
+    }
+  ],
+  "migration_paths": [
+    "Enable Firefly web/app; allocate credits; integrate with CC Libraries; adopt Brand Controls"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Adobe",
+    "hq_country": null,
+    "twitter": "https://twitter.com/adobefirefly",
+    "linkedin": "https://www.linkedin.com/company/adobe/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.adobe.com/products/firefly.html#pricing",
+    "docs": "https://www.adobe.com/learn/firefly/web/introduction-to-firefly",
+    "changelog": null,
+    "support": "https://helpx.adobe.com/support.html"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": true,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.adobe.com/products/firefly.html/favicon.ico",
+      "caption": "Adobe Firefly icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Learn Adobe Firefly in 5 minutes (official Adobe)",
+      "youtube": "https://www.youtube.com/watch?v=lt4k9lVnS1Y",
+      "provider": "YouTube"
+    },
+    {
+      "title": "What’s new with Firefly (Adobe playlist)",
+      "youtube": "https://www.youtube.com/playlist?list=PL7Fkn3UclHZOVPpnsBlfchDWnCQh0b61I",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Adobe Firefly overview (official)",
+      "youtube": "https://www.youtube.com/watch?v=_MuIBP3qaM4",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

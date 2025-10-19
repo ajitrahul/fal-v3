@@ -1,0 +1,129 @@
+{
+  "id": "voicegain",
+  "name": "Voicegain",
+  "slug": "voicegain",
+  "logo_url": "https://voicegain.ai/favicon.ico",
+  "icon_url": "https://voicegain.ai/favicon.ico",
+  "images": [
+    "https://voicegain.ai/favicon.ico"
+  ],
+  "website_url": "https://voicegain.ai",
+  "tagline": "Cloud & edge ASR with telephony integration and analytics.",
+  "summary": "Voicegain offers ASR for cloud and edge with telephony connectors, enabling IVR, analytics, and compliance workflows.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Streaming",
+    "Batch",
+    "Analytics"
+  ],
+  "use_cases": [
+    "IVR",
+    "Compliance",
+    "Contact center"
+  ],
+  "best_for": [
+    "Telecom & enterprise devs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Real-time & batch ASR"
+  ],
+  "platforms": [
+    "APIs",
+    "Telephony connectors"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Voicegain",
+    "hq_country": null,
+    "twitter": "https://twitter.com/voicegainai",
+    "linkedin": "https://www.linkedin.com/company/voicegain/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://voicegain.ai/pricing",
+    "docs": "https://docs.voicegain.ai",
+    "changelog": null,
+    "support": "https://voicegain.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://voicegain.ai/favicon.ico",
+      "caption": "Voicegain icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,259 @@
+{
+  "id": "runway-gen4",
+  "name": "Runway",
+  "slug": "runway-gen4",
+  "logo_url": "https://runwayml.com/favicon.ico",
+  "icon_url": "https://runwayml.com/favicon.ico",
+  "images": [],
+  "website_url": "https://runwayml.com",
+  "tagline": "Gen-3/Gen-4 series for controllable video and image generation",
+  "summary": "Runway is a creative production platform centered on its Gen-3 and Gen-4 model families for controllable video, image, and multimodal generation. Gen-4 focuses on consistent character and scene generation across shots, style control, and a set of references (subject, style, and scene) that improve continuity in multi-shot sequences. Production teams use Runway in two modes: Credits Mode for faster, higher‑limit generations and Explore Mode (Unlimited plan) for relaxed, credit‑free experimentation on supported tools. Purchased credit packs never expire, while monthly plan credits refresh on billing day and do not roll over. \n\n\nTeams adopt Runway for a range of tasks—storyboards, B‑roll, character consistency tests, product shots, expressive characters, lip sync, interpolation, upscaling, and more. The platform provides detailed use-case guidance through Runway Academy (tutorials and AMAs) and customer stories from film, TV, commercial, and creator workflows. Self‑service Enterprise plans pool monthly credits across a workspace and include annual billing, allowing multiple editors/admins to share a credit allowance and collaborate with governance. \n\n\nRunway documents subscription management clearly: upgrades between plans are prorated, downgrades apply to the next cycle, and credit behavior is predictable (monthly plan credits reset on billing day; purchased credits persist; one-time free credits stay until used). Unlimited plan subscribers can generate in Explore Mode with per-user rate balancing and switch to Credits Mode for faster generation or for tools not available in Explore Mode. \n\n\nRunway’s differentiators are its film‑first creative tooling (e.g., references for consistency), a rapidly updated Academy, and transparent credit mechanics suited to both solo creators and studios. It fits best where creative control and iteration speed matter—music videos, trailers, commercial spots, and emerging episodic content—while Enterprise credits and governance make it workable for team pipelines and budget oversight.",
+  "main_category": "Media Generation",
+  "subcategory": "Text-to-Video & Video Editing",
+  "categories": [
+    "Video Generation",
+    "Image Generation",
+    "Post-production"
+  ],
+  "tasks": [
+    "Text-to-video",
+    "Image-to-video",
+    "Upscale",
+    "Interpolation",
+    "Lip Sync",
+    "Frame editing"
+  ],
+  "use_cases": [
+    "Storyboards",
+    "Character continuity tests",
+    "Product shots",
+    "B‑roll",
+    "Education content"
+  ],
+  "best_for": [
+    "Filmmakers",
+    "Agencies",
+    "Social video creators",
+    "Studios/Education"
+  ],
+  "ideal_industries": [
+    "Media & Entertainment",
+    "Advertising",
+    "Education"
+  ],
+  "roles": [
+    "Director",
+    "Editor",
+    "VFX Artist",
+    "Animator",
+    "Creative Producer"
+  ],
+  "job_roles": [
+    "Video Editor",
+    "Motion Designer",
+    "Filmmaker"
+  ],
+  "models": [
+    "Gen-4",
+    "Gen-3",
+    "Aleph (announced)"
+  ],
+  "platforms": [
+    "Web app",
+    "iOS",
+    "API (select tools)"
+  ],
+  "languages": [
+    "UI in multiple locales; prompts in many languages"
+  ],
+  "integrations": [
+    "Premiere (export), common social exports"
+  ],
+  "compliance": [
+    "See Runway Trust resources"
+  ],
+  "data_controls": [
+    "Workspace roles & permissions",
+    "Enterprise credit pools"
+  ],
+  "governance": [
+    "Workspace member roles",
+    "Seat-based billing for additional users"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "One-time free credits; feature access limited",
+    "rate_limits": "Explore Mode balances concurrency per user; Credits Mode has higher limits"
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription with monthly credits + one-time credit packs; Enterprise annual plans with shared credits",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0 (one-time credits)",
+        "billing": "n/a"
+      },
+      {
+        "name": "Standard/Pro (monthly/annual)",
+        "price": "varies by plan; monthly credits refresh",
+        "billing": "monthly/annual"
+      },
+      {
+        "name": "Unlimited",
+        "price": "varies; unlimited Explore Mode + 2250 monthly credits",
+        "billing": "monthly/annual"
+      },
+      {
+        "name": "Enterprise (self-service)",
+        "price": "annual; 2250 credits/month shared",
+        "billing": "annual"
+      }
+    ]
+  },
+  "pricing_notes": "Upgrades are prorated; purchased credits never expire; monthly credits don’t roll over; Unlimited plan offers Explore Mode.",
+  "pros_cons": {
+    "pros": [
+      "References for consistent characters/scenes",
+      "Unlimited Explore Mode",
+      "Prorated upgrades and predictable credits"
+    ],
+    "cons": [
+      "Enterprise SSO/compliance materials are gated",
+      "Highest fidelity generations consume more credits"
+    ]
+  },
+  "key_differentiators": [
+    "Film-first tooling and Academy",
+    "Workspace credit pools (Enterprise)",
+    "Fast iteration with Explore Mode"
+  ],
+  "limitations": [
+    "Tool availability differs between Explore and Credits modes"
+  ],
+  "import_export": [
+    "Common video/image export formats; project asset retention bound to plan limits"
+  ],
+  "setup_time": "Minutes to start; days for team governance",
+  "case_studies": [
+    {
+      "title": "How 'House of David' used Runway to become Amazon’s latest hit series",
+      "url": "https://runwayml.com/customers/how-house-of-david-used-runway-to-become-amazons-latest-hit-series"
+    },
+    {
+      "title": "How Eggplant Picture & Sound transformed History Channel’s 'Life After People' with Runway",
+      "url": "https://runwayml.com/customers/how-eggplant-picture-and-sound-transformed-history-channels-life-after-people-with-runway"
+    },
+    {
+      "title": "How Kevin Parry achieves virality through video storytelling",
+      "url": "https://runwayml.com/customers/how-kevin-parry-achieves-virality-through-video-storytelling"
+    }
+  ],
+  "migration_paths": [
+    "Upgrade Free → paid plan via Workspace Settings > Plans & Billing (prorated)",
+    "Move Standard → Pro or Pro → Unlimited with proration; credits adjusted accordingly",
+    "Adopt self‑service Enterprise: annual billing with 2250 credits/month pooled across workspace members"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with other text-to-video tools; strong for reference-driven continuity",
+  "vendor": {
+    "name": "Runway AI, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://x.com/runwayml",
+    "linkedin": "https://www.linkedin.com/company/runwayml/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://help.runwayml.com/hc/en-us/categories/25281314499987-Plans-Billing-Credits",
+    "docs": "https://help.runwayml.com/",
+    "changelog": null,
+    "support": "https://help.runwayml.com/hc/en-us"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:38:55Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Consistency tools speed up edits",
+        "author": "Customer interviews",
+        "rating": 5,
+        "created_at": "2025-10-11T23:38:55Z",
+        "body": "Subject/style/scene references and Academy workflows make it easier to achieve character and shot consistency across cuts."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://runwayml.com/favicon.ico",
+      "caption": "Runway brand mark"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Introducing Runway Gen‑4 (official)",
+      "youtube": "https://www.youtube.com/watch?v=uRkfzKYFOxc",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Gen‑4 by Runway (official)",
+      "youtube": "https://www.youtube.com/watch?v=br9b3-cxTPQ",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Gen‑4 References | Runway Academy (official)",
+      "youtube": "https://www.youtube.com/watch?v=lfiASPH1lvE",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": [
+    {
+      "q": "Do monthly credits roll over?",
+      "a": "No. Monthly plan credits reset on the billing day; purchased credit packs never expire.",
+      "source": "https://help.runwayml.com/hc/en-us/articles/15124877443219-How-do-credits-work",
+      "updated_at": "2025-10-11T23:38:55Z"
+    },
+    {
+      "q": "How are upgrades billed?",
+      "a": "Upgrades between paid plans are prorated and take effect immediately; the difference is charged at upgrade time.",
+      "source": "https://help.runwayml.com/hc/en-us/articles/21779280800787-How-do-I-upgrade-from-a-lower-plan-to-a-higher-plan",
+      "updated_at": "2025-10-11T23:38:55Z"
+    },
+    {
+      "q": "What does the Enterprise (self‑service) plan include?",
+      "a": "Annual billing and 2250 credits/month pooled across the workspace; additional credits can be purchased.",
+      "source": "https://help.runwayml.com/hc/en-us/articles/32117491177619-Enterprise-Credits",
+      "updated_at": "2025-10-11T23:38:55Z"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "fotor-ai-image-generator",
+  "name": "Fotor AI Image Generator",
+  "slug": "fotor-ai-image-generator",
+  "logo_url": "https://www.fotor.com/ai-image-generator/favicon.ico",
+  "icon_url": "https://www.fotor.com/ai-image-generator/favicon.ico",
+  "images": [
+    "https://www.fotor.com/ai-image-generator/favicon.ico"
+  ],
+  "website_url": "https://www.fotor.com/ai-image-generator/",
+  "tagline": "Fotor’s browser-based text‑to‑image generator within its photo editor.",
+  "summary": "Fotor provides a browser‑based AI image generator as part of its online photo editor. Users can create images from prompts, apply styles, and edit results within Fotor’s standard photo tools. The service positions itself as beginner‑friendly, with no sign‑up or watermark requirements for basic usage, and integrates with Fotor’s broader editing and design features for post‑processing. Help content and marketing pages outline how to start from prompts or reference images and then adjust results with Fotor’s editor.\n\nTypical uses include social graphics, simple marketing visuals, and creative experimentation without installing software. Fotor offers free access with optional paid upgrades for higher quality or additional features.\n\nFotor is best for casual users and small businesses who want a lightweight generator combined with a basic editor in the same browser tab.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Fotor service‑managed"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free usage available; premium plans remove limits/features",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Pro/Pro+",
+        "price": "see site",
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Beginner‑friendly web UI",
+      "No watermark for basic usage",
+      "Editor + generator combined"
+    ],
+    "cons": [
+      "Fewer pro controls than specialized tools"
+    ]
+  },
+  "key_differentiators": [
+    "Integrated editing workflow in browser"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Fotor",
+    "hq_country": null,
+    "twitter": "https://twitter.com/fotor_com",
+    "linkedin": "https://www.linkedin.com/company/fotor/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.fotor.com/pricing.html",
+    "docs": "https://www.fotor.com/ai-image-generator/",
+    "changelog": null,
+    "support": "https://www.fotor.com/support/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.fotor.com/ai-image-generator/favicon.ico",
+      "caption": "Fotor AI Image Generator icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Fotor channel (official)",
+      "youtube": "https://www.youtube.com/@FotorOfficial",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Fotor AI Image Generator overview (official)",
+      "youtube": "https://www.youtube.com/watch?v=6gjk0o1ubzg",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create AI art in Fotor (community)",
+      "youtube": "https://www.youtube.com/watch?v=Q6vVpFn0qSU",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

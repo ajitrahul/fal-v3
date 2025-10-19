@@ -1,0 +1,154 @@
+{
+  "id": "stability-ai-dreamstudio",
+  "name": "Stability AI DreamStudio",
+  "slug": "stability-ai-dreamstudio",
+  "logo_url": "https://dreamstudio.stability.ai/favicon.ico",
+  "icon_url": "https://dreamstudio.stability.ai/favicon.ico",
+  "images": [
+    "https://dreamstudio.stability.ai/favicon.ico"
+  ],
+  "website_url": "https://dreamstudio.stability.ai/",
+  "tagline": "Web experience for Stable Diffusion image generation and editing.",
+  "summary": "DreamStudio is Stability AI’s official web experience for generating and editing images with Stable Diffusion models. It exposes prompt‑based generation, negative prompts, upscaling, image‑to‑image, and control features depending on the model version. As part of the Stability ecosystem, DreamStudio is positioned for creative professionals who want quick access to Stable Diffusion without local installs; developers can use the Stability API for programmatic access. Stability’s site and communications frame DreamStudio as a production‑friendly option with brand‑safety controls and enterprise support, while also offering a free trial/credit‑based path to experiment.\n\nCommon use cases include concept art, product shots, storyboarding, and experimentation with SD model variants. The web app pairs with the Stability API for workflows that need automation or integration into existing pipelines. Getting started requires creating an account, selecting a model, and iterating on prompts and parameters; images can be downloaded or moved into external editors for finishing.\n\nDreamStudio fits teams that prefer Stable Diffusion’s ecosystem with a simple, hosted UI and access to programmatic endpoints.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Stable Diffusion model family (various)"
+  ],
+  "platforms": [
+    "Web",
+    "Stability API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Stability API"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Credit‑based free trial",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Credit‑based",
+    "plans": [
+      {
+        "name": "Credits (web/API)",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Official Stable Diffusion web UI",
+      "Credit‑based tryout",
+      "API available"
+    ],
+    "cons": [
+      "Feature set varies by model; credits required for heavy use"
+    ]
+  },
+  "key_differentiators": [
+    "First‑party Stable Diffusion access",
+    "API + web pairing"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG downloads"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Stability AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/StabilityAI",
+    "linkedin": "https://www.linkedin.com/company/stability-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://stability.ai/",
+    "docs": "https://stability.ai/",
+    "changelog": null,
+    "support": "https://stability.ai/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://dreamstudio.stability.ai/favicon.ico",
+      "caption": "Stability AI DreamStudio icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "DreamStudio overview (community)",
+      "youtube": "https://www.youtube.com/watch?v=tAxx9aldUfU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "DreamStudio quickstart (community)",
+      "youtube": "https://www.youtube.com/watch?v=iSyV9lc1DtA",
+      "provider": "YouTube"
+    },
+    {
+      "title": "DreamStudio first look (community)",
+      "youtube": "https://www.youtube.com/watch?v=ZRox1WHqZWs",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ai-media-ai-live",
+  "name": "AI-Media (Ai-Live)",
+  "slug": "ai-media-ai-live",
+  "logo_url": "https://www.ai-media.tv/favicon.ico",
+  "icon_url": "https://www.ai-media.tv/favicon.ico",
+  "images": [
+    "https://www.ai-media.tv/favicon.ico"
+  ],
+  "website_url": "https://www.ai-media.tv",
+  "tagline": "Live captioning, transcription, and translation services.",
+  "summary": "AI-Media provides live captioning and transcription services for broadcast, events, education, and enterprise, with translation and compliance options.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Transcription",
+    "Translation"
+  ],
+  "use_cases": [
+    "Broadcast",
+    "Events",
+    "Education"
+  ],
+  "best_for": [
+    "Media & enterprises"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Human + AI workflows"
+  ],
+  "platforms": [
+    "Services platform",
+    "Integrations"
+  ],
+  "languages": [
+    "Many (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "AI-Media",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Ai_Media_TV",
+    "linkedin": "https://www.linkedin.com/company/ai-media/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.ai-media.tv/contact/",
+    "docs": "https://www.ai-media.tv",
+    "changelog": null,
+    "support": "https://www.ai-media.tv/contact/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.ai-media.tv/favicon.ico",
+      "caption": "AI-Media (Ai-Live) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,139 @@
+{
+  "id": "phind",
+  "name": "Phind",
+  "slug": "phind",
+  "logo_url": "https://www.phind.com/favicon.ico",
+  "icon_url": "https://www.phind.com/favicon.ico",
+  "images": [
+    "https://www.phind.com/favicon.ico"
+  ],
+  "website_url": "https://www.phind.com",
+  "tagline": "AI search and coding assistant with fast model & IDE workflows.",
+  "summary": "Phind provides an AI‑assisted search and coding experience focused on developer workflows. From the website, users can ask questions, generate code, and iterate with follow‑ups that reference sources. Phind highlights speed and a streamlined interface that keeps code and explanations together, allowing quick copy/paste into an IDE. It supports typical developer tasks such as scaffolding, refactoring, and debugging by supplying runnable code examples and links back to the sources it used for grounding. \n\nPhind is commonly used in a browser alongside an IDE: developers search for implementation patterns, copy snippets, and refine prompts conversationally. The site emphasizes responsiveness and short turnaround times for answers. Tutorials and community walkthroughs show patterns like asking for “from‑scratch” implementations, requesting tests, and iterating on errors by pasting logs back into the conversation. Because it is web‑based, there is no setup beyond signing in; accounts enable saving history and preferences. \n\nPhind is a good fit for engineers who prefer a fast web companion to an editor, especially when researching unfamiliar APIs, debugging, or comparing approaches before committing to code. Users who want a desktop IDE integration can pair Phind with their editor of choice and use it mainly for research and prototype snippets.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Search",
+    "Code Generation"
+  ],
+  "tasks": [
+    "Search with sources",
+    "Generate code",
+    "Explain code",
+    "Refactor suggestions"
+  ],
+  "use_cases": [
+    "Research patterns",
+    "Prototype quickly",
+    "Debug with logs"
+  ],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Phind, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/phindsearch",
+    "linkedin": "https://www.linkedin.com/company/phind/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.phind.com",
+    "changelog": null,
+    "support": "https://www.phind.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.phind.com/favicon.ico",
+      "caption": "Phind icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Phind overview (community)",
+      "youtube": "https://www.youtube.com/watch?v=qYTrswfVw7Q",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Phind coding examples (community)",
+      "youtube": "https://www.youtube.com/watch?v=7J0QW1a8kXs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Ask & iterate with Phind (community)",
+      "youtube": "https://www.youtube.com/watch?v=kn8PjN6XK8s",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

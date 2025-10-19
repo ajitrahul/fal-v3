@@ -1,0 +1,14 @@
+[
+  {
+    "id": "f1c1d2dc-3a9e-4b0a-9a57-7c3bcb9f2f11",
+    "slug": "launch-week-day-1",
+    "title": "Editor’s picks — launch week, day 1",
+    "summary": "Three strong launches across coding, research, and video. Worth a look.",
+    "date": "2025-10-05T08:00:00.000Z",
+    "tags": ["editors-picks", "launch-week"],
+    "links": [
+      { "title": "Tool A announcement", "url": "https://example.com/a" },
+      { "title": "Tool B blog", "url": "https://example.com/b" }
+    ]
+  }
+]

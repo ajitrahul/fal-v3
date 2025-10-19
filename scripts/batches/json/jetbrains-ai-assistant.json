@@ -1,0 +1,186 @@
+{
+  "id": "jetbrains-ai-assistant",
+  "name": "JetBrains AI Assistant",
+  "slug": "jetbrains-ai-assistant",
+  "logo_url": "https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png",
+  "icon_url": "https://www.jetbrains.com/favicon.ico",
+  "images": [],
+  "website_url": "https://www.jetbrains.com/ai/",
+  "tagline": "AI features built into JetBrains IDEs",
+  "summary": "JetBrains AI Assistant brings AI‑powered code completion, in‑editor generation, chat, unit‑test creation, and explanations into JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, Rider, and others). It is designed around the way developers work inside JetBrains editors, with AI actions available contextually from the editor, gutter, and tool windows. Documentation covers getting started, licensing, and activation, and includes IDE‑specific guides that show how to use AI Assistant for refactoring, version control workflows, database tools, terminal commands, and more.\n\nJetBrains materials highlight expanding model support and the ability to use certain local models for selected features, while enterprise customers can manage access and usage centrally with JetBrains account/organization tooling. The official YouTube playlists demonstrate practical workflows and “tips & tricks” sessions across languages and frameworks, and the JetBrains Guide collects articles and videos showing everyday patterns for AI‑assisted development in the JetBrains ecosystem.\n\nJetBrains AI Assistant is best for teams already on JetBrains IDEs that want native, discoverable AI functionality without switching editors. Migration typically involves enabling the AI Assistant plugin, obtaining/assigning licenses, and rolling out organization‑wide policies. For teams with strict policies, JetBrains documents configuration, data handling, and options to experiment with local models for specific operations.",
+  "main_category": "Code Assistant",
+  "subcategory": "IDE‑Integrated Assistant",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "IDE Plugins"
+  ],
+  "tasks": [
+    "Inline completion",
+    "AI chat",
+    "Explain/refactor",
+    "Test generation",
+    "Commit messages",
+    "DB/terminal assistance"
+  ],
+  "use_cases": [
+    "Boost productivity in JetBrains IDEs",
+    "Refactoring and testing",
+    "Learning unfamiliar code"
+  ],
+  "best_for": [
+    "Teams standardized on JetBrains IDEs"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Education",
+    "Financial services"
+  ],
+  "roles": [
+    "Developers",
+    "Tech Leads"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "QA Engineer"
+  ],
+  "models": [
+    "Multiple models; some features can use local models (per docs)"
+  ],
+  "platforms": [
+    "JetBrains IDEs"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "JetBrains Marketplace plugin",
+    "JetBrains Account licensing"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Organization license and policy controls"
+  ],
+  "governance": [
+    "Team/org policy via JetBrains Account"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "JetBrains org SSO options"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Add‑on license to JetBrains IDEs",
+    "plans": []
+  },
+  "pricing_notes": "See AI Assistant site for current pricing and availability.",
+  "pros_cons": {
+    "pros": [
+      "Native integration across JetBrains IDEs",
+      "Strong docs and tutorials"
+    ],
+    "cons": [
+      "Features depend on IDE version and plan"
+    ]
+  },
+  "key_differentiators": [
+    "IDE‑native UX",
+    "Local model options for some features"
+  ],
+  "limitations": [
+    "Requires JetBrains IDEs and AI license"
+  ],
+  "import_export": [
+    "Project files in IDE"
+  ],
+  "setup_time": "Minutes to enable plugin and license",
+  "case_studies": [],
+  "migration_paths": [
+    "Install AI Assistant plugin; obtain/assign AI licenses",
+    "Configure organization policies; optionally try local models for select features"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with GitHub Copilot in JetBrains and Sourcegraph Cody for JetBrains",
+  "vendor": {
+    "name": "JetBrains s.r.o.",
+    "hq_country": "Czech Republic",
+    "twitter": "https://x.com/jetbrains",
+    "linkedin": "https://www.linkedin.com/company/jetbrains/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.jetbrains.com/ai/#pricing",
+    "docs": "https://www.jetbrains.com/help/ai-assistant/getting-started-with-ai-assistant.html",
+    "changelog": "https://blog.jetbrains.com/tag/ai-assistant/",
+    "support": "https://www.jetbrains.com/support/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:46:57Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Feels built‑in, not bolted‑on",
+        "author": "JetBrains community",
+        "rating": 5,
+        "created_at": "2025-10-11T23:46:57Z",
+        "body": "Playlists and guides show practical in‑IDE usage without leaving the editor."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://www.jetbrains.com/favicon.ico",
+      "caption": "JetBrains"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "JetBrains AI Assistant (official)",
+      "youtube": "https://www.youtube.com/watch?v=-NnYtfzO7qU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "JetBrains AI Assistant playlist (official)",
+      "youtube": "https://www.youtube.com/playlist?list=PLQ176FUIyIUYSuOBaK2D2Z4OsSuNb-X4B",
+      "provider": "YouTube"
+    },
+    {
+      "title": "AI in PyCharm playlist (official)",
+      "youtube": "https://www.youtube.com/playlist?list=PLCTHcU1KoD9939Ty2AxSm2umxl8Tt80lN",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

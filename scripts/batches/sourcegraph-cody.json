@@ -1,0 +1,202 @@
+{
+  "id": "sourcegraph-cody",
+  "name": "Sourcegraph Cody",
+  "slug": "sourcegraph-cody",
+  "logo_url": "https://sourcegraph.com/favicon.ico",
+  "icon_url": "https://sourcegraph.com/favicon.ico",
+  "images": [],
+  "website_url": "https://sourcegraph.com/",
+  "tagline": "AI coding assistant with deep codebase context",
+  "summary": "Sourcegraph Cody is an AI coding assistant designed to understand large, multi-repo codebases and deliver context‑aware help: code generation, refactoring, test authoring, code explanations, and repository‑wide Q&A. It layers on top of Sourcegraph’s code intelligence platform and Code Search, giving Cody the ability to reason over extensive code graphs and organizational standards. In practice, Cody helps engineers write code faster, reduce time spent searching, and maintain consistency by grounding responses in actual repositories—including monorepos spread across code hosts.\n\nTeams adopt Cody in IDEs (VS Code and JetBrains) and in the browser alongside Sourcegraph’s UI. Organizational features span SSO, repository and permission awareness, and centrally managed configurations. Sourcegraph publishes customer stories across industries, including public sector and enterprises with strict security requirements; case studies highlight faster incident response, accelerated onboarding, and improved test coverage when Cody is paired with Sourcegraph Code Search. For teams moving toward autonomous development, Sourcegraph positions its agentic tooling (e.g., Amp) to execute multi‑step tasks such as large‑scale edits or feature implementations, while Cody continues to power day‑to‑day assistance with a strong understanding of code context.\n\nCody is best for organizations that already use (or are adopting) Sourcegraph for code intelligence and want an assistant that truly “knows” their codebase. Migration is straightforward: deploy Sourcegraph, connect code hosts, roll out the Cody IDE extensions, and scale with enterprise governance. Sourcegraph’s documentation and training playlists cover installation, configuration, and usage patterns for JetBrains and VS Code, while customer stories provide concrete reference architectures and adoption outcomes.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI Pair Programmer",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "IDE Plugins"
+  ],
+  "tasks": [
+    "Code completion",
+    "Chat with repo",
+    "Generate tests",
+    "Explain code",
+    "Refactor code",
+    "Multi‑repo search Q&A"
+  ],
+  "use_cases": [
+    "Large monorepos",
+    "Cross‑repo change automation",
+    "Faster onboarding",
+    "Incident response"
+  ],
+  "best_for": [
+    "Engineering orgs with complex code graphs",
+    "Enterprises with regulatory requirements"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Public Sector",
+    "Financial services",
+    "Telecom"
+  ],
+  "roles": [
+    "Developers",
+    "Tech Leads",
+    "SRE",
+    "Platform Engineering"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "SRE",
+    "Platform Engineer"
+  ],
+  "models": [
+    "Cody (model‑agnostic via Sourcegraph backends)"
+  ],
+  "platforms": [
+    "VS Code",
+    "JetBrains IDEs",
+    "Sourcegraph web UI"
+  ],
+  "languages": [
+    "Multi‑language across org codebases"
+  ],
+  "integrations": [
+    "Sourcegraph Code Search",
+    "Code hosts (GitHub, GitLab, etc.)"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Permission‑aware context via Sourcegraph"
+  ],
+  "governance": [
+    "Org policy via Sourcegraph admin"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "SSO via Sourcegraph Enterprise"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Deep codebase context via Sourcegraph",
+      "Multi‑repo awareness",
+      "Training and playlists"
+    ],
+    "cons": [
+      "Best value when paired with Sourcegraph platform"
+    ]
+  },
+  "key_differentiators": [
+    "Grounded in Sourcegraph’s code intelligence",
+    "Multi‑repo reasoning"
+  ],
+  "limitations": [
+    "Requires Sourcegraph integration for full value"
+  ],
+  "import_export": [],
+  "setup_time": "Hours to days depending on Sourcegraph deployment",
+  "case_studies": [
+    {
+      "title": "Leidos + Cody: Efficiency with heightened security",
+      "url": "https://sourcegraph.com/case-studies/cody-leidos-maximizing-efficiency-heightened-security-ai-race"
+    },
+    {
+      "title": "Sourcegraph case studies hub",
+      "url": "https://sourcegraph.com/case-studies"
+    }
+  ],
+  "migration_paths": [
+    "Deploy Sourcegraph, connect code hosts, then roll out Cody IDE extensions",
+    "Centralize auth & permissions with Sourcegraph SSO and repo permissions"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with GitHub Copilot, Tabnine, and Codeium/Windsurf for multi‑repo context needs",
+  "vendor": {
+    "name": "Sourcegraph, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://x.com/sourcegraph",
+    "linkedin": "https://www.linkedin.com/company/sourcegraph/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://sourcegraph.com/docs",
+    "changelog": "https://sourcegraph.com/changelog",
+    "support": "https://sourcegraph.com/contact/sales"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:46:57Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Strong results on large codebases",
+        "author": "Customer stories",
+        "rating": 5,
+        "created_at": "2025-10-11T23:46:57Z",
+        "body": "Case studies highlight faster onboarding and incident resolution when Cody is combined with Code Search."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://sourcegraph.com/.well-known/apple-touch-icon.png",
+      "caption": "Sourcegraph mark"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Sourcegraph Cody playlist (official)",
+      "youtube": "https://www.youtube.com/playlist?list=PL6zLuuRVa1_gPp-o14fCLxO2bG62Xra_B",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Cody for JetBrains (official)",
+      "youtube": "https://www.youtube.com/playlist?list=PL6zLuuRVa1_i9wF9XkPqGiDzvgH5qORLg",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Meet Cody (official talk)",
+      "youtube": "https://www.youtube.com/watch?v=d11qzxwLznw",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

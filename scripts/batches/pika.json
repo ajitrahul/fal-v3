@@ -1,0 +1,164 @@
+{
+  "id": "pika",
+  "name": "Pika",
+  "slug": "pika",
+  "logo_url": "https://pika.art/favicon.ico",
+  "icon_url": "https://pika.art/favicon.ico",
+  "images": [
+    "https://pika.art/favicon.ico"
+  ],
+  "website_url": "https://pika.art",
+  "tagline": "Text‑to‑video with styles, camera controls, and web editor.",
+  "summary": "Pika is a browser‑based text‑to‑video tool focused on fast iteration and accessible controls. Users prompt a scene or upload a still image to drive motion, then refine with style choices, camera moves, and length/aspect settings. The interface emphasizes quick previews and remixing so creators can try multiple ideas before committing to a final render. Pika supports image‑to‑video, video‑to‑video stylization, and negative prompts to steer away from unwanted artifacts.\n\nThe product is designed for social content and short‑form storytelling—advertisers, creators, and educators can produce eye‑catching clips without heavyweight software. Tutorials from Pika’s official channels demonstrate good prompting patterns, reference‑image techniques, and camera controls for simulated dolly, zoom, or pan. Projects can be exported for finishing in conventional editors.\n\nPika is a good fit for teams who want a low‑friction way to ideate and generate short videos directly in the browser, with controls that feel familiar to motion designers yet approachable for newcomers.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video",
+    "Image‑to‑video",
+    "Video stylization",
+    "Camera controls"
+  ],
+  "use_cases": [
+    "Social ads",
+    "Promos",
+    "Educational shorts",
+    "Concept motion"
+  ],
+  "best_for": [
+    "Creators",
+    "Marketers",
+    "Educators"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Pika service‑managed models"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available; paid upgrades",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid plans",
+    "plans": [
+      {
+        "name": "Free/paid",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Quick iteration",
+      "Accessible UI",
+      "Good style controls"
+    ],
+    "cons": [
+      "Short‑form focus; heavy usage requires plan"
+    ]
+  },
+  "key_differentiators": [
+    "Fast browser previews",
+    "Camera/motion presets"
+  ],
+  "limitations": [],
+  "import_export": [
+    "Download MP4; bring into NLEs"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Pika",
+    "hq_country": null,
+    "twitter": "https://twitter.com/pika_labs",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://pika.art",
+    "docs": "https://pika.art",
+    "changelog": null,
+    "support": "https://pika.art/help"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://pika.art/favicon.ico",
+      "caption": "Pika icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Pika channel (official)",
+      "youtube": "https://www.youtube.com/@pika_labs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Pika quickstart (official)",
+      "youtube": "https://www.youtube.com/@pika_labs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Pika tips (community)",
+      "youtube": "https://www.youtube.com/watch?v=H4cuxG1h1zE",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

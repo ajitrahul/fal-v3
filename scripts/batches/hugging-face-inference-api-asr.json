@@ -1,0 +1,127 @@
+{
+  "id": "hugging-face-inference-api-asr",
+  "name": "Hugging Face Inference API (ASR)",
+  "slug": "hugging-face-inference-api-asr",
+  "logo_url": "https://huggingface.co/inference-api/favicon.ico",
+  "icon_url": "https://huggingface.co/inference-api/favicon.ico",
+  "images": [
+    "https://huggingface.co/inference-api/favicon.ico"
+  ],
+  "website_url": "https://huggingface.co/inference-api",
+  "tagline": "Hosted inference for ASR models via simple HTTP calls.",
+  "summary": "The Hugging Face Inference API hosts ASR models from the Hub and serves them via simple HTTP endpoints, suitable for quick prototypes and low-ops deployments.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Streaming (varies)"
+  ],
+  "use_cases": [
+    "Prototypes",
+    "Lightweight services"
+  ],
+  "best_for": [
+    "Developers testing many models"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Community ASR models (Whisper, Wav2Vec2, etc.)"
+  ],
+  "platforms": [
+    "HTTP API",
+    "Python/JS clients"
+  ],
+  "languages": [
+    "Varies by model"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Hugging Face",
+    "hq_country": null,
+    "twitter": "https://twitter.com/huggingface",
+    "linkedin": "https://www.linkedin.com/company/huggingface/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://huggingface.co/pricing",
+    "docs": "https://huggingface.co/docs/api-inference",
+    "changelog": null,
+    "support": "https://discuss.huggingface.co"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://huggingface.co/inference-api/favicon.ico",
+      "caption": "Hugging Face Inference API (ASR) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

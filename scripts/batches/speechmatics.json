@@ -1,0 +1,167 @@
+{
+  "id": "speechmatics",
+  "name": "Speechmatics",
+  "slug": "speechmatics",
+  "logo_url": "https://www.speechmatics.com/favicon.ico",
+  "icon_url": "https://www.speechmatics.com/favicon.ico",
+  "images": [
+    "https://www.speechmatics.com/favicon.ico"
+  ],
+  "website_url": "https://www.speechmatics.com",
+  "tagline": "Enterprise-grade ASR for batch and real-time, broad language support.",
+  "summary": "Speechmatics delivers enterprise automatic speech recognition with live and batch modes, multi-accent/language coverage, and features for call centers, media, and accessibility. Developers access REST/WS APIs and manage jobs in a hosted portal. The company publishes case studies in broadcasting, captioning, and customer experience.\n\nTypical deployments include contact center analytics, media subtitling, and live captioning, often alongside translation or TTS. Documentation and tutorials walk through real‑time streaming and model selection. \n\nSpeechmatics suits teams that need robust accuracy across accents and live/batch workflows with enterprise support.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Batch & streaming ASR",
+    "Diarization",
+    "Timestamps",
+    "Profanity filtering"
+  ],
+  "use_cases": [
+    "Captioning",
+    "Contact centers",
+    "Live events",
+    "Accessibility"
+  ],
+  "best_for": [
+    "Enterprises & media orgs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR (live & batch)"
+  ],
+  "platforms": [
+    "Web portal",
+    "REST/WebSocket"
+  ],
+  "languages": [
+    "65+ (see docs)"
+  ],
+  "integrations": [
+    "Partner tools (e.g., LiveKit, Vapi)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": "By plan; contact sales"
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Contract/usage",
+    "plans": [
+      {
+        "name": "Enterprise",
+        "price": null,
+        "billing": "contract"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [
+    "Accuracy across accents",
+    "Enterprise support"
+  ],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Case studies library",
+      "url": "https://www.speechmatics.com/product/case-studies"
+    },
+    {
+      "title": "NCI – real-time captioning",
+      "url": "https://www.speechmatics.com/product/case-studies"
+    }
+  ],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Speechmatics",
+    "hq_country": null,
+    "twitter": "https://twitter.com/speechmatics",
+    "linkedin": "https://www.linkedin.com/company/speechmatics/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.speechmatics.com/pricing",
+    "docs": "https://docs.speechmatics.com/",
+    "changelog": null,
+    "support": "https://www.speechmatics.com/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:05:47Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.speechmatics.com/favicon.ico",
+      "caption": "Speechmatics icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Speechmatics API demo",
+      "youtube": "https://www.youtube.com/watch?v=MLPnHbDKiWY",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Real-time STT (Speechmatics)",
+      "youtube": "https://www.youtube.com/watch?v=rheiPovdCIs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build a Voice Agent with Speechmatics",
+      "youtube": "https://www.youtube.com/watch?v=-mXZmypu9Qw",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "8x8-conversation-iq-transcription",
+  "name": "8x8 Conversation IQ (Transcription)",
+  "slug": "8x8-conversation-iq-transcription",
+  "logo_url": "https://www.8x8.com/favicon.ico",
+  "icon_url": "https://www.8x8.com/favicon.ico",
+  "images": [
+    "https://www.8x8.com/favicon.ico"
+  ],
+  "website_url": "https://www.8x8.com",
+  "tagline": "8x8 XCaaS with call transcription and analytics.",
+  "summary": "8x8’s Conversation IQ provides call transcription and analytics within its XCaaS platform, supporting QA, coaching, and compliance processes for voice interactions.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "QA/coaching",
+    "Analytics"
+  ],
+  "use_cases": [
+    "Contact centers",
+    "Sales/Support"
+  ],
+  "best_for": [
+    "8x8 customers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + analytics (platform)"
+  ],
+  "platforms": [
+    "8x8 apps",
+    "APIs/Integrations"
+  ],
+  "languages": [
+    "Selected locales (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "8x8 Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/8x8",
+    "linkedin": "https://www.linkedin.com/company/8x8/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.8x8.com/voip-business-phone-services/pricing",
+    "docs": "https://support.8x8.com",
+    "changelog": null,
+    "support": "https://support.8x8.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.8x8.com/favicon.ico",
+      "caption": "8x8 Conversation IQ (Transcription) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

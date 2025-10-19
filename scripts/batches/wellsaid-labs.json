@@ -1,0 +1,169 @@
+{
+  "id": "wellsaid-labs",
+  "name": "WellSaid Labs",
+  "slug": "wellsaid-labs",
+  "logo_url": "https://wellsaidlabs.com/favicon.ico",
+  "icon_url": "https://wellsaidlabs.com/favicon.ico",
+  "images": [
+    "https://wellsaidlabs.com/favicon.ico"
+  ],
+  "website_url": "https://wellsaidlabs.com",
+  "tagline": "Enterprise‑grade neural TTS with studio and API.",
+  "summary": "WellSaid Labs offers enterprise‑grade neural TTS with a focus on narration quality and brand consistency. The web studio provides a polished script editor, pronunciation dictionaries, SSML controls, and project management for longer content like training and onboarding. The API supports programmatic generation for CMS/LMS workflows and bulk localization. \n\nCustomers use WellSaid for e‑learning, explainer videos, and internal communications where production quality and consistent brand voice are critical. The company offers a curated voice catalog and custom voice services under consent/contract. Enterprise features span user management, usage analytics, and service-level commitments suitable for regulated industries. \n\nWellSaid is a strong choice for L&D and corporate comms teams that need reliable, natural narration at scale with editorial controls and enterprise governance.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Long‑form narration",
+    "Pronunciation controls",
+    "Localization"
+  ],
+  "use_cases": [
+    "Training & L&D",
+    "Explainers",
+    "Internal comms"
+  ],
+  "best_for": [
+    "Enterprises",
+    "Agencies",
+    "Publishers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "WellSaid neural TTS",
+    "Custom voices (consent‑based)"
+  ],
+  "platforms": [
+    "Web Studio",
+    "API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "LMS/CMS via API"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription + enterprise",
+    "plans": [
+      {
+        "name": "Team/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Natural narration quality",
+      "Editorial controls",
+      "Enterprise posture"
+    ],
+    "cons": [
+      "Fewer playful voices vs. broad catalogs"
+    ]
+  },
+  "key_differentiators": [
+    "Studio for long‑form projects",
+    "Enterprise governance"
+  ],
+  "limitations": [
+    "Custom voices require process/consent"
+  ],
+  "import_export": [
+    "MP3/WAV; project management in studio"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "WellSaid Labs",
+    "hq_country": null,
+    "twitter": "https://twitter.com/WellSaidLabs",
+    "linkedin": "https://www.linkedin.com/company/wellsaidlabs/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://wellsaidlabs.com/pricing",
+    "docs": "https://docs.wellsaidlabs.com",
+    "changelog": null,
+    "support": "https://support.wellsaidlabs.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://wellsaidlabs.com/favicon.ico",
+      "caption": "WellSaid Labs icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "WellSaid Labs channel (official)",
+      "youtube": "https://www.youtube.com/@WellSaidLabs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Studio workflow (official)",
+      "youtube": "https://www.youtube.com/@WellSaidLabs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Narration tips (official)",
+      "youtube": "https://www.youtube.com/@WellSaidLabs",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

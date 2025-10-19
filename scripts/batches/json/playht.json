@@ -1,0 +1,170 @@
+{
+  "id": "playht",
+  "name": "PlayHT",
+  "slug": "playht",
+  "logo_url": "https://play.ht/favicon.ico",
+  "icon_url": "https://play.ht/favicon.ico",
+  "images": [
+    "https://play.ht/favicon.ico"
+  ],
+  "website_url": "https://play.ht",
+  "tagline": "Real‑time TTS, ultra‑real voices, and cloning with consent.",
+  "summary": "PlayHT provides real‑time neural TTS, a large catalog of high‑quality voices, and consent‑based voice cloning. It targets interactive applications that benefit from low‑latency streaming, such as voice chatbots, virtual assistants, and in‑app narration. The platform offers a web studio for generating audio and an API/SDK for programmatic use, with parameters to control stability, speed, and emotion where supported.\n\nTypical use cases include IVR bots, support assistants, content narration, and game voiceovers. Developers can stream audio to web/mobile clients, generate files in standard formats, and manage custom voices subject to consent and licensing requirements. Documentation and tutorials show how to integrate streaming endpoints and build full duplex experiences alongside STT vendors.\n\nPlayHT is best for teams that need real‑time speech with realistic timbre and the flexibility to create custom voices under governance.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Text‑to‑speech",
+    "Streaming",
+    "Voice cloning"
+  ],
+  "use_cases": [
+    "Assistants",
+    "IVR",
+    "Narration",
+    "Games"
+  ],
+  "best_for": [
+    "Developers",
+    "Product teams",
+    "Studios"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "PlayHT neural TTS",
+    "PlayHT voice cloning (consent‑based)"
+  ],
+  "platforms": [
+    "Web Studio",
+    "API/SDK"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "REST/WS streaming"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Trials; paid plans for production use",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription/usage",
+    "plans": [
+      {
+        "name": "Creator/Pro/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Low‑latency streaming",
+      "Large voice catalog",
+      "Cloning"
+    ],
+    "cons": [
+      "Consent/licensing management needed for cloning"
+    ]
+  },
+  "key_differentiators": [
+    "Real‑time streaming quality",
+    "Flexible cloning options"
+  ],
+  "limitations": [
+    "Manage consent for custom voices"
+  ],
+  "import_export": [
+    "MP3/WAV; streaming"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "PlayHT",
+    "hq_country": null,
+    "twitter": "https://twitter.com/playht",
+    "linkedin": "https://www.linkedin.com/company/playht/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://play.ht/pricing",
+    "docs": "https://docs.play.ht",
+    "changelog": null,
+    "support": "https://help.play.ht"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://play.ht/favicon.ico",
+      "caption": "PlayHT icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "PlayHT channel (official)",
+      "youtube": "https://www.youtube.com/@playht",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Real‑time TTS demo (official)",
+      "youtube": "https://www.youtube.com/@playht",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Streaming integration (community)",
+      "youtube": "https://www.youtube.com/watch?v=rWg5l4B4x9o",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

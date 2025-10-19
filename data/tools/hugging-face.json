@@ -1,0 +1,192 @@
+{
+  "slug": "hugging-face",
+  "name": "Hugging Face",
+  "website_url": "https://huggingface.co/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=huggingface.co",
+  "description": "Hugging Face is an open-source AI platform with a model hub, datasets, Spaces apps, and enterprise inference (Endpoints). Developers use Transformers/Diffusers and TGI for production.",
+  "category": "developer-platform",
+  "use_cases": [
+    {
+      "title": "Model hosting",
+      "details": "Publish and version models with metadata."
+    },
+    {
+      "title": "Inference & deployment",
+      "details": "Serve models using managed Endpoints."
+    },
+    {
+      "title": "Community apps",
+      "details": "Build interactive demos in Spaces."
+    }
+  ],
+  "pros": [
+    "Huge open-source hub",
+    "Enterprise inference",
+    "Active community"
+  ],
+  "cons": [
+    "Costs for managed inference",
+    "Scaling complexity"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Free (Hub)",
+      "price": "0",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Public repos",
+        "Spaces"
+      ],
+      "trial_available": false,
+      "url": "https://huggingface.co/pricing"
+    },
+    {
+      "name": "Pro/Enterprise",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Private repos",
+        "Inference Endpoints"
+      ],
+      "trial_available": true,
+      "url": "https://huggingface.co/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Hugging Face, Inc.",
+    "founded_year": 2016,
+    "hq_city": "New York",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://huggingface.co/terms-of-service",
+      "privacy_url": "https://huggingface.co/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/hugging-face/reviews"
+    }
+  ],
+  "image": "https://huggingface.co/front/assets/huggingface_logo.svg",
+  "best_for": [
+    "Developers",
+    "ML Engineers",
+    "Researchers"
+  ],
+  "models": [
+    {
+      "name": "Transformers ecosystem",
+      "provider": "Hugging Face",
+      "modality": "text,image,audio,video",
+      "input_formats": [
+        "various"
+      ],
+      "output_formats": [
+        "various"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://huggingface.co/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "VPC",
+      "On-prem"
+    ],
+    "integrations": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "Kubernetes"
+    ]
+  },
+  "key_differentiator": [
+    "Open-source-first platform with broad coverage"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://huggingface.co/support"
+  },
+  "flags": {
+    "is_open_source": true,
+    "has_free_tier": true,
+    "requires_login": false,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://huggingface.co/front/assets/huggingface_logo.svg",
+      "caption": "Hugging Face"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Transformers Course",
+      "url": "https://www.youtube.com/watch?v=R5J5CkPWRhY",
+      "channel": "Hugging Face"
+    }
+  ],
+  "qa": [
+    {
+      "question": "What is Hugging Face?",
+      "answer": "Open-source AI platform for models and datasets.",
+      "source_url": "https://huggingface.co/"
+    },
+    {
+      "question": "Managed inference?",
+      "answer": "Yes—Inference Endpoints.",
+      "source_url": "https://huggingface.co/inference-endpoints"
+    },
+    {
+      "question": "Free plan?",
+      "answer": "Yes—public hub is free.",
+      "source_url": "https://huggingface.co/pricing"
+    },
+    {
+      "question": "Private repos?",
+      "answer": "Yes—paid tiers support them.",
+      "source_url": "https://huggingface.co/pricing"
+    },
+    {
+      "question": "SDKs?",
+      "answer": "Transformers, Diffusers, and more.",
+      "source_url": "https://huggingface.co/docs"
+    },
+    {
+      "question": "Deploy in my VPC?",
+      "answer": "Yes—VPC and on‑prem options.",
+      "source_url": "https://huggingface.co/docs"
+    },
+    {
+      "question": "Spaces cost?",
+      "answer": "Public Spaces are free; private features paid.",
+      "source_url": "https://huggingface.co/pricing"
+    },
+    {
+      "question": "Enterprise support?",
+      "answer": "Available—contact sales.",
+      "source_url": "https://huggingface.co/enterprise"
+    },
+    {
+      "question": "Licenses?",
+      "answer": "Each repo specifies a license.",
+      "source_url": "https://huggingface.co/docs"
+    },
+    {
+      "question": "Tutorials?",
+      "answer": "YouTube channel + blog.",
+      "source_url": "https://www.youtube.com/@HuggingFace"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@HuggingFace",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

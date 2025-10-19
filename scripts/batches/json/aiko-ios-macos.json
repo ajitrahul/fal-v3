@@ -1,0 +1,128 @@
+{
+  "id": "aiko-ios-macos",
+  "name": "Aiko (iOS/macOS)",
+  "slug": "aiko-ios-macos",
+  "logo_url": "https://github.com/TimberFeder/Aiko/favicon.ico",
+  "icon_url": "https://github.com/TimberFeder/Aiko/favicon.ico",
+  "images": [
+    "https://github.com/TimberFeder/Aiko/favicon.ico"
+  ],
+  "website_url": "https://github.com/TimberFeder/Aiko",
+  "tagline": "Open-source iOS/macOS app for offline transcription using Whisper.",
+  "summary": "Aiko is an open-source iOS/macOS app that runs Whisper locally for offline transcription. It’s simple, private, and useful for journalists and students on Apple devices.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Offline ASR",
+    "Translation"
+  ],
+  "use_cases": [
+    "Interviews",
+    "Lectures",
+    "Notes"
+  ],
+  "best_for": [
+    "Apple users wanting offline STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Whisper local models"
+  ],
+  "platforms": [
+    "iOS",
+    "macOS"
+  ],
+  "languages": [
+    "Many (model-dependent)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Community (open-source)",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/TimberFeder/Aiko",
+    "changelog": null,
+    "support": "https://github.com/TimberFeder/Aiko/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": true,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://github.com/TimberFeder/Aiko/favicon.ico",
+      "caption": "Aiko (iOS/macOS) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

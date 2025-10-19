@@ -1,0 +1,145 @@
+{
+  "id": "talkdesk-ai-transcription",
+  "name": "Talkdesk AI (Transcription)",
+  "slug": "talkdesk-ai-transcription",
+  "logo_url": "https://www.talkdesk.com/favicon.ico",
+  "icon_url": "https://www.talkdesk.com/favicon.ico",
+  "images": [
+    "https://www.talkdesk.com/favicon.ico"
+  ],
+  "website_url": "https://www.talkdesk.com",
+  "tagline": "Contact center AI with live/post-call transcription and QA.",
+  "summary": "Talkdesk CX Cloud includes AI features for contact centers such as live and post‑call transcription, analytics, and QA automation. Transcripts power topic detection, compliance checks, and coaching. Integrations connect with CRMs and data platforms to operationalize outcomes.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "QA/analytics",
+    "Compliance insights"
+  ],
+  "use_cases": [
+    "Contact centers",
+    "Quality programs",
+    "Coaching"
+  ],
+  "best_for": [
+    "Enterprise CX orgs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + analytics (platform)"
+  ],
+  "platforms": [
+    "CX Cloud",
+    "APIs/Integrations"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Talkdesk",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Talkdesk",
+    "linkedin": "https://www.linkedin.com/company/talkdesk/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.talkdesk.com/pricing/",
+    "docs": "https://docs.talkdesk.com",
+    "changelog": null,
+    "support": "https://support.talkdesk.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:22:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.talkdesk.com/favicon.ico",
+      "caption": "Talkdesk AI (Transcription) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Talkdesk channel (official)",
+      "youtube": "https://www.youtube.com/@Talkdesk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Quality Management overview (official)",
+      "youtube": "https://www.youtube.com/@Talkdesk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "AI features demo (official)",
+      "youtube": "https://www.youtube.com/@Talkdesk",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

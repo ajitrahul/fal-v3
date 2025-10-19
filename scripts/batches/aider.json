@@ -1,0 +1,179 @@
+{
+  "id": "aider",
+  "name": "Aider",
+  "slug": "aider",
+  "logo_url": "https://aider.chat/favicon.ico",
+  "icon_url": "https://aider.chat/favicon.ico",
+  "images": [
+    "https://aider.chat/favicon.ico"
+  ],
+  "website_url": "https://aider.chat/",
+  "tagline": "AI pair programming in your terminal—apply diffs to your repo with LLMs.",
+  "summary": "Aider is an open‑source terminal‑native pair programmer that connects to your local Git repository and works by proposing and applying clean, reviewable diffs. You describe a change, and Aider edits the relevant files, tracks context across conversations, and writes commits you can inspect. It’s designed to be safe for real projects: you see exactly what changes will be made, can accept or reject them, and can limit what files the model reads or writes. The tool supports multiple LLM providers and exposes options for model selection, temperature, and cost controls. \n\nGetting started involves installing Aider (pip or Homebrew), providing an API key for your preferred model provider, and running the `aider` command in a project directory. Documentation walks through techniques for scoping edits, pinning files, and letting the assistant search your codebase. Power users wire Aider into workflows such as test‑driven development (ask it to write tests first), structured refactors (ask it to plan and implement changes across files), and bug reproduction (paste logs and have it propose fixes). Because it’s CLI‑native, Aider fits into editors and terminals you already use and can be automated in scripts. \n\nAider is best for developers who prefer explicit, diff‑driven change review and want an open‑source tool they can audit and customize. Migration is simple: install the CLI, point it at a repo, and add provider keys; teams can create shared config files to standardize behavior and set guardrails around what files the assistant can touch. Community tutorials demonstrate end‑to‑end sessions building small apps or performing major refactors without leaving the terminal.",
+  "main_category": "Code Assistant",
+  "subcategory": "CLI Pair Programmer",
+  "categories": [
+    "Developer Tools",
+    "Open Source",
+    "CLI"
+  ],
+  "tasks": [
+    "Diff‑based edits",
+    "Multi‑file refactors",
+    "Explain/fix code",
+    "Generate tests",
+    "Plan changes"
+  ],
+  "use_cases": [
+    "Terminal‑first dev",
+    "Refactoring legacy code",
+    "Automated workflows"
+  ],
+  "best_for": [
+    "CLI‑oriented developers",
+    "Open‑source adopters"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Education"
+  ],
+  "roles": [
+    "Developers",
+    "Maintainers"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "DevOps"
+  ],
+  "models": [
+    "Bring‑your‑own (multiple providers supported)"
+  ],
+  "platforms": [
+    "CLI (macOS/Linux/Windows)"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "Git",
+    "Editors via terminal workflows"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Local repository control; scope files explicitly"
+  ],
+  "governance": [
+    "Config files to restrict write access"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Open source",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Open source",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Diff‑first safety",
+      "Terminal‑native",
+      "Open‑source"
+    ],
+    "cons": [
+      "CLI requires comfort with terminal",
+      "Bring‑your‑own API keys"
+    ]
+  },
+  "key_differentiators": [
+    "Explicit diff review loop",
+    "Strong terminal ergonomics"
+  ],
+  "limitations": [
+    "Complex GUI workflows not supported; relies on external models"
+  ],
+  "import_export": [
+    "Git patches/diffs; repo files"
+  ],
+  "setup_time": "Minutes (pip/brew install)",
+  "case_studies": [],
+  "migration_paths": [
+    "Install via pip/brew; add API key; run in repo; share `.aider.conf.yml` in team projects"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives: Continue CLI, VS Code tasks with Copilot/Cline",
+  "vendor": {
+    "name": "Aider (open‑source)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/aider_chat",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://aider.chat/",
+    "changelog": "https://aider.chat/",
+    "support": "https://github.com/Aider-AI/aider"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://aider.chat/favicon.ico",
+      "caption": "Aider icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Getting Started with Aider (community)",
+      "youtube": "https://www.youtube.com/watch?v=6OJm5afun8k",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Aider crash course (community)",
+      "youtube": "https://www.youtube.com/watch?v=HTCUtj4GaOs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Aider tutorials playlist (community)",
+      "youtube": "https://www.youtube.com/playlist?list=PLx0FU01Q5blwPU187_vBXX9XhyozIpyfb",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,164 @@
+{
+  "id": "openai-text-to-speech-api",
+  "name": "OpenAI Text-to-Speech (API)",
+  "slug": "openai-text-to-speech-api",
+  "logo_url": "https://platform.openai.com/docs/guides/text-to-speech/favicon.ico",
+  "icon_url": "https://platform.openai.com/docs/guides/text-to-speech/favicon.ico",
+  "images": [
+    "https://platform.openai.com/docs/guides/text-to-speech/favicon.ico"
+  ],
+  "website_url": "https://platform.openai.com/docs/guides/text-to-speech",
+  "tagline": "TTS voices from OpenAI via the API.",
+  "summary": "OpenAI provides Text‑to‑Speech capabilities through its API, allowing developers to convert text to natural‑sounding audio in real time or offline. The API exposes voices and audio formats suitable for web and mobile use and integrates with broader OpenAI platform features used alongside chat, vision, and tools. Documentation includes code samples for Node.js and Python, plus streaming examples that demonstrate low‑latency playback in browsers.\n\nCommon applications include voice features in chat apps, assistive reading, game dialogue prototyping, and narration for short clips. Developers control parameters such as voice selection and audio format, and can combine TTS with STT and conversation logic to build full duplex voice experiences. Pricing is usage‑based per generated audio. \n\nThe TTS API is best for teams that already use OpenAI’s platform and want a straightforward way to add voice output to apps without managing separate TTS vendors or infrastructure.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Text‑to‑speech",
+    "Streaming",
+    "Voice selection"
+  ],
+  "use_cases": [
+    "Apps with voice output",
+    "Assistive reading",
+    "Prototyping dialogue"
+  ],
+  "best_for": [
+    "Developers already on OpenAI APIs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "OpenAI TTS voices (service‑managed)"
+  ],
+  "platforms": [
+    "OpenAI API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Chat/Assistants APIs (adjacent)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": "Per‑account quotas and rate limits"
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Usage‑based",
+    "plans": [
+      {
+        "name": "Per usage",
+        "price": null,
+        "billing": "usage"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Simple API",
+      "Pairs with other OpenAI features"
+    ],
+    "cons": [
+      "Fewer stock voices than large TTS catalogs"
+    ]
+  },
+  "key_differentiators": [
+    "Unified with OpenAI platform",
+    "Streaming examples in docs"
+  ],
+  "limitations": [
+    "Voice catalog depends on current offerings"
+  ],
+  "import_export": [
+    "MP3/WAV/OGG; streaming responses"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "OpenAI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/OpenAI",
+    "linkedin": "https://www.linkedin.com/company/openai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://openai.com/pricing",
+    "docs": "https://platform.openai.com/docs/guides/text-to-speech",
+    "changelog": null,
+    "support": "https://help.openai.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://platform.openai.com/docs/guides/text-to-speech/favicon.ico",
+      "caption": "OpenAI Text-to-Speech (API) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "OpenAI TTS in the browser (official docs)",
+      "youtube": "https://www.youtube.com/@OpenAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Node & Python TTS examples (official docs)",
+      "youtube": "https://www.youtube.com/@OpenAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Streaming TTS demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=0CkK8Jr1W2o",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

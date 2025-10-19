@@ -1,0 +1,130 @@
+{
+  "id": "assemblyai",
+  "name": "AssemblyAI",
+  "slug": "assemblyai",
+  "logo_url": "https://www.assemblyai.com/favicon.ico",
+  "icon_url": "https://www.assemblyai.com/favicon.ico",
+  "images": [
+    "https://www.assemblyai.com/favicon.ico"
+  ],
+  "website_url": "https://www.assemblyai.com",
+  "tagline": "Speech-to-text APIs with summarization, sentiment, and more.",
+  "summary": "AssemblyAI provides ASR alongside higher-level audio intelligence features such as summarization and sentiment. Developers submit files or streams and receive JSON outputs with timestamps and segments.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Summarization",
+    "Sentiment",
+    "Topic detection"
+  ],
+  "use_cases": [
+    "Content pipelines",
+    "Call analytics",
+    "Apps"
+  ],
+  "best_for": [
+    "Developers wanting ASR + insights"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + audio intelligence"
+  ],
+  "platforms": [
+    "REST/WebSocket",
+    "SDKs"
+  ],
+  "languages": [
+    "Selected locales (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "AssemblyAI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/AssemblyAI",
+    "linkedin": "https://www.linkedin.com/company/assemblyai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.assemblyai.com/pricing",
+    "docs": "https://www.assemblyai.com/docs",
+    "changelog": "https://www.assemblyai.com/changelog",
+    "support": "https://www.assemblyai.com/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.assemblyai.com/favicon.ico",
+      "caption": "AssemblyAI icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

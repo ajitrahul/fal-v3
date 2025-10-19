@@ -1,0 +1,4933 @@
+[
+  {
+    "id": "46fff95f-84b0-45fd-a2b2-8dd41715a531",
+    "name": "OpenAI GPTs",
+    "slug": "openai-gpts",
+    "website_url": "https://chat.openai.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=chat.openai.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://chat.openai.com/",
+        "caption": "OpenAI GPTs"
+      }
+    ],
+    "categories": [
+      "Agents"
+    ],
+    "tasks": [
+      "Custom assistants",
+      "Workflows"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$20/mo"
+        }
+      ]
+    },
+    "features": [
+      "Custom GPTs",
+      "Actions"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "OpenAI"
+    ],
+    "vendor": {
+      "name": "OpenAI",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Build a GPT",
+        "url": "https://www.youtube.com/watch?v=K3mZ3x2sCfk",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Actions & APIs",
+        "url": "https://www.youtube.com/watch?v=8j1mP3mGuQk",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Best Practices",
+        "url": "https://www.youtube.com/watch?v=8z2kY7s1Zr4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "OpenAI GPTs"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/openai-gpts",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "bf70b185-5223-4c7a-9f1c-ac394036d2e7",
+    "name": "OpenRouter",
+    "slug": "openrouter",
+    "website_url": "https://openrouter.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openrouter.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://openrouter.ai/",
+        "caption": "OpenRouter"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Model routing",
+      "Eval"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Usage",
+          "price": "Usage-based"
+        }
+      ]
+    },
+    "features": [
+      "Multi-model",
+      "Keys"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "OpenRouter",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "OpenRouter Tutorial",
+        "url": "https://www.youtube.com/watch?v=Z3pK3x2HfVM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Route Models",
+        "url": "https://www.youtube.com/watch?v=5pZ9y6iH0gQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Eval & Cost",
+        "url": "https://www.youtube.com/watch?v=0q5jPzV2y_s",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "OpenRouter"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/openrouter",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "8ec95ac1-466c-4f44-89d5-e2608c416f68",
+    "name": "Fixie",
+    "slug": "fixie",
+    "website_url": "https://fixie.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=fixie.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://fixie.ai/",
+        "caption": "Fixie"
+      }
+    ],
+    "categories": [
+      "Agents"
+    ],
+    "tasks": [
+      "Tools",
+      "Workflows"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$25/mo"
+        }
+      ]
+    },
+    "features": [
+      "Tools",
+      "Memory"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Fixie",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Fixie Tutorial",
+        "url": "https://www.youtube.com/watch?v=1o8zjWk1G7A",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Tools",
+        "url": "https://www.youtube.com/watch?v=c8l90oZpK14",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Workflows",
+        "url": "https://www.youtube.com/watch?v=o-1vK5x7nMg",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Fixie"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/fixie",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "05668eaf-dd5f-48d6-bec2-ac9442e26b9e",
+    "name": "LangGraph",
+    "slug": "langgraph",
+    "website_url": "https://python.langchain.com/docs/langgraph/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=python.langchain.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://python.langchain.com/docs/langgraph/",
+        "caption": "LangGraph"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "LLM Frameworks"
+    ],
+    "tasks": [
+      "Graph agents",
+      "State"
+    ],
+    "pricing": {
+      "model": "open-source",
+      "plans": [
+        {
+          "name": "OSS",
+          "price": "$0"
+        }
+      ]
+    },
+    "features": [
+      "Graph state",
+      "Tools"
+    ],
+    "platforms": [
+      "Python",
+      "JS/TS"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "LangChain",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "LangGraph Tutorial",
+        "url": "https://www.youtube.com/watch?v=R7n3V2HY8Xw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Agents",
+        "url": "https://www.youtube.com/watch?v=Y0p0KX7m8xI",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "State Machines",
+        "url": "https://www.youtube.com/watch?v=M8v1m0R7b4c",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "LangGraph"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/langgraph",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "b7941dcc-cbcc-4262-baf2-3261c45bd910",
+    "name": "CrewAI",
+    "slug": "crewai",
+    "website_url": "https://www.crewai.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.crewai.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.crewai.com/",
+        "caption": "CrewAI"
+      }
+    ],
+    "categories": [
+      "Agents"
+    ],
+    "tasks": [
+      "Multi-agent",
+      "Workflows"
+    ],
+    "pricing": {
+      "model": "open-source",
+      "plans": [
+        {
+          "name": "OSS",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$29/mo"
+        }
+      ]
+    },
+    "features": [
+      "Multi-agent",
+      "Tools"
+    ],
+    "platforms": [
+      "Python"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "CrewAI",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "CrewAI Tutorial",
+        "url": "https://www.youtube.com/watch?v=K4_9l1V3zqU",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Agents Example",
+        "url": "https://www.youtube.com/watch?v=H_Pm7yCw1y4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tool Use",
+        "url": "https://www.youtube.com/watch?v=b7L5jQ7Q9gA",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "CrewAI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/crewai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "1b519ba5-7b97-418d-8d09-33092f36e099",
+    "name": "Intercom Fin",
+    "slug": "intercom-fin",
+    "website_url": "https://www.intercom.com/fin",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.intercom.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.intercom.com/fin",
+        "caption": "Intercom Fin"
+      }
+    ],
+    "categories": [
+      "Customer Support"
+    ],
+    "tasks": [
+      "AI answers",
+      "Deflection"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Fin",
+          "price": "Usage-based"
+        }
+      ]
+    },
+    "features": [
+      "Answers",
+      "Hand-off"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Intercom",
+      "hq_country": "IE",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Intercom Fin",
+        "url": "https://www.youtube.com/watch?v=6s5z2f3bF3o",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Setup",
+        "url": "https://www.youtube.com/watch?v=1ZQWz2mY3e0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Best Practices",
+        "url": "https://www.youtube.com/watch?v=0LhxU5m5Ew8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Intercom Fin"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/intercom-fin",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "7c462b70-0b06-4777-b3dd-6d8c038bf9c1",
+    "name": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "website_url": "https://www.zendesk.com/ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.zendesk.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.zendesk.com/ai/",
+        "caption": "Zendesk AI"
+      }
+    ],
+    "categories": [
+      "Customer Support"
+    ],
+    "tasks": [
+      "Triage",
+      "Macros",
+      "Answers"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Suite add-on",
+          "price": "Varies"
+        }
+      ]
+    },
+    "features": [
+      "Triage",
+      "Answers"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zendesk",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zendesk AI",
+        "url": "https://www.youtube.com/watch?v=d7L9vE3y3A0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Triage",
+        "url": "https://www.youtube.com/watch?v=l0KQwOc8p9k",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Answer Bot",
+        "url": "https://www.youtube.com/watch?v=V1q-vYqKk8k",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zendesk AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zendesk-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "a2c8dee1-cc38-441a-97da-1ac9dbbcf722",
+    "name": "Freshworks Freddy",
+    "slug": "freddy-ai",
+    "website_url": "https://www.freshworks.com/freddy-ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.freshworks.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.freshworks.com/freddy-ai/",
+        "caption": "Freddy AI"
+      }
+    ],
+    "categories": [
+      "Customer Support",
+      "Sales"
+    ],
+    "tasks": [
+      "Answers",
+      "Summaries",
+      "Prospecting"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Add-on",
+          "price": "Varies"
+        }
+      ]
+    },
+    "features": [
+      "Unified AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Freshworks",
+      "hq_country": "IN",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Freddy AI",
+        "url": "https://www.youtube.com/watch?v=5Qd5sJ8slg4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Support Bot",
+        "url": "https://www.youtube.com/watch?v=b7t6o1bB1II",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Sales Copilot",
+        "url": "https://www.youtube.com/watch?v=F5K8S3r0JdE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Freshworks Freddy"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/freddy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "dc9b2a98-64e4-4166-8902-99367d464ef9",
+    "name": "Shopify Magic",
+    "slug": "shopify-magic",
+    "website_url": "https://www.shopify.com/magic",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.shopify.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.shopify.com/magic",
+        "caption": "Shopify Magic"
+      }
+    ],
+    "categories": [
+      "E-commerce"
+    ],
+    "tasks": [
+      "Product copy",
+      "Answers",
+      "Analytics"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Included",
+          "price": "With plan"
+        }
+      ]
+    },
+    "features": [
+      "Store AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Shopify",
+      "hq_country": "CA",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Shopify Magic",
+        "url": "https://www.youtube.com/watch?v=QnOeVXk3y8Q",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Product Descriptions",
+        "url": "https://www.youtube.com/watch?v=0nI8W2J0HIc",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Store Setup",
+        "url": "https://www.youtube.com/watch?v=9k3i9jE4W_E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Shopify Magic"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/shopify-magic",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "33cfc529-4513-46c8-9b01-d1ff05d94bff",
+    "name": "Klaviyo AI",
+    "slug": "klaviyo-ai",
+    "website_url": "https://www.klaviyo.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.klaviyo.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.klaviyo.com/ai",
+        "caption": "Klaviyo AI"
+      }
+    ],
+    "categories": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "tasks": [
+      "Email",
+      "SMS",
+      "Segmentation"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Included",
+          "price": "With plan"
+        }
+      ]
+    },
+    "features": [
+      "Writing",
+      "Targeting"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Klaviyo",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Klaviyo AI",
+        "url": "https://www.youtube.com/watch?v=tqJb6wz5JcA",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Segmentation",
+        "url": "https://www.youtube.com/watch?v=8Yp3Qb9t0As",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Flows",
+        "url": "https://www.youtube.com/watch?v=3J6yQ2JQvUA",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Klaviyo AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/klaviyo-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "f5577232-674d-4df7-81fc-149107e6e7a6",
+    "name": "Ashby AI",
+    "slug": "ashby-ai",
+    "website_url": "https://www.ashbyhq.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.ashbyhq.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.ashbyhq.com/",
+        "caption": "Ashby"
+      }
+    ],
+    "categories": [
+      "HR"
+    ],
+    "tasks": [
+      "Sourcing",
+      "Scheduling",
+      "Insights"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Suite",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "ATS + AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Ashby",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Ashby Overview",
+        "url": "https://www.youtube.com/watch?v=f3o1zS8Qe2E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Scheduling",
+        "url": "https://www.youtube.com/watch?v=2V8mOIJl9qE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Reports",
+        "url": "https://www.youtube.com/watch?v=I0jJ8V0bN5E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Ashby AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/ashby-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "87a395a1-85bb-4849-9fd6-25405f499613",
+    "name": "HireEZ",
+    "slug": "hireez",
+    "website_url": "https://hireez.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=hireez.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://hireez.com/",
+        "caption": "hireEZ"
+      }
+    ],
+    "categories": [
+      "HR"
+    ],
+    "tasks": [
+      "Sourcing",
+      "Engage",
+      "Insights"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Sourcing AI",
+      "Email"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "hireEZ",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "hireEZ Tutorial",
+        "url": "https://www.youtube.com/watch?v=1p4M6Wg8bZ0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Engage",
+        "url": "https://www.youtube.com/watch?v=2DG2cV_NI6s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Insights",
+        "url": "https://www.youtube.com/watch?v=3V1t2Xb9C3o",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "HireEZ"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/hireez",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "498f4d95-3ca3-4262-bbd4-c80a4d1b2e8e",
+    "name": "Pigment AI",
+    "slug": "pigment-ai",
+    "website_url": "https://www.pigment.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.pigment.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.pigment.com/",
+        "caption": "Pigment"
+      }
+    ],
+    "categories": [
+      "Finance",
+      "Analytics"
+    ],
+    "tasks": [
+      "Planning",
+      "Forecasts"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "FP&A AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Pigment",
+      "hq_country": "FR",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Pigment Overview",
+        "url": "https://www.youtube.com/watch?v=JXtnQX4m6cE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Planning",
+        "url": "https://www.youtube.com/watch?v=0pX8vm7oZKk",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Dashboards",
+        "url": "https://www.youtube.com/watch?v=3a9K4Qqk3xE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Pigment AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/pigment-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "69717c32-b024-490e-b723-46f98087ba08",
+    "name": "Anaplan PlanIQ",
+    "slug": "anaplan-planiq",
+    "website_url": "https://www.anaplan.com/planiq/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.anaplan.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.anaplan.com/planiq/",
+        "caption": "PlanIQ"
+      }
+    ],
+    "categories": [
+      "Finance",
+      "Analytics"
+    ],
+    "tasks": [
+      "Forecasts",
+      "Demand planning"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Forecasting AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Anaplan",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "PlanIQ Overview",
+        "url": "https://www.youtube.com/watch?v=wx3pGxq3Q9E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Demand Planning",
+        "url": "https://www.youtube.com/watch?v=fR3vQ0VC3zQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Demo",
+        "url": "https://www.youtube.com/watch?v=bYc8yS8z6l0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Anaplan PlanIQ"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/anaplan-planiq",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "44b9ec81-ae31-4286-8dfe-ad4ed03678dd",
+    "name": "Abridge",
+    "slug": "abridge",
+    "website_url": "https://www.abridge.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.abridge.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.abridge.com/",
+        "caption": "Abridge"
+      }
+    ],
+    "categories": [
+      "Healthcare"
+    ],
+    "tasks": [
+      "Ambient notes",
+      "EHR"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Clinical notes"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Abridge",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Abridge Demo",
+        "url": "https://www.youtube.com/watch?v=H1X2mUQ4w1o",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Ambient AI",
+        "url": "https://www.youtube.com/watch?v=9d3m3H9fIiw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "EHR",
+        "url": "https://www.youtube.com/watch?v=4b8Zqg5mQ0w",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Abridge"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/abridge",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "58ad139d-a146-44f4-8046-9915aab76414",
+    "name": "Nuance DAX Copilot",
+    "slug": "nuance-dax",
+    "website_url": "https://www.nuance.com/healthcare/dax.html",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.nuance.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.nuance.com/healthcare/dax.html",
+        "caption": "Nuance DAX"
+      }
+    ],
+    "categories": [
+      "Healthcare"
+    ],
+    "tasks": [
+      "Ambient scribe",
+      "EHR"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "DAX Copilot"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Nuance (Microsoft)",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "DAX Copilot",
+        "url": "https://www.youtube.com/watch?v=n3BzKfM7s8E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Clinician Workflow",
+        "url": "https://www.youtube.com/watch?v=2Y9g6eC6YqQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "EHR",
+        "url": "https://www.youtube.com/watch?v=H9m8q9v5G6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Nuance DAX Copilot"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/nuance-dax",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "7784c281-6e3c-43a2-af65-8ec0b985bf38",
+    "name": "Harvey",
+    "slug": "harvey",
+    "website_url": "https://www.harvey.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.harvey.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.harvey.ai/",
+        "caption": "Harvey"
+      }
+    ],
+    "categories": [
+      "Legal"
+    ],
+    "tasks": [
+      "Research",
+      "Drafts",
+      "Review"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Legal AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Harvey",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Harvey Demo",
+        "url": "https://www.youtube.com/watch?v=J2b4K4zDqkM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Research",
+        "url": "https://www.youtube.com/watch?v=0b1i3y8qTLM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Drafts & Review",
+        "url": "https://www.youtube.com/watch?v=6jH4Xo6q3FI",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Harvey"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/harvey",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "580e5b9f-13f1-4246-8788-b892c521a0aa",
+    "name": "Spellbook",
+    "slug": "spellbook",
+    "website_url": "https://www.spellbook.legal/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.spellbook.legal",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.spellbook.legal/",
+        "caption": "Spellbook"
+      }
+    ],
+    "categories": [
+      "Legal"
+    ],
+    "tasks": [
+      "Contract drafts",
+      "Review"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Contracts"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Spellbook",
+      "hq_country": "CA",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Spellbook Demo",
+        "url": "https://www.youtube.com/watch?v=1c8bQkJH9Rs",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Review Contracts",
+        "url": "https://www.youtube.com/watch?v=Hq4iD0R8m0A",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=d8t8ZK1mWAs",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Spellbook"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/spellbook",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "3fa91d2d-5064-4e29-b86c-295fd48c3fe8",
+    "name": "OpenAI GPTs #19",
+    "slug": "openai-gpts-19",
+    "website_url": "https://chat.openai.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=chat.openai.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://chat.openai.com/",
+        "caption": "OpenAI GPTs"
+      }
+    ],
+    "categories": [
+      "Agents"
+    ],
+    "tasks": [
+      "Custom assistants",
+      "Workflows"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$20/mo"
+        }
+      ]
+    },
+    "features": [
+      "Custom GPTs",
+      "Actions"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "OpenAI"
+    ],
+    "vendor": {
+      "name": "OpenAI",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Build a GPT",
+        "url": "https://www.youtube.com/watch?v=K3mZ3x2sCfk",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Actions & APIs",
+        "url": "https://www.youtube.com/watch?v=8j1mP3mGuQk",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Best Practices",
+        "url": "https://www.youtube.com/watch?v=8z2kY7s1Zr4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "OpenAI GPTs"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/openai-gpts",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "7b1877c5-06a5-40ec-9f96-547da0734f17",
+    "name": "OpenRouter #20",
+    "slug": "openrouter-20",
+    "website_url": "https://openrouter.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openrouter.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://openrouter.ai/",
+        "caption": "OpenRouter"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Model routing",
+      "Eval"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Usage",
+          "price": "Usage-based"
+        }
+      ]
+    },
+    "features": [
+      "Multi-model",
+      "Keys"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "OpenRouter",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "OpenRouter Tutorial",
+        "url": "https://www.youtube.com/watch?v=Z3pK3x2HfVM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Route Models",
+        "url": "https://www.youtube.com/watch?v=5pZ9y6iH0gQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Eval & Cost",
+        "url": "https://www.youtube.com/watch?v=0q5jPzV2y_s",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "OpenRouter"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/openrouter",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "4fd12f70-e85a-4f6b-968e-987417a96e21",
+    "name": "Fixie #21",
+    "slug": "fixie-21",
+    "website_url": "https://fixie.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=fixie.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://fixie.ai/",
+        "caption": "Fixie"
+      }
+    ],
+    "categories": [
+      "Agents"
+    ],
+    "tasks": [
+      "Tools",
+      "Workflows"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$25/mo"
+        }
+      ]
+    },
+    "features": [
+      "Tools",
+      "Memory"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Fixie",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Fixie Tutorial",
+        "url": "https://www.youtube.com/watch?v=1o8zjWk1G7A",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Tools",
+        "url": "https://www.youtube.com/watch?v=c8l90oZpK14",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Workflows",
+        "url": "https://www.youtube.com/watch?v=o-1vK5x7nMg",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Fixie"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/fixie",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "5da3f961-c434-466d-8ac1-81c3bb1e461f",
+    "name": "LangGraph #22",
+    "slug": "langgraph-22",
+    "website_url": "https://python.langchain.com/docs/langgraph/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=python.langchain.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://python.langchain.com/docs/langgraph/",
+        "caption": "LangGraph"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "LLM Frameworks"
+    ],
+    "tasks": [
+      "Graph agents",
+      "State"
+    ],
+    "pricing": {
+      "model": "open-source",
+      "plans": [
+        {
+          "name": "OSS",
+          "price": "$0"
+        }
+      ]
+    },
+    "features": [
+      "Graph state",
+      "Tools"
+    ],
+    "platforms": [
+      "Python",
+      "JS/TS"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "LangChain",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "LangGraph Tutorial",
+        "url": "https://www.youtube.com/watch?v=R7n3V2HY8Xw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Agents",
+        "url": "https://www.youtube.com/watch?v=Y0p0KX7m8xI",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "State Machines",
+        "url": "https://www.youtube.com/watch?v=M8v1m0R7b4c",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "LangGraph"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/langgraph",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "c5649bb3-3a98-495d-9afe-5dc91fd261f8",
+    "name": "CrewAI #23",
+    "slug": "crewai-23",
+    "website_url": "https://www.crewai.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.crewai.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.crewai.com/",
+        "caption": "CrewAI"
+      }
+    ],
+    "categories": [
+      "Agents"
+    ],
+    "tasks": [
+      "Multi-agent",
+      "Workflows"
+    ],
+    "pricing": {
+      "model": "open-source",
+      "plans": [
+        {
+          "name": "OSS",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$29/mo"
+        }
+      ]
+    },
+    "features": [
+      "Multi-agent",
+      "Tools"
+    ],
+    "platforms": [
+      "Python"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "CrewAI",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "CrewAI Tutorial",
+        "url": "https://www.youtube.com/watch?v=K4_9l1V3zqU",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Agents Example",
+        "url": "https://www.youtube.com/watch?v=H_Pm7yCw1y4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tool Use",
+        "url": "https://www.youtube.com/watch?v=b7L5jQ7Q9gA",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "CrewAI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/crewai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "466af441-6c18-47c5-81f2-40561871d669",
+    "name": "Intercom Fin #24",
+    "slug": "intercom-fin-24",
+    "website_url": "https://www.intercom.com/fin",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.intercom.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.intercom.com/fin",
+        "caption": "Intercom Fin"
+      }
+    ],
+    "categories": [
+      "Customer Support"
+    ],
+    "tasks": [
+      "AI answers",
+      "Deflection"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Fin",
+          "price": "Usage-based"
+        }
+      ]
+    },
+    "features": [
+      "Answers",
+      "Hand-off"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Intercom",
+      "hq_country": "IE",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Intercom Fin",
+        "url": "https://www.youtube.com/watch?v=6s5z2f3bF3o",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Setup",
+        "url": "https://www.youtube.com/watch?v=1ZQWz2mY3e0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Best Practices",
+        "url": "https://www.youtube.com/watch?v=0LhxU5m5Ew8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Intercom Fin"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/intercom-fin",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "bcee2e4e-c541-4265-b9e5-4983e4ac4487",
+    "name": "Zendesk AI #25",
+    "slug": "zendesk-ai-25",
+    "website_url": "https://www.zendesk.com/ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.zendesk.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.zendesk.com/ai/",
+        "caption": "Zendesk AI"
+      }
+    ],
+    "categories": [
+      "Customer Support"
+    ],
+    "tasks": [
+      "Triage",
+      "Macros",
+      "Answers"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Suite add-on",
+          "price": "Varies"
+        }
+      ]
+    },
+    "features": [
+      "Triage",
+      "Answers"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zendesk",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zendesk AI",
+        "url": "https://www.youtube.com/watch?v=d7L9vE3y3A0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Triage",
+        "url": "https://www.youtube.com/watch?v=l0KQwOc8p9k",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Answer Bot",
+        "url": "https://www.youtube.com/watch?v=V1q-vYqKk8k",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zendesk AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zendesk-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "2bfc7473-040c-41ba-9d8a-c96df58d0e80",
+    "name": "Freshworks Freddy #26",
+    "slug": "freddy-ai-26",
+    "website_url": "https://www.freshworks.com/freddy-ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.freshworks.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.freshworks.com/freddy-ai/",
+        "caption": "Freddy AI"
+      }
+    ],
+    "categories": [
+      "Customer Support",
+      "Sales"
+    ],
+    "tasks": [
+      "Answers",
+      "Summaries",
+      "Prospecting"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Add-on",
+          "price": "Varies"
+        }
+      ]
+    },
+    "features": [
+      "Unified AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Freshworks",
+      "hq_country": "IN",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Freddy AI",
+        "url": "https://www.youtube.com/watch?v=5Qd5sJ8slg4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Support Bot",
+        "url": "https://www.youtube.com/watch?v=b7t6o1bB1II",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Sales Copilot",
+        "url": "https://www.youtube.com/watch?v=F5K8S3r0JdE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Freshworks Freddy"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/freddy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "2d006bdd-65ba-448c-95e2-fa688298dd8d",
+    "name": "Shopify Magic #27",
+    "slug": "shopify-magic-27",
+    "website_url": "https://www.shopify.com/magic",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.shopify.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.shopify.com/magic",
+        "caption": "Shopify Magic"
+      }
+    ],
+    "categories": [
+      "E-commerce"
+    ],
+    "tasks": [
+      "Product copy",
+      "Answers",
+      "Analytics"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Included",
+          "price": "With plan"
+        }
+      ]
+    },
+    "features": [
+      "Store AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Shopify",
+      "hq_country": "CA",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Shopify Magic",
+        "url": "https://www.youtube.com/watch?v=QnOeVXk3y8Q",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Product Descriptions",
+        "url": "https://www.youtube.com/watch?v=0nI8W2J0HIc",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Store Setup",
+        "url": "https://www.youtube.com/watch?v=9k3i9jE4W_E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Shopify Magic"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/shopify-magic",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "38247aed-6b1e-4a78-9e05-34092a2638c5",
+    "name": "Klaviyo AI #28",
+    "slug": "klaviyo-ai-28",
+    "website_url": "https://www.klaviyo.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.klaviyo.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.klaviyo.com/ai",
+        "caption": "Klaviyo AI"
+      }
+    ],
+    "categories": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "tasks": [
+      "Email",
+      "SMS",
+      "Segmentation"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Included",
+          "price": "With plan"
+        }
+      ]
+    },
+    "features": [
+      "Writing",
+      "Targeting"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Klaviyo",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Klaviyo AI",
+        "url": "https://www.youtube.com/watch?v=tqJb6wz5JcA",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Segmentation",
+        "url": "https://www.youtube.com/watch?v=8Yp3Qb9t0As",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Flows",
+        "url": "https://www.youtube.com/watch?v=3J6yQ2JQvUA",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Klaviyo AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/klaviyo-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "3a68034c-8f0b-464f-8d86-3dbe5ad37623",
+    "name": "Ashby AI #29",
+    "slug": "ashby-ai-29",
+    "website_url": "https://www.ashbyhq.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.ashbyhq.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.ashbyhq.com/",
+        "caption": "Ashby"
+      }
+    ],
+    "categories": [
+      "HR"
+    ],
+    "tasks": [
+      "Sourcing",
+      "Scheduling",
+      "Insights"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Suite",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "ATS + AI"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Ashby",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Ashby Overview",
+        "url": "https://www.youtube.com/watch?v=f3o1zS8Qe2E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Scheduling",
+        "url": "https://www.youtube.com/watch?v=2V8mOIJl9qE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Reports",
+        "url": "https://www.youtube.com/watch?v=I0jJ8V0bN5E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Ashby AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/ashby-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "d18d006c-81dd-4ed2-83b5-0e5a1ccd3424",
+    "name": "HireEZ #30",
+    "slug": "hireez-30",
+    "website_url": "https://hireez.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=hireez.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://hireez.com/",
+        "caption": "hireEZ"
+      }
+    ],
+    "categories": [
+      "HR"
+    ],
+    "tasks": [
+      "Sourcing",
+      "Engage",
+      "Insights"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Sourcing AI",
+      "Email"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "hireEZ",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "hireEZ Tutorial",
+        "url": "https://www.youtube.com/watch?v=1p4M6Wg8bZ0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Engage",
+        "url": "https://www.youtube.com/watch?v=2DG2cV_NI6s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Insights",
+        "url": "https://www.youtube.com/watch?v=3V1t2Xb9C3o",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "HireEZ"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/hireez",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  }
+]

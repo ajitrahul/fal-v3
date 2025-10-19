@@ -1,0 +1,144 @@
+{
+  "id": "google-meet-transcripts",
+  "name": "Google Meet Transcripts",
+  "slug": "google-meet-transcripts",
+  "logo_url": "https://workspace.google.com/products/meet/favicon.ico",
+  "icon_url": "https://workspace.google.com/products/meet/favicon.ico",
+  "images": [
+    "https://workspace.google.com/products/meet/favicon.ico"
+  ],
+  "website_url": "https://workspace.google.com/products/meet/",
+  "tagline": "Live captions and saved transcripts for Google Meet (Google Workspace).",
+  "summary": "Google Meet provides live captions in many languages and the ability to save meeting transcripts in eligible Google Workspace editions. Transcripts can be shared with attendees and stored in Google Drive. Admins manage availability and retention according to organizational policy.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Saved transcripts"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Training",
+    "Education"
+  ],
+  "best_for": [
+    "Google Workspace customers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Meet transcription (service‑managed)"
+  ],
+  "platforms": [
+    "Meet web/mobile",
+    "Google Workspace ecosystem"
+  ],
+  "languages": [
+    "Multiple locales (see Workspace docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Google",
+    "hq_country": null,
+    "twitter": "https://twitter.com/GoogleWorkspace",
+    "linkedin": "https://www.linkedin.com/showcase/google-workspace/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://workspace.google.com/pricing.html",
+    "docs": "https://support.google.com/meet",
+    "changelog": null,
+    "support": "https://support.google.com/meet"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://workspace.google.com/products/meet/favicon.ico",
+      "caption": "Google Meet Transcripts icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Use captions & transcripts in Meet (official)",
+      "youtube": "https://www.youtube.com/@googleworkspace",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Meet productivity tips (official)",
+      "youtube": "https://www.youtube.com/@googleworkspace",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Share transcripts with Drive (official)",
+      "youtube": "https://www.youtube.com/@googleworkspace",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

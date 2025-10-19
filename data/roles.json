@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "product-managers",
+    "name": "Product Managers",
+    "description": "Discovery, specs, roadmaps, and analysis."
+  },
+  {
+    "slug": "social-media-marketers",
+    "name": "Social Media Marketers",
+    "description": "Plan calendars, captions, and creatives."
+  },
+  {
+    "slug": "teachers",
+    "name": "Teachers",
+    "description": "Lesson plans, quizzes, and feedback."
+  },
+  {
+    "slug": "founders",
+    "name": "Founders",
+    "description": "Market research, pitch, and growth."
+  }
+]

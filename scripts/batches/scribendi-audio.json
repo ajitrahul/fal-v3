@@ -1,0 +1,128 @@
+{
+  "id": "scribendi-audio",
+  "name": "Scribendi (Audio)",
+  "slug": "scribendi-audio",
+  "logo_url": "https://www.scribendi.com/favicon.ico",
+  "icon_url": "https://www.scribendi.com/favicon.ico",
+  "images": [
+    "https://www.scribendi.com/favicon.ico"
+  ],
+  "website_url": "https://www.scribendi.com",
+  "tagline": "Editing and transcription support through services network.",
+  "summary": "Scribendi (Audio) provides human transcription or captioning services, sometimes combined with AI pre‑drafts.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Human transcription",
+    "QA",
+    "Delivery"
+  ],
+  "use_cases": [
+    "Academic",
+    "Media",
+    "Business"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Scribendi",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Scribendi_Inc",
+    "linkedin": "https://www.linkedin.com/company/scribendi/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.scribendi.com",
+    "changelog": null,
+    "support": "https://www.scribendi.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:08:41Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.scribendi.com/favicon.ico",
+      "caption": "Scribendi (Audio) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

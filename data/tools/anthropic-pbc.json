@@ -1,0 +1,200 @@
+{
+  "slug": "anthropic-claude",
+  "name": "Claude",
+  "website_url": "https://claude.ai/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=claude.ai",
+  "description": "Claude is Anthropic’s AI assistant emphasizing helpful, honest, and harmless behavior. It supports complex reasoning, coding, and enterprise workflows with Pro and Team tiers.",
+  "category": "chat-assistant",
+  "use_cases": [
+    {
+      "title": "Research & analysis",
+      "details": "Summarize and synthesize long documents."
+    },
+    {
+      "title": "Coding & review",
+      "details": "Generate tests, explain code, and find bugs."
+    },
+    {
+      "title": "Customer support",
+      "details": "Draft responses with tone and policy alignment."
+    }
+  ],
+  "pros": [
+    "Strong reasoning",
+    "Safety focus",
+    "Team plan collaboration"
+  ],
+  "cons": [
+    "Usage caps vary",
+    "Regional availability limits"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Free",
+      "price": "0",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Basic access"
+      ],
+      "trial_available": false,
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "name": "Pro",
+      "price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Higher usage",
+        "Claude 4 access"
+      ],
+      "trial_available": false,
+      "url": "https://www.anthropic.com/news/claude-pro"
+    },
+    {
+      "name": "Team",
+      "price": 30,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Team management",
+        "More usage"
+      ],
+      "trial_available": false,
+      "url": "https://www.anthropic.com/news/team-plan-and-ios"
+    }
+  ],
+  "company_details": {
+    "name": "Anthropic PBC",
+    "founded_year": 2021,
+    "hq_city": "San Francisco",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://www.anthropic.com/legal/consumer-terms",
+      "privacy_url": "https://www.anthropic.com/legal/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/claude/reviews"
+    }
+  ],
+  "image": "https://www.anthropic.com/_next/static/media/og-image.8c0a02f3.jpg",
+  "best_for": [
+    "Teams",
+    "Developers",
+    "Analysts"
+  ],
+  "models": [
+    {
+      "name": "Claude 4 Sonnet",
+      "provider": "Anthropic",
+      "modality": "multimodal",
+      "input_formats": [
+        "text",
+        "image"
+      ],
+      "output_formats": [
+        "text"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://docs.anthropic.com/",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS"
+    ],
+    "integrations": [
+      "Slack",
+      "VS Code extensions"
+    ]
+  },
+  "key_differentiator": [
+    "Safety & constitutional-AI approach"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://support.anthropic.com/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://www.anthropic.com/_next/static/media/og-image.8c0a02f3.jpg",
+      "caption": "Claude"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Prompting 101 | Code w/ Claude",
+      "url": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+      "channel": "Anthropic"
+    }
+  ],
+  "qa": [
+    {
+      "question": "How much is Claude Pro?",
+      "answer": "$20/month per user.",
+      "source_url": "https://www.anthropic.com/news/claude-pro"
+    },
+    {
+      "question": "Is there a Team plan?",
+      "answer": "Yes—Team offers more usage and admin features.",
+      "source_url": "https://www.anthropic.com/news/team-plan-and-ios"
+    },
+    {
+      "question": "Does Claude have an API?",
+      "answer": "Yes—with SDKs and docs.",
+      "source_url": "https://docs.anthropic.com/"
+    },
+    {
+      "question": "Which models are available?",
+      "answer": "Claude 4 family (e.g., Sonnet).",
+      "source_url": "https://www.anthropic.com/news"
+    },
+    {
+      "question": "Is there an iOS app?",
+      "answer": "Yes—announced alongside Team plan.",
+      "source_url": "https://www.anthropic.com/news/team-plan-and-ios"
+    },
+    {
+      "question": "Typical use cases?",
+      "answer": "Research, coding, drafting, analysis.",
+      "source_url": "https://www.anthropic.com"
+    },
+    {
+      "question": "Usage caps?",
+      "answer": "Yes—vary by tier.",
+      "source_url": "https://www.anthropic.com/news/claude-pro"
+    },
+    {
+      "question": "Image support?",
+      "answer": "Supports image inputs in supported contexts.",
+      "source_url": "https://www.anthropic.com"
+    },
+    {
+      "question": "Where to see reviews?",
+      "answer": "See G2 and articles.",
+      "source_url": "https://www.g2.com/products/claude/reviews"
+    },
+    {
+      "question": "Focus on safety?",
+      "answer": "Yes—core tenet of Anthropic.",
+      "source_url": "https://www.anthropic.com"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@anthropic-ai",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

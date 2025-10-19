@@ -1,0 +1,128 @@
+{
+  "id": "vonage-voice-api-asr",
+  "name": "Vonage Voice API — ASR",
+  "slug": "vonage-voice-api-asr",
+  "logo_url": "https://www.vonage.com/communications-apis/voice/favicon.ico",
+  "icon_url": "https://www.vonage.com/communications-apis/voice/favicon.ico",
+  "images": [
+    "https://www.vonage.com/communications-apis/voice/favicon.ico"
+  ],
+  "website_url": "https://www.vonage.com/communications-apis/voice/",
+  "tagline": "Programmable telephony with ASR via NCCO input and media streams.",
+  "summary": "Vonage Voice API — ASR provides features or APIs for captions and/or transcription inside real-time communications. Availability and languages vary by plan and region; transcripts can typically be searched, shared, or integrated via APIs depending on the product.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Transcription",
+    "Search/Export"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Events",
+    "Contact center"
+  ],
+  "best_for": [
+    "Teams building or using RTC apps"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Managed ASR or partner integrations"
+  ],
+  "platforms": [
+    "Apps/SDKs/APIs"
+  ],
+  "languages": [
+    "Varies (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Vonage",
+    "hq_country": null,
+    "twitter": "https://twitter.com/VonageDev",
+    "linkedin": "https://www.linkedin.com/company/vonage/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.vonage.com/communications-apis/voice/pricing",
+    "docs": "https://www.vonage.com/communications-apis/voice/",
+    "changelog": null,
+    "support": "https://www.vonage.com/communications-apis/voice/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:48:16Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.vonage.com/communications-apis/voice/favicon.ico",
+      "caption": "Vonage Voice API — ASR icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,3543 @@
+[
+  {
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "tagline": "High-quality text-to-image on Discord.",
+    "summary": "Midjourney creates detailed images from text prompts with strong aesthetics and community-driven prompt discovery.",
+    "website_url": "https://www.midjourney.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.midjourney.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.midjourney.com",
+        "caption": "Midjourney homepage"
+      }
+    ],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "Generate images",
+      "Art & illustration",
+      "Product mockups"
+    ],
+    "job_roles": [
+      "Designers",
+      "Marketers",
+      "Creators"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$10/mo"
+        },
+        {
+          "name": "Standard",
+          "price": "$30/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$60/mo"
+        }
+      ]
+    },
+    "features": [
+      "Text-to-image",
+      "Style controls",
+      "Community prompts"
+    ],
+    "platforms": [
+      "Web",
+      "Discord"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "integrations": [
+      "Discord"
+    ],
+    "vendor": {
+      "name": "Midjourney, Inc.",
+      "hq_country": "US",
+      "twitter": "https://x.com/midjourney"
+    },
+    "pros_cons": {
+      "pros": [
+        "Excellent aesthetics",
+        "Vibrant community"
+      ],
+      "cons": [
+        "Discord workflow only",
+        "No public API"
+      ]
+    },
+    "best_for": [
+      "Artists seeking stylized outputs",
+      "Brand moodboards"
+    ],
+    "use_cases": [
+      "Concept art",
+      "Storyboarding",
+      "Ad creatives"
+    ],
+    "ideal_industries": [
+      "Media",
+      "Gaming",
+      "Marketing"
+    ],
+    "support_channels": [
+      "Docs",
+      "Community"
+    ],
+    "pricing_notes": "Paid tiers via subscription.",
+    "key_differentiators": [
+      "Distinct visual style",
+      "Fast iteration"
+    ],
+    "limitations": [
+      "Limited photoreal consistency",
+      "No native API"
+    ],
+    "tutorials": [
+      {
+        "title": "Midjourney tutorials",
+        "url": "https://www.youtube.com/results?search_query=Midjourney+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Midjourney prompting",
+        "url": "https://www.youtube.com/results?search_query=Midjourney+prompt+guide",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Midjourney styles",
+        "url": "https://www.youtube.com/results?search_query=Midjourney+styles+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Midjourney"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/midjourney",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "a25253ef-74c1-4015-9406-21ff07fcfe8e"
+  },
+  {
+    "name": "DALL·E",
+    "slug": "dall-e",
+    "tagline": "OpenAI’s image generation for creative workflows.",
+    "summary": "DALL·E turns text prompts into images, with inpainting/outpainting and style guidance in the OpenAI ecosystem.",
+    "website_url": "https://openai.com/dall-e-3",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openai.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://openai.com/dall-e-3",
+        "caption": "DALL·E 3 page"
+      }
+    ],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "Generate images",
+      "Inpainting",
+      "Visual ideation"
+    ],
+    "job_roles": [
+      "Designers",
+      "Marketers",
+      "Writers"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Usage-based",
+          "price": "Pay as you go"
+        }
+      ]
+    },
+    "features": [
+      "Text-to-image",
+      "Inpainting",
+      "Image variations"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "models": [
+      "DALL·E 3"
+    ],
+    "integrations": [
+      "ChatGPT"
+    ],
+    "vendor": {
+      "name": "OpenAI",
+      "hq_country": "US",
+      "twitter": "https://x.com/OpenAI",
+      "linkedin": "https://www.linkedin.com/company/openai"
+    },
+    "pros_cons": {
+      "pros": [
+        "Good coherence",
+        "Easy API"
+      ],
+      "cons": [
+        "License constraints vary",
+        "Less control than SD"
+      ]
+    },
+    "best_for": [
+      "General image generation",
+      "Quick ideation"
+    ],
+    "use_cases": [
+      "Marketing creatives",
+      "Blog images"
+    ],
+    "ideal_industries": [
+      "Media",
+      "Marketing",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Help center"
+    ],
+    "pricing_notes": "Usage-based via OpenAI API.",
+    "key_differentiators": [
+      "Tight ChatGPT integration"
+    ],
+    "limitations": [
+      "Style control less granular than SDXL"
+    ],
+    "links": {
+      "docs": "https://platform.openai.com/docs",
+      "changelog": "https://platform.openai.com/docs/release-notes",
+      "support": "https://help.openai.com",
+      "pricing": "https://openai.com/pricing"
+    },
+    "tutorials": [
+      {
+        "title": "DALL·E tutorials",
+        "url": "https://www.youtube.com/results?search_query=DALL-E+3+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Inpainting with DALL·E",
+        "url": "https://www.youtube.com/results?search_query=DALL-E+inpainting+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "DALL·E prompt tips",
+        "url": "https://www.youtube.com/results?search_query=DALL-E+prompt+guide",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "DALL·E"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/dall-e",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "5c74726b-108e-4fa7-8244-108d147080d5"
+  },
+  {
+    "name": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "tagline": "Generative features for Adobe workflows.",
+    "summary": "Firefly powers image generation and editing inside Adobe apps like Photoshop and Illustrator.",
+    "website_url": "https://firefly.adobe.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=firefly.adobe.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://firefly.adobe.com",
+        "caption": "Firefly home"
+      }
+    ],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "Generate images",
+      "Inpainting",
+      "Text effects"
+    ],
+    "job_roles": [
+      "Designers",
+      "Marketers"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Adobe plans",
+          "price": "Varies by app"
+        }
+      ]
+    },
+    "features": [
+      "Text-to-image",
+      "Generative fill",
+      "Vector generation"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop"
+    ],
+    "models": [
+      "Firefly"
+    ],
+    "vendor": {
+      "name": "Adobe",
+      "hq_country": "US",
+      "twitter": "https://x.com/Adobe",
+      "linkedin": "https://www.linkedin.com/company/adobe/"
+    },
+    "pros_cons": {
+      "pros": [
+        "Great inside Adobe apps",
+        "Brand control"
+      ],
+      "cons": [
+        "Ecosystem lock-in",
+        "Plan complexity"
+      ]
+    },
+    "best_for": [
+      "Adobe-centric teams"
+    ],
+    "use_cases": [
+      "Ad creatives",
+      "Photo editing"
+    ],
+    "ideal_industries": [
+      "Marketing",
+      "Design"
+    ],
+    "support_channels": [
+      "Docs",
+      "Community"
+    ],
+    "pricing_notes": "Credits & plan-based.",
+    "key_differentiators": [
+      "Native Photoshop integration"
+    ],
+    "limitations": [
+      "Standalone API limited"
+    ],
+    "links": {
+      "docs": "https://helpx.adobe.com/support.html",
+      "support": "https://helpx.adobe.com/support.html",
+      "pricing": "https://www.adobe.com/creativecloud/plans.html"
+    },
+    "tutorials": [
+      {
+        "title": "Adobe Firefly basics",
+        "url": "https://www.youtube.com/results?search_query=Adobe+Firefly+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Generative Fill tips",
+        "url": "https://www.youtube.com/results?search_query=Photoshop+Generative+Fill+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Firefly use cases",
+        "url": "https://www.youtube.com/results?search_query=Adobe+Firefly+use+cases",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Adobe Firefly"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/adobe-firefly",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "c49deff1-17b6-4002-a640-7108aa092ad3"
+  },
+  {
+    "name": "Stability AI (Stable Diffusion)",
+    "slug": "stability-ai-stable-diffusion",
+    "tagline": "Open ecosystem for image generation (SDXL).",
+    "summary": "Stable Diffusion (SDXL) enables controllable image generation on cloud and local runtimes.",
+    "website_url": "https://stability.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=stability.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://stability.ai",
+        "caption": "Stability AI"
+      }
+    ],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "Generate images",
+      "ControlNet",
+      "Inpainting"
+    ],
+    "job_roles": [
+      "Developers",
+      "Researchers",
+      "Designers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "API usage",
+          "price": "Usage-based"
+        }
+      ]
+    },
+    "features": [
+      "SDXL models",
+      "ControlNet",
+      "Local runtimes"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "Desktop"
+    ],
+    "models": [
+      "SDXL"
+    ],
+    "flags": {
+      "open_source": true,
+      "api_available": true,
+      "verified": true,
+      "free": false,
+      "no_signup": false,
+      "mobile_app": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false
+    },
+    "links": {
+      "docs": "https://platform.stability.ai/docs",
+      "support": "https://stability.ai/contact",
+      "pricing": "https://platform.stability.ai/pricing"
+    },
+    "pros_cons": {
+      "pros": [
+        "Open ecosystem",
+        "Fine control"
+      ],
+      "cons": [
+        "More setup required",
+        "Quality varies by model"
+      ]
+    },
+    "best_for": [
+      "Builders who want control",
+      "On-prem options"
+    ],
+    "tutorials": [
+      {
+        "title": "Stable Diffusion SDXL basics",
+        "url": "https://www.youtube.com/results?search_query=Stable+Diffusion+SDXL+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "ControlNet guide",
+        "url": "https://www.youtube.com/results?search_query=Stable+Diffusion+ControlNet+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Local install",
+        "url": "https://www.youtube.com/results?search_query=Stable+Diffusion+local+install",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Stability AI (Stable Diffusion)"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/stability-ai-stable-diffusion",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "vendor": {
+      "name": "",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "938913bb-df57-4b06-8414-5a7a1b9afa3a"
+  },
+  {
+    "name": "Leonardo AI",
+    "slug": "leonardo-ai",
+    "tagline": "Image generation for design and game assets.",
+    "summary": "Leonardo emphasizes production-friendly assets, styles, and model fine-tuning for consistent results.",
+    "website_url": "https://leonardo.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=leonardo.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://leonardo.ai",
+        "caption": "Leonardo home"
+      }
+    ],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "Generate images",
+      "Fine-tuned styles",
+      "Game assets"
+    ],
+    "job_roles": [
+      "Designers",
+      "Game Artists"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Starter",
+          "price": "$10/mo"
+        }
+      ]
+    },
+    "features": [
+      "Model fine-tuning",
+      "Style libraries"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "models": [
+      "Leonardo models"
+    ],
+    "vendor": {
+      "name": "Leonardo",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Consistent results",
+        "Asset focus"
+      ],
+      "cons": [
+        "Learning curve for best outputs"
+      ]
+    },
+    "best_for": [
+      "Consistent styles",
+      "Asset pipelines"
+    ],
+    "tutorials": [
+      {
+        "title": "Leonardo AI basics",
+        "url": "https://www.youtube.com/results?search_query=Leonardo+AI+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Game assets workflow",
+        "url": "https://www.youtube.com/results?search_query=Leonardo+AI+game+assets+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Style consistency",
+        "url": "https://www.youtube.com/results?search_query=Leonardo+AI+style+consistency",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Leonardo AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/leonardo-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "1ae8a616-9742-4455-8ff1-a2cba16a920d"
+  },
+  {
+    "name": "Runway",
+    "slug": "runway",
+    "tagline": "Video generation and editing with Gen-2/Gen-3.",
+    "summary": "Runway provides video gen, motion brush, and editing workflows for creators and studios.",
+    "website_url": "https://runwayml.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=runwayml.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://runwayml.com",
+        "caption": "Runway home"
+      }
+    ],
+    "categories": [
+      "Video"
+    ],
+    "tasks": [
+      "Generate video",
+      "Video editing",
+      "Motion brushes"
+    ],
+    "job_roles": [
+      "Creators",
+      "Studios"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Standard",
+          "price": "$15/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$35/mo"
+        }
+      ]
+    },
+    "features": [
+      "Gen-2/Gen-3",
+      "Text-to-video",
+      "Green screen"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Runway Gen-2/Gen-3"
+    ],
+    "vendor": {
+      "name": "Runway",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Strong video tools",
+        "Studio workflows"
+      ],
+      "cons": [
+        "Usage costs can add up"
+      ]
+    },
+    "best_for": [
+      "Short form content",
+      "Proofs of concept"
+    ],
+    "tutorials": [
+      {
+        "title": "Runway Gen-2/3",
+        "url": "https://www.youtube.com/results?search_query=Runway+Gen+2+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Runway video editing",
+        "url": "https://www.youtube.com/results?search_query=Runway+video+editing+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Motion brush",
+        "url": "https://www.youtube.com/results?search_query=Runway+motion+brush+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Runway"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/runway",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "62f7e6b9-81c5-4628-8792-313afcb53f3d"
+  },
+  {
+    "name": "Pika",
+    "slug": "pika",
+    "tagline": "Text-to-video and video tools for creators.",
+    "summary": "Pika (pika.art) offers text-to-video and editing features with a creator-focused UX.",
+    "website_url": "https://pika.art",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pika.art",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://pika.art",
+        "caption": "Pika home"
+      }
+    ],
+    "categories": [
+      "Video"
+    ],
+    "tasks": [
+      "Generate video",
+      "Upscaling",
+      "Edits"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "Varies"
+        }
+      ]
+    },
+    "features": [
+      "Text-to-video",
+      "Edits"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "vendor": {
+      "name": "Pika",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Creator-friendly",
+        "Fast results"
+      ],
+      "cons": [
+        "Quality varies by prompt"
+      ]
+    },
+    "best_for": [
+      "Quick social clips"
+    ],
+    "tutorials": [
+      {
+        "title": "Pika basics",
+        "url": "https://www.youtube.com/results?search_query=Pika+video+AI+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Pika text-to-video",
+        "url": "https://www.youtube.com/results?search_query=Pika+text+to+video+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Pika tips",
+        "url": "https://www.youtube.com/results?search_query=Pika+AI+video+tips",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Pika"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/pika",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "d0d73e21-e83e-4a4e-a87f-c2be6ea9a0d9"
+  },
+  {
+    "name": "Synthesia",
+    "slug": "synthesia",
+    "tagline": "AI video with avatars and voiceover.",
+    "summary": "Synthesia creates presenter-led videos with stock or custom avatars, scripts, and multilingual voiceover.",
+    "website_url": "https://www.synthesia.io",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.synthesia.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.synthesia.io",
+        "caption": "Synthesia home"
+      }
+    ],
+    "categories": [
+      "Video"
+    ],
+    "tasks": [
+      "Talking head videos",
+      "Training content"
+    ],
+    "job_roles": [
+      "L&D",
+      "Marketing"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$22/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Avatars",
+      "Multilingual voiceover"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "vendor": {
+      "name": "Synthesia",
+      "hq_country": "UK"
+    },
+    "pros_cons": {
+      "pros": [
+        "Fast avatar videos",
+        "Good localization"
+      ],
+      "cons": [
+        "Avatar look varies"
+      ]
+    },
+    "best_for": [
+      "Training content",
+      "Explainers"
+    ],
+    "tutorials": [
+      {
+        "title": "Synthesia tutorial",
+        "url": "https://www.youtube.com/results?search_query=Synthesia+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Create training videos",
+        "url": "https://www.youtube.com/results?search_query=Synthesia+training+video+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Custom avatars",
+        "url": "https://www.youtube.com/results?search_query=Synthesia+custom+avatar+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Synthesia"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/synthesia",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "cfbdbc0c-6e88-4c47-a51d-7813ac688fb9"
+  },
+  {
+    "name": "HeyGen",
+    "slug": "heygen",
+    "tagline": "Avatar-based video generation for business.",
+    "summary": "HeyGen helps teams create talking-head and sales videos with avatars and scripts.",
+    "website_url": "https://www.heygen.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.heygen.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.heygen.com",
+        "caption": "HeyGen home"
+      }
+    ],
+    "categories": [
+      "Video"
+    ],
+    "tasks": [
+      "Talking head videos",
+      "Localization"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "$29/mo"
+        },
+        {
+          "name": "Business",
+          "price": "$89/mo"
+        }
+      ]
+    },
+    "features": [
+      "Avatars",
+      "Lip sync",
+      "Multilingual"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "vendor": {
+      "name": "HeyGen",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Strong avatars",
+        "Sales templates"
+      ],
+      "cons": [
+        "Costs scale with minutes"
+      ]
+    },
+    "best_for": [
+      "Sales outreach",
+      "Localization"
+    ],
+    "tutorials": [
+      {
+        "title": "HeyGen basics",
+        "url": "https://www.youtube.com/results?search_query=HeyGen+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Sales videos",
+        "url": "https://www.youtube.com/results?search_query=HeyGen+sales+video+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Localization",
+        "url": "https://www.youtube.com/results?search_query=HeyGen+localization+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "HeyGen"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/heygen",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "538a9de9-23d5-4c4a-83e7-a68f62b5166d"
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "tagline": "Edit video & audio like a doc.",
+    "summary": "Descript combines transcription, multitrack editing, and AI tools for creators.",
+    "website_url": "https://www.descript.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.descript.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.descript.com",
+        "caption": "Descript home"
+      }
+    ],
+    "categories": [
+      "Video"
+    ],
+    "tasks": [
+      "Transcribe",
+      "Edit",
+      "AI cleanup"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Creator",
+          "price": "$12/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$24/mo"
+        }
+      ]
+    },
+    "features": [
+      "Overdub",
+      "Studio Sound",
+      "Screen recorder"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop"
+    ],
+    "vendor": {
+      "name": "Descript, Inc.",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Great for podcasts",
+        "Fast transcripts"
+      ],
+      "cons": [
+        "Some features paid"
+      ]
+    },
+    "best_for": [
+      "Podcasts",
+      "Explainers"
+    ],
+    "tutorials": [
+      {
+        "title": "Descript basics",
+        "url": "https://www.youtube.com/results?search_query=Descript+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Overdub voice",
+        "url": "https://www.youtube.com/results?search_query=Descript+Overdub+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Multitrack editing",
+        "url": "https://www.youtube.com/results?search_query=Descript+multitrack+editing",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Descript"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/descript",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "b3dccc6f-c4b3-4f7e-b0b6-92ada4d8749b"
+  },
+  {
+    "name": "Kapwing",
+    "slug": "kapwing",
+    "tagline": "Online video editor with AI assists.",
+    "summary": "Kapwing is a browser-based video editor with AI tools for creators and teams.",
+    "website_url": "https://www.kapwing.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.kapwing.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.kapwing.com",
+        "caption": "Kapwing"
+      }
+    ],
+    "categories": [
+      "Video"
+    ],
+    "tasks": [
+      "Editing",
+      "Captions",
+      "Resize"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$16/mo"
+        }
+      ]
+    },
+    "features": [
+      "Subtitle tools",
+      "Resize templates",
+      "AI cleanup"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "vendor": {
+      "name": "Kapwing",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Easy web editor",
+        "Templates"
+      ],
+      "cons": [
+        "Exports watermarked on free"
+      ]
+    },
+    "best_for": [
+      "Social media",
+      "Teams"
+    ],
+    "tutorials": [
+      {
+        "title": "Kapwing tutorial",
+        "url": "https://www.youtube.com/results?search_query=Kapwing+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Subtitles",
+        "url": "https://www.youtube.com/results?search_query=Kapwing+subtitles+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Resize videos",
+        "url": "https://www.youtube.com/results?search_query=Kapwing+resize+video+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Kapwing"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/kapwing",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "5ab686b5-48bf-45f7-91d9-736b01c4f7fb"
+  },
+  {
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "tagline": "High-quality voice AI.",
+    "summary": "ElevenLabs offers realistic TTS and voice cloning for content, games, and apps.",
+    "website_url": "https://elevenlabs.io",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=elevenlabs.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://elevenlabs.io",
+        "caption": "ElevenLabs"
+      }
+    ],
+    "categories": [
+      "Audio"
+    ],
+    "tasks": [
+      "Text-to-speech",
+      "Voice cloning"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$5/mo"
+        },
+        {
+          "name": "Creator",
+          "price": "$22/mo"
+        }
+      ]
+    },
+    "features": [
+      "Multilingual voices",
+      "Voice cloning",
+      "API"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "vendor": {
+      "name": "ElevenLabs",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Natural voices",
+        "Good SDK"
+      ],
+      "cons": [
+        "Clone requires consent/process"
+      ]
+    },
+    "best_for": [
+      "Narration",
+      "Apps/Games"
+    ],
+    "tutorials": [
+      {
+        "title": "ElevenLabs basics",
+        "url": "https://www.youtube.com/results?search_query=ElevenLabs+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Cloning voices",
+        "url": "https://www.youtube.com/results?search_query=ElevenLabs+voice+cloning+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "App integrations",
+        "url": "https://www.youtube.com/results?search_query=ElevenLabs+API+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "ElevenLabs"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/elevenlabs",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "cd994406-7dc6-4fb9-ace0-08ec7507a729"
+  },
+  {
+    "name": "Play.ht",
+    "slug": "play-ht",
+    "tagline": "Realistic AI voices.",
+    "summary": "Play.ht provides text-to-speech voices and cloning for content, apps, and games.",
+    "website_url": "https://play.ht",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=play.ht",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://play.ht",
+        "caption": "Play.ht"
+      }
+    ],
+    "categories": [
+      "Audio"
+    ],
+    "tasks": [
+      "Text-to-speech",
+      "Voice cloning"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "$31/mo"
+        },
+        {
+          "name": "Professional",
+          "price": "$79/mo"
+        }
+      ]
+    },
+    "features": [
+      "Voices library",
+      "Cloning",
+      "API"
+    ],
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "vendor": {
+      "name": "Play.ht",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Strong voice catalog",
+        "API friendly"
+      ],
+      "cons": [
+        "Higher cost at scale"
+      ]
+    },
+    "best_for": [
+      "Narration",
+      "Apps"
+    ],
+    "tutorials": [
+      {
+        "title": "Play.ht tutorial",
+        "url": "https://www.youtube.com/results?search_query=Play.ht+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Voice cloning",
+        "url": "https://www.youtube.com/results?search_query=Play.ht+voice+cloning+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "API usage",
+        "url": "https://www.youtube.com/results?search_query=Play.ht+API+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Play.ht"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/play-ht",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "d79f20af-2a51-4bbb-bccb-00bab9b2955a"
+  },
+  {
+    "name": "Tabnine",
+    "slug": "tabnine",
+    "tagline": "Code completion with local & cloud options.",
+    "summary": "Tabnine offers privacy-conscious code suggestions with local models and enterprise controls.",
+    "website_url": "https://www.tabnine.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tabnine.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tabnine.com",
+        "caption": "Tabnine home"
+      }
+    ],
+    "categories": [
+      "Code Assistants"
+    ],
+    "tasks": [
+      "Code completion",
+      "Chat"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$12/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Local models",
+      "On-prem",
+      "IDE plugins"
+    ],
+    "platforms": [
+      "VS Code",
+      "JetBrains",
+      "Neovim"
+    ],
+    "vendor": {
+      "name": "Tabnine",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Privacy options",
+        "Local inference"
+      ],
+      "cons": [
+        "Less chat depth than LLMs"
+      ]
+    },
+    "best_for": [
+      "Enterprises",
+      "Privacy-focused teams"
+    ],
+    "tutorials": [
+      {
+        "title": "Tabnine setup",
+        "url": "https://www.youtube.com/results?search_query=Tabnine+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Local models",
+        "url": "https://www.youtube.com/results?search_query=Tabnine+local+model+setup",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Team workflows",
+        "url": "https://www.youtube.com/results?search_query=Tabnine+team+workflow",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Tabnine"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tabnine",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "4bea263b-456d-448f-a55d-1d4b43c79b8e"
+  },
+  {
+    "name": "Codeium",
+    "slug": "codeium",
+    "tagline": "Free AI code assistant for individuals.",
+    "summary": "Codeium provides code completion and chat with generous free tier and enterprise features.",
+    "website_url": "https://codeium.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=codeium.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://codeium.com",
+        "caption": "Codeium home"
+      }
+    ],
+    "categories": [
+      "Code Assistants"
+    ],
+    "tasks": [
+      "Code completion",
+      "Chat",
+      "Refactor"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$12/mo"
+        }
+      ]
+    },
+    "features": [
+      "IDE plugins",
+      "Chat",
+      "Enterprise SSO"
+    ],
+    "platforms": [
+      "VS Code",
+      "JetBrains",
+      "Neovim"
+    ],
+    "vendor": {
+      "name": "Codeium",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Generous free tier",
+        "Broad IDE support"
+      ],
+      "cons": [
+        "Enterprise features paid"
+      ]
+    },
+    "best_for": [
+      "Individuals",
+      "Students"
+    ],
+    "tutorials": [
+      {
+        "title": "Codeium basics",
+        "url": "https://www.youtube.com/results?search_query=Codeium+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "VS Code + Codeium",
+        "url": "https://www.youtube.com/results?search_query=Codeium+VS+Code+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Enterprise settings",
+        "url": "https://www.youtube.com/results?search_query=Codeium+enterprise+setup",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Codeium"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/codeium",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "aaef32f1-3ab4-4268-aaae-8121401d1c2a"
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "tagline": "AI-first code editor.",
+    "summary": "Cursor is a code editor with deep AI integration for inline edits and multi-file refactors.",
+    "website_url": "https://www.cursor.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.cursor.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.cursor.com",
+        "caption": "Cursor home"
+      }
+    ],
+    "categories": [
+      "Code Assistants"
+    ],
+    "tasks": [
+      "Inline edits",
+      "Refactoring",
+      "Chat"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$20/mo"
+        }
+      ]
+    },
+    "features": [
+      "Editor + AI",
+      "Repo context"
+    ],
+    "platforms": [
+      "Desktop"
+    ],
+    "vendor": {
+      "name": "Cursor",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Deep IDE integration",
+        "Fast iteration"
+      ],
+      "cons": [
+        "Requires editor switch"
+      ]
+    },
+    "best_for": [
+      "Power users",
+      "Rapid refactors"
+    ],
+    "tutorials": [
+      {
+        "title": "Cursor editor",
+        "url": "https://www.youtube.com/results?search_query=Cursor+code+editor+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI refactors",
+        "url": "https://www.youtube.com/results?search_query=Cursor+AI+refactor+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Best practices",
+        "url": "https://www.youtube.com/results?search_query=Cursor+best+practices",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Cursor"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/cursor",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "8704da6c-ae9b-4a43-9fe9-0eac3174a16a"
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "slug": "replit-ghostwriter",
+    "tagline": "AI coding inside Replit.",
+    "summary": "Ghostwriter accelerates code and explains errors within the Replit IDE and cloud environment.",
+    "website_url": "https://replit.com/site/ghostwriter",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=replit.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://replit.com/site/ghostwriter",
+        "caption": "Ghostwriter"
+      }
+    ],
+    "categories": [
+      "Code Assistants"
+    ],
+    "tasks": [
+      "Code completion",
+      "Explain errors"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Add-on",
+          "price": "Varies"
+        }
+      ]
+    },
+    "features": [
+      "Inline help",
+      "Project context"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "vendor": {
+      "name": "Replit",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Works in browser",
+        "Good onboarding"
+      ],
+      "cons": [
+        "Editor lock-in"
+      ]
+    },
+    "best_for": [
+      "Students",
+      "Hackers"
+    ],
+    "tutorials": [
+      {
+        "title": "Ghostwriter basics",
+        "url": "https://www.youtube.com/results?search_query=Replit+Ghostwriter+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Debugging",
+        "url": "https://www.youtube.com/results?search_query=Replit+Ghostwriter+debugging",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Projects",
+        "url": "https://www.youtube.com/results?search_query=Replit+Ghostwriter+projects",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Replit Ghostwriter"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/replit-ghostwriter",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "c95a208a-3240-4b1f-9c95-fbd615a0d60b"
+  },
+  {
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "tagline": "OpenAI’s conversational assistant.",
+    "summary": "ChatGPT answers questions, drafts, and helps with coding via a chat interface and API (Assistants).",
+    "website_url": "https://chat.openai.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=chat.openai.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://chat.openai.com",
+        "caption": "ChatGPT"
+      }
+    ],
+    "categories": [
+      "Assistants"
+    ],
+    "tasks": [
+      "Q&A",
+      "Writing",
+      "Code help"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$20/mo"
+        }
+      ]
+    },
+    "features": [
+      "Chat",
+      "Browse",
+      "Code interpreter"
+    ],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "API"
+    ],
+    "models": [
+      "GPT family"
+    ],
+    "vendor": {
+      "name": "OpenAI",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Versatile",
+        "Ecosystem integrations"
+      ],
+      "cons": [
+        "Accuracy depends on prompts"
+      ]
+    },
+    "best_for": [
+      "General purpose assistance"
+    ],
+    "tutorials": [
+      {
+        "title": "ChatGPT basics",
+        "url": "https://www.youtube.com/results?search_query=ChatGPT+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "ChatGPT for coding",
+        "url": "https://www.youtube.com/results?search_query=ChatGPT+coding+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Advanced prompting",
+        "url": "https://www.youtube.com/results?search_query=ChatGPT+prompt+engineering",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "ChatGPT"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/chatgpt",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "f36d732c-f76d-4b8f-83e5-681f3f24719c"
+  },
+  {
+    "name": "Claude",
+    "slug": "claude",
+    "tagline": "Anthropic’s constitutional assistant.",
+    "summary": "Claude is a conversational AI with long context and safety-focused design.",
+    "website_url": "https://www.anthropic.com/claude",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.anthropic.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.anthropic.com/claude",
+        "caption": "Claude at Anthropic"
+      }
+    ],
+    "categories": [
+      "Assistants"
+    ],
+    "tasks": [
+      "Q&A",
+      "Writing",
+      "Analysis"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$20/mo"
+        },
+        {
+          "name": "Team",
+          "price": "$25/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Long context",
+      "Tool use"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS"
+    ],
+    "models": [
+      "Claude family"
+    ],
+    "vendor": {
+      "name": "Anthropic",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Great reasoning",
+        "Long context"
+      ],
+      "cons": [
+        "Region availability varies"
+      ]
+    },
+    "best_for": [
+      "Analysis",
+      "Document work"
+    ],
+    "tutorials": [
+      {
+        "title": "Claude basics",
+        "url": "https://www.youtube.com/results?search_query=Claude+AI+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Claude for docs",
+        "url": "https://www.youtube.com/results?search_query=Claude+AI+documents+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Advanced use",
+        "url": "https://www.youtube.com/results?search_query=Claude+prompt+guide",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Claude"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/claude",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "3b630a64-e911-46f4-b06b-c7f8a213b5dc"
+  },
+  {
+    "name": "Perplexity",
+    "slug": "perplexity",
+    "tagline": "Answer engine with citations.",
+    "summary": "Perplexity combines search and LLMs to answer questions with sources and follow-ups.",
+    "website_url": "https://www.perplexity.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.perplexity.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.perplexity.ai",
+        "caption": "Perplexity"
+      }
+    ],
+    "categories": [
+      "Assistants"
+    ],
+    "tasks": [
+      "Research",
+      "Q&A"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$20/mo"
+        }
+      ]
+    },
+    "features": [
+      "Search + LLM",
+      "Citations"
+    ],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "vendor": {
+      "name": "Perplexity AI",
+      "hq_country": "US"
+    },
+    "pros_cons": {
+      "pros": [
+        "Cited answers",
+        "Good follow-ups"
+      ],
+      "cons": [
+        "API access limited"
+      ]
+    },
+    "best_for": [
+      "Quick research",
+      "Sourcing"
+    ],
+    "tutorials": [
+      {
+        "title": "Perplexity basics",
+        "url": "https://www.youtube.com/results?search_query=Perplexity+AI+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Pro features",
+        "url": "https://www.youtube.com/results?search_query=Perplexity+Pro+tutorial",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Research workflows",
+        "url": "https://www.youtube.com/results?search_query=Perplexity+research+workflow",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "maturity": "established",
+    "status": "active",
+    "updated_at": "2025-10-05",
+    "languages": [
+      "en"
+    ],
+    "seo": {
+      "keywords": [
+        "Perplexity"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/perplexity",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null,
+    "compliance": [],
+    "id": "6ddf76cf-683b-40ee-a10f-757b4fc4ccb5"
+  }
+]

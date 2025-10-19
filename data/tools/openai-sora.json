@@ -1,0 +1,161 @@
+{
+  "slug": "openai-sora",
+  "name": "OpenAI Sora",
+  "website_url": "https://openai.com/sora",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=openai.com",
+  "description": "OpenAI Sora is an AI tool in the text to video category. See the official site for features and availability.",
+  "category": "text-to-video",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use OpenAI Sora for text to video tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://openai.com/sora/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "OpenAI",
+    "legal": {
+      "terms_url": "https://openai.com/sora/terms",
+      "privacy_url": "https://openai.com/sora/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=OpenAI%20Sora"
+    }
+  ],
+  "image": "https://openai.com/sora",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "OpenAI",
+      "modality": "video"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://openai.com/sora/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the OpenAI ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://openai.com/sora/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://openai.com/sora",
+      "caption": "OpenAI Sora"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "OpenAI Sora tutorial (overview)",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "channel": "YouTube"
+    }
+  ],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://openai.com/sora/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://openai.com/sora/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://openai.com/sora/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://openai.com/sora/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://openai.com/sora/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://openai.com/sora/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://openai.com/sora/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://openai.com/sora"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://openai.com/sora"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T10:20:11.388200"
+}

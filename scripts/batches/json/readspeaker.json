@@ -1,0 +1,171 @@
+{
+  "id": "readspeaker",
+  "name": "ReadSpeaker",
+  "slug": "readspeaker",
+  "logo_url": "https://www.readspeaker.com/favicon.ico",
+  "icon_url": "https://www.readspeaker.com/favicon.ico",
+  "images": [
+    "https://www.readspeaker.com/favicon.ico"
+  ],
+  "website_url": "https://www.readspeaker.com",
+  "tagline": "Enterprise TTS solutions for web, mobile, and embedded.",
+  "summary": "ReadSpeaker provides enterprise text‑to‑speech solutions across web, mobile, and embedded use cases, including education, public sector, and automotive. Its portfolio includes web reading tools, SDKs for app integration, and on‑prem/embedded options for devices that require offline synthesis. ReadSpeaker offers a large catalog of voices and languages, SSML support, and accessibility‑oriented products that add read‑aloud to websites and learning platforms.\n\nTypical use cases include LMS integrations for accessible learning content, government websites with read‑aloud features, in‑vehicle systems that require offline TTS, and kiosks or devices in constrained environments. Deployment options span SaaS, on‑prem, and embedded SDKs, allowing organizations to meet data residency or connectivity requirements. \n\nReadSpeaker is best for institutions and OEMs that need mature deployments with support contracts, accessibility compliance guidance, and flexible hosting models.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Web read‑aloud",
+    "App TTS",
+    "Offline/embedded synthesis"
+  ],
+  "use_cases": [
+    "Education (LMS)",
+    "Public sector",
+    "Automotive",
+    "Kiosks"
+  ],
+  "best_for": [
+    "Universities/Schools",
+    "Governments",
+    "OEMs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Neural & standard TTS (portfolio)"
+  ],
+  "platforms": [
+    "Web widgets",
+    "SDKs",
+    "On‑prem/embedded"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "LMS platforms",
+    "CMS plugins",
+    "Embedded stacks"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Licensed contracts",
+    "plans": [
+      {
+        "name": "SaaS/On‑prem/Embedded",
+        "price": null,
+        "billing": "contract"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Flexible hosting (SaaS/on‑prem/embedded)",
+      "Accessibility focus"
+    ],
+    "cons": [
+      "Contract‑driven procurement; less self‑serve"
+    ]
+  },
+  "key_differentiators": [
+    "Accessibility products for web/LMS",
+    "Offline/embedded support"
+  ],
+  "limitations": [
+    "Self‑serve developer experience lighter than pure APIs"
+  ],
+  "import_export": [
+    "Audio output formats per SDK; web widgets"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "ReadSpeaker",
+    "hq_country": null,
+    "twitter": "https://twitter.com/ReadSpeaker",
+    "linkedin": "https://www.linkedin.com/company/readspeaker/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.readspeaker.com/pricing/",
+    "docs": "https://www.readspeaker.com/support/",
+    "changelog": null,
+    "support": "https://www.readspeaker.com/contact/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.readspeaker.com/favicon.ico",
+      "caption": "ReadSpeaker icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "ReadSpeaker channel (official)",
+      "youtube": "https://www.youtube.com/@ReadSpeaker",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Education solutions overview (official)",
+      "youtube": "https://www.youtube.com/@ReadSpeaker",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Web read‑aloud demo (official)",
+      "youtube": "https://www.youtube.com/@ReadSpeaker",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

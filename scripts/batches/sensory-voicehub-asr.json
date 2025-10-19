@@ -1,0 +1,129 @@
+{
+  "id": "sensory-voicehub-asr",
+  "name": "Sensory VoiceHub (ASR)",
+  "slug": "sensory-voicehub-asr",
+  "logo_url": "https://www.sensory.com/voicehub/favicon.ico",
+  "icon_url": "https://www.sensory.com/voicehub/favicon.ico",
+  "images": [
+    "https://www.sensory.com/voicehub/favicon.ico"
+  ],
+  "website_url": "https://www.sensory.com/voicehub/",
+  "tagline": "Embedded ASR/keyword models generated via cloud tools for on-device use.",
+  "summary": "Sensory VoiceHub lets developers generate embedded ASR and keyword models for on-device voice interfaces with low latency and privacy.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Voice commands",
+    "Wake word",
+    "Small-vocab ASR"
+  ],
+  "use_cases": [
+    "IoT",
+    "Appliances",
+    "Automotive"
+  ],
+  "best_for": [
+    "OEMs & embedded devs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Embedded ASR/keyword models"
+  ],
+  "platforms": [
+    "Device SDKs",
+    "Cloud model generation"
+  ],
+  "languages": [
+    "Multiple (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Sensory, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/SensoryInc",
+    "linkedin": "https://www.linkedin.com/company/sensory-inc/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.sensory.com/contact/",
+    "docs": "https://www.sensory.com/solutions/voicehub/",
+    "changelog": null,
+    "support": "https://www.sensory.com/contact/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.sensory.com/voicehub/favicon.ico",
+      "caption": "Sensory VoiceHub (ASR) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

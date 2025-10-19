@@ -1,0 +1,145 @@
+{
+  "id": "espnet-asr",
+  "name": "ESPnet (ASR)",
+  "slug": "espnet-asr",
+  "logo_url": "https://espnet.github.io/espnet/favicon.ico",
+  "icon_url": "https://espnet.github.io/espnet/favicon.ico",
+  "images": [
+    "https://espnet.github.io/espnet/favicon.ico"
+  ],
+  "website_url": "https://espnet.github.io/espnet/",
+  "tagline": "End‑to‑end speech processing toolkit (ASR, TTS, SE) built on PyTorch.",
+  "summary": "ESPnet is an open‑source end‑to‑end speech toolkit supporting ASR, TTS, and speech enhancement on PyTorch. It provides recipes, pretrained models, and scripts for training, adaptation, and inference. Users can fine‑tune models on domain datasets and export for deployment. ESPnet integrates with Hugging Face for model sharing and uses standard corpora for benchmarks.\n\nESPnet is aimed at researchers and engineers who want full control of training and evaluation beyond hosted APIs.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "ASR training/inference",
+    "Multilingual models",
+    "SE/TTS (adjacent)"
+  ],
+  "use_cases": [
+    "Research",
+    "Domain ASR",
+    "On‑prem deployments"
+  ],
+  "best_for": [
+    "ML engineers/researchers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Transformer/Conformer ASR recipes",
+    "Pretrained checkpoints"
+  ],
+  "platforms": [
+    "Local/Server (PyTorch)"
+  ],
+  "languages": [
+    "Dataset/checkpoint‑dependent"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Open-source",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://espnet.github.io/espnet/",
+    "changelog": null,
+    "support": "https://github.com/espnet/espnet/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:15:46Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://espnet.github.io/espnet/favicon.ico",
+      "caption": "ESPnet (ASR) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "ESPnet ASR recipes (official)",
+      "youtube": "https://www.youtube.com/@espnet_official",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Train end‑to‑end ASR (community)",
+      "youtube": "https://www.youtube.com/watch?v=Y5Zs3h1Pld0",
+      "provider": "YouTube"
+    },
+    {
+      "title": "ESPnet + Hugging Face (community)",
+      "youtube": "https://www.youtube.com/watch?v=8c7kzF7xgYk",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

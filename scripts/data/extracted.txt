@@ -1,0 +1,1167 @@
+{ "name":"100ms — Live Captions (Integrations)", "website_url":"https://www.100ms.live", "slug":"100ms-live-captions-integrations" }
+{ "name":"121 Captions (UK)", "website_url":"https://www.121captions.com", "slug":"121-captions-uk" }
+{ "name":"1CapApp (CART delivery)", "website_url":"https://1capapp.com", "slug":"1capapp-cart-delivery" }
+{ "name":"3M Fluency Direct (M*Modal)", "website_url":"https://www.3m.com/3M/en_US/health-information-systems-us/solutions/clinician-solutions/fluency-direct/", "slug":"3m-fluency-direct-m-modal" }
+{ "name":"3M™ M*Modal Fluency Direct", "website_url":"https://www.3m.com/3M/en_US/health-information-systems-us/solutions/clinician-solutions/fluency-direct/", "slug":"3m-m-modal-fluency-direct" }
+{ "name":"3Play Media (additional)", "website_url":"https://www.3playmedia.com", "slug":"3play-media-additional" }
+{ "name":"3Play Media — Captions & Subtitles", "website_url":"https://www.3playmedia.com", "slug":"3play-media-captions-subtitles" }
+{ "name":"3Play Media — Nonprofit/Education (additional)", "website_url":"https://www.3playmedia.com", "slug":"3play-media-nonprofit-education-additional" }
+{ "name":"3Play Media", "website_url":"https://www.3playmedia.com", "slug":"3play-media" }
+{ "name":"8x8 Conversation IQ (Transcription)", "website_url":"https://www.8x8.com", "slug":"8x8-conversation-iq-transcription" }
+{ "name":"8x8 — Transcription", "website_url":"https://www.8x8.com", "slug":"8x8-transcription" }
+{ "name":"AbleDocs — Accessibility Services (captions workflows)", "website_url":"https://abledocs.com", "slug":"abledocs-accessibility-services-captions-workflows" }
+{ "name":"Abridge", "website_url":"https://www.abridge.com", "slug":"abridge" }
+{ "name":"Acast — Transcripts", "website_url":"https://www.acast.com", "slug":"acast-transcripts" }
+{ "name":"Accuro (UK) — Transcription", "website_url":"https://accuro.co.uk", "slug":"accuro-uk-transcription" }
+{ "name":"ACM Conferences — Accessibility", "website_url":"https://www.acm.org", "slug":"acm-conferences-accessibility" }
+{ "name":"ACS — Alternative Communication Services", "website_url":"https://www.acscaptions.com", "slug":"acs-alternative-communication-services" }
+{ "name":"ACS Captions (Alternative Communication Services)", "website_url":"https://acscaptions.com", "slug":"acs-captions-alternative-communication-services" }
+{ "name":"Adobe Audition — Speech to Text (via Premiere)", "website_url":"https://www.adobe.com/products/audition.html", "slug":"adobe-audition-speech-to-text-via-premiere" }
+{ "name":"Adobe Audition — Transcripts (via integrations)", "website_url":"https://www.adobe.com/products/audition.html", "slug":"adobe-audition-transcripts-via-integrations" }
+{ "name":"Adobe Audition", "website_url":"https://www.adobe.com/products/audition.html", "slug":"adobe-audition" }
+{ "name":"Adobe Firefly", "website_url":"https://www.adobe.com/products/firefly.html", "slug":"adobe-firefly" }
+{ "name":"Adobe Premiere Pro — Speech to Text", "website_url":"https://www.adobe.com/products/premiere.html", "slug":"adobe-premiere-pro-speech-to-text" }
+{ "name":"Aegisub (Open‑source)", "website_url":"https://aegisub.org", "slug":"aegisub-open-source" }
+{ "name":"Aeneas (additional)", "website_url":"https://www.readbeyond.it/aeneas/", "slug":"aeneas-additional" }
+{ "name":"Aeneas Alignment", "website_url":"https://www.readbeyond.it/aeneas/", "slug":"aeneas-alignment" }
+{ "name":"Aeneas (open‑source)", "website_url":"https://www.readbeyond.it/aeneas/", "slug":"aeneas-open-source" }
+{ "name":"Aeneas — Sync Audio & Text", "website_url":"https://www.readbeyond.it/aeneas/", "slug":"aeneas-sync-audio-text" }
+{ "name":"Aeneas", "website_url":"https://www.readbeyond.it/aeneas/", "slug":"aeneas" }
+{ "name":"Agora.io", "website_url":"https://www.agora.io", "slug":"agora-io" }
+{ "name":"Agora Real-time Transcription", "website_url":"https://www.agora.io/en/", "slug":"agora-real-time-transcription" }
+{ "name":"Agora — Transcription (Extensions)", "website_url":"https://www.agora.io", "slug":"agora-transcription-extensions" }
+{ "name":"AHD Subtitles Maker", "website_url":"https://www.ahd-subtitles.com", "slug":"ahd-subtitles-maker" }
+{ "name":"Ai‑Live (Ai‑Media)", "website_url":"https://www.ai-media.tv/ai-live/", "slug":"ai-live-ai-media" }
+{ "name":"Ai-Media (additional) — Education", "website_url":"https://www.ai-media.tv", "slug":"ai-media-additional-education" }
+{ "name":"Ai‑Media (additional)", "website_url":"https://www.ai-media.tv", "slug":"ai-media-additional" }
+{ "name":"AI-Media (Ai-Live)", "website_url":"https://www.ai-media.tv", "slug":"ai-media-ai-live" }
+{ "name":"AI‑Media EEG Lexi", "website_url":"https://www.ai-media.tv/products/live-captioning/lexi/", "slug":"ai-media-eeg-lexi" }
+{ "name":"Ai‑Media — Services (additional)", "website_url":"https://www.ai-media.tv", "slug":"ai-media-services-additional" }
+{ "name":"Ai‑Media", "website_url":"https://www.ai-media.tv", "slug":"ai-media" }
+{ "name":"AI4Bharat — Open Speech Models (ASR)", "website_url":"https://ai4bharat.org", "slug":"ai4bharat-open-speech-models-asr" }
+{ "name":"Aider", "website_url":"https://aider.chat/", "slug":"aider" }
+{ "name":"Aiko (iOS/macOS)", "website_url":"https://github.com/TimberFeder/Aiko", "slug":"aiko-ios-macos" }
+{ "name":"Aiko — iOS Transcription (Whisper)", "website_url":"https://aikoapp.com", "slug":"aiko-ios-transcription-whisper" }
+{ "name":"Aircall AI — Transcriptions", "website_url":"https://aircall.io", "slug":"aircall-ai-transcriptions" }
+{ "name":"Aircall — Call Transcription", "website_url":"https://aircall.io", "slug":"aircall-call-transcription" }
+{ "name":"Aircall (Transcription)", "website_url":"https://aircall.io", "slug":"aircall-transcription" }
+{ "name":"Airgram (additional)", "website_url":"https://www.airgram.io", "slug":"airgram-additional" }
+{ "name":"Airgram — AI Meeting Assistant", "website_url":"https://www.airgram.io", "slug":"airgram-ai-meeting-assistant" }
+{ "name":"Airgram", "website_url":"https://www.airgram.io", "slug":"airgram" }
+{ "name":"AISHELL‑1/2 (OpenSLR)", "website_url":"https://openslr.org/33/", "slug":"aishell-1-2-openslr" }
+{ "name":"AISHELL‑1/2", "website_url":"http://www.openslr.org/33/", "slug":"aishell-1-2" }
+{ "name":"AISHELL‑3 (Mandarin)", "website_url":"https://openslr.org/93/", "slug":"aishell-3-mandarin" }
+{ "name":"AISHELL (additional)", "website_url":"http://www.openslr.org/33/", "slug":"aishell-additional" }
+{ "name":"AISHELL", "website_url":"http://www.openslr.org/33/", "slug":"aishell" }
+{ "name":"AISpeech (思必驰) — ASR", "website_url":"https://www.aispeech.com", "slug":"aispeech-asr" }
+{ "name":"Alibaba Cloud ASR (additional)", "website_url":"https://www.alibabacloud.com/product/intelligent-speech-interaction", "slug":"alibaba-cloud-asr-additional" }
+{ "name":"Alibaba Cloud Intelligent Speech Interaction (ASR)", "website_url":"https://www.alibabacloud.com/product/intelligent-speech-interaction", "slug":"alibaba-cloud-intelligent-speech-interaction-asr" }
+{ "name":"Alibaba Cloud Intelligent Speech Interaction (NLS)", "website_url":"https://www.alibabacloud.com/product/intelligent-speech-interaction", "slug":"alibaba-cloud-intelligent-speech-interaction-nls" }
+{ "name":"Alibaba Cloud Intelligent Speech Interaction", "website_url":"https://www.alibabacloud.com/product/intelligent-speech-interaction", "slug":"alibaba-cloud-intelligent-speech-interaction" }
+{ "name":"Alibaba Cloud — Intelligent Speech", "website_url":"https://www.alibabacloud.com/product/intelligent-speech-interaction", "slug":"alibaba-cloud-intelligent-speech" }
+{ "name":"Alitu (additional)", "website_url":"https://alitu.com", "slug":"alitu-additional" }
+{ "name":"Alitu — Podcast Maker", "website_url":"https://alitu.com", "slug":"alitu-podcast-maker" }
+{ "name":"AlphaSense — Transcripts", "website_url":"https://www.alpha-sense.com", "slug":"alphasense-transcripts" }
+{ "name":"Alrite.ai — Hungarian ASR", "website_url":"https://alrite.io", "slug":"alrite-ai-hungarian-asr" }
+{ "name":"Amara — Subtitle Editor", "website_url":"https://amara.org", "slug":"amara-subtitle-editor" }
+{ "name":"Amara — Subtitling Platform", "website_url":"https://amara.org", "slug":"amara-subtitling-platform" }
+{ "name":"Amara — Subtitling", "website_url":"https://amara.org", "slug":"amara-subtitling" }
+{ "name":"Amara", "website_url":"https://amara.org", "slug":"amara" }
+{ "name":"Amazon Alexa Auto SDK (ASR in cloud)", "website_url":"https://developer.amazon.com/alexa-voice-service", "slug":"amazon-alexa-auto-sdk-asr-in-cloud" }
+{ "name":"Amazon Connect — Contact Lens", "website_url":"https://aws.amazon.com/connect/contact-lens/", "slug":"amazon-connect-contact-lens" }
+{ "name":"Amazon Polly", "website_url":"https://aws.amazon.com/polly/", "slug":"amazon-polly" }
+{ "name":"Amazon Q Developer", "website_url":"https://aws.amazon.com/q/developer/", "slug":"amazon-q-developer" }
+{ "name":"Amazon Transcribe (additional)", "website_url":"https://aws.amazon.com/transcribe/", "slug":"amazon-transcribe-additional" }
+{ "name":"Amazon Transcribe Medical", "website_url":"https://aws.amazon.com/transcribe/medical/", "slug":"amazon-transcribe-medical" }
+{ "name":"Amazon Transcribe", "website_url":"https://aws.amazon.com/transcribe/", "slug":"amazon-transcribe" }
+{ "name":"Amberscript", "website_url":"https://www.amberscript.com", "slug":"amberscript" }
+{ "name":"Ambience Healthcare — AutoScribe", "website_url":"https://www.ambiencehealthcare.com", "slug":"ambience-healthcare-autoscribe" }
+{ "name":"AMCA (Arabic Speech)", "website_url":"https://amca.ae", "slug":"amca-arabic-speech" }
+{ "name":"Amelia — Conversational AI", "website_url":"https://www.amelia.ai", "slug":"amelia-conversational-ai" }
+{ "name":"AMI Meeting Corpus (additional)", "website_url":"https://ami-corpus.org", "slug":"ami-meeting-corpus-additional" }
+{ "name":"AMI Meeting Corpus", "website_url":"https://ami-corpus.org", "slug":"ami-meeting-corpus" }
+{ "name":"AmiVoice (Advanced Media Inc.)", "website_url":"https://www.advanced-media.co.jp/", "slug":"amivoice-advanced-media-inc" }
+{ "name":"Android Live Caption", "website_url":"https://support.google.com/accessibility/android/answer/9350862", "slug":"android-live-caption" }
+{ "name":"Android — Sound Notifications & Live Transcribe", "website_url":"https://www.android.com/accessibility/live-transcribe/", "slug":"android-sound-notifications-live-transcribe" }
+{ "name":"Android SpeechRecognizer API", "website_url":"https://developer.android.com/reference/android/speech/SpeechRecognizer", "slug":"android-speechrecognizer-api" }
+{ "name":"annyang.js", "website_url":"https://www.talater.com/annyang/", "slug":"annyang-js" }
+{ "name":"Anyscale — Endpoints (Whisper examples)", "website_url":"https://www.anyscale.com", "slug":"anyscale-endpoints-whisper-examples" }
+{ "name":"Appen — Speech Data", "website_url":"https://appen.com", "slug":"appen-speech-data" }
+{ "name":"Appen — Speech Projects", "website_url":"https://appen.com", "slug":"appen-speech-projects" }
+{ "name":"Apple CarPlay — Siri dictation", "website_url":"https://www.apple.com/ios/carplay/", "slug":"apple-carplay-siri-dictation" }
+{ "name":"Apple Dictation (iOS/macOS)", "website_url":"https://support.apple.com/HT208343", "slug":"apple-dictation-ios-macos" }
+{ "name":"Apple Podcasts — Auto Transcripts", "website_url":"https://podcasters.apple.com", "slug":"apple-podcasts-auto-transcripts" }
+{ "name":"Apple Speech Framework", "website_url":"https://developer.apple.com/documentation/speech", "slug":"apple-speech-framework" }
+{ "name":"Apple Speech (SFSpeechRecognizer)", "website_url":"https://developer.apple.com/documentation/speech", "slug":"apple-speech-sfspeechrecognizer" }
+{ "name":"AppTek ASR", "website_url":"https://www.apptek.com", "slug":"apptek-asr" }
+{ "name":"AppTek (On-prem)", "website_url":"https://www.apptek.com/solutions/on-premise", "slug":"apptek-on-prem" }
+{ "name":"AppTek — Speech & Translation", "website_url":"https://www.apptek.com", "slug":"apptek-speech-translation" }
+{ "name":"ASAPP — Agent Assist", "website_url":"https://www.asapp.com", "slug":"asapp-agent-assist" }
+{ "name":"ASC Recording & Analytics", "website_url":"https://www.asctechnologies.com", "slug":"asc-recording-analytics" }
+{ "name":"ASC Technologies — Recording", "website_url":"https://www.asctechnologies.com", "slug":"asc-technologies-recording" }
+{ "name":"Ask Codi", "website_url":"https://www.askcodi.com", "slug":"ask-codi" }
+{ "name":"asr-evaluation (Python)", "website_url":"https://pypi.org/project/asr-evaluation/", "slug":"asr-evaluation-python" }
+{ "name":"AssemblyAI (additional)", "website_url":"https://www.assemblyai.com", "slug":"assemblyai-additional" }
+{ "name":"AssemblyAI — Audio Intelligence", "website_url":"https://www.assemblyai.com", "slug":"assemblyai-audio-intelligence" }
+{ "name":"AssemblyAI — Speech-to-Text API", "website_url":"https://www.assemblyai.com", "slug":"assemblyai-speech-to-text-api" }
+{ "name":"AssemblyAI — Speech-to-Text", "website_url":"https://www.assemblyai.com", "slug":"assemblyai-speech-to-text" }
+{ "name":"AssemblyAI", "website_url":"https://www.assemblyai.com", "slug":"assemblyai" }
+{ "name":"ATEME — TITAN/NEA (captions)", "website_url":"https://www.ateme.com", "slug":"ateme-titan-nea-captions" }
+{ "name":"ATLAS.ti — Auto Transcribe", "website_url":"https://atlasti.com", "slug":"atlas-ti-auto-transcribe" }
+{ "name":"Audacity — Transcripts (via plugins)", "website_url":"https://www.audacityteam.org", "slug":"audacity-transcripts-via-plugins" }
+{ "name":"Audacity", "website_url":"https://www.audacityteam.org", "slug":"audacity" }
+{ "name":"Audext (additional)", "website_url":"https://audext.com", "slug":"audext-additional" }
+{ "name":"Audext", "website_url":"https://audext.com", "slug":"audext" }
+{ "name":"AudioEye (accessibility) — Captions workflows", "website_url":"https://www.audioeye.com", "slug":"audioeye-accessibility-captions-workflows" }
+{ "name":"AudioPen.ai (voice notes)", "website_url":"https://audiopen.ai", "slug":"audiopen-ai-voice-notes" }
+{ "name":"Augmedix", "website_url":"https://www.augmedix.com", "slug":"augmedix" }
+{ "name":"Augnito — Medical Speech", "website_url":"https://www.augnito.ai", "slug":"augnito-medical-speech" }
+{ "name":"Auphonic", "website_url":"https://auphonic.com", "slug":"auphonic" }
+{ "name":"Aurelius — Research Repository", "website_url":"https://www.aureliuslab.com", "slug":"aurelius-research-repository" }
+{ "name":"Aurora-4", "website_url":"http://catalog.ldc.upenn.edu", "slug":"aurora-4" }
+{ "name":"Automatic Sync Technologies (AST, by Verbit)", "website_url":"https://automaticsync.com", "slug":"automatic-sync-technologies-ast-by-verbit" }
+{ "name":"autosub (additional)", "website_url":"https://github.com/agermanidis/autosub", "slug":"autosub-additional" }
+{ "name":"autosub (Python)", "website_url":"https://github.com/agermanidis/autosub", "slug":"autosub-python" }
+{ "name":"autosub", "website_url":"https://github.com/agermanidis/autosub", "slug":"autosub" }
+{ "name":"Ava — Live Captions", "website_url":"https://www.ava.me", "slug":"ava-live-captions" }
+{ "name":"Avaya Experience Platform — Transcription", "website_url":"https://www.avaya.com", "slug":"avaya-experience-platform-transcription" }
+{ "name":"Avid Media Composer — Subcap/ScriptSync", "website_url":"https://www.avid.com/media-composer", "slug":"avid-media-composer-subcap-scriptsync" }
+{ "name":"Avid — MediaCentral | Production", "website_url":"https://www.avid.com", "slug":"avid-mediacentral-production" }
+{ "name":"Avid — MediaCentral | Stream (captions workflows)", "website_url":"https://www.avid.com", "slug":"avid-mediacentral-stream-captions-workflows" }
+{ "name":"Avoma (additional)", "website_url":"https://www.avoma.com", "slug":"avoma-additional" }
+{ "name":"Avoma — Meeting Assistant", "website_url":"https://www.avoma.com", "slug":"avoma-meeting-assistant" }
+{ "name":"Avoma", "website_url":"https://www.avoma.com", "slug":"avoma" }
+{ "name":"Azure AI Speech to Text", "website_url":"https://azure.microsoft.com/services/cognitive-services/speech-to-text/", "slug":"azure-ai-speech-to-text" }
+{ "name":"Azure AI Video Indexer", "website_url":"https://vi.microsoft.com", "slug":"azure-ai-video-indexer" }
+{ "name":"Azure Speech to Text (additional)", "website_url":"https://azure.microsoft.com/services/ai-services/speech-to-text/", "slug":"azure-speech-to-text-additional" }
+{ "name":"Azure Speech to Text", "website_url":"https://azure.microsoft.com/services/ai-services/speech-to-text/", "slug":"azure-speech-to-text" }
+{ "name":"Babbel — Speech Recognition", "website_url":"https://www.babbel.com", "slug":"babbel-speech-recognition" }
+{ "name":"Baidu AI Cloud — ASR", "website_url":"https://cloud.baidu.com/product/speech", "slug":"baidu-ai-cloud-asr" }
+{ "name":"Baidu AI Cloud — Speech Recognition", "website_url":"https://ai.baidu.com/tech/speech/asr", "slug":"baidu-ai-cloud-speech-recognition" }
+{ "name":"Baidu AI Cloud Speech-to-Text", "website_url":"https://cloud.baidu.com/product/speechasr", "slug":"baidu-ai-cloud-speech-to-text" }
+{ "name":"Baidu ASR (additional)", "website_url":"https://cloud.baidu.com", "slug":"baidu-asr-additional" }
+{ "name":"Baidu Live Caption (ecosystem)", "website_url":"https://cloud.baidu.com", "slug":"baidu-live-caption-ecosystem" }
+{ "name":"Baidu Speech Recognition", "website_url":"https://cloud.baidu.com", "slug":"baidu-speech-recognition" }
+{ "name":"Balto — Real‑time Guidance", "website_url":"https://www.balto.ai", "slug":"balto-real-time-guidance" }
+{ "name":"Balto", "website_url":"https://www.balto.ai", "slug":"balto" }
+{ "name":"Banana.dev — Serverless GPUs", "website_url":"https://www.banana.dev", "slug":"banana-dev-serverless-gpus" }
+{ "name":"Bandwidth — Voice (transcription workflows)", "website_url":"https://www.bandwidth.com", "slug":"bandwidth-voice-transcription-workflows" }
+{ "name":"Bandwidth Voice — Transcription", "website_url":"https://www.bandwidth.com/voice/", "slug":"bandwidth-voice-transcription" }
+{ "name":"Bandwidth Voice", "website_url":"https://www.bandwidth.com", "slug":"bandwidth-voice" }
+{ "name":"Baseten — Model Hosting (Whisper)", "website_url":"https://baseten.co", "slug":"baseten-model-hosting-whisper" }
+{ "name":"BBC — Subtitle/Caption Standards", "website_url":"https://www.bbc.co.uk/accessibility/forproducts/guides/subtitling_guidelines", "slug":"bbc-subtitle-caption-standards" }
+{ "name":"Bear — Audio Notes (via integrations)", "website_url":"https://bear.app", "slug":"bear-audio-notes-via-integrations" }
+{ "name":"Beey (additional utilities)", "website_url":"https://www.beey.io", "slug":"beey-additional-utilities" }
+{ "name":"Beey.io", "website_url":"https://www.beey.io", "slug":"beey-io" }
+{ "name":"Behavox — Surveillance (voice)", "website_url":"https://behavox.com", "slug":"behavox-surveillance-voice" }
+{ "name":"Beulr", "website_url":"https://www.beulr.com", "slug":"beulr" }
+{ "name":"Bhashini — National Language Mission (ULCA)", "website_url":"https://bhashini.gov.in", "slug":"bhashini-national-language-mission-ulca" }
+{ "name":"BigHand — Dictation & Transcription", "website_url":"https://www.bighand.com", "slug":"bighand-dictation-transcription" }
+{ "name":"BigMarker — Webinars (captions)", "website_url":"https://www.bigmarker.com", "slug":"bigmarker-webinars-captions" }
+{ "name":"Blackbox AI", "website_url":"https://www.blackbox.ai", "slug":"blackbox-ai" }
+{ "name":"Brightcove — Video Cloud Captions", "website_url":"https://www.brightcove.com", "slug":"brightcove-video-cloud-captions" }
+{ "name":"Brighttalk (Webcasts)", "website_url":"https://www.brighttalk.com", "slug":"brighttalk-webcasts" }
+{ "name":"Buckeye Corpus (additional)", "website_url":"https://buckeyecorpus.osu.edu", "slug":"buckeye-corpus-additional" }
+{ "name":"Buckeye Corpus", "website_url":"https://buckeyecorpus.osu.edu", "slug":"buckeye-corpus" }
+{ "name":"Busuu — Speaking Practice", "website_url":"https://www.busuu.com", "slug":"busuu-speaking-practice" }
+{ "name":"Buzzsprout (additional)", "website_url":"https://www.buzzsprout.com", "slug":"buzzsprout-additional" }
+{ "name":"Buzzsprout — Transcription", "website_url":"https://www.buzzsprout.com", "slug":"buzzsprout-transcription" }
+{ "name":"Buzzsprout — Transcripts", "website_url":"https://www.buzzsprout.com", "slug":"buzzsprout-transcripts" }
+{ "name":"Buzzsprout", "website_url":"https://www.buzzsprout.com", "slug":"buzzsprout" }
+{ "name":"Calabrio Analytics", "website_url":"https://www.calabrio.com", "slug":"calabrio-analytics" }
+{ "name":"CallCabinet — Compliance Recording", "website_url":"https://www.callcabinet.com", "slug":"callcabinet-compliance-recording" }
+{ "name":"CallCabinet (Transcription)", "website_url":"https://www.callcabinet.com", "slug":"callcabinet-transcription" }
+{ "name":"CALLHOME (LDC)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"callhome-ldc" }
+{ "name":"CALLHOME", "website_url":"https://catalog.ldc.upenn.edu", "slug":"callhome" }
+{ "name":"CallMiner Eureka", "website_url":"https://callminer.com", "slug":"callminer-eureka" }
+{ "name":"CallRail — Call Transcription", "website_url":"https://www.callrail.com", "slug":"callrail-call-transcription" }
+{ "name":"CallRail Conversation Intelligence", "website_url":"https://www.callrail.com/features/conversation-intelligence/", "slug":"callrail-conversation-intelligence" }
+{ "name":"CallTrackingMetrics — Transcription", "website_url":"https://www.calltrackingmetrics.com", "slug":"calltrackingmetrics-transcription" }
+{ "name":"Canva — Captions (feature)", "website_url":"https://www.canva.com", "slug":"canva-captions-feature" }
+{ "name":"Canva Magic Media (Video)", "website_url":"https://www.canva.com/magic/", "slug":"canva-magic-media-video" }
+{ "name":"Canva Magic Media", "website_url":"https://www.canva.com/magic/", "slug":"canva-magic-media" }
+{ "name":"CapCut AI Text to Video", "website_url":"https://www.capcut.com/ai-text-to-video", "slug":"capcut-ai-text-to-video" }
+{ "name":"CapCut — Auto Captions", "website_url":"https://www.capcut.com", "slug":"capcut-auto-captions" }
+{ "name":"Capella (OpenAI Whisper GUI)", "website_url":"https://github.com/CapellaVoice", "slug":"capella-openai-whisper-gui" }
+{ "name":"Capital Captions (UK)", "website_url":"https://www.capitalcaptions.com", "slug":"capital-captions-uk" }
+{ "name":"Caption Inspector (Telestream)", "website_url":"https://www.telestream.net/captioning/overview.htm", "slug":"caption-inspector-telestream" }
+{ "name":"CaptionAccess", "website_url":"https://captionaccess.com", "slug":"captionaccess" }
+{ "name":"Captional — Subtitles SaaS", "website_url":"https://caption.al", "slug":"captional-subtitles-saas" }
+{ "name":"CaptionCall (Sorenson)", "website_url":"https://captioncall.com", "slug":"captioncall-sorenson" }
+{ "name":"CaptionHub — Enterprise Subtitling", "website_url":"https://www.captionhub.com", "slug":"captionhub-enterprise-subtitling" }
+{ "name":"CaptionHub", "website_url":"https://www.captionhub.com", "slug":"captionhub" }
+{ "name":"CaptioningStar", "website_url":"https://www.captioningstar.com", "slug":"captioningstar" }
+{ "name":"Captionmax (3Play Media)", "website_url":"https://www.3playmedia.com/captionmax/", "slug":"captionmax-3play-media" }
+{ "name":"Captions — AI for Video", "website_url":"https://www.captions.com", "slug":"captions-ai-for-video" }
+{ "name":"Captivate — Transcripts", "website_url":"https://www.captivate.fm", "slug":"captivate-transcripts" }
+{ "name":"CART Captioning by Universities (programs)", "website_url":"https://www.washington.edu/accessibility/", "slug":"cart-captioning-by-universities-programs" }
+{ "name":"Castos (additional)", "website_url":"https://castos.com", "slug":"castos-additional" }
+{ "name":"Castos — Hosting (transcripts)", "website_url":"https://castos.com", "slug":"castos-hosting-transcripts" }
+{ "name":"Castos — Transcription", "website_url":"https://castos.com", "slug":"castos-transcription" }
+{ "name":"Castos — Transcripts", "website_url":"https://castos.com", "slug":"castos-transcripts" }
+{ "name":"Castos", "website_url":"https://castos.com", "slug":"castos" }
+{ "name":"CCExtractor (additional)", "website_url":"https://www.ccextractor.org", "slug":"ccextractor-additional" }
+{ "name":"CCExtractor (open‑source)", "website_url":"https://www.ccextractor.org", "slug":"ccextractor-open-source" }
+{ "name":"CCExtractor", "website_url":"https://www.ccextractor.org", "slug":"ccextractor" }
+{ "name":"Cedat85 Voice to Text", "website_url":"https://www.cedat85.com", "slug":"cedat85-voice-to-text" }
+{ "name":"Cerence ASR (Automotive)", "website_url":"https://www.cerence.com", "slug":"cerence-asr-automotive" }
+{ "name":"Cerence ASR", "website_url":"https://www.cerence.com", "slug":"cerence-asr" }
+{ "name":"CHiME Challenge Datasets", "website_url":"https://chimechallenge.github.io", "slug":"chime-challenge-datasets" }
+{ "name":"CHiME Challenge", "website_url":"https://chimechallenge.github.io", "slug":"chime-challenge" }
+{ "name":"Chord (Video Knowledge Base)", "website_url":"https://www.chord.ai", "slug":"chord-video-knowledge-base" }
+{ "name":"Chorus.ai (ZoomInfo)", "website_url":"https://www.zoominfo.com/products/chorus", "slug":"chorus-ai-zoominfo" }
+{ "name":"Chorus by ZoomInfo", "website_url":"https://www.zoominfo.com/products/revenue-acceleration/chorus", "slug":"chorus-by-zoominfo" }
+{ "name":"Chorus (ZoomInfo)", "website_url":"https://www.zoominfo.com/products/chorus", "slug":"chorus-zoominfo" }
+{ "name":"Chrome — Live Caption", "website_url":"https://support.google.com/chrome/answer/10538231", "slug":"chrome-live-caption" }
+{ "name":"ChromeOS — Live Caption", "website_url":"https://support.google.com/chromebook/answer/10538140", "slug":"chromeos-live-caption" }
+{ "name":"cielo24 — Captions & Transcripts", "website_url":"https://cielo24.com", "slug":"cielo24-captions-transcripts" }
+{ "name":"cielo24", "website_url":"https://cielo24.com", "slug":"cielo24" }
+{ "name":"Cisco Webex — Captions & Transcripts", "website_url":"https://www.webex.com", "slug":"cisco-webex-captions-transcripts" }
+{ "name":"Cisco Webex Contact Center — Transcripts", "website_url":"https://www.cisco.com", "slug":"cisco-webex-contact-center-transcripts" }
+{ "name":"Cisco Webex Transcription", "website_url":"https://www.webex.com", "slug":"cisco-webex-transcription" }
+{ "name":"Claap — Video Collaboration", "website_url":"https://www.claap.io", "slug":"claap-video-collaboration" }
+{ "name":"Clari Copilot (formerly Wingman)", "website_url":"https://www.clari.com/products/copilot/", "slug":"clari-copilot-formerly-wingman" }
+{ "name":"Clari Copilot (Wingman)", "website_url":"https://www.clari.com/products/copilot/", "slug":"clari-copilot-wingman" }
+{ "name":"Cleanvoice AI", "website_url":"https://cleanvoice.ai", "slug":"cleanvoice-ai" }
+{ "name":"ClearCaptions", "website_url":"https://clearcaptions.com", "slug":"clearcaptions" }
+{ "name":"ClearnCaptions (phone)", "website_url":"https://clearcaptions.com", "slug":"clearncaptions-phone" }
+{ "name":"Clevercast — Live Captions", "website_url":"https://www.clevercast.com", "slug":"clevercast-live-captions" }
+{ "name":"Clideo — Add Subtitles", "website_url":"https://clideo.com", "slug":"clideo-add-subtitles" }
+{ "name":"Cline", "website_url":"https://cline.bot", "slug":"cline" }
+{ "name":"Clipchamp Auto Captions", "website_url":"https://clipchamp.com", "slug":"clipchamp-auto-captions" }
+{ "name":"Clipchamp — Captions", "website_url":"https://www.clipchamp.com", "slug":"clipchamp-captions" }
+{ "name":"CloudTalk — AI Transcription", "website_url":"https://www.cloudtalk.io", "slug":"cloudtalk-ai-transcription" }
+{ "name":"CloudTalk — Transcriptions", "website_url":"https://www.cloudtalk.io", "slug":"cloudtalk-transcriptions" }
+{ "name":"CMU PocketSphinx Mobile (open‑source)", "website_url":"https://cmusphinx.github.io", "slug":"cmu-pocketsphinx-mobile-open-source" }
+{ "name":"CMU Sphinx / PocketSphinx (additional)", "website_url":"https://cmusphinx.github.io", "slug":"cmu-sphinx-pocketsphinx-additional" }
+{ "name":"CMU Sphinx / PocketSphinx", "website_url":"https://cmusphinx.github.io", "slug":"cmu-sphinx-pocketsphinx" }
+{ "name":"Cobalt Speech & Language", "website_url":"https://www.cobaltspeech.com", "slug":"cobalt-speech-language" }
+{ "name":"Codeium (Windsurf)", "website_url":"https://codeium.com", "slug":"codeium" }
+{ "name":"CodeRabbit", "website_url":"https://coderabbit.ai/", "slug":"coderabbit" }
+{ "name":"CodiumAI", "website_url":"https://www.codium.ai", "slug":"codiumai" }
+{ "name":"Cogito — Real‑time Feedback", "website_url":"https://www.cogitocorp.com", "slug":"cogito-real-time-feedback" }
+{ "name":"Cogito — Real‑time Guidance", "website_url":"https://www.cogitocorp.com", "slug":"cogito-real-time-guidance" }
+{ "name":"Cognigy.AI — Voice Gateway", "website_url":"https://www.cognigy.com", "slug":"cognigy-ai-voice-gateway" }
+{ "name":"Colibri.ai (additional)", "website_url":"https://colibri.ai", "slug":"colibri-ai-additional" }
+{ "name":"Colibri.ai", "website_url":"https://colibri.ai", "slug":"colibri-ai" }
+{ "name":"Common Voice (additional)", "website_url":"https://commonvoice.mozilla.org", "slug":"common-voice-additional" }
+{ "name":"Common Voice", "website_url":"https://commonvoice.mozilla.org", "slug":"common-voice" }
+{ "name":"Condens — Transcription", "website_url":"https://condens.io", "slug":"condens-transcription" }
+{ "name":"Continue", "website_url":"https://www.continue.dev/", "slug":"continue-dev" }
+{ "name":"Coqui STT (additional)", "website_url":"https://stt.readthedocs.io", "slug":"coqui-stt-additional" }
+{ "name":"Coqui STT (archived)", "website_url":"https://github.com/coqui-ai/STT", "slug":"coqui-stt-archived" }
+{ "name":"Coqui STT (fork of DeepSpeech)", "website_url":"https://stt.readthedocs.io", "slug":"coqui-stt-fork-of-deepspeech" }
+{ "name":"Craft — Audio & Docs (via integrations)", "website_url":"https://www.craft.do", "slug":"craft-audio-docs-via-integrations" }
+{ "name":"Cresta AI", "website_url":"https://www.crestalabs.com", "slug":"cresta-ai" }
+{ "name":"Cresta — Real‑time Intelligence", "website_url":"https://cresta.com", "slug":"cresta-real-time-intelligence" }
+{ "name":"Critical Mention (Onclusive)", "website_url":"https://onclusive.com", "slug":"critical-mention-onclusive" }
+{ "name":"Cursor", "website_url":"https://cursor.com/", "slug":"cursor" }
+{ "name":"D-ID", "website_url":"https://www.d-id.com", "slug":"d-id" }
+{ "name":"Dacast (Captions)", "website_url":"https://www.dacast.com", "slug":"dacast-captions" }
+{ "name":"Daily.co — Real-time APIs", "website_url":"https://www.daily.co", "slug":"daily-co-real-time-apis" }
+{ "name":"Daily — Live Transcription", "website_url":"https://www.daily.co", "slug":"daily-live-transcription" }
+{ "name":"Dalet — Media Cortex", "website_url":"https://www.dalet.com", "slug":"dalet-media-cortex" }
+{ "name":"Databricks Assistant", "website_url":"https://docs.databricks.com/", "slug":"databricks-assistant" }
+{ "name":"DaVinci Resolve Studio — Transcription", "website_url":"https://www.blackmagicdesign.com/products/davinciresolve", "slug":"davinci-resolve-studio-transcription" }
+{ "name":"DaVinci Resolve — Transcription", "website_url":"https://www.blackmagicdesign.com/products/davinciresolve/", "slug":"davinci-resolve-transcription" }
+{ "name":"Deepdub — AI Dubbing", "website_url":"https://www.deepdub.ai", "slug":"deepdub-ai-dubbing" }
+{ "name":"Deepdub", "website_url":"https://www.deepdub.ai", "slug":"deepdub" }
+{ "name":"Deepgram (additional)", "website_url":"https://deepgram.com", "slug":"deepgram-additional" }
+{ "name":"Deepgram ASR", "website_url":"https://deepgram.com", "slug":"deepgram-asr" }
+{ "name":"Deepgram — Nova/Whisper APIs", "website_url":"https://deepgram.com", "slug":"deepgram-nova-whisper-apis" }
+{ "name":"Deepgram — Nova", "website_url":"https://deepgram.com", "slug":"deepgram-nova" }
+{ "name":"Deepgram — Speech-to-Text API", "website_url":"https://deepgram.com", "slug":"deepgram-speech-to-text-api" }
+{ "name":"Deepgram Speech-to-Text", "website_url":"https://deepgram.com", "slug":"deepgram-speech-to-text" }
+{ "name":"DeepScribe — Medical Scribe", "website_url":"https://www.deepscribe.ai", "slug":"deepscribe-medical-scribe" }
+{ "name":"DeepScribe", "website_url":"https://www.deepscribe.ai", "slug":"deepscribe" }
+{ "name":"DeepSpeech (Mozilla, archived)", "website_url":"https://github.com/mozilla/DeepSpeech", "slug":"deepspeech-mozilla-archived" }
+{ "name":"Defined.ai (additional) — Speech Data", "website_url":"https://www.defined.ai", "slug":"defined-ai-additional-speech-data" }
+{ "name":"Defined.ai (DefinedCrowd)", "website_url":"https://www.defined.ai", "slug":"defined-ai-definedcrowd" }
+{ "name":"DefinedCrowd/Defined.ai — Iberian ASR datasets (note)", "website_url":"https://www.defined.ai", "slug":"definedcrowd-defined-ai-iberian-asr-datasets-note" }
+{ "name":"DefinedData (Defined.ai) — ASR Data (additional)", "website_url":"https://www.defined.ai", "slug":"defineddata-defined-ai-asr-data-additional" }
+{ "name":"Deluxe — Media Localization", "website_url":"https://www.bydeluxe.com", "slug":"deluxe-media-localization" }
+{ "name":"Deluxe Media", "website_url":"https://www.bydeluxe.com", "slug":"deluxe-media" }
+{ "name":"Descript — Audiograms (additional)", "website_url":"https://www.descript.com", "slug":"descript-audiograms-additional" }
+{ "name":"Descript for Newsrooms", "website_url":"https://www.descript.com", "slug":"descript-for-newsrooms" }
+{ "name":"Descript — Overdub (adjacent)", "website_url":"https://www.descript.com/overdub", "slug":"descript-overdub-adjacent" }
+{ "name":"Descript — Transcribe & Edit", "website_url":"https://www.descript.com", "slug":"descript-transcribe-edit" }
+{ "name":"Descript — Transcription", "website_url":"https://www.descript.com", "slug":"descript-transcription" }
+{ "name":"Descript", "website_url":"https://www.descript.com", "slug":"descript" }
+{ "name":"Designrr — Audio to Text (feature)", "website_url":"https://designrr.io", "slug":"designrr-audio-to-text-feature" }
+{ "name":"Dialpad Ai — Transcriptions", "website_url":"https://www.dialpad.com/ai/", "slug":"dialpad-ai-transcriptions" }
+{ "name":"Dialpad Ai", "website_url":"https://www.dialpad.com", "slug":"dialpad-ai" }
+{ "name":"Dictanote / Voice In", "website_url":"https://dictanote.co", "slug":"dictanote-voice-in" }
+{ "name":"Dictanote (Web)", "website_url":"https://dictanote.co", "slug":"dictanote-web" }
+{ "name":"Dictate+", "website_url":"https://www.jotomi.com/dictate/", "slug":"dictate" }
+{ "name":"Dictation.io", "website_url":"https://dictation.io", "slug":"dictation-io" }
+{ "name":"Digital Nirvana — Trance/MonitorIQ", "website_url":"https://digital-nirvana.com", "slug":"digital-nirvana-trance-monitoriq" }
+{ "name":"DigitalCAT by Stenovations", "website_url":"https://www.stenovations.com", "slug":"digitalcat-by-stenovations" }
+{ "name":"DIRHA English", "website_url":"http://www.dirha.fbk.eu", "slug":"dirha-english" }
+{ "name":"Dolbey — Fusion Narrate (powered by nVoq)", "website_url":"https://www.dolbey.com", "slug":"dolbey-fusion-narrate-powered-by-nvoq" }
+{ "name":"Dolbey Fusion Narrate", "website_url":"https://www.dolbeyspeech.com/fusion-narrate/", "slug":"dolbey-fusion-narrate" }
+{ "name":"Dolby.io — Media APIs", "website_url":"https://dolby.io", "slug":"dolby-io-media-apis" }
+{ "name":"Dolby.io — Real-time Captions (via integrations)", "website_url":"https://dolby.io", "slug":"dolby-io-real-time-captions-via-integrations" }
+{ "name":"Dolby.io Speech to Text", "website_url":"https://dolby.io/products/speech-to-text", "slug":"dolby-io-speech-to-text" }
+{ "name":"Dolby.io", "website_url":"https://dolby.io", "slug":"dolby-io" }
+{ "name":"Dovetail — Research Repository", "website_url":"https://dovetail.com", "slug":"dovetail-research-repository" }
+{ "name":"Dovetail (Transcription)", "website_url":"https://dovetail.com", "slug":"dovetail-transcription" }
+{ "name":"Dragon Anywhere (Mobile)", "website_url":"https://www.nuance.com/dragon/dragon-anywhere.html", "slug":"dragon-anywhere-mobile" }
+{ "name":"Dubber — Unified Call Recording & AI", "website_url":"https://www.dubber.net", "slug":"dubber-unified-call-recording-ai" }
+{ "name":"Dubber — Unified Call Recording", "website_url":"https://www.dubber.net", "slug":"dubber-unified-call-recording" }
+{ "name":"Dubverse", "website_url":"https://dubverse.ai", "slug":"dubverse" }
+{ "name":"Duolingo — Speaking Exercises", "website_url":"https://duolingo.com", "slug":"duolingo-speaking-exercises" }
+{ "name":"Echo360 — Transcription", "website_url":"https://echo360.com", "slug":"echo360-transcription" }
+{ "name":"Echo360 — Transcripts & Captions", "website_url":"https://echo360.com", "slug":"echo360-transcripts-captions" }
+{ "name":"Eclipse by Advantage Software", "website_url":"https://www.eclipsecat.com", "slug":"eclipse-by-advantage-software" }
+{ "name":"Eden AI — Speech-to-Text API", "website_url":"https://edenai.co", "slug":"eden-ai-speech-to-text-api" }
+{ "name":"ELAN (MPI)", "website_url":"https://archive.mpi.nl/tla/elan", "slug":"elan-mpi" }
+{ "name":"ElevenLabs — Dubbing", "website_url":"https://elevenlabs.io", "slug":"elevenlabs-dubbing" }
+{ "name":"ElevenLabs", "website_url":"https://elevenlabs.io", "slug":"elevenlabs" }
+{ "name":"Elsa Speak (ASR for pronunciation)", "website_url":"https://elsaspeak.com", "slug":"elsa-speak-asr-for-pronunciation" }
+{ "name":"ENCO enCaption", "website_url":"https://www.enco.com/products/encaption", "slug":"enco-encaption" }
+{ "name":"EnjoyHQ (UserZoom) — Transcripts", "website_url":"https://www.enjoyhq.com", "slug":"enjoyhq-userzoom-transcripts" }
+{ "name":"Equalized Digital — Captions (WordPress)", "website_url":"https://equalizedigital.com", "slug":"equalized-digital-captions-wordpress" }
+{ "name":"eScribers — Legal Transcription", "website_url":"https://escribers.net", "slug":"escribers-legal-transcription" }
+{ "name":"ESPnet (ASR)", "website_url":"https://espnet.github.io/espnet/", "slug":"espnet-asr" }
+{ "name":"ESPnet (open‑source)", "website_url":"https://github.com/espnet/espnet", "slug":"espnet-open-source" }
+{ "name":"ESPnet Speech (additional)", "website_url":"https://github.com/espnet/espnet", "slug":"espnet-speech-additional" }
+{ "name":"ESPnet", "website_url":"https://github.com/espnet/espnet", "slug":"espnet" }
+{ "name":"Europarl‑ST (additional)", "website_url":"https://www.mllp.upv.es/europarl-st/", "slug":"europarl-st-additional" }
+{ "name":"Europarl-ST/ASR (research)", "website_url":"https://www.mllp.upv.es/europarl-st/", "slug":"europarl-st-asr-research" }
+{ "name":"Europarl‑ST", "website_url":"https://www.mllp.upv.es/europarl-st/", "slug":"europarl-st" }
+{ "name":"Evertz — BRAVO/Monitoring (captions)", "website_url":"https://evertz.com", "slug":"evertz-bravo-monitoring-captions" }
+{ "name":"ExecVision (Mediafly) — Conversation Intelligence", "website_url":"https://www.mediafly.com/execvision/", "slug":"execvision-mediafly-conversation-intelligence" }
+{ "name":"Express Scribe (NCH)", "website_url":"https://www.nch.com.au/scribe/index.html", "slug":"express-scribe-nch" }
+{ "name":"EZTitles — Professional Subtitling", "website_url":"https://www.eztitles.com", "slug":"eztitles-professional-subtitling" }
+{ "name":"EZTitles", "website_url":"https://www.eztitles.com", "slug":"eztitles" }
+{ "name":"Facebook/Meta Auto-Captions", "website_url":"https://www.facebook.com/creators", "slug":"facebook-meta-auto-captions" }
+{ "name":"FactSet CallStreet Transcripts", "website_url":"https://www.factset.com/products/data-feeds/transcripts-callstreet", "slug":"factset-callstreet-transcripts" }
+{ "name":"fairseq S2T (Meta)", "website_url":"https://github.com/pytorch/fairseq", "slug":"fairseq-s2t-meta" }
+{ "name":"Faithlife (Logos) Media — Captions", "website_url":"https://faithlife.com", "slug":"faithlife-logos-media-captions" }
+{ "name":"FAL.ai — Inference (community models)", "website_url":"https://fal.ai", "slug":"fal-ai-inference-community-models" }
+{ "name":"faster-whisper (additional)", "website_url":"https://github.com/guillaumekln/faster-whisper", "slug":"faster-whisper-additional" }
+{ "name":"faster-whisper (CTranslate2)", "website_url":"https://github.com/guillaumekln/faster-whisper", "slug":"faster-whisper-ctranslate2" }
+{ "name":"faster‑whisper (open‑source)", "website_url":"https://github.com/guillaumekln/faster-whisper", "slug":"faster-whisper-open-source" }
+{ "name":"faster‑whisper", "website_url":"https://github.com/guillaumekln/faster-whisper", "slug":"faster-whisper" }
+{ "name":"Fathom (additional)", "website_url":"https://fathom.video", "slug":"fathom-additional" }
+{ "name":"Fathom — AI Notetaker", "website_url":"https://fathom.video", "slug":"fathom-ai-notetaker" }
+{ "name":"Fathom for Zoom (integration)", "website_url":"https://fathom.video", "slug":"fathom-for-zoom-integration" }
+{ "name":"Fathom Video", "website_url":"https://fathom.video", "slug":"fathom-video" }
+{ "name":"Fathom", "website_url":"https://fathom.video", "slug":"fathom" }
+{ "name":"FCC — Closed Captioning Resources", "website_url":"https://www.fcc.gov/general/closed-captioning-video-programming", "slug":"fcc-closed-captioning-resources" }
+{ "name":"Fellow — Meeting Management (integrations)", "website_url":"https://fellow.app", "slug":"fellow-meeting-management-integrations" }
+{ "name":"Fellow — Meeting Transcripts (integrations)", "website_url":"https://www.fellow.app", "slug":"fellow-meeting-transcripts-integrations" }
+{ "name":"ffsubsync (additional)", "website_url":"https://github.com/sashabaranov/ffsubsync", "slug":"ffsubsync-additional" }
+{ "name":"ffsubsync", "website_url":"https://github.com/sashabaranov/ffsubsync", "slug":"ffsubsync" }
+{ "name":"Fireflies.ai (additional)", "website_url":"https://fireflies.ai", "slug":"fireflies-ai-additional" }
+{ "name":"Fireflies.ai — AI Notetaker", "website_url":"https://fireflies.ai", "slug":"fireflies-ai-ai-notetaker" }
+{ "name":"Fireflies.ai", "website_url":"https://fireflies.ai", "slug":"fireflies-ai" }
+{ "name":"Fisher English (LDC)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"fisher-english-ldc" }
+{ "name":"Fisher English", "website_url":"https://catalog.ldc.upenn.edu", "slug":"fisher-english" }
+{ "name":"Five9 — Speech Analytics", "website_url":"https://www.five9.com", "slug":"five9-speech-analytics" }
+{ "name":"Five9 Transcription & Analytics", "website_url":"https://www.five9.com", "slug":"five9-transcription-analytics" }
+{ "name":"Five9 — Transcripts & Analytics", "website_url":"https://www.five9.com", "slug":"five9-transcripts-analytics" }
+{ "name":"Five9 — VoiceStream & Analytics", "website_url":"https://www.five9.com", "slug":"five9-voicestream-analytics" }
+{ "name":"FLEURS (Google Research)", "website_url":"https://github.com/google-research-datasets/fleurs", "slug":"fleurs-google-research" }
+{ "name":"Flixier Auto Subtitle", "website_url":"https://flixier.com", "slug":"flixier-auto-subtitle" }
+{ "name":"Flixier — Subtitles", "website_url":"https://flixier.com", "slug":"flixier-subtitles" }
+{ "name":"For the Record (FTR)", "website_url":"https://www.fortherecord.com", "slug":"for-the-record-ftr" }
+{ "name":"Fotor AI Image Generator", "website_url":"https://www.fotor.com/ai-image-generator/", "slug":"fotor-ai-image-generator" }
+{ "name":"FPT.AI Speech to Text", "website_url":"https://fpt.ai/en/speech-to-text", "slug":"fpt-ai-speech-to-text" }
+{ "name":"Frame.io — Transcripts", "website_url":"https://frame.io", "slug":"frame-io-transcripts" }
+{ "name":"Fraunhofer IAIS — Audio Mining", "website_url":"https://www.iais.fraunhofer.de", "slug":"fraunhofer-iais-audio-mining" }
+{ "name":"FunASR (Alibaba DAMO)", "website_url":"https://github.com/alibaba-damo-academy/FunASR", "slug":"funasr-alibaba-damo" }
+{ "name":"Gboard Voice Typing (Android)", "website_url":"https://support.google.com/gboard/answer/2781850", "slug":"gboard-voice-typing-android" }
+{ "name":"Gboard — Voice Typing", "website_url":"https://support.google.com/gboard/answer/2781851", "slug":"gboard-voice-typing" }
+{ "name":"Gemini Code Assist", "website_url":"https://codeassist.google/", "slug":"gemini-code-assist" }
+{ "name":"Genei (adjacent, notes)", "website_url":"https://www.genei.io", "slug":"genei-adjacent-notes" }
+{ "name":"Genesys Cloud CX — Transcription & Analytics", "website_url":"https://www.genesys.com", "slug":"genesys-cloud-cx-transcription-analytics" }
+{ "name":"Genesys Cloud CX — Transcription", "website_url":"https://www.genesys.com", "slug":"genesys-cloud-cx-transcription" }
+{ "name":"Genesys Cloud CX — Transcripts", "website_url":"https://www.genesys.com", "slug":"genesys-cloud-cx-transcripts" }
+{ "name":"Gentle (additional)", "website_url":"https://github.com/lowerquality/gentle", "slug":"gentle-additional" }
+{ "name":"Gentle Forced Aligner", "website_url":"https://github.com/lowerquality/gentle", "slug":"gentle-forced-aligner" }
+{ "name":"GigaSpeech (additional)", "website_url":"https://github.com/SpeechColab/GigaSpeech", "slug":"gigaspeech-additional" }
+{ "name":"GigaSpeech", "website_url":"https://github.com/SpeechColab/GigaSpeech", "slug":"gigaspeech" }
+{ "name":"GitHub Copilot", "website_url":"https://github.com/copilot", "slug":"github-copilot" }
+{ "name":"Gladia (additional)", "website_url":"https://www.gladia.io", "slug":"gladia-additional" }
+{ "name":"Gladia — ASR API", "website_url":"https://www.gladia.io", "slug":"gladia-asr-api" }
+{ "name":"Gladia — ASR", "website_url":"https://www.gladia.io", "slug":"gladia-asr" }
+{ "name":"Gladia — Speech-to-Text API", "website_url":"https://gladia.io", "slug":"gladia-speech-to-text-api" }
+{ "name":"Gladia", "website_url":"https://www.gladia.io", "slug":"gladia" }
+{ "name":"Glean (Note-taking)", "website_url":"https://glean.co", "slug":"glean-note-taking" }
+{ "name":"Globo — Accessibility Captions (Brazil)", "website_url":"https://www.globo.com", "slug":"globo-accessibility-captions-brazil" }
+{ "name":"GMR Transcription", "website_url":"https://www.gmrtranscription.com", "slug":"gmr-transcription" }
+{ "name":"gnani.ai (additional)", "website_url":"https://www.gnani.ai", "slug":"gnani-ai-additional" }
+{ "name":"gnani.ai — Hindi & Indic ASR (additional)", "website_url":"https://www.gnani.ai", "slug":"gnani-ai-hindi-indic-asr-additional" }
+{ "name":"gnani.ai — Speech Recognition", "website_url":"https://www.gnani.ai", "slug":"gnani-ai-speech-recognition" }
+{ "name":"GoCaptioning", "website_url":"https://www.gocaptioning.com", "slug":"gocaptioning" }
+{ "name":"Gong (additional) — Revenue Intelligence", "website_url":"https://www.gong.io", "slug":"gong-additional-revenue-intelligence" }
+{ "name":"Gong Connect (integrations)", "website_url":"https://www.gong.io", "slug":"gong-connect-integrations" }
+{ "name":"Gong — Revenue Intelligence", "website_url":"https://www.gong.io", "slug":"gong-revenue-intelligence" }
+{ "name":"Gong", "website_url":"https://www.gong.io", "slug":"gong" }
+{ "name":"GoodTape", "website_url":"https://goodtape.io", "slug":"goodtape" }
+{ "name":"Google Android Auto — Voice", "website_url":"https://www.android.com/auto/", "slug":"google-android-auto-voice" }
+{ "name":"Google Cloud Contact Center AI (CCAI)", "website_url":"https://cloud.google.com/contact-center-ai", "slug":"google-cloud-contact-center-ai-ccai" }
+{ "name":"Google Cloud Speech‑to‑Text (additional)", "website_url":"https://cloud.google.com/speech-to-text", "slug":"google-cloud-speech-to-text-additional" }
+{ "name":"Google Cloud Speech-to-Text", "website_url":"https://cloud.google.com/speech-to-text", "slug":"google-cloud-speech-to-text" }
+{ "name":"Google Cloud Text-to-Speech", "website_url":"https://cloud.google.com/text-to-speech", "slug":"google-cloud-text-to-speech" }
+{ "name":"Google — Live Transcribe", "website_url":"https://www.android.com/accessibility/live-transcribe/", "slug":"google-live-transcribe" }
+{ "name":"Google Meet — Captions & Transcripts", "website_url":"https://support.google.com/meet/answer/10093134", "slug":"google-meet-captions-transcripts" }
+{ "name":"Google Meet Transcripts", "website_url":"https://workspace.google.com/products/meet/", "slug":"google-meet-transcripts" }
+{ "name":"Google Recorder (Pixel) — On‑device Transcription", "website_url":"https://support.google.com/pixelphone/answer/9516613", "slug":"google-recorder-pixel-on-device-transcription" }
+{ "name":"Google Recorder (Pixel)", "website_url":"https://support.google.com/pixelphone/answer/9516613", "slug":"google-recorder-pixel" }
+{ "name":"Google Speech Commands (additional)", "website_url":"https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html", "slug":"google-speech-commands-additional" }
+{ "name":"Google Speech Commands", "website_url":"https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html", "slug":"google-speech-commands" }
+{ "name":"Google Veo (VideoFX)", "website_url":"https://labs.google/fx/tools/video", "slug":"google-veo-videofx" }
+{ "name":"GoTo Meeting — Transcription", "website_url":"https://www.goto.com/meeting", "slug":"goto-meeting-transcription" }
+{ "name":"GoTranscript — Transcription", "website_url":"https://gotranscript.com", "slug":"gotranscript-transcription" }
+{ "name":"GoTranscript", "website_url":"https://gotranscript.com", "slug":"gotranscript" }
+{ "name":"Grain (additional)", "website_url":"https://www.grain.com", "slug":"grain-additional" }
+{ "name":"Grain — Meeting Recorder", "website_url":"https://www.grain.com", "slug":"grain-meeting-recorder" }
+{ "name":"Grain", "website_url":"https://www.grain.com", "slug":"grain" }
+{ "name":"GrayMeta — Curio", "website_url":"https://www.graymeta.com", "slug":"graymeta-curio" }
+{ "name":"GrayMeta — Iris", "website_url":"https://www.graymeta.com", "slug":"graymeta-iris" }
+{ "name":"Gridspace — Voice Analytics", "website_url":"https://www.gridspace.com", "slug":"gridspace-voice-analytics" }
+{ "name":"Hamilton CapTel", "website_url":"https://hamiltoncaptel.com", "slug":"hamilton-captel" }
+{ "name":"Happy Scribe", "website_url":"https://www.happyscribe.com", "slug":"happy-scribe" }
+{ "name":"Happyscribe Live (additional)", "website_url":"https://www.happyscribe.com", "slug":"happyscribe-live-additional" }
+{ "name":"Headliner — Captions", "website_url":"https://www.headliner.app", "slug":"headliner-captions" }
+{ "name":"HeyGen — AI Dubbing", "website_url":"https://www.heygen.com", "slug":"heygen-ai-dubbing" }
+{ "name":"HeyGen", "website_url":"https://www.heygen.com", "slug":"heygen" }
+{ "name":"Hindenburg Narrator (with transcripts)", "website_url":"https://hindenburg.com", "slug":"hindenburg-narrator-with-transcripts" }
+{ "name":"Hindenburg — Transcripts (via partners)", "website_url":"https://hindenburg.com", "slug":"hindenburg-transcripts-via-partners" }
+{ "name":"Hindenburg", "website_url":"https://hindenburg.com", "slug":"hindenburg" }
+{ "name":"Hopin — Captions", "website_url":"https://hopin.com", "slug":"hopin-captions" }
+{ "name":"Houndify (SoundHound) — Speech/NLU", "website_url":"https://www.houndify.com", "slug":"houndify-soundhound-speech-nlu" }
+{ "name":"Houndify (SoundHound)", "website_url":"https://www.houndify.com", "slug":"houndify-soundhound" }
+{ "name":"Huawei Cloud ASR (additional)", "website_url":"https://www.huaweicloud.com/intl/en-us/product/asr.html", "slug":"huawei-cloud-asr-additional" }
+{ "name":"Huawei Cloud Speech Recognition", "website_url":"https://www.huaweicloud.com/intl/en-us/product/asr.html", "slug":"huawei-cloud-speech-recognition" }
+{ "name":"HubSpot — Call Transcription & Coaching", "website_url":"https://www.hubspot.com", "slug":"hubspot-call-transcription-coaching" }
+{ "name":"HubSpot — Conversation Intelligence", "website_url":"https://www.hubspot.com/products/sales/conversation-intelligence", "slug":"hubspot-conversation-intelligence" }
+{ "name":"Hugging Face Inference API (ASR)", "website_url":"https://huggingface.co/inference-api", "slug":"hugging-face-inference-api-asr" }
+{ "name":"Hugging Face Inference Endpoints — ASR", "website_url":"https://huggingface.co/inference-endpoints", "slug":"hugging-face-inference-endpoints-asr" }
+{ "name":"IBM Cloud Speech to Text", "website_url":"https://www.ibm.com/cloud/watson-speech-to-text", "slug":"ibm-cloud-speech-to-text" }
+{ "name":"IBM Speech to Text (additional)", "website_url":"https://www.ibm.com/cloud/watson-speech-to-text", "slug":"ibm-speech-to-text-additional" }
+{ "name":"IBM Video Streaming — Captions", "website_url":"https://video.ibm.com", "slug":"ibm-video-streaming-captions" }
+{ "name":"IBM Watson Speech to Text", "website_url":"https://www.ibm.com/cloud/watson-speech-to-text", "slug":"ibm-watson-speech-to-text" }
+{ "name":"IBM Watson Text to Speech", "website_url":"https://www.ibm.com/cloud/watson-text-to-speech", "slug":"ibm-watson-text-to-speech" }
+{ "name":"IBM watsonx Code Assistant", "website_url":"https://www.ibm.com/products/watsonx-code-assistant", "slug":"ibm-watsonx-code-assistant" }
+{ "name":"Iconik — MAM", "website_url":"https://www.iconik.io", "slug":"iconik-mam" }
+{ "name":"Ideogram", "website_url":"https://ideogram.ai/", "slug":"ideogram" }
+{ "name":"IEEE Conferences — Accessibility", "website_url":"https://www.ieee.org", "slug":"ieee-conferences-accessibility" }
+{ "name":"iFLYTEK (additional)", "website_url":"https://www.xfyun.cn/", "slug":"iflytek-additional" }
+{ "name":"iFLYTEK Open Platform — ASR", "website_url":"https://www.xfyun.cn/", "slug":"iflytek-open-platform-asr" }
+{ "name":"iFLYTEK — Speech Recognition", "website_url":"https://www.iflytek.com/en/", "slug":"iflytek-speech-recognition" }
+{ "name":"Imagine Communications — Playout (captions)", "website_url":"https://www.imaginecommunications.com", "slug":"imagine-communications-playout-captions" }
+{ "name":"iMerit — Audio Annotation", "website_url":"https://imerit.net", "slug":"imerit-audio-annotation" }
+{ "name":"iMerit — Data Services (speech)", "website_url":"https://imerit.net", "slug":"imerit-data-services-speech" }
+{ "name":"Infinity Call Tracking", "website_url":"https://www.infinity.co", "slug":"infinity-call-tracking" }
+{ "name":"InnoCaption", "website_url":"https://innocaption.com", "slug":"innocaption" }
+{ "name":"Interactio (BOSCH) — RSI & captions", "website_url":"https://www.interactio.io", "slug":"interactio-bosch-rsi-captions" }
+{ "name":"Interactio", "website_url":"https://interactio.io", "slug":"interactio" }
+{ "name":"Interprefy Captions", "website_url":"https://www.interprefy.com", "slug":"interprefy-captions" }
+{ "name":"Interra Systems — BATON", "website_url":"https://www.interrasystems.com", "slug":"interra-systems-baton" }
+{ "name":"Invoca — Call Analytics", "website_url":"https://www.invoca.com", "slug":"invoca-call-analytics" }
+{ "name":"Invoca — Call Tracking & Transcripts", "website_url":"https://www.invoca.com", "slug":"invoca-call-tracking-transcripts" }
+{ "name":"Invoca", "website_url":"https://www.invoca.com", "slug":"invoca" }
+{ "name":"iOS/iPadOS — Live Captions", "website_url":"https://support.apple.com/guide/ipad/use-live-captions-ipad127e83d78/ipados", "slug":"ios-ipados-live-captions" }
+{ "name":"iSpeech — ASR API", "website_url":"https://www.ispeech.org", "slug":"ispeech-asr-api" }
+{ "name":"iSpeech ASR", "website_url":"https://www.ispeech.org", "slug":"ispeech-asr" }
+{ "name":"iSpeech — Speech Recognition API", "website_url":"https://www.ispeech.org", "slug":"ispeech-speech-recognition-api" }
+{ "name":"Iyuno — Media Localization", "website_url":"https://iyuno.com", "slug":"iyuno-media-localization" }
+{ "name":"Iyuno — Subtitling & Dubbing", "website_url":"https://iyuno.com", "slug":"iyuno-subtitling-dubbing" }
+{ "name":"Iyuno", "website_url":"https://iyuno.com", "slug":"iyuno" }
+{ "name":"jamie — AI Meeting Notes", "website_url":"https://www.jamie.ai", "slug":"jamie-ai-meeting-notes" }
+{ "name":"Jamworks — Lecture Capture", "website_url":"https://jamworks.com", "slug":"jamworks-lecture-capture" }
+{ "name":"Jamworks", "website_url":"https://jamworks.com", "slug":"jamworks" }
+{ "name":"JAX/Flax Whisper ports (open‑source)", "website_url":"https://github.com/openai/whisper", "slug":"jax-flax-whisper-ports-open-source" }
+{ "name":"JAX/Flax Whisper ports", "website_url":"https://github.com/openai/whisper", "slug":"jax-flax-whisper-ports" }
+{ "name":"JetBrains AI Assistant", "website_url":"https://www.jetbrains.com/ai/", "slug":"jetbrains-ai-assistant" }
+{ "name":"Jiminny — Conversation Intelligence", "website_url":"https://www.jiminny.com", "slug":"jiminny-conversation-intelligence" }
+{ "name":"Jiminny", "website_url":"https://www.jiminny.com", "slug":"jiminny" }
+{ "name":"jiwer (Python)", "website_url":"https://github.com/jitsi/jiwer", "slug":"jiwer-python" }
+{ "name":"Jubler (open‑source)", "website_url":"http://www.jubler.org", "slug":"jubler-open-source" }
+{ "name":"Julius (additional)", "website_url":"https://github.com/julius-speech/julius", "slug":"julius-additional" }
+{ "name":"Julius ASR", "website_url":"https://github.com/julius-speech/julius", "slug":"julius-asr" }
+{ "name":"Julius", "website_url":"https://github.com/julius-speech/julius", "slug":"julius" }
+{ "name":"Just Press Record (iOS)", "website_url":"https://www.openplanetsoftware.com/just-press-record/", "slug":"just-press-record-ios" }
+{ "name":"Just Press Record", "website_url":"https://www.openplanetsoftware.com/just-press-record/", "slug":"just-press-record" }
+{ "name":"JustCall AI — Transcripts", "website_url":"https://justcall.io", "slug":"justcall-ai-transcripts" }
+{ "name":"JW Player — Captions & Auto-Captions", "website_url":"https://www.jwplayer.com", "slug":"jw-player-captions-auto-captions" }
+{ "name":"JW Player — Captions", "website_url":"https://www.jwplayer.com", "slug":"jw-player-captions" }
+{ "name":"K2-fsa (libraries)", "website_url":"https://github.com/k2-fsa/k2", "slug":"k2-fsa-libraries" }
+{ "name":"K2 / Icefall (k2-fsa)", "website_url":"https://github.com/k2-fsa", "slug":"k2-icefall-k2-fsa" }
+{ "name":"Kakao i — Speech Recognition", "website_url":"https://i.kakao.com", "slug":"kakao-i-speech-recognition" }
+{ "name":"Kakao i Speech (STT)", "website_url":"https://i.kakao.com", "slug":"kakao-i-speech-stt" }
+{ "name":"Kakao i Speech", "website_url":"https://i.kakao.com", "slug":"kakao-i-speech" }
+{ "name":"Kaldi — additional utilities", "website_url":"https://kaldi-asr.org", "slug":"kaldi-additional-utilities" }
+{ "name":"Kaldi (additional)", "website_url":"https://kaldi-asr.org", "slug":"kaldi-additional" }
+{ "name":"Kaldi ASR (open‑source)", "website_url":"https://kaldi-asr.org", "slug":"kaldi-asr-open-source" }
+{ "name":"Kaldi ASR", "website_url":"https://kaldi-asr.org", "slug":"kaldi-asr" }
+{ "name":"Kaldi GStreamer Server", "website_url":"https://github.com/alumae/kaldi-gstreamer-server", "slug":"kaldi-gstreamer-server" }
+{ "name":"Kaldi (open‑source)", "website_url":"https://kaldi-asr.org", "slug":"kaldi-open-source" }
+{ "name":"Kaldi — Toolkit", "website_url":"https://kaldi-asr.org", "slug":"kaldi-toolkit" }
+{ "name":"Kaldi WebRTC/Server (ecosystem)", "website_url":"https://kaldi-asr.org", "slug":"kaldi-webrtc-server-ecosystem" }
+{ "name":"Kaldi", "website_url":"https://kaldi-asr.org", "slug":"kaldi" }
+{ "name":"Kaltura — Captioning", "website_url":"https://corp.kaltura.com", "slug":"kaltura-captioning" }
+{ "name":"Kaltura MediaSpace", "website_url":"https://corp.kaltura.com/products/video-portal/", "slug":"kaltura-mediaspace" }
+{ "name":"Kaltura REACH (Captioning)", "website_url":"https://corp.kaltura.com/products/interactive-video/automatic-captioning/", "slug":"kaltura-reach-captioning" }
+{ "name":"Kaltura", "website_url":"https://corp.kaltura.com", "slug":"kaltura" }
+{ "name":"Kaptioned", "website_url":"https://www.kaptioned.com", "slug":"kaptioned" }
+{ "name":"Kapwing — Auto Subtitles", "website_url":"https://www.kapwing.com/subtitles", "slug":"kapwing-auto-subtitles" }
+{ "name":"Kapwing Subtitles (additional)", "website_url":"https://www.kapwing.com", "slug":"kapwing-subtitles-additional" }
+{ "name":"Kapwing — Subtitles", "website_url":"https://www.kapwing.com/subtitles", "slug":"kapwing-subtitles" }
+{ "name":"Keen Research — KeenASR SDK", "website_url":"https://keenresearch.com", "slug":"keen-research-keenasr-sdk" }
+{ "name":"KenLM (additional)", "website_url":"https://github.com/kpu/kenlm", "slug":"kenlm-additional" }
+{ "name":"KenLM (language modeling)", "website_url":"https://github.com/kpu/kenlm", "slug":"kenlm-language-modeling" }
+{ "name":"KenLM (open‑source)", "website_url":"https://github.com/kpu/kenlm", "slug":"kenlm-open-source" }
+{ "name":"KenLM", "website_url":"https://github.com/kpu/kenlm", "slug":"kenlm" }
+{ "name":"Kensho Scribe (S&P Global)", "website_url":"https://www.kensho.com/solutions/scribe", "slug":"kensho-scribe-s-p-global" }
+{ "name":"Kensho Scribe", "website_url":"https://www.kensho.com/products/scribe", "slug":"kensho-scribe" }
+{ "name":"Kili Technology — Audio Labeling", "website_url":"https://kili-technology.com", "slug":"kili-technology-audio-labeling" }
+{ "name":"Kinetiq", "website_url":"https://kinetiq.tv", "slug":"kinetiq" }
+{ "name":"Kore.ai (Transcription in CX suite)", "website_url":"https://kore.ai", "slug":"kore-ai-transcription-in-cx-suite" }
+{ "name":"Kore.ai — Voice Bots", "website_url":"https://kore.ai", "slug":"kore-ai-voice-bots" }
+{ "name":"Krisp — Meeting Assistant", "website_url":"https://krisp.ai", "slug":"krisp-meeting-assistant" }
+{ "name":"Krisp — Note Taker (additional)", "website_url":"https://krisp.ai", "slug":"krisp-note-taker-additional" }
+{ "name":"KUDO — AI Speech Translator (additional)", "website_url":"https://www.kudoway.com", "slug":"kudo-ai-speech-translator-additional" }
+{ "name":"KUDO — AI Speech Translator", "website_url":"https://www.kudoway.com", "slug":"kudo-ai-speech-translator" }
+{ "name":"KUDO", "website_url":"https://www.kudoway.com", "slug":"kudo" }
+{ "name":"Lambda Cloud — GPUs", "website_url":"https://lambdalabs.com/service/gpu-cloud", "slug":"lambda-cloud-gpus" }
+{ "name":"Lang.ai (voice features vary)", "website_url":"https://www.lang.ai", "slug":"lang-ai-voice-features-vary" }
+{ "name":"LanguageTool Voice Typing (beta)", "website_url":"https://languagetool.org", "slug":"languagetool-voice-typing-beta" }
+{ "name":"Laxis AI Meeting Assistant", "website_url":"https://www.laxis.com", "slug":"laxis-ai-meeting-assistant" }
+{ "name":"Laxis", "website_url":"https://www.laxis.com", "slug":"laxis" }
+{ "name":"Leonardo AI", "website_url":"https://leonardo.ai/", "slug":"leonardo-ai" }
+{ "name":"Level AI — QA & Coaching", "website_url":"https://www.thelevel.ai", "slug":"level-ai-qa-coaching" }
+{ "name":"Level AI", "website_url":"https://thelevel.ai", "slug":"level-ai" }
+{ "name":"LibriLight (Meta AI)", "website_url":"https://github.com/facebookresearch/libri-light", "slug":"librilight-meta-ai" }
+{ "name":"LibriLight", "website_url":"https://github.com/facebookresearch/libri-light", "slug":"librilight" }
+{ "name":"LibriSpeech (OpenSLR)", "website_url":"https://www.openslr.org/12/", "slug":"librispeech-openslr" }
+{ "name":"Librispeech‑other (variants)", "website_url":"https://www.openslr.org", "slug":"librispeech-other-variants" }
+{ "name":"LibriSpeech", "website_url":"https://www.openslr.org/12/", "slug":"librispeech" }
+{ "name":"Libsyn (additional)", "website_url":"https://libsyn.com", "slug":"libsyn-additional" }
+{ "name":"Libsyn — Transcripts", "website_url":"https://libsyn.com", "slug":"libsyn-transcripts" }
+{ "name":"Libsyn", "website_url":"https://libsyn.com", "slug":"libsyn" }
+{ "name":"Lightning AI — Studios/Serve", "website_url":"https://lightning.ai", "slug":"lightning-ai-studios-serve" }
+{ "name":"Limecraft", "website_url":"https://www.limecraft.com", "slug":"limecraft" }
+{ "name":"Listen N Write (Windows)", "website_url":"http://listen-n-write.soft112.com", "slug":"listen-n-write-windows" }
+{ "name":"Live Transcribe (Android)", "website_url":"https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe", "slug":"live-transcribe-android" }
+{ "name":"LiveKit (open‑source)", "website_url":"https://livekit.io", "slug":"livekit-open-source" }
+{ "name":"LiveKit Transcription", "website_url":"https://livekit.io", "slug":"livekit-transcription" }
+{ "name":"LiveKit", "website_url":"https://livekit.io", "slug":"livekit" }
+{ "name":"LivePerson — Voice AI", "website_url":"https://www.liveperson.com", "slug":"liveperson-voice-ai" }
+{ "name":"LJSpeech (TTS, alignment aux)", "website_url":"https://keithito.com/LJ-Speech-Dataset/", "slug":"ljspeech-tts-alignment-aux" }
+{ "name":"LJSpeech", "website_url":"https://keithito.com/LJ-Speech-Dataset/", "slug":"ljspeech" }
+{ "name":"Lookback — Transcriptions", "website_url":"https://lookback.io", "slug":"lookback-transcriptions" }
+{ "name":"Loom — Transcripts", "website_url":"https://www.loom.com", "slug":"loom-transcripts" }
+{ "name":"LOVO.ai (Genny)", "website_url":"https://lovo.ai", "slug":"lovo-ai-genny" }
+{ "name":"Lovo — Voice AI (with STT features in workflow)", "website_url":"https://www.lovo.ai", "slug":"lovo-voice-ai-with-stt-features-in-workflow" }
+{ "name":"Luma Dream Machine", "website_url":"https://lumalabs.ai/dream-machine", "slug":"luma-dream-machine" }
+{ "name":"LumenVox ASR", "website_url":"https://www.lumenvox.com", "slug":"lumenvox-asr" }
+{ "name":"LXT — AI Data", "website_url":"https://www.lxt.ai", "slug":"lxt-ai-data" }
+{ "name":"M-AILABS Speech Dataset", "website_url":"https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/", "slug":"m-ailabs-speech-dataset" }
+{ "name":"MacCaption/CaptionMaker (Telestream)", "website_url":"https://www.telestream.net/captioning/overview.htm", "slug":"maccaption-captionmaker-telestream" }
+{ "name":"macOS — Live Captions", "website_url":"https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac", "slug":"macos-live-captions" }
+{ "name":"MacWhisper (GUI for Whisper)", "website_url":"https://www.macwhisper.com", "slug":"macwhisper-gui-for-whisper" }
+{ "name":"MacWhisper", "website_url":"https://goodsnooze.gumroad.com/l/macwhisper", "slug":"macwhisper" }
+{ "name":"Maestra — Auto Subtitles & Dubbing", "website_url":"https://maestra.ai", "slug":"maestra-auto-subtitles-dubbing" }
+{ "name":"Maestra — Auto Subtitles & Transcription", "website_url":"https://maestra.ai", "slug":"maestra-auto-subtitles-transcription" }
+{ "name":"Maestra (Subtitles & Dubbing)", "website_url":"https://maestra.ai", "slug":"maestra-subtitles-dubbing" }
+{ "name":"Marchex — Call Analytics", "website_url":"https://www.marchex.com", "slug":"marchex-call-analytics" }
+{ "name":"Marchex — Conversation Intelligence", "website_url":"https://www.marchex.com", "slug":"marchex-conversation-intelligence" }
+{ "name":"Marsview — Meeting AI", "website_url":"https://www.marsview.ai", "slug":"marsview-meeting-ai" }
+{ "name":"MAXQDA Transcription", "website_url":"https://www.maxqda.com", "slug":"maxqda-transcription" }
+{ "name":"Medallia Speech (Voci)", "website_url":"https://www.medallia.com", "slug":"medallia-speech-voci" }
+{ "name":"Medallia Speech", "website_url":"https://www.medallia.com", "slug":"medallia-speech" }
+{ "name":"Media.io Auto Subtitle", "website_url":"https://www.media.io/auto-subtitle.html", "slug":"media-io-auto-subtitle" }
+{ "name":"MediaKind — Caption workflows", "website_url":"https://www.mediakind.com", "slug":"mediakind-caption-workflows" }
+{ "name":"Mediasite (Sonic Foundry) — Captions", "website_url":"https://mediasite.com", "slug":"mediasite-sonic-foundry-captions" }
+{ "name":"MeetGeek (additional)", "website_url":"https://www.meetgeek.ai", "slug":"meetgeek-additional" }
+{ "name":"MeetGeek.ai", "website_url":"https://meetgeek.ai", "slug":"meetgeek-ai" }
+{ "name":"MeetGeek", "website_url":"https://www.meetgeek.ai", "slug":"meetgeek" }
+{ "name":"MeetRecord", "website_url":"https://www.meetrecord.com", "slug":"meetrecord" }
+{ "name":"Meltwater — Media Intelligence", "website_url":"https://www.meltwater.com", "slug":"meltwater-media-intelligence" }
+{ "name":"Memrise — Speaking", "website_url":"https://www.memrise.com", "slug":"memrise-speaking" }
+{ "name":"MessageBird Voice — Transcription", "website_url":"https://www.messagebird.com/en/voice/", "slug":"messagebird-voice-transcription" }
+{ "name":"MessageBird — Voice (transcripts)", "website_url":"https://www.messagebird.com", "slug":"messagebird-voice-transcripts" }
+{ "name":"MGB Challenge", "website_url":"http://www.mgb-challenge.org", "slug":"mgb-challenge" }
+{ "name":"Microsoft Azure Neural TTS", "website_url":"https://azure.microsoft.com/en-us/products/ai-services/text-to-speech", "slug":"microsoft-azure-neural-tts" }
+{ "name":"Microsoft Azure Speech to Text", "website_url":"https://azure.microsoft.com/services/ai-services/speech-to-text/", "slug":"microsoft-azure-speech-to-text" }
+{ "name":"Microsoft Designer", "website_url":"https://designer.microsoft.com/", "slug":"microsoft-designer" }
+{ "name":"Microsoft Stream (on SharePoint)", "website_url":"https://stream.office.com", "slug":"microsoft-stream-on-sharepoint" }
+{ "name":"Microsoft Stream — Transcripts", "website_url":"https://learn.microsoft.com/stream", "slug":"microsoft-stream-transcripts" }
+{ "name":"Microsoft SwiftKey — Voice Typing", "website_url":"https://support.swiftkey.com", "slug":"microsoft-swiftkey-voice-typing" }
+{ "name":"Microsoft Teams — Intelligent Recap & Transcripts", "website_url":"https://www.microsoft.com/microsoft-teams", "slug":"microsoft-teams-intelligent-recap-transcripts" }
+{ "name":"Microsoft Teams — Live Captions & Transcription", "website_url":"https://www.microsoft.com/microsoft-teams", "slug":"microsoft-teams-live-captions-transcription" }
+{ "name":"Microsoft Teams — Live Captions & Transcripts", "website_url":"https://support.microsoft.com/office/view-live-transcripts-in-teams", "slug":"microsoft-teams-live-captions-transcripts" }
+{ "name":"Microsoft Teams Transcription", "website_url":"https://www.microsoft.com/microsoft-teams", "slug":"microsoft-teams-transcription" }
+{ "name":"Microsoft Translator — Conversations (Captions)", "website_url":"https://www.microsoft.com/translator/business/conversations/", "slug":"microsoft-translator-conversations-captions" }
+{ "name":"Microsoft Translator — Live Captions", "website_url":"https://www.microsoft.com/translator", "slug":"microsoft-translator-live-captions" }
+{ "name":"Microsoft Viva Engage/Stream search", "website_url":"https://learn.microsoft.com/stream", "slug":"microsoft-viva-engage-stream-search" }
+{ "name":"Microsoft Word — Transcribe (Web)", "website_url":"https://support.microsoft.com/office/transcribe-in-word", "slug":"microsoft-word-transcribe-web" }
+{ "name":"Microsoft Word — Transcribe", "website_url":"https://support.microsoft.com/office/transcribe-in-word", "slug":"microsoft-word-transcribe" }
+{ "name":"Midjourney", "website_url":"https://www.midjourney.com/", "slug":"midjourney" }
+{ "name":"Mihup — Voice Analytics", "website_url":"https://www.mihup.com", "slug":"mihup-voice-analytics" }
+{ "name":"Mihup", "website_url":"https://www.mihup.ai", "slug":"mihup" }
+{ "name":"MLS — Multilingual LibriSpeech", "website_url":"https://www.openslr.org/94/", "slug":"mls-multilingual-librispeech" }
+{ "name":"Mobius MD — EHR dictation", "website_url":"https://www.mobius.md", "slug":"mobius-md-ehr-dictation" }
+{ "name":"Modal — Serverless GPUs (Whisper)", "website_url":"https://modal.com", "slug":"modal-serverless-gpus-whisper" }
+{ "name":"Modal — Serverless Inference", "website_url":"https://modal.com", "slug":"modal-serverless-inference" }
+{ "name":"modfy.video — Auto Captions", "website_url":"https://www.modfy.video", "slug":"modfy-video-auto-captions" }
+{ "name":"Modjo", "website_url":"https://www.modjo.ai", "slug":"modjo" }
+{ "name":"Mondly — Speech Recognition", "website_url":"https://www.mondly.com", "slug":"mondly-speech-recognition" }
+{ "name":"montreal-forced-aligner (MFA)", "website_url":"https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner", "slug":"montreal-forced-aligner-mfa" }
+{ "name":"Mozilla Common Voice", "website_url":"https://commonvoice.mozilla.org", "slug":"mozilla-common-voice" }
+{ "name":"Mozilla DeepSpeech (archived)", "website_url":"https://github.com/mozilla/DeepSpeech", "slug":"mozilla-deepspeech-archived" }
+{ "name":"Mozilla DeepSpeech", "website_url":"https://github.com/mozilla/DeepSpeech", "slug":"mozilla-deepspeech" }
+{ "name":"Mozn — AI (Arabic)", "website_url":"https://mozn.com", "slug":"mozn-ai-arabic" }
+{ "name":"Multilingual LibriSpeech (MLS)", "website_url":"https://www.openslr.org/94/", "slug":"multilingual-librispeech-mls" }
+{ "name":"Murf AI", "website_url":"https://murf.ai", "slug":"murf-ai" }
+{ "name":"Mux — Video APIs (Transcripts via partners)", "website_url":"https://www.mux.com", "slug":"mux-video-apis-transcripts-via-partners" }
+{ "name":"Nabla Copilot", "website_url":"https://www.nabla.com", "slug":"nabla-copilot" }
+{ "name":"National Captioning Institute (NCI)", "website_url":"https://www.ncicap.org", "slug":"national-captioning-institute-nci" }
+{ "name":"NAVER CLOVA — Clova Note", "website_url":"https://clovanote.naver.com", "slug":"naver-clova-clova-note" }
+{ "name":"NAVER CLOVA Speech Recognition", "website_url":"https://clova.ai", "slug":"naver-clova-speech-recognition" }
+{ "name":"NCI (additional)", "website_url":"https://www.ncicap.org", "slug":"nci-additional" }
+{ "name":"NCI — National Captioning Institute", "website_url":"https://www.ncicap.org", "slug":"nci-national-captioning-institute" }
+{ "name":"Nemo Guardrails (adjacent, pipelines)", "website_url":"https://github.com/NVIDIA/NeMo-Guardrails", "slug":"nemo-guardrails-adjacent-pipelines" }
+{ "name":"Newsbridge for News", "website_url":"https://newsbridge.io", "slug":"newsbridge-for-news" }
+{ "name":"Newsbridge — MXT1", "website_url":"https://newsbridge.io", "slug":"newsbridge-mxt1" }
+{ "name":"Newsbyte/Newsbridge (additional)", "website_url":"https://newsbridge.io", "slug":"newsbyte-newsbridge-additional" }
+{ "name":"Nexmo (Vonage) — add'l voice", "website_url":"https://www.vonage.com/communications-apis/", "slug":"nexmo-vonage-add-l-voice" }
+{ "name":"Nextiva — Conversation AI", "website_url":"https://www.nextiva.com", "slug":"nextiva-conversation-ai" }
+{ "name":"NICE Compliance Recording (NTR)", "website_url":"https://www.nice.com", "slug":"nice-compliance-recording-ntr" }
+{ "name":"NICE CXone — Transcription & Analytics", "website_url":"https://www.nice.com/products/real-time-authentication/cxone", "slug":"nice-cxone-transcription-analytics" }
+{ "name":"NICE Engage — Recording", "website_url":"https://www.nice.com", "slug":"nice-engage-recording" }
+{ "name":"NICE Enlighten AI / Nexidia Analytics", "website_url":"https://www.nice.com", "slug":"nice-enlighten-ai-nexidia-analytics" }
+{ "name":"NICE Enlighten AI (Nexidia) — Conversation Analytics", "website_url":"https://www.nice.com", "slug":"nice-enlighten-ai-nexidia-conversation-analytics" }
+{ "name":"NICE Nexidia Analytics", "website_url":"https://www.nice.com", "slug":"nice-nexidia-analytics" }
+{ "name":"NICE Nexidia (Enlighten)", "website_url":"https://www.nice.com", "slug":"nice-nexidia-enlighten" }
+{ "name":"NICE Nexidia", "website_url":"https://www.nice.com", "slug":"nice-nexidia" }
+{ "name":"NightCafe Studio", "website_url":"https://creator.nightcafe.studio", "slug":"nightcafe-studio" }
+{ "name":"Notably", "website_url":"https://www.notably.ai", "slug":"notably" }
+{ "name":"Notes by Dubber", "website_url":"https://www.dubber.net/notes/", "slug":"notes-by-dubber" }
+{ "name":"Notion — Audio & AI (via integrations)", "website_url":"https://www.notion.so", "slug":"notion-audio-ai-via-integrations" }
+{ "name":"Notta.ai (additional)", "website_url":"https://www.notta.ai", "slug":"notta-ai-additional" }
+{ "name":"Notta.ai (Personal)", "website_url":"https://www.notta.ai", "slug":"notta-ai-personal" }
+{ "name":"Notta.ai", "website_url":"https://www.notta.ai", "slug":"notta-ai" }
+{ "name":"Notta — Transcription", "website_url":"https://www.notta.ai", "slug":"notta-transcription" }
+{ "name":"Noty.ai", "website_url":"https://noty.ai", "slug":"noty-ai" }
+{ "name":"Nova A.I.", "website_url":"https://www.nova-ai.co", "slug":"nova-a-i" }
+{ "name":"Nuance DAX Copilot", "website_url":"https://www.nuance.com/healthcare/ambient-clinical-intelligence.html", "slug":"nuance-dax-copilot" }
+{ "name":"Nuance Dragon Legal (non‑medical)", "website_url":"https://www.nuance.com/dragon/business-solutions/dragon-legal-anywhere.html", "slug":"nuance-dragon-legal-non-medical" }
+{ "name":"Nuance Dragon Medical One", "website_url":"https://www.nuance.com/healthcare/dragon-medical-one.html", "slug":"nuance-dragon-medical-one" }
+{ "name":"Nuance Dragon Professional Anywhere", "website_url":"https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html", "slug":"nuance-dragon-professional-anywhere" }
+{ "name":"Nuance Dragon Professional (legacy)", "website_url":"https://www.nuance.com/dragon.html", "slug":"nuance-dragon-professional-legacy" }
+{ "name":"Nuance Dragon Professional", "website_url":"https://www.nuance.com/dragon.html", "slug":"nuance-dragon-professional" }
+{ "name":"Nuance Gatekeeper — Voice Biometrics", "website_url":"https://www.nuance.com/omni-channel-customer-engagement/biometrics.html", "slug":"nuance-gatekeeper-voice-biometrics" }
+{ "name":"Nuance Recognizer (enterprise)", "website_url":"https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/recognizer.html", "slug":"nuance-recognizer-enterprise" }
+{ "name":"Nuance Recognizer (on‑prem)", "website_url":"https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/recognizer.html", "slug":"nuance-recognizer-on-prem" }
+{ "name":"NuEcho — Voice & ASR Solutions", "website_url":"https://www.nuecho.com", "slug":"nuecho-voice-asr-solutions" }
+{ "name":"NVIDIA Maxine Audio Effects (adjacent)", "website_url":"https://developer.nvidia.com/maxine", "slug":"nvidia-maxine-audio-effects-adjacent" }
+{ "name":"NVIDIA Maxine Audio Effects", "website_url":"https://developer.nvidia.com/maxine", "slug":"nvidia-maxine-audio-effects" }
+{ "name":"NVIDIA NeMo (ASR collections)", "website_url":"https://github.com/NVIDIA/NeMo", "slug":"nvidia-nemo-asr-collections" }
+{ "name":"NVIDIA NeMo (ASR toolkit)", "website_url":"https://developer.nvidia.com/nvidia-nemo", "slug":"nvidia-nemo-asr-toolkit" }
+{ "name":"NVIDIA NeMo ASR", "website_url":"https://github.com/NVIDIA/NeMo", "slug":"nvidia-nemo-asr" }
+{ "name":"NVIDIA NeMo (open‑source)", "website_url":"https://github.com/NVIDIA/NeMo", "slug":"nvidia-nemo-open-source" }
+{ "name":"NVIDIA Riva (additional)", "website_url":"https://developer.nvidia.com/riva", "slug":"nvidia-riva-additional" }
+{ "name":"NVIDIA Riva — ASR SDK", "website_url":"https://developer.nvidia.com/riva", "slug":"nvidia-riva-asr-sdk" }
+{ "name":"NVIDIA Riva ASR", "website_url":"https://developer.nvidia.com/riva", "slug":"nvidia-riva-asr" }
+{ "name":"NVIDIA Riva — Speech ASR", "website_url":"https://developer.nvidia.com/riva", "slug":"nvidia-riva-speech-asr" }
+{ "name":"NVivo Transcription", "website_url":"https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/resources/nvivo-transcription", "slug":"nvivo-transcription" }
+{ "name":"nVoq — Voice Recognition", "website_url":"https://www.nvoq.com", "slug":"nvoq-voice-recognition" }
+{ "name":"nVoq Voice", "website_url":"https://www.nvoq.com", "slug":"nvoq-voice" }
+{ "name":"OBS Plugins (Caption integrations)", "website_url":"https://obsproject.com", "slug":"obs-plugins-caption-integrations" }
+{ "name":"Observe.AI — Conversation Intelligence", "website_url":"https://www.observe.ai", "slug":"observe-ai-conversation-intelligence" }
+{ "name":"Observe.AI", "website_url":"https://www.observe.ai", "slug":"observe-ai" }
+{ "name":"Ofcom — Subtitling Reports (UK)", "website_url":"https://www.ofcom.org.uk", "slug":"ofcom-subtitling-reports-uk" }
+{ "name":"Omilia — ODASR", "website_url":"https://www.omilia.com", "slug":"omilia-odasr" }
+{ "name":"ON24 — Webcasts (captions)", "website_url":"https://www.on24.com", "slug":"on24-webcasts-captions" }
+{ "name":"One AI — Transcription & Language Skills", "website_url":"https://www.oneai.com", "slug":"one-ai-transcription-language-skills" }
+{ "name":"OneReach.ai — Voice Bots", "website_url":"https://onereach.ai", "slug":"onereach-ai-voice-bots" }
+{ "name":"Onfido Voice (adjacent)", "website_url":"https://onfido.com", "slug":"onfido-voice-adjacent" }
+{ "name":"OOONA — Subtitling Platform", "website_url":"https://ooona.net", "slug":"ooona-subtitling-platform" }
+{ "name":"OOONA Tools", "website_url":"https://ooona.net", "slug":"ooona-tools" }
+{ "name":"OOONA", "website_url":"https://ooona.net", "slug":"ooona" }
+{ "name":"OpenAI Audio Transcriptions API", "website_url":"https://platform.openai.com/docs/guides/speech-to-text", "slug":"openai-audio-transcriptions-api" }
+{ "name":"OpenAI DALL·E 3", "website_url":"https://openai.com/dall-e-3/", "slug":"openai-dall-e-3" }
+{ "name":"OpenAI Sora", "website_url":"https://openai.com/sora", "slug":"openai-sora" }
+{ "name":"OpenAI Text-to-Speech (API)", "website_url":"https://platform.openai.com/docs/guides/text-to-speech", "slug":"openai-text-to-speech-api" }
+{ "name":"OpenAI — Transcriptions API (Whisper)", "website_url":"https://platform.openai.com/docs/guides/speech-to-text", "slug":"openai-transcriptions-api-whisper" }
+{ "name":"OpenAI Whisper API (additional)", "website_url":"https://platform.openai.com/docs/guides/speech-to-text", "slug":"openai-whisper-api-additional" }
+{ "name":"OpenAI — Whisper API (Transcription)", "website_url":"https://platform.openai.com/docs/guides/speech-to-text", "slug":"openai-whisper-api-transcription" }
+{ "name":"OpenAI Whisper API", "website_url":"https://platform.openai.com/docs/guides/speech-to-text", "slug":"openai-whisper-api" }
+{ "name":"OpenAI Whisper (open‑source)", "website_url":"https://github.com/openai/whisper", "slug":"openai-whisper-open-source" }
+{ "name":"OpenAI Whisper", "website_url":"https://github.com/openai/whisper", "slug":"openai-whisper" }
+{ "name":"OpenASR Leaderboard (ESPnet)", "website_url":"https://openslr.org/resources/119/", "slug":"openasr-leaderboard-espnet" }
+{ "name":"Opencast", "website_url":"https://opencast.org", "slug":"opencast" }
+{ "name":"OpenDevin", "website_url":"https://opendevin.org", "slug":"opendevin" }
+{ "name":"OpenPhone — Call Transcripts", "website_url":"https://www.openphone.com", "slug":"openphone-call-transcripts" }
+{ "name":"OpenSpeech", "website_url":"https://github.com/openspeech-team/openspeech", "slug":"openspeech" }
+{ "name":"OpenText — Qfiniti (via Micro Focus/HP heritage)", "website_url":"https://www.opentext.com", "slug":"opentext-qfiniti-via-micro-focus-hp-heritage" }
+{ "name":"OpenVINO Whisper optimizations", "website_url":"https://github.com/openvinotoolkit/openvino_contrib", "slug":"openvino-whisper-optimizations" }
+{ "name":"OpenVINO Whisper samples", "website_url":"https://github.com/openvinotoolkit/openvino_notebooks", "slug":"openvino-whisper-samples" }
+{ "name":"OpusClip", "website_url":"https://www.opus.pro", "slug":"opusclip" }
+{ "name":"Oracle Cloud — OCI Speech", "website_url":"https://www.oracle.com/artificial-intelligence/speech/", "slug":"oracle-cloud-oci-speech" }
+{ "name":"OrecX — Open Recording (adjacent)", "website_url":"https://www.orecx.com", "slug":"orecx-open-recording-adjacent" }
+{ "name":"OrecX (OpenSource Recording)", "website_url":"https://www.orecx.com", "slug":"orecx-opensource-recording" }
+{ "name":"oTranscribe (open‑source)", "website_url":"https://otranscribe.com", "slug":"otranscribe-open-source" }
+{ "name":"oTranscribe (web)", "website_url":"https://otranscribe.com", "slug":"otranscribe-web" }
+{ "name":"Otter.ai — Mobile", "website_url":"https://otter.ai", "slug":"otter-ai-mobile" }
+{ "name":"Otter.ai — Teams (additional)", "website_url":"https://otter.ai", "slug":"otter-ai-teams-additional" }
+{ "name":"Otter.ai — Teams", "website_url":"https://otter.ai", "slug":"otter-ai-teams" }
+{ "name":"Otter.ai", "website_url":"https://otter.ai", "slug":"otter-ai" }
+{ "name":"Otter for Education", "website_url":"https://otter.ai/education", "slug":"otter-for-education" }
+{ "name":"Otter Live for Zoom (integration)", "website_url":"https://help.otter.ai/hc/en-us/articles/360050948953", "slug":"otter-live-for-zoom-integration" }
+{ "name":"Otter — Mobile", "website_url":"https://otter.ai", "slug":"otter-mobile" }
+{ "name":"Outreach Kaia", "website_url":"https://www.outreach.io/solutions/kaia", "slug":"outreach-kaia" }
+{ "name":"PaddleSpeech (ASR)", "website_url":"https://github.com/PaddlePaddle/PaddleSpeech", "slug":"paddlespeech-asr" }
+{ "name":"Panopto (Auto Captions)", "website_url":"https://www.panopto.com", "slug":"panopto-auto-captions" }
+{ "name":"Panopto — Captions & Transcripts", "website_url":"https://www.panopto.com", "slug":"panopto-captions-transcripts" }
+{ "name":"Panopto — Video Platform", "website_url":"https://www.panopto.com", "slug":"panopto-video-platform" }
+{ "name":"Papercup — AI Dubbing", "website_url":"https://www.papercup.com", "slug":"papercup-ai-dubbing" }
+{ "name":"Papercup (Dubbing with transcription)", "website_url":"https://www.papercup.com", "slug":"papercup-dubbing-with-transcription" }
+{ "name":"Papercup", "website_url":"https://www.papercup.com", "slug":"papercup" }
+{ "name":"Parlatype", "website_url":"https://parlatype.github.io", "slug":"parlatype" }
+{ "name":"Parrot.ai — Legal Transcription", "website_url":"https://www.parrot.ai", "slug":"parrot-ai-legal-transcription" }
+{ "name":"Pexip — Captions & Transcripts", "website_url":"https://www.pexip.com", "slug":"pexip-captions-transcripts" }
+{ "name":"Philips SpeechLive", "website_url":"https://www.speechlive.com", "slug":"philips-speechlive" }
+{ "name":"Phind", "website_url":"https://www.phind.com", "slug":"phind" }
+{ "name":"Phonexia Speech Platform", "website_url":"https://www.phonexia.com", "slug":"phonexia-speech-platform" }
+{ "name":"Phonexia Speech Recognition", "website_url":"https://www.phonexia.com", "slug":"phonexia-speech-recognition" }
+{ "name":"Picovoice Console — Leopard ASR", "website_url":"https://picovoice.ai/platform/leopard/", "slug":"picovoice-console-leopard-asr" }
+{ "name":"Picovoice Leopard (additional)", "website_url":"https://picovoice.ai/platform/leopard/", "slug":"picovoice-leopard-additional" }
+{ "name":"Picovoice Leopard — Offline ASR", "website_url":"https://picovoice.ai/platform/leopard/", "slug":"picovoice-leopard-offline-asr" }
+{ "name":"Picovoice Leopard", "website_url":"https://picovoice.ai/platform/leopard/", "slug":"picovoice-leopard" }
+{ "name":"Picovoice Web SDK — STT (Leopard)", "website_url":"https://picovoice.ai", "slug":"picovoice-web-sdk-stt-leopard" }
+{ "name":"Picsart AI Image Generator", "website_url":"https://picsart.com/ai-image-generator/", "slug":"picsart-ai-image-generator" }
+{ "name":"Pictory — Captions", "website_url":"https://pictory.ai", "slug":"pictory-captions" }
+{ "name":"Pieces for Developers", "website_url":"https://pieces.app", "slug":"pieces" }
+{ "name":"Pika", "website_url":"https://pika.art", "slug":"pika" }
+{ "name":"Pindrop (additional)", "website_url":"https://www.pindrop.com", "slug":"pindrop-additional" }
+{ "name":"Pindrop — Voice Intelligence (ASR-adjacent)", "website_url":"https://www.pindrop.com", "slug":"pindrop-voice-intelligence-asr-adjacent" }
+{ "name":"PixVerse", "website_url":"https://pixverse.ai", "slug":"pixverse" }
+{ "name":"Playground AI", "website_url":"https://playgroundai.com", "slug":"playground-ai" }
+{ "name":"PlayHT", "website_url":"https://play.ht", "slug":"playht" }
+{ "name":"Plivo — Speech Recognition", "website_url":"https://www.plivo.com", "slug":"plivo-speech-recognition" }
+{ "name":"Plivo — Voice API (STT via integrations)", "website_url":"https://www.plivo.com", "slug":"plivo-voice-api-stt-via-integrations" }
+{ "name":"Podbean (additional)", "website_url":"https://www.podbean.com", "slug":"podbean-additional" }
+{ "name":"Podbean — Transcription", "website_url":"https://www.podbean.com", "slug":"podbean-transcription" }
+{ "name":"Podbean — Transcripts", "website_url":"https://www.podbean.com", "slug":"podbean-transcripts" }
+{ "name":"Podbean", "website_url":"https://www.podbean.com", "slug":"podbean" }
+{ "name":"Podcastle (additional)", "website_url":"https://podcastle.ai", "slug":"podcastle-additional" }
+{ "name":"Podcastle AI (Transcription)", "website_url":"https://podcastle.ai", "slug":"podcastle-ai-transcription" }
+{ "name":"Podcastle — Recording & Transcription", "website_url":"https://podcastle.ai", "slug":"podcastle-recording-transcription" }
+{ "name":"Podcastle", "website_url":"https://podcastle.ai", "slug":"podcastle" }
+{ "name":"Podscribe.ai — Podcast Transcripts", "website_url":"https://podscribe.ai", "slug":"podscribe-ai-podcast-transcripts" }
+{ "name":"PolyAI — Voice Assistants", "website_url":"https://poly.ai", "slug":"polyai-voice-assistants" }
+{ "name":"PowerPoint Live Captions & Subtitles", "website_url":"https://support.microsoft.com/office/present-with-live-captions-and-subtitles", "slug":"powerpoint-live-captions-subtitles" }
+{ "name":"PowerPoint — Live Captions", "website_url":"https://support.microsoft.com/office/present-with-live-captions", "slug":"powerpoint-live-captions" }
+{ "name":"ProCAT Winner", "website_url":"https://www.procat.com", "slug":"procat-winner" }
+{ "name":"pyannote.audio — Diarization", "website_url":"https://github.com/pyannote/pyannote-audio", "slug":"pyannote-audio-diarization" }
+{ "name":"pyannote.audio (VAD/diarization)", "website_url":"https://github.com/pyannote/pyannote-audio", "slug":"pyannote-audio-vad-diarization" }
+{ "name":"pyannote.audio", "website_url":"https://github.com/pyannote/pyannote-audio", "slug":"pyannote-audio" }
+{ "name":"Python SpeechRecognition (library)", "website_url":"https://pypi.org/project/SpeechRecognition/", "slug":"python-speechrecognition-library" }
+{ "name":"Qumu (Enghouse) — Enterprise Video", "website_url":"https://www.qumu.com", "slug":"qumu-enghouse-enterprise-video" }
+{ "name":"Rasa — Open Source (with STT connectors)", "website_url":"https://rasa.com", "slug":"rasa-open-source-with-stt-connectors" }
+{ "name":"Rask AI — Video Translate", "website_url":"https://www.rask.ai", "slug":"rask-ai-video-translate" }
+{ "name":"Rask AI", "website_url":"https://www.rask.ai", "slug":"rask-ai" }
+{ "name":"ReachDeck (Texthelp)", "website_url":"https://www.texthelp.com", "slug":"reachdeck-texthelp" }
+{ "name":"Read.ai", "website_url":"https://www.read.ai", "slug":"read-ai" }
+{ "name":"ReadSpeaker", "website_url":"https://www.readspeaker.com", "slug":"readspeaker" }
+{ "name":"Realtime Coach (LearnRealtime)", "website_url":"https://learnrealtime.com", "slug":"realtime-coach-learnrealtime" }
+{ "name":"REAPER (via scripts/plugins)", "website_url":"https://www.reaper.fm", "slug":"reaper-via-scripts-plugins" }
+{ "name":"Recall.ai (additional)", "website_url":"https://recall.ai", "slug":"recall-ai-additional" }
+{ "name":"Recall.ai — Recording Infrastructure", "website_url":"https://recall.ai", "slug":"recall-ai-recording-infrastructure" }
+{ "name":"Recall.ai", "website_url":"https://recall.ai", "slug":"recall-ai" }
+{ "name":"RecCloud — Transcribe", "website_url":"https://www.reccool.com", "slug":"reccloud-transcribe" }
+{ "name":"Red Bee Media — Access Services", "website_url":"https://www.redbeemedia.com", "slug":"red-bee-media-access-services" }
+{ "name":"Red Box (Quantify)", "website_url":"https://www.redboxvoice.com", "slug":"red-box-quantify" }
+{ "name":"Reduct.Video — Transcripts Editing", "website_url":"https://reduct.video", "slug":"reduct-video-transcripts-editing" }
+{ "name":"Reduct.Video", "website_url":"https://reduct.video", "slug":"reduct-video" }
+{ "name":"Refact AI", "website_url":"https://refact.ai", "slug":"refact-ai" }
+{ "name":"Replicate — ASR models", "website_url":"https://replicate.com", "slug":"replicate-asr-models" }
+{ "name":"Replicate — Whisper & ASR models", "website_url":"https://replicate.com", "slug":"replicate-whisper-asr-models" }
+{ "name":"Replit AI (Agent)", "website_url":"https://replit.com/ai", "slug":"replit-ai-agent" }
+{ "name":"Resemble AI", "website_url":"https://www.resemble.ai", "slug":"resemble-ai" }
+{ "name":"Resemblyzer (embeddings)", "website_url":"https://github.com/resemble-ai/Resemblyzer", "slug":"resemblyzer-embeddings" }
+{ "name":"Resound", "website_url":"https://www.resound.fm", "slug":"resound" }
+{ "name":"Retell AI — Voice Agent Platform", "website_url":"https://www.retellai.com", "slug":"retell-ai-voice-agent-platform" }
+{ "name":"Rev AI (additional)", "website_url":"https://www.rev.ai", "slug":"rev-ai-additional" }
+{ "name":"Rev AI — APIs", "website_url":"https://www.rev.ai", "slug":"rev-ai-apis" }
+{ "name":"Rev AI Speech-to-Text API", "website_url":"https://www.rev.ai", "slug":"rev-ai-speech-to-text-api" }
+{ "name":"Rev AI — Speech‑to‑Text", "website_url":"https://www.rev.ai", "slug":"rev-ai-speech-to-text" }
+{ "name":"Rev AI", "website_url":"https://www.rev.ai", "slug":"rev-ai" }
+{ "name":"Rev — Captions for Education", "website_url":"https://www.rev.com/caption/education", "slug":"rev-captions-for-education" }
+{ "name":"Rev — Human & AI Transcription", "website_url":"https://www.rev.com", "slug":"rev-human-ai-transcription" }
+{ "name":"Rev (Human Transcription & Captions)", "website_url":"https://www.rev.com", "slug":"rev-human-transcription-captions" }
+{ "name":"Rev — Live Captions for Zoom (additional)", "website_url":"https://www.rev.com/zoom-live-captions", "slug":"rev-live-captions-for-zoom-additional" }
+{ "name":"Rev — Transcription & Captions", "website_url":"https://www.rev.com", "slug":"rev-transcription-captions" }
+{ "name":"Revenue.io (RingDNA) — Conversation AI", "website_url":"https://www.revenue.io", "slug":"revenue-io-ringdna-conversation-ai" }
+{ "name":"Rewatch (additional)", "website_url":"https://www.rewatch.com", "slug":"rewatch-additional" }
+{ "name":"Rewatch — Video Knowledge Base", "website_url":"https://www.rewatch.com", "slug":"rewatch-video-knowledge-base" }
+{ "name":"Rewatch", "website_url":"https://www.rewatch.com", "slug":"rewatch" }
+{ "name":"RingCentral Contact Center", "website_url":"https://www.ringcentral.com", "slug":"ringcentral-contact-center" }
+{ "name":"RingCentral — Live Transcription", "website_url":"https://www.ringcentral.com", "slug":"ringcentral-live-transcription" }
+{ "name":"RingCentral MVP — Live Transcription", "website_url":"https://www.ringcentral.com", "slug":"ringcentral-mvp-live-transcription" }
+{ "name":"Ringover (Call Transcription)", "website_url":"https://www.ringover.com", "slug":"ringover-call-transcription" }
+{ "name":"Riverside.fm (additional)", "website_url":"https://riverside.fm", "slug":"riverside-fm-additional" }
+{ "name":"Riverside.fm — Transcripts", "website_url":"https://riverside.fm", "slug":"riverside-fm-transcripts" }
+{ "name":"Riverside.fm", "website_url":"https://riverside.fm", "slug":"riverside-fm" }
+{ "name":"Rogervoice", "website_url":"https://rogervoice.com", "slug":"rogervoice" }
+{ "name":"Rosetta Stone — TruAccent", "website_url":"https://www.rosettastone.com", "slug":"rosetta-stone-truaccent" }
+{ "name":"RSS.com — Podcasting (transcripts)", "website_url":"https://rss.com", "slug":"rss-com-podcasting-transcripts" }
+{ "name":"Rulai — Conversational AI", "website_url":"https://www.rulai.com", "slug":"rulai-conversational-ai" }
+{ "name":"Run.ai — GPU Orchestration", "website_url":"https://www.run.ai", "slug":"run-ai-gpu-orchestration" }
+{ "name":"RunPod — Serverless GPUs", "website_url":"https://www.runpod.io", "slug":"runpod-serverless-gpus" }
+{ "name":"Runway", "website_url":"https://runwayml.com", "slug":"runway-gen4" }
+{ "name":"Runway", "website_url":"https://runwayml.com", "slug":"runway" }
+{ "name":"Rythmex", "website_url":"https://rythmex.com", "slug":"rythmex" }
+{ "name":"SageMaker — Inference Endpoints", "website_url":"https://aws.amazon.com/sagemaker/", "slug":"sagemaker-inference-endpoints" }
+{ "name":"Sakia.ai (Arabic ASR)", "website_url":"https://sakia.ai", "slug":"sakia-ai-arabic-asr" }
+{ "name":"Salesforce — Einstein Conversation Insights", "website_url":"https://www.salesforce.com/products/sales-cloud/features/conversation-intelligence/", "slug":"salesforce-einstein-conversation-insights" }
+{ "name":"Salesken", "website_url":"https://www.salesken.ai", "slug":"salesken" }
+{ "name":"Salesloft Conversations", "website_url":"https://salesloft.com", "slug":"salesloft-conversations" }
+{ "name":"Sama", "website_url":"https://www.sama.com", "slug":"sama" }
+{ "name":"Samsung Keyboard — Voice Input", "website_url":"https://www.samsung.com", "slug":"samsung-keyboard-voice-input" }
+{ "name":"Scale AI — Audio Annotation", "website_url":"https://scale.com", "slug":"scale-ai-audio-annotation" }
+{ "name":"Scale AI — Audio Labeling", "website_url":"https://scale.com", "slug":"scale-ai-audio-labeling" }
+{ "name":"ScreenApp — Screen Recorder with Transcription", "website_url":"https://screenapp.io", "slug":"screenapp-screen-recorder-with-transcription" }
+{ "name":"Scribbl AI (Meeting Notes)", "website_url":"https://www.scribbl.co", "slug":"scribbl-ai-meeting-notes" }
+{ "name":"Scribe — How‑to Docs (integrations)", "website_url":"https://scribehow.com", "slug":"scribe-how-to-docs-integrations" }
+{ "name":"Scribe — Meeting Notes", "website_url":"https://scribehow.com", "slug":"scribe-meeting-notes" }
+{ "name":"Scribendi (Audio)", "website_url":"https://www.scribendi.com", "slug":"scribendi-audio" }
+{ "name":"Scribie — Transcription", "website_url":"https://scribie.com", "slug":"scribie-transcription" }
+{ "name":"Scribie", "website_url":"https://scribie.com", "slug":"scribie" }
+{ "name":"Scriptix Speech-to-Text", "website_url":"https://scriptix.io", "slug":"scriptix-speech-to-text" }
+{ "name":"SCTK/sclite (additional)", "website_url":"https://github.com/usnistgov/SCTK", "slug":"sctk-sclite-additional" }
+{ "name":"SCTK/sclite (NIST)", "website_url":"https://github.com/usnistgov/SCTK", "slug":"sctk-sclite-nist" }
+{ "name":"SCTK/sclite (open‑source)", "website_url":"https://github.com/usnistgov/SCTK", "slug":"sctk-sclite-open-source" }
+{ "name":"SCTK/sclite", "website_url":"https://github.com/usnistgov/SCTK", "slug":"sctk-sclite" }
+{ "name":"SeamlessM4T (ASR component)", "website_url":"https://github.com/facebookresearch/seamless_communication", "slug":"seamlessm4t-asr-component" }
+{ "name":"Searchie", "website_url":"https://searchie.io", "slug":"searchie" }
+{ "name":"Seeking Alpha — Transcripts", "website_url":"https://seekingalpha.com/transcripts", "slug":"seeking-alpha-transcripts" }
+{ "name":"Sembly AI (additional)", "website_url":"https://www.sembly.ai", "slug":"sembly-ai-additional" }
+{ "name":"Sembly AI — Meetings", "website_url":"https://www.sembly.ai", "slug":"sembly-ai-meetings" }
+{ "name":"Sembly AI", "website_url":"https://www.sembly.ai", "slug":"sembly-ai" }
+{ "name":"Sembly Team Connect", "website_url":"https://www.sembly.ai", "slug":"sembly-team-connect" }
+{ "name":"Sensory — Speech Recognition", "website_url":"https://www.sensory.com", "slug":"sensory-speech-recognition" }
+{ "name":"Sensory TrulyHandsfree + ASR (additional)", "website_url":"https://www.sensory.com", "slug":"sensory-trulyhandsfree-asr-additional" }
+{ "name":"Sensory VoiceHub (ASR)", "website_url":"https://www.sensory.com/voicehub/", "slug":"sensory-voicehub-asr" }
+{ "name":"Sentieo (AlphaSense) — Transcripts", "website_url":"https://www.sentieo.com", "slug":"sentieo-alphasense-transcripts" }
+{ "name":"SermonAudio — Transcripts", "website_url":"https://www.sermonaudio.com", "slug":"sermonaudio-transcripts" }
+{ "name":"Sestek — Speech Recognition", "website_url":"https://www.sestek.com", "slug":"sestek-speech-recognition" }
+{ "name":"sherpa (k2‑fsa)", "website_url":"https://github.com/k2-fsa/sherpa", "slug":"sherpa-k2-fsa" }
+{ "name":"SIGCHI — Accessibility Guidelines", "website_url":"https://sigchi.org", "slug":"sigchi-accessibility-guidelines" }
+{ "name":"SignalWire — Transcription", "website_url":"https://signalwire.com", "slug":"signalwire-transcription" }
+{ "name":"Silero VAD (open‑source)", "website_url":"https://github.com/snakers4/silero-vad", "slug":"silero-vad-open-source" }
+{ "name":"Simon Says (additional utilities)", "website_url":"https://www.simonsays.ai", "slug":"simon-says-additional-utilities" }
+{ "name":"Simon Says", "website_url":"https://www.simonsays.ai", "slug":"simon-says" }
+{ "name":"Simplecast — Transcripts", "website_url":"https://simplecast.com", "slug":"simplecast-transcripts" }
+{ "name":"Sinch — Voice APIs (caption workflows)", "website_url":"https://www.sinch.com", "slug":"sinch-voice-apis-caption-workflows" }
+{ "name":"Sinch Voice — Transcription", "website_url":"https://www.sinch.com", "slug":"sinch-voice-transcription" }
+{ "name":"Skit.ai — Contact Center Voice AI (additional)", "website_url":"https://www.skit.ai", "slug":"skit-ai-contact-center-voice-ai-additional" }
+{ "name":"Skit.ai (formerly Vernacular.ai)", "website_url":"https://www.skit.ai", "slug":"skit-ai-formerly-vernacular-ai" }
+{ "name":"Slack Huddles — Live Captions", "website_url":"https://slack.com", "slug":"slack-huddles-live-captions" }
+{ "name":"Smarsh — Capture & Supervision", "website_url":"https://www.smarsh.com", "slug":"smarsh-capture-supervision" }
+{ "name":"SoapBox Labs — Kids' Speech Recognition", "website_url":"https://www.soapboxlabs.com", "slug":"soapbox-labs-kids-speech-recognition" }
+{ "name":"Soniox — ASR API", "website_url":"https://soniox.com", "slug":"soniox-asr-api" }
+{ "name":"Soniox — Speech-to-Text", "website_url":"https://soniox.com", "slug":"soniox-speech-to-text" }
+{ "name":"Soniox", "website_url":"https://soniox.com", "slug":"soniox" }
+{ "name":"Sonix.ai — Transcription", "website_url":"https://sonix.ai", "slug":"sonix-ai-transcription" }
+{ "name":"Sonix.ai", "website_url":"https://sonix.ai", "slug":"sonix-ai" }
+{ "name":"Sonix", "website_url":"https://sonix.ai", "slug":"sonix" }
+{ "name":"SoundHound (Houndify) — Speech-to-Meaning", "website_url":"https://www.soundhound.com", "slug":"soundhound-houndify-speech-to-meaning" }
+{ "name":"Sourcegraph Cody", "website_url":"https://sourcegraph.com/", "slug":"sourcegraph-cody" }
+{ "name":"Speak Ai — Transcription & Analysis", "website_url":"https://speakai.co", "slug":"speak-ai-transcription-analysis" }
+{ "name":"Speak Ai — Transcription & Research", "website_url":"https://speakai.co", "slug":"speak-ai-transcription-research" }
+{ "name":"Speak Ai", "website_url":"https://speakai.co", "slug":"speak-ai" }
+{ "name":"SpeakWrite — Transcription", "website_url":"https://speakwrite.com", "slug":"speakwrite-transcription" }
+{ "name":"SpeechAce (additional)", "website_url":"https://speechace.com", "slug":"speechace-additional" }
+{ "name":"SpeechAce — Pronunciation Scoring", "website_url":"https://speechace.com", "slug":"speechace-pronunciation-scoring" }
+{ "name":"SpeechBrain (open‑source)", "website_url":"https://speechbrain.github.io", "slug":"speechbrain-open-source" }
+{ "name":"SpeechBrain", "website_url":"https://speechbrain.github.io", "slug":"speechbrain" }
+{ "name":"Speechelo (adjacent TTS)", "website_url":"https://speechelo.com", "slug":"speechelo-adjacent-tts" }
+{ "name":"Speechly (developer platform)", "website_url":"https://www.speechly.com", "slug":"speechly-developer-platform" }
+{ "name":"Speechly — Real-time Voice UI", "website_url":"https://www.speechly.com", "slug":"speechly-real-time-voice-ui" }
+{ "name":"Speechmatics (additional)", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-additional" }
+{ "name":"Speechmatics — Any‑Dialect", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-any-dialect" }
+{ "name":"Speechmatics — ASR API", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-asr-api" }
+{ "name":"Speechmatics ASR", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-asr" }
+{ "name":"Speechmatics — Containers (additional)", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-containers-additional" }
+{ "name":"Speechmatics for News", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-for-news" }
+{ "name":"Speechmatics (On-prem)", "website_url":"https://www.speechmatics.com/products/any-context-speech-recognition/on-premise", "slug":"speechmatics-on-prem" }
+{ "name":"Speechmatics — Real-Time & Batch", "website_url":"https://www.speechmatics.com", "slug":"speechmatics-real-time-batch" }
+{ "name":"Speechmatics", "website_url":"https://www.speechmatics.com", "slug":"speechmatics" }
+{ "name":"Speechnotes (Android)", "website_url":"https://speechnotes.co", "slug":"speechnotes-android" }
+{ "name":"Speechnotes", "website_url":"https://speechnotes.co", "slug":"speechnotes" }
+{ "name":"SpeechOcean — Multilingual Data (ASR)", "website_url":"https://en.speechocean.com", "slug":"speechocean-multilingual-data-asr" }
+{ "name":"SpeechOcean — Speech Data", "website_url":"https://en.speechocean.com", "slug":"speechocean-speech-data" }
+{ "name":"Speechpad", "website_url":"https://www.speechpad.com", "slug":"speechpad" }
+{ "name":"SpeechText.AI", "website_url":"https://speechtext.ai", "slug":"speechtext-ai" }
+{ "name":"SpeechTexter", "website_url":"https://www.speechtexter.com", "slug":"speechtexter" }
+{ "name":"spf.io — Live Captions & Translation", "website_url":"https://www.spf.io", "slug":"spf-io-live-captions-translation" }
+{ "name":"Spitch (DACH) — ASR", "website_url":"https://spitch.ai", "slug":"spitch-dach-asr" }
+{ "name":"Spitch", "website_url":"https://spitch.ai", "slug":"spitch" }
+{ "name":"SpokenData — Transcription", "website_url":"https://www.spokendata.com", "slug":"spokendata-transcription" }
+{ "name":"SpokenData", "website_url":"https://www.spokendata.com", "slug":"spokendata" }
+{ "name":"Spokestack — Voice AI", "website_url":"https://spokestack.io", "slug":"spokestack-voice-ai" }
+{ "name":"Spokestack", "website_url":"https://www.spokestack.io", "slug":"spokestack" }
+{ "name":"Spotify for Podcasters — Auto-Transcripts", "website_url":"https://podcasters.spotify.com", "slug":"spotify-for-podcasters-auto-transcripts" }
+{ "name":"Sprauvek (Nordic speech)", "website_url":"https://www.sprauvek.no", "slug":"sprauvek-nordic-speech" }
+{ "name":"Spreaker (additional)", "website_url":"https://www.spreaker.com", "slug":"spreaker-additional" }
+{ "name":"Spreaker — Hosting (captions)", "website_url":"https://www.spreaker.com", "slug":"spreaker-hosting-captions" }
+{ "name":"SproutVideo (Captions)", "website_url":"https://sproutvideo.com", "slug":"sproutvideo-captions" }
+{ "name":"SquadCast (by Descript)", "website_url":"https://www.squadcast.fm", "slug":"squadcast-by-descript" }
+{ "name":"SquadCast (Descript) — Recording & Transcripts", "website_url":"https://www.squadcast.fm", "slug":"squadcast-descript-recording-transcripts" }
+{ "name":"Stability AI DreamStudio", "website_url":"https://dreamstudio.stability.ai/", "slug":"stability-ai-dreamstudio" }
+{ "name":"Stable Video Diffusion", "website_url":"https://stability.ai", "slug":"stable-video-diffusion" }
+{ "name":"Bolt.new (StackBlitz)", "website_url":"https://bolt.new/", "slug":"stackblitz-bolt-new" }
+{ "name":"Stagetext (UK)", "website_url":"https://www.stagetext.org", "slug":"stagetext-uk" }
+{ "name":"Stenograph (CART)", "website_url":"https://www.stenograph.com", "slug":"stenograph-cart" }
+{ "name":"Stenograph — CATalyst (with ASR options)", "website_url":"https://www.stenograph.com", "slug":"stenograph-catalyst-with-asr-options" }
+{ "name":"Stenograph", "website_url":"https://www.stenograph.com", "slug":"stenograph" }
+{ "name":"Streamtext (additional)", "website_url":"https://streamtext.net", "slug":"streamtext-additional" }
+{ "name":"StreamText", "website_url":"https://streamtext.net", "slug":"streamtext" }
+{ "name":"SubCap (Mobile)", "website_url":"https://subcap.app", "slug":"subcap-mobile" }
+{ "name":"Subly — Auto Subtitles", "website_url":"https://www.getsubly.com", "slug":"subly-auto-subtitles" }
+{ "name":"Subly", "website_url":"https://www.getsubly.com", "slug":"subly" }
+{ "name":"Submagic", "website_url":"https://submagic.co", "slug":"submagic" }
+{ "name":"Subtitle Edit (open‑source)", "website_url":"https://github.com/SubtitleEdit/subtitleedit", "slug":"subtitle-edit-open-source" }
+{ "name":"Subtitle Edit (with Whisper/Vosk)", "website_url":"https://www.nikse.dk/subtitleedit", "slug":"subtitle-edit-with-whisper-vosk" }
+{ "name":"Subtitle Workshop (Windows)", "website_url":"https://subworkshop.github.io", "slug":"subtitle-workshop-windows" }
+{ "name":"SubtitleBee", "website_url":"https://subtitlebee.com", "slug":"subtitlebee" }
+{ "name":"SubtitleNEXT", "website_url":"https://subtitlenext.com", "slug":"subtitlenext" }
+{ "name":"Suki AI — Ambient Scribe", "website_url":"https://www.suki.ai", "slug":"suki-ai-ambient-scribe" }
+{ "name":"Suki — AI Medical Assistant", "website_url":"https://www.suki.ai", "slug":"suki-ai-medical-assistant" }
+{ "name":"Suki AI", "website_url":"https://www.suki.ai", "slug":"suki-ai" }
+{ "name":"Suki Dictate (standalone)", "website_url":"https://www.suki.ai", "slug":"suki-dictate-standalone" }
+{ "name":"Supernormal (additional)", "website_url":"https://supernormal.com", "slug":"supernormal-additional" }
+{ "name":"Supernormal — AI Notes", "website_url":"https://supernormal.com", "slug":"supernormal-ai-notes" }
+{ "name":"Supernormal", "website_url":"https://supernormal.com", "slug":"supernormal" }
+{ "name":"Superpowered — Real-time Transcription", "website_url":"https://superpowered.me", "slug":"superpowered-real-time-transcription" }
+{ "name":"Switchboard (additional)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"switchboard-additional" }
+{ "name":"Switchboard (LDC)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"switchboard-ldc" }
+{ "name":"Sybill — Emotion‑Aware AI for Sales", "website_url":"https://www.sybill.ai", "slug":"sybill-emotion-aware-ai-for-sales" }
+{ "name":"Sybill", "website_url":"https://www.sybill.ai", "slug":"sybill" }
+{ "name":"Symbl.ai — Conversation Intelligence API", "website_url":"https://symbl.ai", "slug":"symbl-ai-conversation-intelligence-api" }
+{ "name":"Symbl.ai — Conversation Intelligence", "website_url":"https://symbl.ai", "slug":"symbl-ai-conversation-intelligence" }
+{ "name":"Symbl.ai (with transcription)", "website_url":"https://symbl.ai", "slug":"symbl-ai-with-transcription" }
+{ "name":"SymphonyAI Sensa (adjacent)", "website_url":"https://symphonyai.com", "slug":"symphonyai-sensa-adjacent" }
+{ "name":"SyncWords — Captions", "website_url":"https://www.syncwords.com", "slug":"syncwords-captions" }
+{ "name":"SyncWords", "website_url":"https://www.syncwords.com", "slug":"syncwords" }
+{ "name":"Synthesia — Subtitles", "website_url":"https://www.synthesia.io", "slug":"synthesia-subtitles" }
+{ "name":"Synthesia", "website_url":"https://www.synthesia.io", "slug":"synthesia" }
+{ "name":"Tabby", "website_url":"https://tabby.tabbyml.com", "slug":"tabby" }
+{ "name":"Tabnine", "website_url":"https://www.tabnine.com/", "slug":"tabnine" }
+{ "name":"Tactiq (additional)", "website_url":"https://tactiq.io", "slug":"tactiq-additional" }
+{ "name":"Tactiq — Meeting Transcription", "website_url":"https://tactiq.io", "slug":"tactiq-meeting-transcription" }
+{ "name":"Tactiq — Meeting Transcripts", "website_url":"https://tactiq.io", "slug":"tactiq-meeting-transcripts" }
+{ "name":"Tactiq", "website_url":"https://tactiq.io", "slug":"tactiq" }
+{ "name":"Take 1 (by Verbit)", "website_url":"https://take1.tv", "slug":"take-1-by-verbit" }
+{ "name":"Tali AI — Medical Dictation", "website_url":"https://www.tali.ai", "slug":"tali-ai-medical-dictation" }
+{ "name":"Talkatoo (Veterinary Dictation)", "website_url":"https://talkatoo.com", "slug":"talkatoo-veterinary-dictation" }
+{ "name":"Talkdesk AI (Transcription)", "website_url":"https://www.talkdesk.com", "slug":"talkdesk-ai-transcription" }
+{ "name":"Talkdesk — Speech Analytics", "website_url":"https://www.talkdesk.com", "slug":"talkdesk-speech-analytics" }
+{ "name":"Talkdesk — Transcriptions", "website_url":"https://www.talkdesk.com", "slug":"talkdesk-transcriptions" }
+{ "name":"Talkwalker — Call/Podcast Analytics (adjacent)", "website_url":"https://www.talkwalker.com", "slug":"talkwalker-call-podcast-analytics-adjacent" }
+{ "name":"TED-LIUM 3", "website_url":"https://openslr.org/51/", "slug":"ted-lium-3" }
+{ "name":"TED-LIUM (additional)", "website_url":"https://openslr.org/51/", "slug":"ted-lium-additional" }
+{ "name":"TED‑LIUM (OpenSLR)", "website_url":"https://www.openslr.org/51/", "slug":"ted-lium-openslr" }
+{ "name":"TED‑LIUM", "website_url":"https://openslr.org/51/", "slug":"ted-lium" }
+{ "name":"TEDx (OpenSLR)", "website_url":"https://openslr.org/62/", "slug":"tedx-openslr" }
+{ "name":"Telestream — Vantage/Caption (ecosystem)", "website_url":"https://www.telestream.net", "slug":"telestream-vantage-caption-ecosystem" }
+{ "name":"Telestream — Vidchecker (legacy)", "website_url":"https://www.telestream.net/vidchecker/overview.htm", "slug":"telestream-vidchecker-legacy" }
+{ "name":"Telnyx — Transcription (Voice API)", "website_url":"https://telnyx.com", "slug":"telnyx-transcription-voice-api" }
+{ "name":"Telnyx Transcription", "website_url":"https://telnyx.com", "slug":"telnyx-transcription" }
+{ "name":"Telnyx Voice API", "website_url":"https://telnyx.com", "slug":"telnyx-voice-api" }
+{ "name":"Telnyx Voice — Media Streams & Transcription", "website_url":"https://telnyx.com/products/voice-api", "slug":"telnyx-voice-media-streams-transcription" }
+{ "name":"TELUS International AI Data Solutions", "website_url":"https://www.telusinternational.com/solutions/ai-data", "slug":"telus-international-ai-data-solutions" }
+{ "name":"Temi — Automated Transcription", "website_url":"https://www.temi.com", "slug":"temi-automated-transcription" }
+{ "name":"Temi (by Rev)", "website_url":"https://www.temi.com", "slug":"temi-by-rev" }
+{ "name":"Temi", "website_url":"https://www.temi.com", "slug":"temi" }
+{ "name":"Tencent Cloud ASR (additional)", "website_url":"https://www.tencentcloud.com/products/asr", "slug":"tencent-cloud-asr-additional" }
+{ "name":"Tencent Cloud — ASR", "website_url":"https://www.tencentcloud.com/products/asr", "slug":"tencent-cloud-asr" }
+{ "name":"Tencent Cloud Automatic Speech Recognition", "website_url":"https://www.tencentcloud.com/products/asr", "slug":"tencent-cloud-automatic-speech-recognition" }
+{ "name":"Tencent Cloud Speech-to-Text", "website_url":"https://www.tencentcloud.com/products/asr", "slug":"tencent-cloud-speech-to-text" }
+{ "name":"Tethr — Conversation Analytics", "website_url":"https://tethr.com", "slug":"tethr-conversation-analytics" }
+{ "name":"Texthelp ReachDeck", "website_url":"https://www.texthelp.com", "slug":"texthelp-reachdeck" }
+{ "name":"THCHS-30 (additional)", "website_url":"http://www.openslr.org/18/", "slug":"thchs-30-additional" }
+{ "name":"THCHS‑30", "website_url":"http://www.openslr.org/18/", "slug":"thchs-30" }
+{ "name":"Theta Lake — Compliance & Risk", "website_url":"https://thetalake.com", "slug":"theta-lake-compliance-risk" }
+{ "name":"Tigerfish Transcribing", "website_url":"https://www.tigerfish.com", "slug":"tigerfish-transcribing" }
+{ "name":"TikTok — Auto Captions", "website_url":"https://www.tiktok.com", "slug":"tiktok-auto-captions" }
+{ "name":"Tilde ASR", "website_url":"https://www.tilde.com", "slug":"tilde-asr" }
+{ "name":"TIMIT (LDC)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"timit-ldc" }
+{ "name":"TIMIT", "website_url":"https://catalog.ldc.upenn.edu", "slug":"timit" }
+{ "name":"Tinkoff VoiceKit", "website_url":"https://voicekit.tinkoff.ru", "slug":"tinkoff-voicekit" }
+{ "name":"tl;dv (additional)", "website_url":"https://www.tldv.io", "slug":"tl-dv-additional" }
+{ "name":"tl;dv", "website_url":"https://www.tldv.io", "slug":"tl-dv" }
+{ "name":"Tldv AI (additional)", "website_url":"https://tldv.io", "slug":"tldv-ai-additional" }
+{ "name":"TLDV for Salesforce (integration)", "website_url":"https://tldv.io/integrations/salesforce/", "slug":"tldv-for-salesforce-integration" }
+{ "name":"torchaudio pipelines — ASR", "website_url":"https://pytorch.org/audio/stable/index.html", "slug":"torchaudio-pipelines-asr" }
+{ "name":"TorchAudio pipelines", "website_url":"https://pytorch.org/audio/stable/index.html", "slug":"torchaudio-pipelines" }
+{ "name":"Transana", "website_url":"https://www.transana.com", "slug":"transana" }
+{ "name":"Transcribe (by Wreally)", "website_url":"https://transcribe.wreally.com", "slug":"transcribe-by-wreally" }
+{ "name":"TranscribeMe — Transcription", "website_url":"https://www.transcribeme.com", "slug":"transcribeme-transcription" }
+{ "name":"TranscribeMe", "website_url":"https://www.transcribeme.com", "slug":"transcribeme" }
+{ "name":"TranscriptionStar", "website_url":"https://www.transcriptionstar.com", "slug":"transcriptionstar" }
+{ "name":"Transcriptive (Digital Anarchy)", "website_url":"https://digitalanarchy.com/transcribe-video/transcribe-video.html", "slug":"transcriptive-digital-anarchy" }
+{ "name":"Transistor.fm — Transcripts", "website_url":"https://transistor.fm", "slug":"transistor-fm-transcripts" }
+{ "name":"Transkriptor (additional)", "website_url":"https://transkriptor.com", "slug":"transkriptor-additional" }
+{ "name":"Transkriptor", "website_url":"https://transkriptor.com", "slug":"transkriptor" }
+{ "name":"TransPerfect Media (MediaNEXT)", "website_url":"https://www.transperfect.com/solutions/media-solutions", "slug":"transperfect-media-medianext" }
+{ "name":"TransPerfect Media", "website_url":"https://www.transperfect.com/solutions/media-solutions", "slug":"transperfect-media" }
+{ "name":"Trint — Collaborative Transcription", "website_url":"https://trint.com", "slug":"trint-collaborative-transcription" }
+{ "name":"Trint for Newsrooms", "website_url":"https://trint.com/newsrooms", "slug":"trint-for-newsrooms" }
+{ "name":"Trint — Transcription for Teams", "website_url":"https://trint.com", "slug":"trint-transcription-for-teams" }
+{ "name":"Trint", "website_url":"https://trint.com", "slug":"trint" }
+{ "name":"TVEyes", "website_url":"https://tveyes.com", "slug":"tveyes" }
+{ "name":"Twilio Flex — Contact Center", "website_url":"https://www.twilio.com/flex", "slug":"twilio-flex-contact-center" }
+{ "name":"Twilio — Media Streams for ASR", "website_url":"https://www.twilio.com/media-streams", "slug":"twilio-media-streams-for-asr" }
+{ "name":"Twilio Media Streams + Transcription", "website_url":"https://www.twilio.com/voice", "slug":"twilio-media-streams-transcription" }
+{ "name":"Twilio Programmable Voice — Media Streams", "website_url":"https://www.twilio.com/voice", "slug":"twilio-programmable-voice-media-streams" }
+{ "name":"Twilio Programmable Voice — STT Integrations", "website_url":"https://www.twilio.com/voice", "slug":"twilio-programmable-voice-stt-integrations" }
+{ "name":"Type Studio", "website_url":"https://www.typestudio.co", "slug":"type-studio" }
+{ "name":"U.S. Courts — Accessibility (captioning references)", "website_url":"https://www.uscourts.gov", "slug":"u-s-courts-accessibility-captioning-references" }
+{ "name":"Ubiqus — Transcription", "website_url":"https://www.ubiqus.com", "slug":"ubiqus-transcription" }
+{ "name":"Uniphore (additional)", "website_url":"https://www.uniphore.com", "slug":"uniphore-additional" }
+{ "name":"Uniphore — Conversational AI", "website_url":"https://www.uniphore.com", "slug":"uniphore-conversational-ai" }
+{ "name":"Uniphore", "website_url":"https://www.uniphore.com", "slug":"uniphore" }
+{ "name":"Unisound (云知声) — ASR", "website_url":"https://www.unisound.com", "slug":"unisound-asr" }
+{ "name":"UserTesting — Transcripts", "website_url":"https://www.usertesting.com", "slug":"usertesting-transcripts" }
+{ "name":"Vapi.ai — Voice Agents", "website_url":"https://www.vapi.ai", "slug":"vapi-ai-voice-agents" }
+{ "name":"Vatis Tech (additional)", "website_url":"https://vatis.tech", "slug":"vatis-tech-additional" }
+{ "name":"Vatis Tech — ASR API", "website_url":"https://vatis.tech", "slug":"vatis-tech-asr-api" }
+{ "name":"Vatis Tech — Speech to Text", "website_url":"https://vatis.tech", "slug":"vatis-tech-speech-to-text" }
+{ "name":"VEED — Auto Subtitles", "website_url":"https://www.veed.io/tools/auto-subtitle", "slug":"veed-auto-subtitles" }
+{ "name":"VEED.IO — Auto Subtitles", "website_url":"https://www.veed.io", "slug":"veed-io-auto-subtitles" }
+{ "name":"Veed.io — Subtitles", "website_url":"https://www.veed.io/tools/auto-subtitle", "slug":"veed-io-subtitles" }
+{ "name":"Venera Technologies — Pulsar", "website_url":"https://www.veneratech.com", "slug":"venera-technologies-pulsar" }
+{ "name":"Verbio — Speech Recognition (ES/PT)", "website_url":"https://verbio.com", "slug":"verbio-speech-recognition-es-pt" }
+{ "name":"Verbio", "website_url":"https://www.verbio.com", "slug":"verbio" }
+{ "name":"Verbit (additional)", "website_url":"https://verbit.ai", "slug":"verbit-additional" }
+{ "name":"Verbit — Captioning/Transcription", "website_url":"https://verbit.ai", "slug":"verbit-captioning-transcription" }
+{ "name":"Verbit", "website_url":"https://verbit.ai", "slug":"verbit" }
+{ "name":"Verboice (Spanish market)", "website_url":"https://verbio.com", "slug":"verboice-spanish-market" }
+{ "name":"Verint Da Vinci Speech Analytics", "website_url":"https://www.verint.com", "slug":"verint-da-vinci-speech-analytics" }
+{ "name":"Verint Recording", "website_url":"https://www.verint.com", "slug":"verint-recording" }
+{ "name":"Verint Speech Analytics", "website_url":"https://www.verint.com", "slug":"verint-speech-analytics" }
+{ "name":"Veritas Alta Capture (Enterprise Vault)", "website_url":"https://www.veritas.com", "slug":"veritas-alta-capture-enterprise-vault" }
+{ "name":"Veritext", "website_url":"https://www.veritext.com", "slug":"veritext" }
+{ "name":"Veritone aiWARE — Transcription", "website_url":"https://www.veritone.com", "slug":"veritone-aiware-transcription" }
+{ "name":"Veritone Captioning", "website_url":"https://www.veritone.com/applications/captions/", "slug":"veritone-captioning" }
+{ "name":"Veritone Digital Media Hub", "website_url":"https://www.veritone.com", "slug":"veritone-digital-media-hub" }
+{ "name":"Veritone Illuminate — eDiscovery", "website_url":"https://www.veritone.com/applications/illuminate/", "slug":"veritone-illuminate-ediscovery" }
+{ "name":"Vidispine (Arvato) — MAM", "website_url":"https://www.vidispine.com", "slug":"vidispine-arvato-mam" }
+{ "name":"Vidyard (Captions & Transcripts)", "website_url":"https://www.vidyard.com", "slug":"vidyard-captions-transcripts" }
+{ "name":"Vidyard — Transcripts", "website_url":"https://www.vidyard.com", "slug":"vidyard-transcripts" }
+{ "name":"Vimeo — Auto Captions", "website_url":"https://vimeo.com", "slug":"vimeo-auto-captions" }
+{ "name":"Vimeo — Captions & Subtitles", "website_url":"https://vimeo.com", "slug":"vimeo-captions-subtitles" }
+{ "name":"VIQ NetScribe", "website_url":"https://viqsolutions.com/solutions/netscribe/", "slug":"viq-netscribe" }
+{ "name":"VIQ Solutions — Transcription", "website_url":"https://viqsolutions.com", "slug":"viq-solutions-transcription" }
+{ "name":"VITAC (additional)", "website_url":"https://vitac.com", "slug":"vitac-additional" }
+{ "name":"VITAC — Captioning", "website_url":"https://vitac.com", "slug":"vitac-captioning" }
+{ "name":"VITAC — Captions", "website_url":"https://vitac.com", "slug":"vitac-captions" }
+{ "name":"VITAC", "website_url":"https://vitac.com", "slug":"vitac" }
+{ "name":"VITO Speech (Belgium)", "website_url":"https://vito.be", "slug":"vito-speech-belgium" }
+{ "name":"Vivoka Voice AI", "website_url":"https://vivoka.com", "slug":"vivoka-voice-ai" }
+{ "name":"Vizard.ai", "website_url":"https://vizard.ai", "slug":"vizard-ai" }
+{ "name":"Vizard — Repurpose & Captions", "website_url":"https://vizard.ai", "slug":"vizard-repurpose-captions" }
+{ "name":"Vocalmatic (additional)", "website_url":"https://vocalmatic.com", "slug":"vocalmatic-additional" }
+{ "name":"Vocalmatic", "website_url":"https://vocalmatic.com", "slug":"vocalmatic" }
+{ "name":"Vocapia Research — VoxSigma", "website_url":"https://www.vocapia.com", "slug":"vocapia-research-voxsigma" }
+{ "name":"Vocapia VoxSigma", "website_url":"https://www.vocapia.com", "slug":"vocapia-voxsigma" }
+{ "name":"Voci (historic) now Medallia Speech", "website_url":"https://www.medallia.com", "slug":"voci-historic-now-medallia-speech" }
+{ "name":"Voci (Medallia) — Speech Analytics (legacy)", "website_url":"https://www.medallia.com", "slug":"voci-medallia-speech-analytics-legacy" }
+{ "name":"Voice In Voice Typing (Chrome)", "website_url":"https://dictanote.co/voicein/", "slug":"voice-in-voice-typing-chrome" }
+{ "name":"Voicegain — ASR", "website_url":"https://www.voicegain.ai", "slug":"voicegain-asr" }
+{ "name":"Voicegain", "website_url":"https://voicegain.ai", "slug":"voicegain" }
+{ "name":"Voicenotes (Typefully)", "website_url":"https://voicenotes.com", "slug":"voicenotes-typefully" }
+{ "name":"Vonage Communications APIs — STT", "website_url":"https://www.vonage.com/communications-apis/", "slug":"vonage-communications-apis-stt" }
+{ "name":"Vonage Communications APIs", "website_url":"https://www.vonage.com/communications-apis/", "slug":"vonage-communications-apis" }
+{ "name":"Vonage Voice API — ASR", "website_url":"https://www.vonage.com/communications-apis/voice/", "slug":"vonage-voice-api-asr" }
+{ "name":"Vosk Android/iOS (open‑source)", "website_url":"https://alphacephei.com/vosk/", "slug":"vosk-android-ios-open-source" }
+{ "name":"Vosk — Offline ASR", "website_url":"https://alphacephei.com/vosk/", "slug":"vosk-offline-asr" }
+{ "name":"Vosk Server (open‑source)", "website_url":"https://alphacephei.com/vosk/", "slug":"vosk-server-open-source" }
+{ "name":"Vosk Server", "website_url":"https://alphacephei.com/vosk/", "slug":"vosk-server" }
+{ "name":"Vosk Speech Recognition", "website_url":"https://alphacephei.com/vosk/", "slug":"vosk-speech-recognition" }
+{ "name":"Vosk", "website_url":"https://alphacephei.com/vosk", "slug":"vosk" }
+{ "name":"Vowel — Meetings", "website_url":"https://www.vowel.com", "slug":"vowel-meetings" }
+{ "name":"Vowel", "website_url":"https://www.vowel.com", "slug":"vowel" }
+{ "name":"VoxCeleb 1/2 (Oxford)", "website_url":"https://www.robots.ox.ac.uk/~vgg/data/voxceleb/", "slug":"voxceleb-1-2-oxford" }
+{ "name":"VoxForge (additional)", "website_url":"http://www.voxforge.org", "slug":"voxforge-additional" }
+{ "name":"VoxForge", "website_url":"http://www.voxforge.org", "slug":"voxforge" }
+{ "name":"Voximplant — Speech Recognition", "website_url":"https://voximplant.com", "slug":"voximplant-speech-recognition" }
+{ "name":"Voximplant — Voice & ASR integrations", "website_url":"https://voximplant.com", "slug":"voximplant-voice-asr-integrations" }
+{ "name":"VoxPopuli (additional)", "website_url":"https://github.com/facebookresearch/voxpopuli", "slug":"voxpopuli-additional" }
+{ "name":"VoxPopuli (Facebook/Meta)", "website_url":"https://github.com/facebookresearch/voxpopuli", "slug":"voxpopuli-facebook-meta" }
+{ "name":"VoxPopuli", "website_url":"https://github.com/facebookresearch/voxpopuli", "slug":"voxpopuli" }
+{ "name":"Vrew (Auto Captions)", "website_url":"https://vrew.voyagerx.com", "slug":"vrew-auto-captions" }
+{ "name":"vTestify", "website_url":"https://vtestify.com", "slug":"vtestify" }
+{ "name":"Vymoice (Africa) — Speech", "website_url":"https://vymoice.ai", "slug":"vymoice-africa-speech" }
+{ "name":"wav2letter++ / Flashlight", "website_url":"https://github.com/flashlight/wav2letter", "slug":"wav2letter-flashlight" }
+{ "name":"wav2letter++", "website_url":"https://github.com/facebookresearch/wav2letter", "slug":"wav2letter" }
+{ "name":"wav2vec 2.0 (Facebook/Meta)", "website_url":"https://ai.facebook.com/tools/wav2vec-20/", "slug":"wav2vec-2-0-facebook-meta" }
+{ "name":"Web Captioner — Live Captions", "website_url":"https://webcaptioner.com", "slug":"web-captioner-live-captions" }
+{ "name":"Web Captioner", "website_url":"https://webcaptioner.com", "slug":"web-captioner" }
+{ "name":"Web Speech API (Browser)", "website_url":"https://developer.mozilla.org/docs/Web/API/Web_Speech_API", "slug":"web-speech-api-browser" }
+{ "name":"Webex by Cisco — Closed Captions & Transcripts", "website_url":"https://help.webex.com", "slug":"webex-by-cisco-closed-captions-transcripts" }
+{ "name":"Webex Meetings — Transcripts", "website_url":"https://www.webex.com", "slug":"webex-meetings-transcripts" }
+{ "name":"WebRTC VAD", "website_url":"https://webrtc.org", "slug":"webrtc-vad" }
+{ "name":"WellSaid Labs", "website_url":"https://wellsaidlabs.com", "slug":"wellsaid-labs" }
+{ "name":"WeNet", "website_url":"https://github.com/wenet-e2e/wenet", "slug":"wenet" }
+{ "name":"whisper.cpp (additional)", "website_url":"https://github.com/ggerganov/whisper.cpp", "slug":"whisper-cpp-additional" }
+{ "name":"whisper.cpp (open‑source)", "website_url":"https://github.com/ggerganov/whisper.cpp", "slug":"whisper-cpp-open-source" }
+{ "name":"whisper.cpp", "website_url":"https://github.com/ggerganov/whisper.cpp", "slug":"whisper-cpp" }
+{ "name":"Whisper iOS (community ports)", "website_url":"https://github.com/ggerganov/whisper.cpp", "slug":"whisper-ios-community-ports" }
+{ "name":"WhisperX (additional)", "website_url":"https://github.com/m-bain/whisperX", "slug":"whisperx-additional" }
+{ "name":"WhisperX — Alignment", "website_url":"https://github.com/m-bain/whisperX", "slug":"whisperx-alignment" }
+{ "name":"WhisperX (open‑source)", "website_url":"https://github.com/m-bain/whisperX", "slug":"whisperx-open-source" }
+{ "name":"WhisperX", "website_url":"https://github.com/m-bain/whisperX", "slug":"whisperx" }
+{ "name":"Windows 11 — Live Captions", "website_url":"https://support.microsoft.com/windows/use-live-captions-to-better-understand-audio", "slug":"windows-11-live-captions" }
+{ "name":"Windows 11 Voice Typing", "website_url":"https://support.microsoft.com/windows/use-voice-typing-dictation", "slug":"windows-11-voice-typing" }
+{ "name":"Windows Speech Recognition (SDKs)", "website_url":"https://learn.microsoft.com/windows/apps/design/input/speech/", "slug":"windows-speech-recognition-sdks" }
+{ "name":"Wisecut", "website_url":"https://www.wisecut.video", "slug":"wisecut" }
+{ "name":"Wistia — Captions", "website_url":"https://wistia.com", "slug":"wistia-captions" }
+{ "name":"Wistia — Transcripts & Captions", "website_url":"https://wistia.com", "slug":"wistia-transcripts-captions" }
+{ "name":"Wit.ai (Speech to Intent)", "website_url":"https://wit.ai", "slug":"wit-ai-speech-to-intent" }
+{ "name":"Wit.ai", "website_url":"https://wit.ai", "slug":"wit-ai" }
+{ "name":"Wordcab — Transcribe & Summarize", "website_url":"https://wordcab.com", "slug":"wordcab-transcribe-summarize" }
+{ "name":"Wordly.ai — AI Translation", "website_url":"https://www.wordly.ai", "slug":"wordly-ai-ai-translation" }
+{ "name":"Wordly AI", "website_url":"https://www.wordly.ai", "slug":"wordly-ai" }
+{ "name":"WSJ CSR (LDC)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"wsj-csr-ldc" }
+{ "name":"WSJ0/WSJ1 (LDC)", "website_url":"https://catalog.ldc.upenn.edu", "slug":"wsj0-wsj1-ldc" }
+{ "name":"Wudpecker — AI Notes", "website_url":"https://wudpecker.io", "slug":"wudpecker-ai-notes" }
+{ "name":"Wudpecker", "website_url":"https://wudpecker.io", "slug":"wudpecker" }
+{ "name":"Xdroid — Speech Analytics", "website_url":"https://www.xdroid.com", "slug":"xdroid-speech-analytics" }
+{ "name":"XL8 — AI Media Localization", "website_url":"https://xl8.ai", "slug":"xl8-ai-media-localization" }
+{ "name":"Yandex SpeechKit (additional)", "website_url":"https://cloud.yandex.com/services/speechkit", "slug":"yandex-speechkit-additional" }
+{ "name":"Yandex SpeechKit (STT)", "website_url":"https://cloud.yandex.com/en/services/speechkit", "slug":"yandex-speechkit-stt" }
+{ "name":"Yandex SpeechKit", "website_url":"https://cloud.yandex.com/services/speechkit", "slug":"yandex-speechkit" }
+{ "name":"YouTube — Auto Captions", "website_url":"https://support.google.com/youtube/answer/6373554", "slug":"youtube-auto-captions" }
+{ "name":"YouTube — Live Auto Captions", "website_url":"https://support.google.com/youtube/answer/6373554", "slug":"youtube-live-auto-captions" }
+{ "name":"YouTube Studio Auto-Captions", "website_url":"https://studio.youtube.com", "slug":"youtube-studio-auto-captions" }
+{ "name":"YuJa — Auto Captioning", "website_url":"https://www.yuja.com", "slug":"yuja-auto-captioning" }
+{ "name":"YuJa — Enterprise Video", "website_url":"https://www.yuja.com", "slug":"yuja-enterprise-video" }
+{ "name":"Zencastr (additional)", "website_url":"https://zencastr.com", "slug":"zencastr-additional" }
+{ "name":"Zencastr (Transcription)", "website_url":"https://zencastr.com", "slug":"zencastr-transcription" }
+{ "name":"Zencastr — Transcripts", "website_url":"https://zencastr.com", "slug":"zencastr-transcripts" }
+{ "name":"Zencastr", "website_url":"https://zencastr.com", "slug":"zencastr" }
+{ "name":"Zoho — Call Transcription (Telephony)", "website_url":"https://www.zoho.com", "slug":"zoho-call-transcription-telephony" }
+{ "name":"ZOO Digital — Localization", "website_url":"https://www.zoodigital.com", "slug":"zoo-digital-localization" }
+{ "name":"ZOO Digital — Subtitling/Dubbing", "website_url":"https://www.zoodigital.com", "slug":"zoo-digital-subtitling-dubbing" }
+{ "name":"ZOO Digital", "website_url":"https://www.zoodigital.com", "slug":"zoo-digital" }
+{ "name":"Zoom — Cloud Recording Transcripts", "website_url":"https://support.zoom.us/hc/en-us/articles/115004794983", "slug":"zoom-cloud-recording-transcripts" }
+{ "name":"Zoom Contact Center — Analytics & Transcripts", "website_url":"https://explore.zoom.us/en/contact-center/", "slug":"zoom-contact-center-analytics-transcripts" }
+{ "name":"Zoom Contact Center (Transcription)", "website_url":"https://explore.zoom.us/en/contactcenter/", "slug":"zoom-contact-center-transcription" }
+{ "name":"Zoom IQ for Sales (transcripts)", "website_url":"https://explore.zoom.us/en/products/zoom-iq-for-sales/", "slug":"zoom-iq-for-sales-transcripts" }
+{ "name":"Zoom Live Transcription", "website_url":"https://zoom.us", "slug":"zoom-live-transcription" }
+{ "name":"Zoom Meetings — Captions & Transcripts", "website_url":"https://zoom.us", "slug":"zoom-meetings-captions-transcripts" }
+{ "name":"Zoom Phone — Voicemail/Call Transcripts", "website_url":"https://explore.zoom.us/en/zoom-phone/", "slug":"zoom-phone-voicemail-call-transcripts" }
+{ "name":"Zoom Revenue Accelerator", "website_url":"https://explore.zoom.us/en/products/zoom-iq/", "slug":"zoom-revenue-accelerator" }
+{ "name":"Zoom — Translated Captions", "website_url":"https://support.zoom.us/hc/en-us/articles/9640319264531", "slug":"zoom-translated-captions" }
+{ "name":"ZoomInfo Chorus (formerly Chorus.ai)", "website_url":"https://www.zoominfo.com/solutions/chorus", "slug":"zoominfo-chorus-formerly-chorus-ai" }
+{ "name":"Zubtitle — Captions for Social", "website_url":"https://zubtitle.com", "slug":"zubtitle-captions-for-social" }
+{ "name":"Zubtitle", "website_url":"https://zubtitle.com", "slug":"zubtitle" }

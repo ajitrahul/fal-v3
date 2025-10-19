@@ -1,0 +1,126 @@
+{
+  "id": "coqui-stt-archived",
+  "name": "Coqui STT (archived)",
+  "slug": "coqui-stt-archived",
+  "logo_url": "https://github.com/coqui-ai/STT/favicon.ico",
+  "icon_url": "https://github.com/coqui-ai/STT/favicon.ico",
+  "images": [
+    "https://github.com/coqui-ai/STT/favicon.ico"
+  ],
+  "website_url": "https://github.com/coqui-ai/STT",
+  "tagline": "Open-source STT (DeepSpeech fork); project archived but still usable.",
+  "summary": "Coqui STT is an open-source speech-to-text engine originally forked from Mozilla DeepSpeech. The project is archived but remains usable for offline ASR experiments.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Offline ASR",
+    "Training"
+  ],
+  "use_cases": [
+    "Research",
+    "Prototypes"
+  ],
+  "best_for": [
+    "OSS enthusiasts"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Community models & training tools"
+  ],
+  "platforms": [
+    "Local (Python/TensorFlow)"
+  ],
+  "languages": [
+    "Depends on models"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Coqui (open-source)",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/coqui-ai/STT",
+    "changelog": null,
+    "support": "https://github.com/coqui-ai/STT/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": true,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://github.com/coqui-ai/STT/favicon.ico",
+      "caption": "Coqui STT (archived) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

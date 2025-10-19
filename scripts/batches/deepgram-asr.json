@@ -1,0 +1,130 @@
+{
+  "id": "deepgram-asr",
+  "name": "Deepgram ASR",
+  "slug": "deepgram-asr",
+  "logo_url": "https://deepgram.com/favicon.ico",
+  "icon_url": "https://deepgram.com/favicon.ico",
+  "images": [
+    "https://deepgram.com/favicon.ico"
+  ],
+  "website_url": "https://deepgram.com",
+  "tagline": "End-to-end speech recognition with streaming, batch, and APIs.",
+  "summary": "Deepgram offers streaming and batch ASR with low-latency neural models, diarization, and features like keywords, summarization add-ons, and redaction. SDKs are available for multiple languages.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Streaming ASR",
+    "Batch ASR",
+    "Diarization",
+    "Redaction"
+  ],
+  "use_cases": [
+    "Contact centers",
+    "Voice features",
+    "Media"
+  ],
+  "best_for": [
+    "Developers needing low-latency ASR"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Nova/Enhanced/Multilingual (varies)"
+  ],
+  "platforms": [
+    "REST/WebSocket",
+    "SDKs"
+  ],
+  "languages": [
+    "Many (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Deepgram",
+    "hq_country": null,
+    "twitter": "https://twitter.com/DeepgramAI",
+    "linkedin": "https://www.linkedin.com/company/deepgram/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://deepgram.com/pricing/",
+    "docs": "https://developers.deepgram.com",
+    "changelog": "https://developers.deepgram.com/changelog/",
+    "support": "https://help.deepgram.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://deepgram.com/favicon.ico",
+      "caption": "Deepgram ASR icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

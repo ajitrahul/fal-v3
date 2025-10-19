@@ -1,0 +1,145 @@
+{
+  "id": "telnyx-transcription",
+  "name": "Telnyx Transcription",
+  "slug": "telnyx-transcription",
+  "logo_url": "https://telnyx.com/favicon.ico",
+  "icon_url": "https://telnyx.com/favicon.ico",
+  "images": [
+    "https://telnyx.com/favicon.ico"
+  ],
+  "website_url": "https://telnyx.com",
+  "tagline": "Programmable voice with real-time and post-call transcription features.",
+  "summary": "Telnyx provides programmable voice and SIP trunking, with options for real-time and post‑call transcription via APIs and webhooks. Developers can stream audio to transcription engines and store results alongside call records. Use cases include IVR, analytics, and QA for contact centers.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Realtime call transcription",
+    "Post‑call processing"
+  ],
+  "use_cases": [
+    "IVR & analytics",
+    "QA/compliance",
+    "Contact centers"
+  ],
+  "best_for": [
+    "Telephony developers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Built-in/partner ASR options"
+  ],
+  "platforms": [
+    "Voice API",
+    "WebRTC/SIP",
+    "Webhooks"
+  ],
+  "languages": [
+    "Varies by engine"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Telnyx",
+    "hq_country": null,
+    "twitter": "https://twitter.com/termius?lang=en",
+    "linkedin": "https://www.linkedin.com/company/telnyx/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://telnyx.com/pricing",
+    "docs": "https://developers.telnyx.com",
+    "changelog": null,
+    "support": "https://support.telnyx.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://telnyx.com/favicon.ico",
+      "caption": "Telnyx Transcription icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Call transcription pipeline (official)",
+      "youtube": "https://www.youtube.com/@Telnyx",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Media streaming & webhooks (official)",
+      "youtube": "https://www.youtube.com/@Telnyx",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build IVR with speech (official)",
+      "youtube": "https://www.youtube.com/@Telnyx",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

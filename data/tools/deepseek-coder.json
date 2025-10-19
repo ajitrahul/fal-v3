@@ -1,0 +1,161 @@
+{
+  "slug": "deepseek-coder",
+  "name": "DeepSeek Coder",
+  "website_url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=github.com",
+  "description": "DeepSeek Coder is an AI tool in the code assistant category. See the official site for features and availability.",
+  "category": "code-assistant",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use DeepSeek Coder for code assistant tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://github.com/deepseek-ai/DeepSeek-Coder/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "DeepSeek",
+    "legal": {
+      "terms_url": "https://github.com/deepseek-ai/DeepSeek-Coder/terms",
+      "privacy_url": "https://github.com/deepseek-ai/DeepSeek-Coder/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=DeepSeek%20Coder"
+    }
+  ],
+  "image": "https://github.com/deepseek-ai/DeepSeek-Coder",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "DeepSeek",
+      "modality": "text"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://github.com/deepseek-ai/DeepSeek-Coder/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the DeepSeek ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://github.com/deepseek-ai/DeepSeek-Coder/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+      "caption": "DeepSeek Coder"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "DeepSeek Coder tutorial (overview)",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "channel": "YouTube"
+    }
+  ],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://github.com/deepseek-ai/DeepSeek-Coder"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T11:39:11.715865"
+}

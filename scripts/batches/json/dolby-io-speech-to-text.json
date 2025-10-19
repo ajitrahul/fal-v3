@@ -1,0 +1,144 @@
+{
+  "id": "dolby-io-speech-to-text",
+  "name": "Dolby.io Speech to Text",
+  "slug": "dolby-io-speech-to-text",
+  "logo_url": "https://dolby.io/products/speech-to-text/favicon.ico",
+  "icon_url": "https://dolby.io/products/speech-to-text/favicon.ico",
+  "images": [
+    "https://dolby.io/products/speech-to-text/favicon.ico"
+  ],
+  "website_url": "https://dolby.io/products/speech-to-text",
+  "tagline": "Transcription APIs as part of Dolby.io Voice & Media APIs.",
+  "summary": "Dolby.io provides Speech to Text as part of its Voice & Media APIs, enabling developers to transcribe recorded or live media alongside features like noise reduction and media processing. SDKs and REST APIs support web and mobile apps, with usage-based pricing and free credits for trials.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "File & live transcription",
+    "Media processing"
+  ],
+  "use_cases": [
+    "Podcasts/videos",
+    "Meetings",
+    "Apps with media"
+  ],
+  "best_for": [
+    "Developers adding STT plus media APIs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Dolby.io STT (service‑managed)"
+  ],
+  "platforms": [
+    "REST/SDKs",
+    "Web & Mobile"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Dolby Laboratories",
+    "hq_country": null,
+    "twitter": "https://twitter.com/dolbyio",
+    "linkedin": "https://www.linkedin.com/company/dolby-io/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://dolby.io/pricing",
+    "docs": "https://docs.dolby.io",
+    "changelog": null,
+    "support": "https://support.dolby.io"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:15:46Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://dolby.io/products/speech-to-text/favicon.ico",
+      "caption": "Dolby.io Speech to Text icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Dolby.io channel (official)",
+      "youtube": "https://www.youtube.com/@dolbyio",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Speech to Text demo (official)",
+      "youtube": "https://www.youtube.com/@dolbyio",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build with Media APIs (official)",
+      "youtube": "https://www.youtube.com/@dolbyio",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

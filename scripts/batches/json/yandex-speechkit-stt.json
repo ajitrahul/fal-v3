@@ -1,0 +1,147 @@
+{
+  "id": "yandex-speechkit-stt",
+  "name": "Yandex SpeechKit (STT)",
+  "slug": "yandex-speechkit-stt",
+  "logo_url": "https://cloud.yandex.com/en/services/speechkit/favicon.ico",
+  "icon_url": "https://cloud.yandex.com/en/services/speechkit/favicon.ico",
+  "images": [
+    "https://cloud.yandex.com/en/services/speechkit/favicon.ico"
+  ],
+  "website_url": "https://cloud.yandex.com/en/services/speechkit",
+  "tagline": "Cloud ASR with streaming/batch for Russian & many languages; SDKs & REST.",
+  "summary": "Yandex SpeechKit provides automatic speech recognition for streaming and batch audio via REST/SDKs. Popular in Russian‑speaking markets, it supports multiple languages/locales, punctuation, diarization, and timestamps. Developers integrate with mobile and server apps and can tune recognition with grammar hints.\n\nUse cases include IVR, voice assistants, captions, and analytics. Pricing is usage‑based with quotas by project; documentation and examples cover authentication and streaming.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Streaming/batch ASR",
+    "Punctuation",
+    "Diarization"
+  ],
+  "use_cases": [
+    "Assistants",
+    "IVR",
+    "Captioning",
+    "Analytics"
+  ],
+  "best_for": [
+    "Developers in RU/EU regions"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "SpeechKit ASR"
+  ],
+  "platforms": [
+    "Yandex Cloud console",
+    "REST/SDKs",
+    "WebSocket"
+  ],
+  "languages": [
+    "Russian + others (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Yandex",
+    "hq_country": null,
+    "twitter": "https://twitter.com/yandex",
+    "linkedin": "https://www.linkedin.com/company/yandex/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://cloud.yandex.com/en/prices",
+    "docs": "https://cloud.yandex.com/en/docs/speechkit",
+    "changelog": null,
+    "support": "https://cloud.yandex.com/en/support"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:15:46Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://cloud.yandex.com/en/services/speechkit/favicon.ico",
+      "caption": "Yandex SpeechKit (STT) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "SpeechKit overview (Yandex)",
+      "youtube": "https://www.youtube.com/@YandexPracticum",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Streaming API demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=zyGdwH52pD0",
+      "provider": "YouTube"
+    },
+    {
+      "title": "SpeechKit quickstart (community)",
+      "youtube": "https://www.youtube.com/watch?v=9B8C5s2yMik",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,163 @@
+{
+  "id": "luma-dream-machine",
+  "name": "Luma Dream Machine",
+  "slug": "luma-dream-machine",
+  "logo_url": "https://lumalabs.ai/dream-machine/favicon.ico",
+  "icon_url": "https://lumalabs.ai/dream-machine/favicon.ico",
+  "images": [
+    "https://lumalabs.ai/dream-machine/favicon.ico"
+  ],
+  "website_url": "https://lumalabs.ai/dream-machine",
+  "tagline": "High‑fidelity text‑to‑video from Luma AI.",
+  "summary": "Dream Machine is Luma AI’s high‑fidelity text‑to‑video generator, delivering smooth motion and detailed frames from short prompts and reference images. Luma emphasizes realistic physics and camera behavior, and its samples showcase quick action, character shots, and cinematic compositions. The web interface lets you set duration and aspect ratios, try reference images, and iterate on prompt wording to guide motion and style.\n\nCreators use Dream Machine for ideation, animatics, and social clips. The tool supports prompt‑based generation, image‑to‑video, and stylization workflows; results are downloadable for editing or upscaling elsewhere. Tutorials on Luma’s official channels discuss structuring prompts for continuity, using image references to stabilize a subject, and iterating for camera moves. A free tier allows initial experimentation, with paid tiers improving throughput and quality—see the site for current limits.\n\nDream Machine is well suited to creators who want photorealistic motion and cinematic looks out of the box without setting up local inference or training.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video",
+    "Image‑to‑video",
+    "Stylization"
+  ],
+  "use_cases": [
+    "Animatics",
+    "Concept reels",
+    "Social content",
+    "Pitch visuals"
+  ],
+  "best_for": [
+    "Filmmakers",
+    "Creators",
+    "Agencies"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Luma Dream Machine"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier; paid tiers available",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid",
+    "plans": [
+      {
+        "name": "Free/paid",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "High‑fidelity frames",
+      "Realistic motion",
+      "Simple web UI"
+    ],
+    "cons": [
+      "Render quotas; best results require iteration"
+    ]
+  },
+  "key_differentiators": [
+    "Cinematic motion realism",
+    "Strong camera behaviors"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 downloads"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Luma AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/LumaLabsAI",
+    "linkedin": "https://www.linkedin.com/company/lumaai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://lumalabs.ai/dream-machine",
+    "docs": "https://help.lumalabs.ai",
+    "changelog": null,
+    "support": "https://help.lumalabs.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://lumalabs.ai/dream-machine/favicon.ico",
+      "caption": "Luma Dream Machine icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Luma Dream Machine overview (official)",
+      "youtube": "https://www.youtube.com/@LumaLabsAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Prompting for cinematic motion (official)",
+      "youtube": "https://www.youtube.com/@LumaLabsAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Dream Machine tips (community)",
+      "youtube": "https://www.youtube.com/watch?v=KXk6_2WLPfY",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

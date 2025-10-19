@@ -1,0 +1,159 @@
+{
+  "id": "leonardo-ai",
+  "name": "Leonardo AI",
+  "slug": "leonardo-ai",
+  "logo_url": "https://leonardo.ai/favicon.ico",
+  "icon_url": "https://leonardo.ai/favicon.ico",
+  "images": [
+    "https://leonardo.ai/favicon.ico"
+  ],
+  "website_url": "https://leonardo.ai/",
+  "tagline": "Creative suite for AI image generation, editing, and asset production.",
+  "summary": "Leonardo.Ai is a creative suite for generating and editing images and visual assets, serving creators, teams, and developers. The platform highlights production‑quality outputs, speed, and style consistency, with features like fine‑tunable models, background removal, image‑to‑image, canvas editing, and asset management. Leonardo provides a web app and an API for integrating generation into pipelines; enterprise materials emphasize scalability and collaboration features for teams.\n\nTypical applications include game concept art, marketing visuals, product shots, and branded content. The company shares customer stories and brand activations (e.g., collaborations) and offers an official YouTube channel with webinars and tutorials that walk through workflows like sketch‑to‑design and real‑time canvas. Getting started requires a web account; developers can request API access and consult docs for authentication and endpoints.\n\nLeonardo is a good fit for teams that need fast iteration and style consistency across batches, with options for API‑driven production.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Leonardo model lineup; fine‑tunable options"
+  ],
+  "platforms": [
+    "Web",
+    "API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "API"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier with daily tokens (see site)",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid tiers",
+    "plans": [
+      {
+        "name": "Free/paid plans",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Production‑oriented features",
+      "API availability",
+      "Style consistency options"
+    ],
+    "cons": [
+      "Advanced features behind paid tiers"
+    ]
+  },
+  "key_differentiators": [
+    "Fast outputs with style controls",
+    "Enterprise collaboration & API"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG; asset management in app"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Ducati x Leonardo.Ai activation",
+      "url": "https://leonardo.ai/news/coming-in-clutch-giving-ducati-riders-the-ai-reins-to-self-expression/"
+    }
+  ],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Leonardo.ai",
+    "hq_country": null,
+    "twitter": "https://twitter.com/LeonardoAi__",
+    "linkedin": "https://www.linkedin.com/company/leonardo-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://leonardo.ai/",
+    "docs": "https://leonardo.ai/",
+    "changelog": null,
+    "support": "https://leonardo.ai/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://leonardo.ai/favicon.ico",
+      "caption": "Leonardo AI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Leonardo.Ai channel (official)",
+      "youtube": "https://www.youtube.com/@leonardo.ai_community/videos",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Getting started with Leonardo.Ai (official)",
+      "youtube": "https://www.youtube.com/@leonardo.ai_community",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Webinar: Gen‑AI workflows (official)",
+      "youtube": "https://www.youtube.com/@leonardo.ai_community",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

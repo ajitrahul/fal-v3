@@ -1,0 +1,145 @@
+{
+  "id": "five9-transcription-analytics",
+  "name": "Five9 Transcription & Analytics",
+  "slug": "five9-transcription-analytics",
+  "logo_url": "https://www.five9.com/favicon.ico",
+  "icon_url": "https://www.five9.com/favicon.ico",
+  "images": [
+    "https://www.five9.com/favicon.ico"
+  ],
+  "website_url": "https://www.five9.com",
+  "tagline": "Transcribe calls for Agent Assist, analytics, and QA.",
+  "summary": "Five9 leverages transcription to power Agent Assist, analytics, and QA automation. Transcripts inform real‑time guidance, after‑call summaries, and compliance checks. Integrations link outcomes to CRMs and knowledge bases.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live transcription",
+    "Summaries",
+    "QA & analytics"
+  ],
+  "use_cases": [
+    "Agent assist",
+    "Compliance",
+    "CX insights"
+  ],
+  "best_for": [
+    "Contact centers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + assist/analytics (platform)"
+  ],
+  "platforms": [
+    "Five9 Intelligent CX Platform",
+    "APIs"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Five9, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Five9",
+    "linkedin": "https://www.linkedin.com/company/five9/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.five9.com/pricing",
+    "docs": "https://docs.five9.com",
+    "changelog": null,
+    "support": "https://support.five9.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:22:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.five9.com/favicon.ico",
+      "caption": "Five9 Transcription & Analytics icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Five9 channel (official)",
+      "youtube": "https://www.youtube.com/@Five9",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Agent Assist demo (official)",
+      "youtube": "https://www.youtube.com/@Five9",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Analytics overview (official)",
+      "youtube": "https://www.youtube.com/@Five9",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

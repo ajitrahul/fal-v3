@@ -1,0 +1,127 @@
+{
+  "id": "kakao-i-speech-stt",
+  "name": "Kakao i Speech (STT)",
+  "slug": "kakao-i-speech-stt",
+  "logo_url": "https://i.kakao.com/favicon.ico",
+  "icon_url": "https://i.kakao.com/favicon.ico",
+  "images": [
+    "https://i.kakao.com/favicon.ico"
+  ],
+  "website_url": "https://i.kakao.com",
+  "tagline": "Kakao i platform speech recognition APIs for apps and services.",
+  "summary": "Kakao i Speech provides speech recognition APIs used in Kakao’s ecosystem and third-party apps. It supports mobile and server integration.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Streaming/batch ASR"
+  ],
+  "use_cases": [
+    "Apps",
+    "Assistants",
+    "Devices"
+  ],
+  "best_for": [
+    "Developers in KR/APAC"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Kakao i STT"
+  ],
+  "platforms": [
+    "SDKs/APIs",
+    "Kakao i platform"
+  ],
+  "languages": [
+    "Korean + others (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Kakao",
+    "hq_country": null,
+    "twitter": "https://twitter.com/kakaoi_official",
+    "linkedin": "https://www.linkedin.com/company/kakao-corp/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://i.kakao.com/nlp/stt",
+    "docs": "https://i.kakao.com/nlp/stt",
+    "changelog": null,
+    "support": "https://cs.kakao.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://i.kakao.com/favicon.ico",
+      "caption": "Kakao i Speech (STT) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

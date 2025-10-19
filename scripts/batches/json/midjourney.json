@@ -1,0 +1,159 @@
+{
+  "id": "midjourney",
+  "name": "Midjourney",
+  "slug": "midjourney",
+  "logo_url": "https://www.midjourney.com/favicon.ico",
+  "icon_url": "https://www.midjourney.com/favicon.ico",
+  "images": [
+    "https://www.midjourney.com/favicon.ico"
+  ],
+  "website_url": "https://www.midjourney.com/",
+  "tagline": "Independent research lab offering text-to-image (and video) generation via Discord and web.",
+  "summary": "Midjourney is an independent research lab and one of the most widely used text‑to‑image services. Access is primarily via Discord (bot prompts in channels/DMs) and a web gallery. Users generate imagery by describing a scene or style, then refine with parameters (aspect ratios, stylize strength, seeds) and follow‑up prompts (variations, upscales, zoom/pan). The service regularly updates model versions and features, with documentation covering prompt syntax, parameter reference, and feature guides (e.g., pan/zoom, image prompts). Midjourney’s gallery and Explore section provide community inspiration and prompt examples.\n\nTypical uses include concept art, style exploration, marketing visuals, and poster design. Teams often pair Midjourney with traditional editors for post‑processing. The product is subscription‑based and runs entirely in the vendor’s cloud; there are no official desktop plug‑ins. Getting started involves joining the Discord server, choosing a plan, and using the /imagine command in allowed channels; docs include a comprehensive getting‑started guide and usage policies.\n\nMidjourney is best for creatives who value stylistic range and interactive prompt iteration in a community environment. Governance considerations include adherence to Midjourney’s terms and evolving legal landscape around training data and IP—teams should review policies and use internal brand guidelines for deployment.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Midjourney model family (versioned)"
+  ],
+  "platforms": [
+    "Discord bot",
+    "Web gallery (Explore)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Discord"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": "GPU‑time based per subscription tier"
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription",
+    "plans": [
+      {
+        "name": "Basic/Standard/Pro (GPU time)",
+        "price": null,
+        "billing": "monthly"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "High‑quality style outputs",
+      "Rich community examples",
+      "Frequent features"
+    ],
+    "cons": [
+      "Discord‑centric workflow",
+      "No official API; usage tied to terms"
+    ]
+  },
+  "key_differentiators": [
+    "Powerful prompt controls & variations",
+    "Large active community and gallery"
+  ],
+  "limitations": [
+    "Requires Discord; policy constraints on certain content"
+  ],
+  "import_export": [
+    "PNG/JPG downloads via Discord/web"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [
+    "Join Discord → subscribe → /imagine workflow; export images for editing in other apps"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Midjourney",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.midjourney.com/account",
+    "docs": "https://docs.midjourney.com/hc/en-us/articles/33329261836941-Getting-Started-Guide",
+    "changelog": null,
+    "support": "https://docs.midjourney.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.midjourney.com/favicon.ico",
+      "caption": "Midjourney icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Midjourney YouTube (official)",
+      "youtube": "https://www.youtube.com/@Midjourney",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Midjourney Getting Started (docs)",
+      "youtube": "https://www.youtube.com/watch?v=90tXPbyRGS8",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Parameter guide (community)",
+      "youtube": "https://www.youtube.com/watch?v=90tXPbyRGS8",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

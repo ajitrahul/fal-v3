@@ -1,0 +1,224 @@
+{
+  "id": "codeium",
+  "name": "Codeium (Windsurf)",
+  "slug": "codeium",
+  "logo_url": "https://codeium.com/favicon.ico",
+  "icon_url": "https://codeium.com/favicon.ico",
+  "images": [],
+  "website_url": "https://codeium.com",
+  "tagline": "AI coding toolkit + Windsurf IDE with agentic workflows",
+  "summary": "Codeium is an AI coding assistant and the maker of the AI‑native IDE Windsurf. Codeium’s extensions and Windsurf provide inline code completion, chat grounded in project context, multi‑file edits, unit‑test generation, and agentic workflows (e.g., Cascade) that plan and apply changes across files. The platform emphasizes “context‑aware everything,” describing how real‑time repository context improves suggestion quality and reduces rework. Enterprise offerings focus on privacy and control; public materials discuss Cloud and Hybrid (VPC/on‑prem) options and a government track, with content describing FedRAMP High alignment and DoD IL5/ITAR considerations for regulated buyers.\n\nCodeium/Windsurf publishes multiple customer stories on its blog, such as DRW and Zillow, describing adoption paths, onboarding acceleration, and measurable impacts in development velocity. Migration patterns are straightforward: individual developers can start free with the Windsurf editor or IDE plugins, then upgrade to paid plans for higher usage and team features. Organizations can roll out Windsurf/Codeium centrally, integrate SSO, and choose between secure SaaS, private cloud, or hybrid deployments documented in enterprise materials. Tutorials and product walkthroughs are available on the Windsurf YouTube channel, covering feature releases (“Waves”) and integrations with leading frontier models.\n\nCodeium is best for teams that want an AI‑first editor experience (Windsurf) with agentic assistance and strong context handling. Enterprises evaluating on‑premises or government‑grade deployments should review the enterprise/government pages and request security documentation for private installations and data‑handling details.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI IDE & Assistant",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "IDE"
+  ],
+  "tasks": [
+    "Inline completion",
+    "Chat with project context",
+    "Refactor & multi‑file edits",
+    "Test generation",
+    "Code search",
+    "Agentic planning (Cascade)"
+  ],
+  "use_cases": [
+    "Accelerate feature work",
+    "Onboard to large repos",
+    "Modernize legacy code",
+    "Enforce patterns with Guidelines"
+  ],
+  "best_for": [
+    "Teams wanting AI‑first IDE",
+    "Enterprises needing private/hybrid deployment"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Financial services",
+    "Defense/Public sector"
+  ],
+  "roles": [
+    "Developers",
+    "Tech Leads",
+    "Platform Engineering"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "SRE",
+    "Platform Engineer"
+  ],
+  "models": [
+    "Multiple LLMs; frontier model integrations (per product updates)"
+  ],
+  "platforms": [
+    "Windsurf IDE",
+    "VS Code/JetBrains plugins"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "GitHub/GitLab",
+    "Third‑party models",
+    "CI workflows (via editor/CLI)"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Enterprise deployment options (Cloud/Hybrid)"
+  ],
+  "governance": [
+    "SSO/permissions on enterprise deployments"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "Enterprise/Gov deployment options"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available (Windsurf Free)",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid tiers for higher usage",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Pro",
+        "price": "$15+/month (see site)",
+        "billing": "monthly"
+      },
+      {
+        "name": "Teams/Enterprise",
+        "price": "Contact sales",
+        "billing": "contract"
+      }
+    ]
+  },
+  "pricing_notes": "See Windsurf pricing page for current credits/allowances and proration rules.",
+  "pros_cons": {
+    "pros": [
+      "AI‑first editor with agentic workflows",
+      "Strong context features",
+      "Enterprise/private deployment posture"
+    ],
+    "cons": [
+      "Feature names and plans evolve quickly",
+      "Deep enterprise details via sales"
+    ]
+  },
+  "key_differentiators": [
+    "Windsurf IDE + Cascade agent",
+    "Context‑aware editing across files"
+  ],
+  "limitations": [
+    "Some enterprise materials require contact with sales"
+  ],
+  "import_export": [
+    "Standard project files via IDE; no special formats"
+  ],
+  "setup_time": "Minutes for individuals; days for enterprise rollout",
+  "case_studies": [
+    {
+      "title": "Zillow on Codeium",
+      "url": "https://codeium.com/blog/zillow-codeium-case-study"
+    },
+    {
+      "title": "DRW: Codeium Enterprise adoption",
+      "url": "https://codeium.com/blog/drw-case-study"
+    },
+    {
+      "title": "Anduril on Windsurf",
+      "url": "https://codeium.com/blog/anduril-case-study"
+    }
+  ],
+  "migration_paths": [
+    "Start on Free → upgrade to Pro/Teams via account settings",
+    "Enterprise: evaluate Cloud vs Hybrid (VPC/on‑prem) options and SSO",
+    "Government: review FedRAMP High/IL5/ITAR track via enterprise pages"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with Copilot, Tabnine, Cody, JetBrains AI",
+  "vendor": {
+    "name": "Exafunction, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://x.com/getcodeium",
+    "linkedin": "https://www.linkedin.com/company/codeium/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://windsurf.com/pricing",
+    "docs": "https://codeium.com/blog",
+    "changelog": null,
+    "support": "https://codeium.com/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:46:57Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Context‑aware editing helps large repos",
+        "author": "Customer stories",
+        "rating": 5,
+        "created_at": "2025-10-11T23:46:57Z",
+        "body": "Blog case studies (Zillow, DRW) describe onboarding speedups and higher code generation acceptance."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://codeium.com/favicon.ico",
+      "caption": "Codeium mark"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Windsurf official channel",
+      "youtube": "https://www.youtube.com/channel/UCirYnEfIjR8L1-sM2ozb7QQ",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Codeium overview talk",
+      "youtube": "https://www.youtube.com/watch?v=0VhXy9A3qQs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Windsurf Wave updates",
+      "youtube": "https://www.youtube.com/watch?v=Wvyc2E6OHm8",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

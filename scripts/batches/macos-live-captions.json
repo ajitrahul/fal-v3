@@ -1,0 +1,128 @@
+{
+  "id": "macos-live-captions",
+  "name": "macOS — Live Captions",
+  "slug": "macos-live-captions",
+  "logo_url": "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac/favicon.ico",
+  "icon_url": "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac/favicon.ico",
+  "images": [
+    "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac/favicon.ico"
+  ],
+  "website_url": "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac",
+  "tagline": "System‑wide captions on macOS for supported devices.",
+  "summary": "macOS — Live Captions provides system/browser‑level captions driven by on‑device or cloud ASR to improve accessibility.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Accessibility",
+    "On‑device processing"
+  ],
+  "use_cases": [
+    "System‑wide access",
+    "Meetings",
+    "Media playback"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Apple",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/apple/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac",
+    "changelog": null,
+    "support": "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:21:04Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://support.apple.com/guide/mac-help/use-live-captions-mchl5eb22f2b/mac/favicon.ico",
+      "caption": "macOS — Live Captions icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

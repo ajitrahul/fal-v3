@@ -1,0 +1,128 @@
+{
+  "id": "python-speechrecognition-library",
+  "name": "Python SpeechRecognition (library)",
+  "slug": "python-speechrecognition-library",
+  "logo_url": "https://pypi.org/project/SpeechRecognition/favicon.ico",
+  "icon_url": "https://pypi.org/project/SpeechRecognition/favicon.ico",
+  "images": [
+    "https://pypi.org/project/SpeechRecognition/favicon.ico"
+  ],
+  "website_url": "https://pypi.org/project/SpeechRecognition/",
+  "tagline": "Python library bridging to multiple ASR engines/APIs.",
+  "summary": "Python SpeechRecognition (library) is open source and commonly used to build or integrate ASR pipelines for research and applications.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Inference",
+    "Integration",
+    "Utilities"
+  ],
+  "use_cases": [
+    "Prototyping",
+    "Education",
+    "Production glue"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Open‑source (library)",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://pypi.org/project/SpeechRecognition/",
+    "changelog": null,
+    "support": "https://pypi.org/project/SpeechRecognition/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:17:50Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": true,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://pypi.org/project/SpeechRecognition/favicon.ico",
+      "caption": "Python SpeechRecognition (library) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

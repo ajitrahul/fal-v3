@@ -1,0 +1,180 @@
+{
+  "id": "continue-dev",
+  "name": "Continue",
+  "slug": "continue-dev",
+  "logo_url": "https://www.continue.dev/favicon.ico",
+  "icon_url": "https://www.continue.dev/favicon.ico",
+  "images": [
+    "https://www.continue.dev/favicon.ico"
+  ],
+  "website_url": "https://www.continue.dev/",
+  "tagline": "Open‑source IDE extensions and CLI to build custom AI coding agents.",
+  "summary": "Continue is an open‑source AI coding assistant that ships IDE extensions for VS Code and JetBrains plus an open CLI for terminal‑first and CI/CD scenarios. Its core idea is control: you choose the models (local or hosted), decide what context to feed them, and define custom tools and automations through a hub of community‑contributed integrations. Documentation shows how to connect to model providers, enable terminal‑native TUI mode for interactive development, and run headless in pipelines for batch changes. Because Continue is open‑source, organizations can inspect and extend it to suit internal policies and infrastructure.\n\nTeams use Continue to avoid vendor lock‑in while still getting AI‑assisted editing, chat, and multi‑file operations. The CLI supports scripted refactors, pre‑commit hooks, and CI jobs that run AI‑assisted codemods; IDE extensions bring chat and completions to developer workstations. A Continue Hub catalogs templates and tools so teams can standardize on opinionated agents (e.g., a refactoring agent that enforces style rules). Tutorials and the official YouTube channel demonstrate setup, custom tools, and examples of connecting to popular LLMs and vector databases. \n\nContinue is best for engineers who want an extensible, inspectable assistant that integrates with existing editors and tooling. Migration is straightforward: install the IDE extension or CLI, configure model credentials, and adopt templates across teams. Enterprises can fork the project and manage internal plugins or tools to align with governance requirements.",
+  "main_category": "Code Assistant",
+  "subcategory": "Open‑Source IDE Assistant",
+  "categories": [
+    "Developer Tools",
+    "Frameworks",
+    "Open Source"
+  ],
+  "tasks": [
+    "IDE chat & completions",
+    "TUI/CLI automation",
+    "Headless CI codemods",
+    "Custom tools via Hub"
+  ],
+  "use_cases": [
+    "Avoid lock‑in",
+    "Automate repetitive refactors",
+    "Custom agent workflows"
+  ],
+  "best_for": [
+    "Teams needing extensibility & control",
+    "Open‑source adopters"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Enterprise IT"
+  ],
+  "roles": [
+    "Developers",
+    "Platform Engineering"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "DevEx Engineer"
+  ],
+  "models": [
+    "Bring‑your‑own (local/hosted)"
+  ],
+  "platforms": [
+    "VS Code",
+    "JetBrains",
+    "CLI"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "Model providers",
+    "Vector DBs",
+    "MCP tools (community)"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Self‑host options; local models"
+  ],
+  "governance": [
+    "Configurable policies and templates"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Open source",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Open source + optional hosted services",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Open‑source & extensible",
+      "Works in IDE + terminal + CI",
+      "Choose any model"
+    ],
+    "cons": [
+      "Requires configuration and model credentials"
+    ]
+  },
+  "key_differentiators": [
+    "Open source across IDE, CLI, and CI",
+    "Hub of community tools"
+  ],
+  "limitations": [
+    "Feature set depends on connected models/tools"
+  ],
+  "import_export": [
+    "Standard project files; CLI scripts"
+  ],
+  "setup_time": "Minutes to install; time to configure models/tools varies",
+  "case_studies": [],
+  "migration_paths": [
+    "Install extension/CLI; configure model providers; roll out templates across teams"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives: Aider (CLI), VS Code + Copilot, other open assistants",
+  "vendor": {
+    "name": "Continue.dev (open‑source)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/continuedev",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://docs.continue.dev/",
+    "changelog": null,
+    "support": "https://github.com/continuedev/continue"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.continue.dev/favicon.ico",
+      "caption": "Continue icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Continue (original demo, official)",
+      "youtube": "https://www.youtube.com/watch?v=V3Yq6w9QaxI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Continue official channel",
+      "youtube": "https://www.youtube.com/@continuedev",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Continue CLI overview (community)",
+      "youtube": "https://www.youtube.com/watch?v=u70zctCPaLc",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,157 @@
+{
+  "id": "nuance-dragon-professional-anywhere",
+  "name": "Nuance Dragon Professional Anywhere",
+  "slug": "nuance-dragon-professional-anywhere",
+  "logo_url": "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html/favicon.ico",
+  "icon_url": "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html/favicon.ico",
+  "images": [
+    "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html/favicon.ico"
+  ],
+  "website_url": "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html",
+  "tagline": "Cloud-hosted professional dictation for enterprises and public sector.",
+  "summary": "Dragon Professional Anywhere (DPA) is a cloud-hosted dictation solution for professionals who need fast, accurate speech recognition across desktop applications. It supports custom vocabularies, auto‑text, and voice commands to insert boilerplate or trigger workflows. IT admins centrally manage user access and settings, and organizations can combine DPA with Dragon Anywhere Mobile for smartphone dictation.\n\nDPA is used in legal, public sector, and enterprise documentation, improving productivity for report writing and form completion. Licensing is subscription-based, and deployment involves installing the lightweight dictation client and distributing configuration profiles.\n\nDPA is best for organizations standardizing on Nuance for non-medical documentation with centralized administration.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Real-time dictation",
+    "Custom commands",
+    "Auto‑text"
+  ],
+  "use_cases": [
+    "Reports & documentation",
+    "Forms",
+    "Email & office apps dictation"
+  ],
+  "best_for": [
+    "Enterprises",
+    "Public sector",
+    "Legal"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Nuance professional dictation ASR (cloud)"
+  ],
+  "platforms": [
+    "Windows client",
+    "Citrix/VM environments",
+    "Mobile companion app"
+  ],
+  "languages": [
+    "Multiple locales (see site)"
+  ],
+  "integrations": [
+    "Office apps",
+    "Line-of-business apps (dictation field input)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription (business contracts)",
+    "plans": [
+      {
+        "name": "Enterprise license",
+        "price": null,
+        "billing": "contract"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Nuance Communications (Microsoft)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/NuanceInc",
+    "linkedin": "https://www.linkedin.com/company/nuance-communications/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html#pricing",
+    "docs": "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html",
+    "changelog": null,
+    "support": "https://www.nuance.com/support.html"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:15:46Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.nuance.com/dragon/for-business/dragon-professional-anywhere.html/favicon.ico",
+      "caption": "Nuance Dragon Professional Anywhere icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Dragon Professional Anywhere overview (Nuance)",
+      "youtube": "https://www.youtube.com/@NuanceInc",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create commands & auto‑text (Nuance)",
+      "youtube": "https://www.youtube.com/@NuanceInc",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Dictation tips for office apps (Nuance)",
+      "youtube": "https://www.youtube.com/@NuanceInc",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

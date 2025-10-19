@@ -1,0 +1,155 @@
+{
+  "id": "openai-dall-e-3",
+  "name": "OpenAI DALL·E 3",
+  "slug": "openai-dall-e-3",
+  "logo_url": "https://openai.com/dall-e-3/favicon.ico",
+  "icon_url": "https://openai.com/dall-e-3/favicon.ico",
+  "images": [
+    "https://openai.com/dall-e-3/favicon.ico"
+  ],
+  "website_url": "https://openai.com/dall-e-3/",
+  "tagline": "OpenAI’s text-to-image model integrated into ChatGPT and API.",
+  "summary": "DALL·E 3 is OpenAI’s current text‑to‑image model, available in ChatGPT (consumer and enterprise editions) and via API for developers. It focuses on translating nuanced natural‑language prompts into high‑fidelity images and supports conversational editing in ChatGPT (ask to tweak composition, lighting, or style). OpenAI documentation and system cards discuss improvements over DALL·E 2, safety mitigations (e.g., refusals around public figures), and ongoing provenance efforts such as a DALL·E 3 provenance classifier and participation in industry standards for media origin tracing. \n\nIndividuals can generate images directly in ChatGPT; developers can call the Images API to integrate generation into apps, set size/aspect, and perform edits/variations. Typical uses include product concepts, illustrations, data‑driven storytelling graphics, and marketing mockups. Enterprises value governance features included with ChatGPT Enterprise (e.g., data controls) while using DALL·E 3 for asset ideation. OpenAI states that images created with DALL·E may be used, reprinted, and merchandised by the creator subject to applicable law.\n\nDALL·E 3 is best for teams already on ChatGPT or building on OpenAI’s platform, where conversational editing and API integration streamline generation and iteration.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "DALL·E 3"
+  ],
+  "platforms": [
+    "ChatGPT (web/mobile)",
+    "OpenAI API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "ChatGPT",
+    "Images API"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": "Per account/API plan"
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription/API usage",
+    "plans": [
+      {
+        "name": "ChatGPT plans & API usage",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Strong language understanding",
+      "Chat‑based edits",
+      "API for developers"
+    ],
+    "cons": [
+      "Model + policy constraints; pricing via ChatGPT/API"
+    ]
+  },
+  "key_differentiators": [
+    "Tight ChatGPT integration",
+    "Provenance & safety research"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG via UI or API"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "OpenAI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/OpenAI",
+    "linkedin": "https://www.linkedin.com/company/openai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise/",
+    "docs": "https://openai.com/dall-e-3/",
+    "changelog": "https://openai.com/index/dall-e-3-system-card/",
+    "support": "https://help.openai.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://openai.com/dall-e-3/favicon.ico",
+      "caption": "OpenAI DALL·E 3 icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Introducing DALL·E 3 (OpenAI)",
+      "youtube": "https://www.youtube.com/watch?v=sqQrN0iZBs0",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Use DALL·E via OpenAI Images API (community)",
+      "youtube": "https://www.youtube.com/watch?v=2KNxDk7mMFo",
+      "provider": "YouTube"
+    },
+    {
+      "title": "DALL·E 3 overview (community explainer)",
+      "youtube": "https://www.youtube.com/watch?v=27R0d1xUK9Y",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

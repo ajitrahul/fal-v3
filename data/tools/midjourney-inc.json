@@ -1,0 +1,195 @@
+{
+  "slug": "midjourney",
+  "name": "Midjourney",
+  "website_url": "https://www.midjourney.com/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.midjourney.com",
+  "description": "Midjourney is a creative AI for image (and early video) generation from prompts. It began on Discord and now offers web generation with fast iterations and style controls.",
+  "category": "text-to-image",
+  "use_cases": [
+    {
+      "title": "Concept art",
+      "details": "Visualize ideas and mood boards quickly."
+    },
+    {
+      "title": "Marketing visuals",
+      "details": "Create images for ads and social."
+    },
+    {
+      "title": "Illustration",
+      "details": "Produce stylistic drafts and variations."
+    }
+  ],
+  "pros": [
+    "High visual fidelity",
+    "Vibrant community",
+    "Fast iteration"
+  ],
+  "cons": [
+    "GPU usage quotas",
+    "Discord onboarding can be unfamiliar"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Basic",
+      "price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Limited Fast GPU time"
+      ],
+      "trial_available": false,
+      "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans"
+    },
+    {
+      "name": "Standard",
+      "price": 30,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Unlimited Relaxed mode"
+      ],
+      "trial_available": false,
+      "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans"
+    },
+    {
+      "name": "Pro",
+      "price": 60,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "More Fast GPU time",
+        "Stealth mode"
+      ],
+      "trial_available": false,
+      "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans"
+    }
+  ],
+  "company_details": {
+    "name": "Midjourney, Inc.",
+    "founded_year": 2022,
+    "hq_city": "San Francisco",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://docs.midjourney.com/docs/terms-of-service",
+      "privacy_url": "https://docs.midjourney.com/docs/privacy-policy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/midjourney/reviews"
+    }
+  ],
+  "image": "https://www.midjourney.com/og.jpg",
+  "best_for": [
+    "Designers",
+    "Marketers",
+    "Creators"
+  ],
+  "models": [
+    {
+      "name": "Midjourney v6+",
+      "provider": "Midjourney",
+      "version": "v6",
+      "modality": "image, video (beta)",
+      "input_formats": [
+        "text",
+        "image"
+      ],
+      "output_formats": [
+        "image",
+        "video"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": false,
+    "hosting_options": [
+      "SaaS"
+    ],
+    "integrations": [
+      "Discord"
+    ]
+  },
+  "key_differentiator": [
+    "Aesthetic quality and style controls"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://docs.midjourney.com/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": false,
+    "requires_login": true,
+    "has_api": false
+  },
+  "gallery": [
+    {
+      "url": "https://www.midjourney.com/og.jpg",
+      "caption": "Midjourney samples"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Midjourney Video V1 Released!",
+      "url": "https://www.youtube.com/watch?v=Uj54-l523oE",
+      "channel": "MattVidPro AI"
+    }
+  ],
+  "qa": [
+    {
+      "question": "How do I use Midjourney?",
+      "answer": "Start on Discord or the website; prompt then iterate.",
+      "source_url": "https://docs.midjourney.com/"
+    },
+    {
+      "question": "Is there a free tier?",
+      "answer": "Subscriptions are required; tiers vary.",
+      "source_url": "https://docs.midjourney.com/"
+    },
+    {
+      "question": "What are the plans?",
+      "answer": "Basic, Standard, Pro, Mega (where available).",
+      "source_url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "No public API.",
+      "source_url": "https://docs.midjourney.com/"
+    },
+    {
+      "question": "Can I animate images?",
+      "answer": "Early video features exist.",
+      "source_url": "https://www.theverge.com/"
+    },
+    {
+      "question": "Ownership/usage rights?",
+      "answer": "See Terms of Service.",
+      "source_url": "https://docs.midjourney.com/docs/terms-of-service"
+    },
+    {
+      "question": "Private/stealth?",
+      "answer": "Pro includes stealth options.",
+      "source_url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans"
+    },
+    {
+      "question": "Usage limits?",
+      "answer": "Fast GPU time and Relaxed mode quotas apply.",
+      "source_url": "https://docs.midjourney.com/"
+    },
+    {
+      "question": "Reviews?",
+      "answer": "See G2 and community write-ups.",
+      "source_url": "https://www.g2.com/products/midjourney/reviews"
+    },
+    {
+      "question": "Use own images?",
+      "answer": "Yes—image prompts and variations supported.",
+      "source_url": "https://docs.midjourney.com/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@Midjourney",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

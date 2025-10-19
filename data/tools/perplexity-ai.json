@@ -1,0 +1,183 @@
+{
+  "slug": "perplexity-ai",
+  "name": "Perplexity AI",
+  "website_url": "https://www.perplexity.ai/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.perplexity.ai",
+  "description": "Perplexity is an AI research assistant that answers questions with cited sources and offers Pro features like file analysis and model choices.",
+  "category": "search-assistant",
+  "use_cases": [
+    {
+      "title": "Research with citations",
+      "details": "Answer questions with linked sources."
+    },
+    {
+      "title": "Literature review",
+      "details": "Summarize across multiple references."
+    },
+    {
+      "title": "Tech lookups",
+      "details": "Query docs and articles quickly."
+    }
+  ],
+  "pros": [
+    "Citations by default",
+    "Fast responses",
+    "Great for exploration"
+  ],
+  "cons": [
+    "Advanced features in Pro",
+    "Dependent on the web"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Free",
+      "price": "0",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Core features"
+      ],
+      "trial_available": false,
+      "url": "https://www.perplexity.ai/"
+    },
+    {
+      "name": "Pro",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Higher limits",
+        "Model choice",
+        "File analysis"
+      ],
+      "trial_available": true,
+      "url": "https://www.perplexity.ai/pro"
+    }
+  ],
+  "company_details": {
+    "name": "Perplexity AI, Inc.",
+    "founded_year": 2022,
+    "hq_city": "San Francisco",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://www.perplexity.ai/terms",
+      "privacy_url": "https://www.perplexity.ai/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/perplexity-ai/reviews"
+    }
+  ],
+  "image": "https://www.perplexity.ai/og-image.png",
+  "best_for": [
+    "Students",
+    "Researchers",
+    "Analysts"
+  ],
+  "models": [
+    {
+      "name": "Multiple LLM providers",
+      "provider": "Various",
+      "modality": "text",
+      "input_formats": [
+        "text",
+        "url"
+      ],
+      "output_formats": [
+        "text"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": false,
+    "hosting_options": [
+      "SaaS"
+    ],
+    "integrations": [
+      "Browser extensions"
+    ]
+  },
+  "key_differentiator": [
+    "Answer-first with citations and exploration"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://support.perplexity.ai/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": false,
+    "has_api": false
+  },
+  "gallery": [
+    {
+      "url": "https://www.perplexity.ai/og-image.png",
+      "caption": "Perplexity interface"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Perplexity AI Tutorial",
+      "url": "https://www.youtube.com/watch?v=b61H_rNlyl4",
+      "channel": "Ali Abdaal"
+    }
+  ],
+  "qa": [
+    {
+      "question": "Does it cite sources?",
+      "answer": "Yes—answers include citations.",
+      "source_url": "https://www.perplexity.ai/"
+    },
+    {
+      "question": "What is Pro?",
+      "answer": "Paid plan with higher limits and features.",
+      "source_url": "https://www.perplexity.ai/pro"
+    },
+    {
+      "question": "Free plan?",
+      "answer": "Yes—core features are free.",
+      "source_url": "https://www.perplexity.ai/"
+    },
+    {
+      "question": "API?",
+      "answer": "No public API at this time.",
+      "source_url": "https://www.perplexity.ai/"
+    },
+    {
+      "question": "File uploads?",
+      "answer": "Pro includes file analysis.",
+      "source_url": "https://www.perplexity.ai/pro"
+    },
+    {
+      "question": "Real-time?",
+      "answer": "Performs live web retrieval.",
+      "source_url": "https://www.perplexity.ai/"
+    },
+    {
+      "question": "Mobile apps?",
+      "answer": "Yes—on major platforms.",
+      "source_url": "https://apps.apple.com/app/perplexity-ai/id1668000030"
+    },
+    {
+      "question": "Model choice?",
+      "answer": "Pro lets you pick among models.",
+      "source_url": "https://www.perplexity.ai/pro"
+    },
+    {
+      "question": "Browser extension?",
+      "answer": "Yes—available for quick lookups.",
+      "source_url": "https://www.perplexity.ai/"
+    },
+    {
+      "question": "Privacy?",
+      "answer": "See privacy policy for data use.",
+      "source_url": "https://www.perplexity.ai/privacy"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@perplexity_ai",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

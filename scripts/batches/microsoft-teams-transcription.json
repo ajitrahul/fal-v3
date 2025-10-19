@@ -1,0 +1,145 @@
+{
+  "id": "microsoft-teams-transcription",
+  "name": "Microsoft Teams Transcription",
+  "slug": "microsoft-teams-transcription",
+  "logo_url": "https://www.microsoft.com/microsoft-teams/favicon.ico",
+  "icon_url": "https://www.microsoft.com/microsoft-teams/favicon.ico",
+  "images": [
+    "https://www.microsoft.com/microsoft-teams/favicon.ico"
+  ],
+  "website_url": "https://www.microsoft.com/microsoft-teams",
+  "tagline": "Live captions and transcripts in Microsoft Teams meetings; export and policy controls.",
+  "summary": "Microsoft Teams provides live captions and meeting transcripts for eligible Microsoft 365 plans. Organizers can enable transcription so participants can view captions in real time and access the saved transcript afterward, typically stored in OneDrive or SharePoint depending on meeting type. Admins control availability via policy and can manage retention and eDiscovery based on organizational compliance settings.\n\nTeams transcription is commonly used for project reviews, customer calls, and training. It integrates seamlessly with calendars and recordings, and supports multiple locales that expand over time. Transcripts can be downloaded or shared with attendees per policy.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Saved transcripts",
+    "Searchable recordings"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Training",
+    "Internal comms"
+  ],
+  "best_for": [
+    "Microsoft 365 organizations"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Teams transcription (service‑managed)"
+  ],
+  "platforms": [
+    "Teams desktop/web/mobile",
+    "Microsoft 365 ecosystem"
+  ],
+  "languages": [
+    "Multiple locales (see Microsoft docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Microsoft",
+    "hq_country": null,
+    "twitter": "https://twitter.com/MicrosoftTeams",
+    "linkedin": "https://www.linkedin.com/showcase/microsoft-teams/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.microsoft.com/microsoft-teams/compare-microsoft-teams-options",
+    "docs": "https://learn.microsoft.com/microsoftteams",
+    "changelog": "https://learn.microsoft.com/microsoftteams/teams-service-description",
+    "support": "https://support.microsoft.com/teams"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:21:00Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.microsoft.com/microsoft-teams/favicon.ico",
+      "caption": "Microsoft Teams Transcription icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Use live captions & transcripts (Microsoft)",
+      "youtube": "https://www.youtube.com/@MicrosoftTeams",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Manage meeting transcripts (Microsoft)",
+      "youtube": "https://www.youtube.com/@MicrosoftTeams",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Accessibility & captions in Teams (Microsoft)",
+      "youtube": "https://www.youtube.com/@MicrosoftTeams",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

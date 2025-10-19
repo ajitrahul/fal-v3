@@ -1,0 +1,173 @@
+{
+  "id": "heygen",
+  "name": "HeyGen",
+  "slug": "heygen",
+  "logo_url": "https://www.heygen.com/favicon.ico",
+  "icon_url": "https://www.heygen.com/favicon.ico",
+  "images": [
+    "https://www.heygen.com/favicon.ico"
+  ],
+  "website_url": "https://www.heygen.com",
+  "tagline": "AI avatar video creation with templates, multi‑language voices, and API.",
+  "summary": "HeyGen is an AI avatar video platform for creating presenter‑style videos from scripts or voice tracks. It features a library of stock avatars, custom avatar creation, multi‑language voices, and a template‑driven web editor for laying out scenes with backgrounds, captions, and screen media. The product is widely used for explainers, training, and product marketing where on‑camera talent and studio resources are limited. HeyGen provides bulk generation tools and an API for integrating video creation into existing systems.\n\nThe workflow involves selecting an avatar and voice, pasting a script, and previewing before final render. The editor supports brand kits and captions; exported videos can be delivered to LMSs, intranets, or social platforms. Tutorials on the HeyGen YouTube channel cover getting started, localization workflows, and tips for making more natural‑sounding deliveries. Plans range from individual to enterprise, with options for custom avatars and watermark control on higher tiers.\n\nHeyGen is a strong choice for businesses that prioritize speed, localization, and brand consistency in talking‑head videos without investing in filming.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Script‑to‑video",
+    "Localization",
+    "Bulk generation",
+    "Templates"
+  ],
+  "use_cases": [
+    "Training",
+    "Marketing explainers",
+    "Internal updates"
+  ],
+  "best_for": [
+    "SMBs and Enterprises",
+    "L&D",
+    "Marketing"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "HeyGen avatar/voice stack"
+  ],
+  "platforms": [
+    "Web",
+    "API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Brand kits; LMS via export/embed"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Trials; paid plans for production use",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription + enterprise",
+    "plans": [
+      {
+        "name": "Creator/Business/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Fast avatar videos",
+      "Template‑first editor",
+      "API"
+    ],
+    "cons": [
+      "Avatar format vs. fully synthetic motion systems"
+    ]
+  },
+  "key_differentiators": [
+    "Custom avatars & localization focus",
+    "Enterprise templates & API"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 exports; embeds"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "HeyGen customer stories",
+      "url": "https://www.heygen.com/customers"
+    }
+  ],
+  "migration_paths": [
+    "Start with stock avatars; move to custom avatars/voices; adopt API for bulk"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "HeyGen",
+    "hq_country": null,
+    "twitter": "https://twitter.com/HeyGen_Official",
+    "linkedin": "https://www.linkedin.com/company/heygen/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.heygen.com/pricing",
+    "docs": "https://help.heygen.com",
+    "changelog": null,
+    "support": "https://www.heygen.com/contact-us"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.heygen.com/favicon.ico",
+      "caption": "HeyGen icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "HeyGen channel (official)",
+      "youtube": "https://www.youtube.com/@heygen",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create videos with HeyGen (official)",
+      "youtube": "https://www.youtube.com/watch?v=0XQZ7ZQkpss",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Localization with HeyGen (official)",
+      "youtube": "https://www.youtube.com/watch?v=5H1zdM7rp8g",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

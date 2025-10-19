@@ -1,0 +1,425 @@
+{
+  "links": [
+    {
+      "url": "https://acme.example.com/?ref=findailist",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=3840&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=256&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=384&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=640&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=750&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=828&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=1080&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=1200&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=1920&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.persado.com%2F&w=1080&q=75",
+      "status": 502,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.jasper.ai%2F&w=1080&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.copy.ai%2F&w=1200&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.lavender.ai%2F&w=750&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.lavender.ai%2F&w=1200&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.lavender.ai%2F&w=1920&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.theseventhsense.com%2F&w=1080&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.theseventhsense.com%2F&w=2048&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fwww.persado.com%2F&w=1200&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fget.mem.ai%2F&w=3840&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fget.mem.ai%2F&w=1920&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fotter.ai%2F&w=384&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fotter.ai%2F&w=1080&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Ffathom.video%2F&w=1080&q=75",
+      "status": 504,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=%2Fsponsor%2Fsample-hero.jpg&w=2048&q=75",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/compare",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/jasper?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/jasper",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/copy-ai?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/copy-ai",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/lavender?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/lavender",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/seventh-sense?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/seventh-sense",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/persado?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/persado",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/notion-ai?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/notion-ai",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/_next/image?url=https%3A%2F%2Fimage.thum.io%2Fget%2Fwidth%2F1200%2Fcrop%2F800%2Fhttps%3A%2F%2Fget.mem.ai%2F&w=1080&q=75",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/mem?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/mem",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/otter?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/otter",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/whats-new",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/fathom?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/fathom",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/jasper-10?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/jasper-10",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/copy-ai-11?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/copy-ai-11",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/lavender-12?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/lavender-12",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/seventh-sense-13?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/seventh-sense-13",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/persado-14?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/persado-14",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/notion-ai-15?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/notion-ai-15",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/go/mem-16?ctx=home_card",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/tools/mem-16",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/agents",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/analytics",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/assistants",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/audio",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/automation",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/code-assistants",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/customer-support",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    },
+    {
+      "url": "http://localhost:3000/categories/data",
+      "status": 0,
+      "state": "BROKEN",
+      "parent": "http://localhost:3000/"
+    }
+  ],
+  "passed": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": "microsoft-designer",
+  "name": "Microsoft Designer",
+  "slug": "microsoft-designer",
+  "logo_url": "https://designer.microsoft.com/favicon.ico",
+  "icon_url": "https://designer.microsoft.com/favicon.ico",
+  "images": [
+    "https://designer.microsoft.com/favicon.ico"
+  ],
+  "website_url": "https://designer.microsoft.com/",
+  "tagline": "AI‑assisted design app with text‑to‑image and layout generation, part of Microsoft’s creator tools.",
+  "summary": "Microsoft Designer is an AI‑assisted design app that generates images and complete layouts for social posts, invitations, and marketing materials. Users can start from a prompt to get multiple image and design options, then customize typography, colors, and layout in an easy web editor. Designer integrates with Microsoft accounts and assets created in Designer can be exported or used in other Microsoft apps; Microsoft’s support pages provide feature overviews and tips.\n\nTypical uses include quick social assets, promotional graphics, and ideation where users want both an image and a finished layout. Designer also exposes an AI image generator (text‑to‑image) for standalone assets. Setup is minimal—sign in with a Microsoft account and start creating. Tutorials and official content are available via Microsoft’s channels.\n\nDesigner is best for small businesses and individuals who want a simple, AI‑powered design tool without adopting complex software.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Microsoft service‑managed models"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Microsoft account"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free usage available; premium features may require Microsoft 365 or add‑ons",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium",
+    "plans": [
+      {
+        "name": "Free + optional add‑ons",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "End‑to‑end design from prompt",
+      "Simple web UI",
+      "Microsoft ecosystem"
+    ],
+    "cons": [
+      "Fewer advanced controls than pro design suites"
+    ]
+  },
+  "key_differentiators": [
+    "Generates both imagery and layouts",
+    "Microsoft account integration"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG/MP4 (varies by asset)"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Microsoft",
+    "hq_country": null,
+    "twitter": "https://twitter.com/MSFT365",
+    "linkedin": "https://www.linkedin.com/company/microsoft/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.microsoft.com/en-us/microsoft-365/microsoft-designer",
+    "docs": "https://support.microsoft.com/en-us/topic/welcome-to-microsoft-designer-6cd168f3-1cf0-478e-bd75-31d6526d2504",
+    "changelog": null,
+    "support": "https://support.microsoft.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://designer.microsoft.com/favicon.ico",
+      "caption": "Microsoft Designer icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Microsoft Designer overview (official)",
+      "youtube": "https://www.youtube.com/@MicrosoftDesign",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Free AI Image Generator in Designer (official)",
+      "youtube": "https://www.youtube.com/watch?v=Jd9t3kG3nEo",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Designer quickstart (community)",
+      "youtube": "https://www.youtube.com/watch?v=8rPZzAqKI68",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

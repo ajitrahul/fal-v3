@@ -1,0 +1,155 @@
+{
+  "slug": "tactiq",
+  "name": "Tactiq",
+  "website_url": "https://tactiq.io/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=tactiq.io",
+  "description": "Tactiq is an AI tool in the meeting assistant category. See the official site for features and availability.",
+  "category": "meeting-assistant",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use Tactiq for meeting assistant tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://tactiq.io/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Tactiq",
+    "legal": {
+      "terms_url": "https://tactiq.io/terms",
+      "privacy_url": "https://tactiq.io/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=Tactiq"
+    }
+  ],
+  "image": "https://tactiq.io/",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "Tactiq",
+      "modality": "text"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://tactiq.io/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the Tactiq ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://tactiq.io/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://tactiq.io/",
+      "caption": "Tactiq"
+    }
+  ],
+  "tutorials_youtube": [],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://tactiq.io/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://tactiq.io/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://tactiq.io/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://tactiq.io/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://tactiq.io/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://tactiq.io/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://tactiq.io/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://tactiq.io/"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://tactiq.io/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T12:30:51.303361"
+}

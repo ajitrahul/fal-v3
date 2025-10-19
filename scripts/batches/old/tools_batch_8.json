@@ -1,0 +1,8053 @@
+[
+  {
+    "id": "e6c5fcb9-2dbe-4fad-b687-dd40e81166a4",
+    "name": "Leonardo AI",
+    "slug": "leonardo-ai",
+    "tagline": "Image Generation AI for generate images",
+    "summary": "Leonardo AI is an AI-powered tool for Generate images, Concept art and more. Designed for Designers, Creators, it offers fast workflows and useful integrations.",
+    "website_url": "https://leonardo.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=leonardo.ai",
+    "gallery": [],
+    "categories": [
+      "Image Generation",
+      "Design"
+    ],
+    "tasks": [
+      "Generate images",
+      "Concept art"
+    ],
+    "job_roles": [
+      "Designers",
+      "Creators"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Leonardo AI",
+      "hq_country": "US",
+      "contact_email": "hi@leonardo.ai",
+      "twitter": "https://x.com/leonardo-ai",
+      "linkedin": "https://www.linkedin.com/company/leonardo-ai"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 614,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Generate images",
+        "Concept art",
+        "Design",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/leonardo-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://leonardo.ai/help",
+      "changelog": "https://leonardo.ai/changelog",
+      "support": "https://leonardo.ai/support",
+      "pricing": "https://leonardo.ai/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Generate images",
+      "Concept art",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://leonardo.ai"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Leonardo AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Leonardo+AI+quick+start"
+      },
+      {
+        "title": "Leonardo AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Leonardo+AI+tutorial"
+      },
+      {
+        "title": "Leonardo AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Leonardo+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "9610c822-8367-4c87-ba1a-60d4cc394fe5",
+    "name": "Ideogram",
+    "slug": "ideogram",
+    "tagline": "Image Generation AI for generate images",
+    "summary": "Ideogram is an AI-powered tool for Generate images, Logos and more. Designed for Designers, Marketers, it offers fast workflows and useful integrations.",
+    "website_url": "https://ideogram.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=ideogram.ai",
+    "gallery": [],
+    "categories": [
+      "Image Generation",
+      "Design"
+    ],
+    "tasks": [
+      "Generate images",
+      "Logos"
+    ],
+    "job_roles": [
+      "Designers",
+      "Marketers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Ideogram",
+      "hq_country": "US",
+      "contact_email": "hi@ideogram.ai",
+      "twitter": "https://x.com/ideogram",
+      "linkedin": "https://www.linkedin.com/company/ideogram"
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 4811,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Logos",
+        "Generate images",
+        "Design",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/ideogram",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://ideogram.ai/help",
+      "changelog": "https://ideogram.ai/changelog",
+      "support": "https://ideogram.ai/support",
+      "pricing": "https://ideogram.ai/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Generate images",
+      "Logos",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://ideogram.ai"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Ideogram quick start",
+        "url": "https://www.youtube.com/results?search_query=Ideogram+quick+start"
+      },
+      {
+        "title": "Ideogram full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Ideogram+tutorial"
+      },
+      {
+        "title": "Ideogram tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Ideogram+tips"
+      }
+    ]
+  },
+  {
+    "id": "ca080795-5414-487a-a1a6-13bc24e4dfdc",
+    "name": "Playground AI",
+    "slug": "playground-ai",
+    "tagline": "Image Generation AI for generate images",
+    "summary": "Playground AI is an AI-powered tool for Generate images, Edit and more. Designed for Designers, Creators, it offers fast workflows and useful integrations.",
+    "website_url": "https://playgroundai.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=playgroundai.com",
+    "gallery": [],
+    "categories": [
+      "Image Generation",
+      "Design"
+    ],
+    "tasks": [
+      "Generate images",
+      "Edit"
+    ],
+    "job_roles": [
+      "Designers",
+      "Creators"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Playground AI",
+      "hq_country": "US",
+      "contact_email": "hi@playgroundai.com",
+      "twitter": "https://x.com/playground-ai",
+      "linkedin": "https://www.linkedin.com/company/playground-ai"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 5874,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Generate images",
+        "Edit",
+        "Design",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/playground-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://playgroundai.com/help",
+      "changelog": "https://playgroundai.com/changelog",
+      "support": "https://playgroundai.com/support",
+      "pricing": "https://playgroundai.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Generate images",
+      "Edit",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://playgroundai.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Playground AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Playground+AI+quick+start"
+      },
+      {
+        "title": "Playground AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Playground+AI+tutorial"
+      },
+      {
+        "title": "Playground AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Playground+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "4749935c-a0f9-4d80-8a23-abb8780de09e",
+    "name": "Pixlr",
+    "slug": "pixlr",
+    "tagline": "Image Generation AI for photo edit",
+    "summary": "Pixlr is an AI-powered tool for Photo edit, Effects and more. Designed for Creators, Marketers, it offers fast workflows and useful integrations.",
+    "website_url": "https://pixlr.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=pixlr.com",
+    "gallery": [],
+    "categories": [
+      "Image Generation",
+      "Design"
+    ],
+    "tasks": [
+      "Photo edit",
+      "Effects"
+    ],
+    "job_roles": [
+      "Creators",
+      "Marketers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Pixlr",
+      "hq_country": "US",
+      "contact_email": "hi@pixlr.com",
+      "twitter": "https://x.com/pixlr",
+      "linkedin": "https://www.linkedin.com/company/pixlr"
+    },
+    "community": {
+      "rating": 4.6,
+      "votes": 4673,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Photo edit",
+        "Effects",
+        "Design",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/pixlr",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://pixlr.com/help",
+      "changelog": "https://pixlr.com/changelog",
+      "support": "https://pixlr.com/support",
+      "pricing": "https://pixlr.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Photo edit",
+      "Effects",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://pixlr.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Pixlr quick start",
+        "url": "https://www.youtube.com/results?search_query=Pixlr+quick+start"
+      },
+      {
+        "title": "Pixlr full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Pixlr+tutorial"
+      },
+      {
+        "title": "Pixlr tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Pixlr+tips"
+      }
+    ]
+  },
+  {
+    "id": "23c5ac45-627f-4666-942c-dbaf03db6bda",
+    "name": "Hotpot.ai",
+    "slug": "hotpot-ai",
+    "tagline": "Image Generation AI for bg removal",
+    "summary": "Hotpot.ai is an AI-powered tool for BG removal, Art and more. Designed for Marketers, SMBs, it offers fast workflows and useful integrations.",
+    "website_url": "https://hotpot.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=hotpot.ai",
+    "gallery": [],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "BG removal",
+      "Art"
+    ],
+    "job_roles": [
+      "Marketers",
+      "SMBs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Hotpot.ai",
+      "hq_country": "US",
+      "contact_email": "hi@hotpot.ai",
+      "twitter": "https://x.com/hotpot-ai",
+      "linkedin": "https://www.linkedin.com/company/hotpot-ai"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 1883,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "BG removal",
+        "Art",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/hotpot-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://hotpot.ai/help",
+      "changelog": "https://hotpot.ai/changelog",
+      "support": "https://hotpot.ai/support",
+      "pricing": "https://hotpot.ai/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "BG removal",
+      "Art",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://hotpot.ai"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Hotpot.ai quick start",
+        "url": "https://www.youtube.com/results?search_query=Hotpot.ai+quick+start"
+      },
+      {
+        "title": "Hotpot.ai full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Hotpot.ai+tutorial"
+      },
+      {
+        "title": "Hotpot.ai tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Hotpot.ai+tips"
+      }
+    ]
+  },
+  {
+    "id": "3ce9ca8d-c9aa-43e5-ad99-d4fe908aefec",
+    "name": "DeepL",
+    "slug": "deepl",
+    "tagline": "Writing AI for translate",
+    "summary": "DeepL is an AI-powered tool for Translate, Summarize and more. Designed for Writers, Students, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.deepl.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.deepl.com",
+    "gallery": [],
+    "categories": [
+      "Writing",
+      "Productivity"
+    ],
+    "tasks": [
+      "Translate",
+      "Summarize"
+    ],
+    "job_roles": [
+      "Writers",
+      "Students"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "DeepL",
+      "hq_country": "US",
+      "contact_email": "hi@www.deepl.com",
+      "twitter": "https://x.com/deepl",
+      "linkedin": "https://www.linkedin.com/company/deepl"
+    },
+    "community": {
+      "rating": 4.2,
+      "votes": 3720,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Productivity",
+        "Writing",
+        "Summarize",
+        "Translate"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/deepl",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.deepl.com/help",
+      "changelog": "https://www.deepl.com/changelog",
+      "support": "https://www.deepl.com/support",
+      "pricing": "https://www.deepl.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Translate",
+      "Summarize",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.deepl.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "DeepL quick start",
+        "url": "https://www.youtube.com/results?search_query=DeepL+quick+start"
+      },
+      {
+        "title": "DeepL full tutorial",
+        "url": "https://www.youtube.com/results?search_query=DeepL+tutorial"
+      },
+      {
+        "title": "DeepL tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=DeepL+tips"
+      }
+    ]
+  },
+  {
+    "id": "b322d2c3-98b8-4407-aa2d-7fb27888f2bb",
+    "name": "Kapwing",
+    "slug": "kapwing",
+    "tagline": "Video AI for edit video",
+    "summary": "Kapwing is an AI-powered tool for Edit video, Resize and more. Designed for Creators, Marketers, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.kapwing.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.kapwing.com",
+    "gallery": [],
+    "categories": [
+      "Video",
+      "Design"
+    ],
+    "tasks": [
+      "Edit video",
+      "Resize"
+    ],
+    "job_roles": [
+      "Creators",
+      "Marketers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Kapwing",
+      "hq_country": "US",
+      "contact_email": "hi@www.kapwing.com",
+      "twitter": "https://x.com/kapwing",
+      "linkedin": "https://www.linkedin.com/company/kapwing"
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 3038,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Video",
+        "Resize",
+        "Edit video",
+        "Design"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/kapwing",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.kapwing.com/help",
+      "changelog": "https://www.kapwing.com/changelog",
+      "support": "https://www.kapwing.com/support",
+      "pricing": "https://www.kapwing.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Edit video",
+      "Resize",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.kapwing.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Kapwing quick start",
+        "url": "https://www.youtube.com/results?search_query=Kapwing+quick+start"
+      },
+      {
+        "title": "Kapwing full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Kapwing+tutorial"
+      },
+      {
+        "title": "Kapwing tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Kapwing+tips"
+      }
+    ]
+  },
+  {
+    "id": "968da6d6-ed16-43d3-8007-168a85f7c395",
+    "name": "Coqui AI",
+    "slug": "coqui-ai",
+    "tagline": "Audio AI for tts",
+    "summary": "Coqui AI is an AI-powered tool for TTS, Voice cloning and more. Designed for Creators, Studios, it offers fast workflows and useful integrations.",
+    "website_url": "https://coqui.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=coqui.ai",
+    "gallery": [],
+    "categories": [
+      "Audio"
+    ],
+    "tasks": [
+      "TTS",
+      "Voice cloning"
+    ],
+    "job_roles": [
+      "Creators",
+      "Studios"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Coqui AI",
+      "hq_country": "US",
+      "contact_email": "hi@coqui.ai",
+      "twitter": "https://x.com/coqui-ai",
+      "linkedin": "https://www.linkedin.com/company/coqui-ai"
+    },
+    "community": {
+      "rating": 4.6,
+      "votes": 10770,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "TTS",
+        "Audio",
+        "Voice cloning"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/coqui-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://coqui.ai/help",
+      "changelog": "https://coqui.ai/changelog",
+      "support": "https://coqui.ai/support",
+      "pricing": "https://coqui.ai/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "TTS",
+      "Voice cloning",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://coqui.ai"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Coqui AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Coqui+AI+quick+start"
+      },
+      {
+        "title": "Coqui AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Coqui+AI+tutorial"
+      },
+      {
+        "title": "Coqui AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Coqui+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "5c1042cb-00b1-472a-a866-33e298e926e3",
+    "name": "AssemblyAI",
+    "slug": "assemblyai",
+    "tagline": "Audio AI for transcribe",
+    "summary": "AssemblyAI is an AI-powered tool for Transcribe, Moderation and more. Designed for Developers, Teams, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.assemblyai.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.assemblyai.com",
+    "gallery": [],
+    "categories": [
+      "Audio",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Transcribe",
+      "Moderation"
+    ],
+    "job_roles": [
+      "Developers",
+      "Teams"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "AssemblyAI",
+      "hq_country": "US",
+      "contact_email": "hi@www.assemblyai.com",
+      "twitter": "https://x.com/assemblyai",
+      "linkedin": "https://www.linkedin.com/company/assemblyai"
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 8064,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Transcribe",
+        "Developer Tools",
+        "Audio",
+        "Moderation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/assemblyai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.assemblyai.com/help",
+      "changelog": "https://www.assemblyai.com/changelog",
+      "support": "https://www.assemblyai.com/support",
+      "pricing": "https://www.assemblyai.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Transcribe",
+      "Moderation",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.assemblyai.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "AssemblyAI quick start",
+        "url": "https://www.youtube.com/results?search_query=AssemblyAI+quick+start"
+      },
+      {
+        "title": "AssemblyAI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=AssemblyAI+tutorial"
+      },
+      {
+        "title": "AssemblyAI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=AssemblyAI+tips"
+      }
+    ]
+  },
+  {
+    "id": "fc8dbf5d-7ece-4bd9-9e70-1bb368ca4421",
+    "name": "Deepgram",
+    "slug": "deepgram",
+    "tagline": "Audio AI for speech-to-text",
+    "summary": "Deepgram is an AI-powered tool for Speech-to-text, Real-time and more. Designed for Developers, Teams, it offers fast workflows and useful integrations.",
+    "website_url": "https://deepgram.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=deepgram.com",
+    "gallery": [],
+    "categories": [
+      "Audio",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Speech-to-text",
+      "Real-time"
+    ],
+    "job_roles": [
+      "Developers",
+      "Teams"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Deepgram",
+      "hq_country": "US",
+      "contact_email": "hi@deepgram.com",
+      "twitter": "https://x.com/deepgram",
+      "linkedin": "https://www.linkedin.com/company/deepgram"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 2753,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Developer Tools",
+        "Real-time",
+        "Audio",
+        "Speech-to-text"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/deepgram",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://deepgram.com/help",
+      "changelog": "https://deepgram.com/changelog",
+      "support": "https://deepgram.com/support",
+      "pricing": "https://deepgram.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Speech-to-text",
+      "Real-time",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://deepgram.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Deepgram quick start",
+        "url": "https://www.youtube.com/results?search_query=Deepgram+quick+start"
+      },
+      {
+        "title": "Deepgram full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Deepgram+tutorial"
+      },
+      {
+        "title": "Deepgram tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Deepgram+tips"
+      }
+    ]
+  },
+  {
+    "id": "e8b687be-0dae-4eb2-8857-e6f4f1e8a40c",
+    "name": "Rev AI",
+    "slug": "rev-ai",
+    "tagline": "Audio AI for speech-to-text",
+    "summary": "Rev AI is an AI-powered tool for Speech-to-text, Diarization and more. Designed for Teams, Researchers, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.rev.ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.rev.ai",
+    "gallery": [],
+    "categories": [
+      "Audio"
+    ],
+    "tasks": [
+      "Speech-to-text",
+      "Diarization"
+    ],
+    "job_roles": [
+      "Teams",
+      "Researchers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Rev AI",
+      "hq_country": "US",
+      "contact_email": "hi@www.rev.ai",
+      "twitter": "https://x.com/rev-ai",
+      "linkedin": "https://www.linkedin.com/company/rev-ai"
+    },
+    "community": {
+      "rating": 4.2,
+      "votes": 4532,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Speech-to-text",
+        "Audio",
+        "Diarization"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/rev-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.rev.ai/help",
+      "changelog": "https://www.rev.ai/changelog",
+      "support": "https://www.rev.ai/support",
+      "pricing": "https://www.rev.ai/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Speech-to-text",
+      "Diarization",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.rev.ai"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Rev AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Rev+AI+quick+start"
+      },
+      {
+        "title": "Rev AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Rev+AI+tutorial"
+      },
+      {
+        "title": "Rev AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Rev+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "5cf1508d-c98a-4d6b-84b9-00f0e398e372",
+    "name": "Trint",
+    "slug": "trint",
+    "tagline": "Audio AI for transcribe",
+    "summary": "Trint is an AI-powered tool for Transcribe, Edit and more. Designed for Teams, Journalists, it offers fast workflows and useful integrations.",
+    "website_url": "https://trint.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=trint.com",
+    "gallery": [],
+    "categories": [
+      "Audio",
+      "Productivity"
+    ],
+    "tasks": [
+      "Transcribe",
+      "Edit"
+    ],
+    "job_roles": [
+      "Teams",
+      "Journalists"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Trint",
+      "hq_country": "US",
+      "contact_email": "hi@trint.com",
+      "twitter": "https://x.com/trint",
+      "linkedin": "https://www.linkedin.com/company/trint"
+    },
+    "community": {
+      "rating": 4.8,
+      "votes": 478,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Transcribe",
+        "Productivity",
+        "Edit",
+        "Audio"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/trint",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://trint.com/help",
+      "changelog": "https://trint.com/changelog",
+      "support": "https://trint.com/support",
+      "pricing": "https://trint.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Transcribe",
+      "Edit",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://trint.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Trint quick start",
+        "url": "https://www.youtube.com/results?search_query=Trint+quick+start"
+      },
+      {
+        "title": "Trint full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Trint+tutorial"
+      },
+      {
+        "title": "Trint tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Trint+tips"
+      }
+    ]
+  },
+  {
+    "id": "25983f78-eb59-4884-8ed9-a8b884fa9931",
+    "name": "Topaz Labs",
+    "slug": "topaz-labs",
+    "tagline": "Image Generation AI for upscale",
+    "summary": "Topaz Labs is an AI-powered tool for Upscale, Denoise and more. Designed for Photographers, Studios, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.topazlabs.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.topazlabs.com",
+    "gallery": [],
+    "categories": [
+      "Image Generation",
+      "Video"
+    ],
+    "tasks": [
+      "Upscale",
+      "Denoise"
+    ],
+    "job_roles": [
+      "Photographers",
+      "Studios"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Topaz Labs",
+      "hq_country": "US",
+      "contact_email": "hi@www.topazlabs.com",
+      "twitter": "https://x.com/topaz-labs",
+      "linkedin": "https://www.linkedin.com/company/topaz-labs"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 5205,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Video",
+        "Denoise",
+        "Upscale",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/topaz-labs",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.topazlabs.com/help",
+      "changelog": "https://www.topazlabs.com/changelog",
+      "support": "https://www.topazlabs.com/support",
+      "pricing": "https://www.topazlabs.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Upscale",
+      "Denoise",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.topazlabs.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Topaz Labs quick start",
+        "url": "https://www.youtube.com/results?search_query=Topaz+Labs+quick+start"
+      },
+      {
+        "title": "Topaz Labs full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Topaz+Labs+tutorial"
+      },
+      {
+        "title": "Topaz Labs tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Topaz+Labs+tips"
+      }
+    ]
+  },
+  {
+    "id": "955beb52-18b3-4058-911f-86d5400e2ea9",
+    "name": "Luminar Neo",
+    "slug": "luminar-neo",
+    "tagline": "Image Generation AI for photo enhance",
+    "summary": "Luminar Neo is an AI-powered tool for Photo enhance, Relight and more. Designed for Photographers, Designers, it offers fast workflows and useful integrations.",
+    "website_url": "https://skylum.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=skylum.com",
+    "gallery": [],
+    "categories": [
+      "Image Generation",
+      "Design"
+    ],
+    "tasks": [
+      "Photo enhance",
+      "Relight"
+    ],
+    "job_roles": [
+      "Photographers",
+      "Designers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Luminar Neo",
+      "hq_country": "US",
+      "contact_email": "hi@skylum.com",
+      "twitter": "https://x.com/luminar-neo",
+      "linkedin": "https://www.linkedin.com/company/luminar-neo"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 2468,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Photo enhance",
+        "Relight",
+        "Design",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/luminar-neo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://skylum.com/help",
+      "changelog": "https://skylum.com/changelog",
+      "support": "https://skylum.com/support",
+      "pricing": "https://skylum.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Photo enhance",
+      "Relight",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://skylum.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Luminar Neo quick start",
+        "url": "https://www.youtube.com/results?search_query=Luminar+Neo+quick+start"
+      },
+      {
+        "title": "Luminar Neo full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Luminar+Neo+tutorial"
+      },
+      {
+        "title": "Luminar Neo tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Luminar+Neo+tips"
+      }
+    ]
+  },
+  {
+    "id": "4c6717ad-b880-4a11-9e30-257bd7600422",
+    "name": "Upscale Media",
+    "slug": "upscale-media",
+    "tagline": "Image Generation AI for upscale",
+    "summary": "Upscale Media is an AI-powered tool for Upscale, Enhance and more. Designed for Photographers, SMBs, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.upscale.media",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.upscale.media",
+    "gallery": [],
+    "categories": [
+      "Image Generation"
+    ],
+    "tasks": [
+      "Upscale",
+      "Enhance"
+    ],
+    "job_roles": [
+      "Photographers",
+      "SMBs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Upscale Media",
+      "hq_country": "US",
+      "contact_email": "hi@www.upscale.media",
+      "twitter": "https://x.com/upscale-media",
+      "linkedin": "https://www.linkedin.com/company/upscale-media"
+    },
+    "community": {
+      "rating": 4.7,
+      "votes": 6776,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Upscale",
+        "Enhance",
+        "Image Generation"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/upscale-media",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.upscale.media/help",
+      "changelog": "https://www.upscale.media/changelog",
+      "support": "https://www.upscale.media/support",
+      "pricing": "https://www.upscale.media/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Upscale",
+      "Enhance",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.upscale.media"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Upscale Media quick start",
+        "url": "https://www.youtube.com/results?search_query=Upscale+Media+quick+start"
+      },
+      {
+        "title": "Upscale Media full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Upscale+Media+tutorial"
+      },
+      {
+        "title": "Upscale Media tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Upscale+Media+tips"
+      }
+    ]
+  },
+  {
+    "id": "71918f7c-1618-4202-85c4-5d824659f306",
+    "name": "JetBrains AI Assistant",
+    "slug": "jetbrains-ai-assistant",
+    "tagline": "Code Assistants AI for code insight",
+    "summary": "JetBrains AI Assistant is an AI-powered tool for Code insight, Chat and more. Designed for Developers, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.jetbrains.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.jetbrains.com",
+    "gallery": [],
+    "categories": [
+      "Code Assistants",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Code insight",
+      "Chat"
+    ],
+    "job_roles": [
+      "Developers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "JetBrains AI Assistant",
+      "hq_country": "US",
+      "contact_email": "hi@www.jetbrains.com",
+      "twitter": "https://x.com/jetbrains-ai-assistant",
+      "linkedin": "https://www.linkedin.com/company/jetbrains-ai-assistant"
+    },
+    "community": {
+      "rating": 4.6,
+      "votes": 11910,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Code Assistants",
+        "Developer Tools",
+        "Code insight",
+        "Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/jetbrains-ai-assistant",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.jetbrains.com/help",
+      "changelog": "https://www.jetbrains.com/changelog",
+      "support": "https://www.jetbrains.com/support",
+      "pricing": "https://www.jetbrains.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Code insight",
+      "Chat",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.jetbrains.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "JetBrains AI Assistant quick start",
+        "url": "https://www.youtube.com/results?search_query=JetBrains+AI+Assistant+quick+start"
+      },
+      {
+        "title": "JetBrains AI Assistant full tutorial",
+        "url": "https://www.youtube.com/results?search_query=JetBrains+AI+Assistant+tutorial"
+      },
+      {
+        "title": "JetBrains AI Assistant tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=JetBrains+AI+Assistant+tips"
+      }
+    ]
+  },
+  {
+    "id": "7bd110ef-6cd7-4112-b598-a4825aa37212",
+    "name": "Amazon CodeWhisperer",
+    "slug": "amazon-codewhisperer",
+    "tagline": "Code Assistants AI for code completion",
+    "summary": "Amazon CodeWhisperer is an AI-powered tool for Code completion, Security and more. Designed for Developers, it offers fast workflows and useful integrations.",
+    "website_url": "https://aws.amazon.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=aws.amazon.com",
+    "gallery": [],
+    "categories": [
+      "Code Assistants",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Code completion",
+      "Security"
+    ],
+    "job_roles": [
+      "Developers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Amazon CodeWhisperer",
+      "hq_country": "US",
+      "contact_email": "hi@aws.amazon.com",
+      "twitter": "https://x.com/amazon-codewhisperer",
+      "linkedin": "https://www.linkedin.com/company/amazon-codewhisperer"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 4771,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Code Assistants",
+        "Developer Tools",
+        "Code completion",
+        "Security"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/amazon-codewhisperer",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://aws.amazon.com/help",
+      "changelog": "https://aws.amazon.com/changelog",
+      "support": "https://aws.amazon.com/support",
+      "pricing": "https://aws.amazon.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Code completion",
+      "Security",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://aws.amazon.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Amazon CodeWhisperer quick start",
+        "url": "https://www.youtube.com/results?search_query=Amazon+CodeWhisperer+quick+start"
+      },
+      {
+        "title": "Amazon CodeWhisperer full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Amazon+CodeWhisperer+tutorial"
+      },
+      {
+        "title": "Amazon CodeWhisperer tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Amazon+CodeWhisperer+tips"
+      }
+    ]
+  },
+  {
+    "id": "4a988859-a80e-4555-9417-cb96cedda52d",
+    "name": "Cursor",
+    "slug": "cursor",
+    "tagline": "Code Assistants AI for ai ide",
+    "summary": "Cursor is an AI-powered tool for AI IDE, Code chat and more. Designed for Developers, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.cursor.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.cursor.com",
+    "gallery": [],
+    "categories": [
+      "Code Assistants",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "AI IDE",
+      "Code chat"
+    ],
+    "job_roles": [
+      "Developers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Cursor",
+      "hq_country": "US",
+      "contact_email": "hi@www.cursor.com",
+      "twitter": "https://x.com/cursor",
+      "linkedin": "https://www.linkedin.com/company/cursor"
+    },
+    "community": {
+      "rating": 4.5,
+      "votes": 10340,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Code Assistants",
+        "Developer Tools",
+        "AI IDE",
+        "Code chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/cursor",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.cursor.com/help",
+      "changelog": "https://www.cursor.com/changelog",
+      "support": "https://www.cursor.com/support",
+      "pricing": "https://www.cursor.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "AI IDE",
+      "Code chat",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.cursor.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Cursor quick start",
+        "url": "https://www.youtube.com/results?search_query=Cursor+quick+start"
+      },
+      {
+        "title": "Cursor full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Cursor+tutorial"
+      },
+      {
+        "title": "Cursor tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Cursor+tips"
+      }
+    ]
+  },
+  {
+    "id": "56d71c03-e1b6-4171-be84-3e62a150f90d",
+    "name": "Continue.dev",
+    "slug": "continue-dev",
+    "tagline": "Code Assistants AI for local ide chat",
+    "summary": "Continue.dev is an AI-powered tool for Local IDE chat, Agents and more. Designed for Developers, it offers fast workflows and useful integrations.",
+    "website_url": "https://continue.dev",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=continue.dev",
+    "gallery": [],
+    "categories": [
+      "Code Assistants",
+      "Developer Tools"
+    ],
+    "tasks": [
+      "Local IDE chat",
+      "Agents"
+    ],
+    "job_roles": [
+      "Developers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Continue.dev",
+      "hq_country": "US",
+      "contact_email": "hi@continue.dev",
+      "twitter": "https://x.com/continue-dev",
+      "linkedin": "https://www.linkedin.com/company/continue-dev"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 11676,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Code Assistants",
+        "Developer Tools",
+        "Local IDE chat",
+        "Agents"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/continue-dev",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://continue.dev/help",
+      "changelog": "https://continue.dev/changelog",
+      "support": "https://continue.dev/support",
+      "pricing": "https://continue.dev/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Local IDE chat",
+      "Agents",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://continue.dev"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Continue.dev quick start",
+        "url": "https://www.youtube.com/results?search_query=Continue.dev+quick+start"
+      },
+      {
+        "title": "Continue.dev full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Continue.dev+tutorial"
+      },
+      {
+        "title": "Continue.dev tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Continue.dev+tips"
+      }
+    ]
+  },
+  {
+    "id": "d0bddf34-ee29-4464-8466-c8fd195960af",
+    "name": "Microsoft Copilot",
+    "slug": "microsoft-copilot",
+    "tagline": "Chatbots AI for reasoning",
+    "summary": "Microsoft Copilot is an AI-powered tool for Reasoning, Search and more. Designed for Everyone, it offers fast workflows and useful integrations.",
+    "website_url": "https://copilot.microsoft.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=copilot.microsoft.com",
+    "gallery": [],
+    "categories": [
+      "Chatbots",
+      "Productivity"
+    ],
+    "tasks": [
+      "Reasoning",
+      "Search"
+    ],
+    "job_roles": [
+      "Everyone"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Microsoft Copilot",
+      "hq_country": "US",
+      "contact_email": "hi@copilot.microsoft.com",
+      "twitter": "https://x.com/microsoft-copilot",
+      "linkedin": "https://www.linkedin.com/company/microsoft-copilot"
+    },
+    "community": {
+      "rating": 4.3,
+      "votes": 5330,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Chatbots",
+        "Productivity",
+        "Reasoning",
+        "Search"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/microsoft-copilot",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://copilot.microsoft.com/help",
+      "changelog": "https://copilot.microsoft.com/changelog",
+      "support": "https://copilot.microsoft.com/support",
+      "pricing": "https://copilot.microsoft.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Reasoning",
+      "Search",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://copilot.microsoft.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Microsoft Copilot quick start",
+        "url": "https://www.youtube.com/results?search_query=Microsoft+Copilot+quick+start"
+      },
+      {
+        "title": "Microsoft Copilot full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Microsoft+Copilot+tutorial"
+      },
+      {
+        "title": "Microsoft Copilot tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Microsoft+Copilot+tips"
+      }
+    ]
+  },
+  {
+    "id": "5774775c-5a02-4c9b-9eb9-6fc0530fed2c",
+    "name": "Copilot for 365",
+    "slug": "copilot-for-365",
+    "tagline": "Productivity AI for docs/slides",
+    "summary": "Copilot for 365 is an AI-powered tool for Docs/Slides, Email and more. Designed for Teams, Enterprises, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.microsoft.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.microsoft.com",
+    "gallery": [],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Docs/Slides",
+      "Email"
+    ],
+    "job_roles": [
+      "Teams",
+      "Enterprises"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Copilot for 365",
+      "hq_country": "US",
+      "contact_email": "hi@www.microsoft.com",
+      "twitter": "https://x.com/copilot-for-365",
+      "linkedin": "https://www.linkedin.com/company/copilot-for-365"
+    },
+    "community": {
+      "rating": 4.7,
+      "votes": 2808,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Email",
+        "Productivity",
+        "Docs/Slides"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/copilot-for-365",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.microsoft.com/help",
+      "changelog": "https://www.microsoft.com/changelog",
+      "support": "https://www.microsoft.com/support",
+      "pricing": "https://www.microsoft.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Docs/Slides",
+      "Email",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.microsoft.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Copilot for 365 quick start",
+        "url": "https://www.youtube.com/results?search_query=Copilot+for+365+quick+start"
+      },
+      {
+        "title": "Copilot for 365 full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Copilot+for+365+tutorial"
+      },
+      {
+        "title": "Copilot for 365 tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Copilot+for+365+tips"
+      }
+    ]
+  },
+  {
+    "id": "5c13784a-c311-43ed-8f68-ba72ccb1ac3a",
+    "name": "IBM watsonx",
+    "slug": "ibm-watsonx",
+    "tagline": "Developer Tools AI for build models",
+    "summary": "IBM watsonx is an AI-powered tool for Build models, Govern and more. Designed for Enterprises, Developers, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.ibm.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.ibm.com",
+    "gallery": [],
+    "categories": [
+      "Developer Tools",
+      "Models"
+    ],
+    "tasks": [
+      "Build models",
+      "Govern"
+    ],
+    "job_roles": [
+      "Enterprises",
+      "Developers"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "IBM watsonx",
+      "hq_country": "US",
+      "contact_email": "hi@www.ibm.com",
+      "twitter": "https://x.com/ibm-watsonx",
+      "linkedin": "https://www.linkedin.com/company/ibm-watsonx"
+    },
+    "community": {
+      "rating": 4.8,
+      "votes": 220,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Developer Tools",
+        "Build models",
+        "Govern",
+        "Models"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/ibm-watsonx",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.ibm.com/help",
+      "changelog": "https://www.ibm.com/changelog",
+      "support": "https://www.ibm.com/support",
+      "pricing": "https://www.ibm.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Build models",
+      "Govern",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.ibm.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "IBM watsonx quick start",
+        "url": "https://www.youtube.com/results?search_query=IBM+watsonx+quick+start"
+      },
+      {
+        "title": "IBM watsonx full tutorial",
+        "url": "https://www.youtube.com/results?search_query=IBM+watsonx+tutorial"
+      },
+      {
+        "title": "IBM watsonx tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=IBM+watsonx+tips"
+      }
+    ]
+  },
+  {
+    "id": "67f4583f-2149-4685-b65e-649938c8c822",
+    "name": "Salesforce Einstein",
+    "slug": "salesforce-einstein",
+    "tagline": "Marketing AI for crm ai",
+    "summary": "Salesforce Einstein is an AI-powered tool for CRM AI, Insights and more. Designed for Sales, CS, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.salesforce.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.salesforce.com",
+    "gallery": [],
+    "categories": [
+      "Marketing",
+      "Productivity"
+    ],
+    "tasks": [
+      "CRM AI",
+      "Insights"
+    ],
+    "job_roles": [
+      "Sales",
+      "CS"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Salesforce Einstein",
+      "hq_country": "US",
+      "contact_email": "hi@www.salesforce.com",
+      "twitter": "https://x.com/salesforce-einstein",
+      "linkedin": "https://www.linkedin.com/company/salesforce-einstein"
+    },
+    "community": {
+      "rating": 4.9,
+      "votes": 11134,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "CRM AI",
+        "Insights",
+        "Productivity",
+        "Marketing"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/salesforce-einstein",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.salesforce.com/help",
+      "changelog": "https://www.salesforce.com/changelog",
+      "support": "https://www.salesforce.com/support",
+      "pricing": "https://www.salesforce.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "CRM AI",
+      "Insights",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.salesforce.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Salesforce Einstein quick start",
+        "url": "https://www.youtube.com/results?search_query=Salesforce+Einstein+quick+start"
+      },
+      {
+        "title": "Salesforce Einstein full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Salesforce+Einstein+tutorial"
+      },
+      {
+        "title": "Salesforce Einstein tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Salesforce+Einstein+tips"
+      }
+    ]
+  },
+  {
+    "id": "366876dc-629a-4106-ad14-54579311f679",
+    "name": "HubSpot AI",
+    "slug": "hubspot-ai",
+    "tagline": "Marketing AI for content",
+    "summary": "HubSpot AI is an AI-powered tool for Content, Insights and more. Designed for Marketers, Sales, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.hubspot.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.hubspot.com",
+    "gallery": [],
+    "categories": [
+      "Marketing",
+      "Productivity"
+    ],
+    "tasks": [
+      "Content",
+      "Insights"
+    ],
+    "job_roles": [
+      "Marketers",
+      "Sales"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "HubSpot AI",
+      "hq_country": "US",
+      "contact_email": "hi@www.hubspot.com",
+      "twitter": "https://x.com/hubspot-ai",
+      "linkedin": "https://www.linkedin.com/company/hubspot-ai"
+    },
+    "community": {
+      "rating": 4.6,
+      "votes": 6221,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Content",
+        "Insights",
+        "Productivity",
+        "Marketing"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/hubspot-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.hubspot.com/help",
+      "changelog": "https://www.hubspot.com/changelog",
+      "support": "https://www.hubspot.com/support",
+      "pricing": "https://www.hubspot.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Content",
+      "Insights",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.hubspot.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "HubSpot AI quick start",
+        "url": "https://www.youtube.com/results?search_query=HubSpot+AI+quick+start"
+      },
+      {
+        "title": "HubSpot AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=HubSpot+AI+tutorial"
+      },
+      {
+        "title": "HubSpot AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=HubSpot+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "268139c3-956a-4979-983d-67b6490a5d15",
+    "name": "Intercom Fin",
+    "slug": "intercom-fin",
+    "tagline": "Chatbots AI for automated support",
+    "summary": "Intercom Fin is an AI-powered tool for Automated support, Deflection and more. Designed for Support Agents, SMBs, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.intercom.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.intercom.com",
+    "gallery": [],
+    "categories": [
+      "Chatbots",
+      "Support"
+    ],
+    "tasks": [
+      "Automated support",
+      "Deflection"
+    ],
+    "job_roles": [
+      "Support Agents",
+      "SMBs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Intercom Fin",
+      "hq_country": "US",
+      "contact_email": "hi@www.intercom.com",
+      "twitter": "https://x.com/intercom-fin",
+      "linkedin": "https://www.linkedin.com/company/intercom-fin"
+    },
+    "community": {
+      "rating": 4.7,
+      "votes": 10868,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Chatbots",
+        "Automated support",
+        "Support",
+        "Deflection"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/intercom-fin",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.intercom.com/help",
+      "changelog": "https://www.intercom.com/changelog",
+      "support": "https://www.intercom.com/support",
+      "pricing": "https://www.intercom.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Automated support",
+      "Deflection",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.intercom.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Intercom Fin quick start",
+        "url": "https://www.youtube.com/results?search_query=Intercom+Fin+quick+start"
+      },
+      {
+        "title": "Intercom Fin full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Intercom+Fin+tutorial"
+      },
+      {
+        "title": "Intercom Fin tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Intercom+Fin+tips"
+      }
+    ]
+  },
+  {
+    "id": "7146a54a-eb1b-4762-9b2a-b934945029a9",
+    "name": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "tagline": "Support AI for macros",
+    "summary": "Zendesk AI is an AI-powered tool for Macros, Auto replies and more. Designed for Support, SMBs, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.zendesk.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.zendesk.com",
+    "gallery": [],
+    "categories": [
+      "Support",
+      "Productivity"
+    ],
+    "tasks": [
+      "Macros",
+      "Auto replies"
+    ],
+    "job_roles": [
+      "Support",
+      "SMBs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Zendesk AI",
+      "hq_country": "US",
+      "contact_email": "hi@www.zendesk.com",
+      "twitter": "https://x.com/zendesk-ai",
+      "linkedin": "https://www.linkedin.com/company/zendesk-ai"
+    },
+    "community": {
+      "rating": 4.6,
+      "votes": 11317,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Support",
+        "Macros",
+        "Productivity",
+        "Auto replies"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zendesk-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.zendesk.com/help",
+      "changelog": "https://www.zendesk.com/changelog",
+      "support": "https://www.zendesk.com/support",
+      "pricing": "https://www.zendesk.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Macros",
+      "Auto replies",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.zendesk.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Zendesk AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Zendesk+AI+quick+start"
+      },
+      {
+        "title": "Zendesk AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Zendesk+AI+tutorial"
+      },
+      {
+        "title": "Zendesk AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Zendesk+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "9f6d5d09-91f4-4b6c-b7e0-f3a8967ad907",
+    "name": "Freshworks Freddy AI",
+    "slug": "freshworks-freddy-ai",
+    "tagline": "Support AI for assist",
+    "summary": "Freshworks Freddy AI is an AI-powered tool for Assist, Summarize and more. Designed for Support, SMBs, it offers fast workflows and useful integrations.",
+    "website_url": "https://www.freshworks.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.freshworks.com",
+    "gallery": [],
+    "categories": [
+      "Support",
+      "Productivity"
+    ],
+    "tasks": [
+      "Assist",
+      "Summarize"
+    ],
+    "job_roles": [
+      "Support",
+      "SMBs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Freshworks Freddy AI",
+      "hq_country": "US",
+      "contact_email": "hi@www.freshworks.com",
+      "twitter": "https://x.com/freshworks-freddy-ai",
+      "linkedin": "https://www.linkedin.com/company/freshworks-freddy-ai"
+    },
+    "community": {
+      "rating": 4.7,
+      "votes": 8190,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Support",
+        "Productivity",
+        "Summarize",
+        "Assist"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/freshworks-freddy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://www.freshworks.com/help",
+      "changelog": "https://www.freshworks.com/changelog",
+      "support": "https://www.freshworks.com/support",
+      "pricing": "https://www.freshworks.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Assist",
+      "Summarize",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://www.freshworks.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Freshworks Freddy AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Freshworks+Freddy+AI+quick+start"
+      },
+      {
+        "title": "Freshworks Freddy AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Freshworks+Freddy+AI+tutorial"
+      },
+      {
+        "title": "Freshworks Freddy AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Freshworks+Freddy+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "3f60ac6d-4efe-40d7-b284-9eca42ad502d",
+    "name": "Asana AI",
+    "slug": "asana-ai",
+    "tagline": "Productivity AI for tasks",
+    "summary": "Asana AI is an AI-powered tool for Tasks, Summarize and more. Designed for Teams, PMs, it offers fast workflows and useful integrations.",
+    "website_url": "https://asana.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=asana.com",
+    "gallery": [],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Tasks",
+      "Summarize"
+    ],
+    "job_roles": [
+      "Teams",
+      "PMs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Asana AI",
+      "hq_country": "US",
+      "contact_email": "hi@asana.com",
+      "twitter": "https://x.com/asana-ai",
+      "linkedin": "https://www.linkedin.com/company/asana-ai"
+    },
+    "community": {
+      "rating": 4.7,
+      "votes": 11913,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Productivity",
+        "Tasks",
+        "Summarize"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/asana-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://asana.com/help",
+      "changelog": "https://asana.com/changelog",
+      "support": "https://asana.com/support",
+      "pricing": "https://asana.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Tasks",
+      "Summarize",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://asana.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Asana AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Asana+AI+quick+start"
+      },
+      {
+        "title": "Asana AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Asana+AI+tutorial"
+      },
+      {
+        "title": "Asana AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Asana+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "6fb5f764-5d16-4a2b-b588-607e4dfbde9b",
+    "name": "ClickUp AI",
+    "slug": "clickup-ai",
+    "tagline": "Productivity AI for docs",
+    "summary": "ClickUp AI is an AI-powered tool for Docs, Tasks and more. Designed for Teams, PMs, it offers fast workflows and useful integrations.",
+    "website_url": "https://clickup.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=clickup.com",
+    "gallery": [],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Docs",
+      "Tasks"
+    ],
+    "job_roles": [
+      "Teams",
+      "PMs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "ClickUp AI",
+      "hq_country": "US",
+      "contact_email": "hi@clickup.com",
+      "twitter": "https://x.com/clickup-ai",
+      "linkedin": "https://www.linkedin.com/company/clickup-ai"
+    },
+    "community": {
+      "rating": 4.9,
+      "votes": 1572,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Docs",
+        "Productivity",
+        "Tasks"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/clickup-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://clickup.com/help",
+      "changelog": "https://clickup.com/changelog",
+      "support": "https://clickup.com/support",
+      "pricing": "https://clickup.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Docs",
+      "Tasks",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://clickup.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "ClickUp AI quick start",
+        "url": "https://www.youtube.com/results?search_query=ClickUp+AI+quick+start"
+      },
+      {
+        "title": "ClickUp AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=ClickUp+AI+tutorial"
+      },
+      {
+        "title": "ClickUp AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=ClickUp+AI+tips"
+      }
+    ]
+  },
+  {
+    "id": "55c76aae-f6bd-4863-bbdc-1e660f98d181",
+    "name": "Airtable AI",
+    "slug": "airtable-ai",
+    "tagline": "Productivity AI for classify",
+    "summary": "Airtable AI is an AI-powered tool for Classify, Generate and more. Designed for Ops, PMs, it offers fast workflows and useful integrations.",
+    "website_url": "https://airtable.com",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=airtable.com",
+    "gallery": [],
+    "categories": [
+      "Productivity",
+      "Data"
+    ],
+    "tasks": [
+      "Classify",
+      "Generate"
+    ],
+    "job_roles": [
+      "Ops",
+      "PMs"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Basic usage",
+            "Community support"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/mo",
+          "features": [
+            "Higher limits",
+            "Priority support",
+            "Advanced features"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$99/mo",
+          "features": [
+            "Team seats",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Templates",
+      "Long-context",
+      "RAG",
+      "Batch actions",
+      "Embeddings",
+      "Export"
+    ],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
+    "models": [
+      "OpenAI",
+      "Anthropic",
+      "Llama 3.1"
+    ],
+    "integrations": [
+      "Slack",
+      "Zapier",
+      "Notion",
+      "GSheets"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "hi",
+      "ja"
+    ],
+    "maturity": "growing",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-04",
+    "status": "active",
+    "compliance": [
+      "GDPR",
+      "SOC2"
+    ],
+    "vendor": {
+      "name": "Airtable AI",
+      "hq_country": "US",
+      "contact_email": "hi@airtable.com",
+      "twitter": "https://x.com/airtable-ai",
+      "linkedin": "https://www.linkedin.com/company/airtable-ai"
+    },
+    "community": {
+      "rating": 4.4,
+      "votes": 9868,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Generate",
+        "Data",
+        "Productivity",
+        "Classify"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/airtable-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": true,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": true,
+      "api_available": true,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "https://airtable.com/help",
+      "changelog": "https://airtable.com/changelog",
+      "support": "https://airtable.com/support",
+      "pricing": "https://airtable.com/pricing"
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "bulk-seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [
+      "Solo creators",
+      "Small teams",
+      "Agencies",
+      "Enterprises"
+    ],
+    "use_cases": [
+      "Classify",
+      "Generate",
+      "Automations",
+      "Reporting"
+    ],
+    "pros_cons": {
+      "pros": [
+        "Clean UI",
+        "Solid performance",
+        "Helpful docs",
+        "Active community"
+      ],
+      "cons": [
+        "Advanced features in paid plans",
+        "Learning curve for complex flows"
+      ]
+    },
+    "key_differentiators": [
+      "Fast setup",
+      "Good defaults",
+      "Solid integrations",
+      "Transparent pricing",
+      "Active roadmap",
+      "Helpful templates"
+    ],
+    "limitations": [
+      "Team features require paid plan",
+      "Rate limits on free tier"
+    ],
+    "setup_time": "15\u201345 min",
+    "technical": {
+      "context_tokens": 128000,
+      "latency_ms": 500,
+      "throughput_rps": 30,
+      "sdk_languages": [
+        "JS/TS",
+        "Python"
+      ]
+    },
+    "benchmarks": {
+      "latency_ms_p50": 400,
+      "latency_ms_p95": 1200,
+      "note": "Indicative; varies by workload"
+    },
+    "import_export": [
+      "CSV import",
+      "CSV export",
+      "Webhook"
+    ],
+    "data_controls": [
+      "PII redaction",
+      "Model selection",
+      "Data regions (enterprise)"
+    ],
+    "governance": [
+      "RBAC",
+      "Audit logs",
+      "SSO/SAML"
+    ],
+    "privacy": {
+      "training_policy": "Enterprise data not used to train",
+      "data_retention": "Configurable retention"
+    },
+    "security": {
+      "certifications": [
+        "SOC2"
+      ],
+      "sso": "SAML"
+    },
+    "limits": {
+      "free_tier": "Yes",
+      "rate_limits": "Varies by plan"
+    },
+    "uptime_slo": "99.95%",
+    "ideal_industries": [
+      "SaaS",
+      "Ecommerce",
+      "Media",
+      "Education"
+    ],
+    "support_channels": [
+      "Docs",
+      "Email",
+      "Community"
+    ],
+    "case_studies": [
+      {
+        "title": "Team productivity improved 2\u20133x",
+        "url": "https://airtable.com"
+      }
+    ],
+    "migration_paths": [
+      "CSV import",
+      "API migration"
+    ],
+    "alternatives_notes": "Compare with peers in the same category for the closest fit.",
+    "roadmap_highlights": [
+      "New integrations",
+      "Performance improvements"
+    ],
+    "pricing_notes": "Annual discounts available",
+    "tutorials": [
+      {
+        "title": "Airtable AI quick start",
+        "url": "https://www.youtube.com/results?search_query=Airtable+AI+quick+start"
+      },
+      {
+        "title": "Airtable AI full tutorial",
+        "url": "https://www.youtube.com/results?search_query=Airtable+AI+tutorial"
+      },
+      {
+        "title": "Airtable AI tips & tricks",
+        "url": "https://www.youtube.com/results?search_query=Airtable+AI+tips"
+      }
+    ]
+  }
+]

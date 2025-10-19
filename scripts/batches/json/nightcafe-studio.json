@@ -1,0 +1,156 @@
+{
+  "id": "nightcafe-studio",
+  "name": "NightCafe Studio",
+  "slug": "nightcafe-studio",
+  "logo_url": "https://creator.nightcafe.studio/favicon.ico",
+  "icon_url": "https://creator.nightcafe.studio/favicon.ico",
+  "images": [
+    "https://creator.nightcafe.studio/favicon.ico"
+  ],
+  "website_url": "https://creator.nightcafe.studio",
+  "tagline": "Community-focused AI art generator and gallery with multiple models.",
+  "summary": "NightCafe Studio is a community‑driven AI art generator and gallery supporting multiple models and styles. The web app enables text‑to‑image, image‑to‑image, and style‑transfer workflows, with features like daily challenges, community rankings, and print services. The product positions itself as approachable for beginners while offering advanced controls for experienced creators. NightCafe runs in the browser, with credits governing generation volume; the platform also emphasizes community discovery and remixing.\n\nUse cases include artwork for social and print, exploratory concepting, and participation in themed challenges to hone prompting skills. NightCafe’s customer story on Google Cloud highlights its scalable infrastructure choices for supporting a large user base. Getting started requires an account; users can generate art, iterate with prompts and seeds, and download or order prints.\n\nNightCafe is best for creators who enjoy a social creation experience with daily prompts, challenges, and a vibrant gallery.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Multiple model options (service‑managed)"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Daily free credits; paid packs/subscriptions",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Credits/subscriptions",
+    "plans": [
+      {
+        "name": "Credits & memberships",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Large creative community",
+      "Daily challenges",
+      "Beginner‑friendly"
+    ],
+    "cons": [
+      "Credits required for heavy use"
+    ]
+  },
+  "key_differentiators": [
+    "Community focus with challenges and gallery",
+    "Print services integration"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG; print ordering"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Google Cloud customer story: NightCafe",
+      "url": "https://cloud.google.com/customers/nightcafe"
+    }
+  ],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "NightCafe Studio",
+    "hq_country": null,
+    "twitter": "https://twitter.com/nightcafestudio",
+    "linkedin": "https://www.linkedin.com/company/nightcafe-studio/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://creator.nightcafe.studio/purchase/credits",
+    "docs": "https://creator.nightcafe.studio",
+    "changelog": null,
+    "support": "https://creator.nightcafe.studio"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://creator.nightcafe.studio/favicon.ico",
+      "caption": "NightCafe Studio icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "NightCafe Official Channel",
+      "youtube": "https://www.youtube.com/@NightCafeOfficial",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Beginner tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=uqKPkqqIWI0",
+      "provider": "YouTube"
+    },
+    {
+      "title": "NightCafe for beginners (community)",
+      "youtube": "https://www.youtube.com/watch?v=FvvaqByJYQM",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

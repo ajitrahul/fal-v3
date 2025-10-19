@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "image-generation",
+    "name": "Image Generation",
+    "description": "Create images from text prompts and references."
+  },
+  {
+    "slug": "code-assistants",
+    "name": "Code Assistants",
+    "description": "Pair programmers, autocomplete, and refactoring."
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "description": "Write, summarize, plan, and automate tasks."
+  },
+  {
+    "slug": "marketing",
+    "name": "Marketing",
+    "description": "Content creation, SEO, ads, and analytics."
+  },
+  {
+    "slug": "audio",
+    "name": "Audio",
+    "description": "Transcription, voice cloning, and music tools."
+  }
+]

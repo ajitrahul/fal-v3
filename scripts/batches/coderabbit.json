@@ -1,0 +1,188 @@
+{
+  "id": "coderabbit",
+  "name": "CodeRabbit",
+  "slug": "coderabbit",
+  "logo_url": "https://coderabbit.ai/favicon.ico",
+  "icon_url": "https://coderabbit.ai/favicon.ico",
+  "images": [
+    "https://coderabbit.ai/favicon.ico"
+  ],
+  "website_url": "https://coderabbit.ai/",
+  "tagline": "AI code reviews in your PRs/MRs and in the IDE.",
+  "summary": "CodeRabbit is an AI code review platform that delivers automated feedback on pull requests and merge requests as well as quick reviews inside the IDE. The service summarizes changes, comments line‑by‑line, and supports conversational follow‑ups so developers can ask clarifying questions or request additional examples. Teams can wire CodeRabbit into GitHub or GitLab to receive a review bot on every PR/MR, while the VS Code extension offers “pre‑PR” reviews on committed and even uncommitted changes. The aim is to catch common issues earlier, reduce reviewer toil, and make human reviews more focused. \n\nGetting started involves installing the GitHub/GitLab app for repository reviews or the VS Code extension for local reviews. The vendor website documents both paths and explains the layered approach: quick checks in the editor to catch obvious defects, then a deeper analysis once a pull request is raised. CodeRabbit materials showcase testimonials from engineering leaders describing how summaries and conversational explanations improve review quality and engagement. Pricing and feature matrices are published on the site, along with instructions for configuring repositories and permissions. \n\nCodeRabbit is best for teams that want AI assistance targeted specifically at the code review stage, with an option to shift left and review before opening a PR. It complements code assistants in the IDE by focusing on diff context, repository standards, and consistency across contributions. For migration, teams typically pilot on a subset of repositories, tune rules and policies, and then expand coverage to more projects; the IDE extension can be rolled out to contributors who prefer to catch issues before raising a PR.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI Code Review",
+  "categories": [
+    "Developer Tools",
+    "Code Quality",
+    "CI/CD"
+  ],
+  "tasks": [
+    "PR/MR summaries",
+    "Line comments",
+    "Conversational follow‑ups",
+    "IDE quick reviews"
+  ],
+  "use_cases": [
+    "Faster, higher‑quality reviews",
+    "Shift‑left bug catching",
+    "Consistent standards"
+  ],
+  "best_for": [
+    "Teams on GitHub/GitLab with active PR workflows"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Fintech",
+    "SaaS"
+  ],
+  "roles": [
+    "Developers",
+    "Tech Leads",
+    "QA"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "Reviewer/Maintainer"
+  ],
+  "models": [
+    "Service‑managed models (vendor)"
+  ],
+  "platforms": [
+    "GitHub",
+    "GitLab",
+    "VS Code"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "GitHub App",
+    "GitLab App",
+    "VS Code extension"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Repo‑scoped permissions"
+  ],
+  "governance": [
+    "Policy and rule configuration per repo/org"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free IDE reviews tier",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Free + paid",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Diff‑aware PR reviews",
+      "IDE pre‑PR checks",
+      "Conversational explanations"
+    ],
+    "cons": [
+      "Focuses on review stage vs full IDE assistant"
+    ]
+  },
+  "key_differentiators": [
+    "Layered IDE + PR reviews",
+    "Conversational comments on PRs"
+  ],
+  "limitations": [
+    "Repository permissions required"
+  ],
+  "import_export": [
+    "PR/MR artifacts; extension exports"
+  ],
+  "setup_time": "Minutes (install GitHub/GitLab app or VS Code extension)",
+  "case_studies": [
+    {
+      "title": "CodePath testimonial (from homepage)",
+      "url": "https://coderabbit.ai/"
+    }
+  ],
+  "migration_paths": [
+    "Install GitHub/GitLab app on a pilot repository",
+    "Roll out VS Code extension for pre‑PR checks",
+    "Tune policies and expand to more repos"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives: GitHub PR copilots, Amazon Q developer agents, IDE linters",
+  "vendor": {
+    "name": "CodeRabbit",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://coderabbit.ai/",
+    "docs": "https://coderabbit.ai/ide",
+    "changelog": null,
+    "support": "https://coderabbit.ai/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://coderabbit.ai/favicon.ico",
+      "caption": "CodeRabbit icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "CodeRabbit channel (official)",
+      "youtube": "https://www.youtube.com/@CodeRabbitAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "CodeRabbit tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=517GZOizEIc",
+      "provider": "YouTube"
+    },
+    {
+      "title": "CodeRabbit demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=69Hh3f0v0Bs",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

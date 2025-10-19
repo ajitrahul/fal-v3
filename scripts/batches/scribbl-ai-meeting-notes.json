@@ -1,0 +1,129 @@
+{
+  "id": "scribbl-ai-meeting-notes",
+  "name": "Scribbl AI (Meeting Notes)",
+  "slug": "scribbl-ai-meeting-notes",
+  "logo_url": "https://www.scribbl.co/favicon.ico",
+  "icon_url": "https://www.scribbl.co/favicon.ico",
+  "images": [
+    "https://www.scribbl.co/favicon.ico"
+  ],
+  "website_url": "https://www.scribbl.co",
+  "tagline": "Google Meet bot that creates transcripts and notes.",
+  "summary": "Scribbl joins Google Meet calls to capture transcripts and generate AI notes that can be shared with teammates. It’s aimed at small teams and individuals.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Summaries",
+    "Sharing"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Interviews",
+    "Standups"
+  ],
+  "best_for": [
+    "Small teams & freelancers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + summaries"
+  ],
+  "platforms": [
+    "Web app",
+    "Google Meet integration"
+  ],
+  "languages": [
+    "Selected locales"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Scribbl",
+    "hq_country": null,
+    "twitter": "https://twitter.com/scribblai",
+    "linkedin": "https://www.linkedin.com/company/scribbl-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.scribbl.co/pricing",
+    "docs": "https://help.scribbl.co",
+    "changelog": null,
+    "support": "https://help.scribbl.co"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.scribbl.co/favicon.ico",
+      "caption": "Scribbl AI (Meeting Notes) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

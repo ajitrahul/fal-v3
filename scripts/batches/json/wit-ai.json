@@ -1,0 +1,145 @@
+{
+  "id": "wit-ai",
+  "name": "Wit.ai",
+  "slug": "wit-ai",
+  "logo_url": "https://wit.ai/favicon.ico",
+  "icon_url": "https://wit.ai/favicon.ico",
+  "images": [
+    "https://wit.ai/favicon.ico"
+  ],
+  "website_url": "https://wit.ai",
+  "tagline": "Natural language platform with speech-to-text and intent extraction APIs.",
+  "summary": "Wit.ai is a natural language platform with APIs to process voice and text. Developers can stream audio to obtain text along with structured intents and entities based on trained apps. It supports multiple languages, is free to use under platform policies, and integrates with popular bot frameworks. Wit’s console provides training, testing, and versioning for models.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Speech-to-text",
+    "Intent/entity extraction"
+  ],
+  "use_cases": [
+    "Voice bots",
+    "Assistants",
+    "IoT voice commands"
+  ],
+  "best_for": [
+    "Developers building voice UIs with NLU"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Wit speech & NLU models"
+  ],
+  "platforms": [
+    "Web console",
+    "REST/Streaming APIs",
+    "SDKs"
+  ],
+  "languages": [
+    "Multiple (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Meta",
+    "hq_country": null,
+    "twitter": "https://twitter.com/wit_ai",
+    "linkedin": "https://www.linkedin.com/company/meta/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://wit.ai/terms",
+    "docs": "https://wit.ai/docs",
+    "changelog": null,
+    "support": "https://wit.ai/community"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://wit.ai/favicon.ico",
+      "caption": "Wit.ai icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Wit.ai official tutorials",
+      "youtube": "https://www.youtube.com/@wit_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build a voice bot with Wit (community)",
+      "youtube": "https://www.youtube.com/watch?v=hC1w3kQd9nM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Streaming speech with Wit (community)",
+      "youtube": "https://www.youtube.com/watch?v=IDuT4u2eisg",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

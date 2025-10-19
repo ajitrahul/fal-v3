@@ -1,0 +1,173 @@
+{
+  "id": "d-id",
+  "name": "D-ID",
+  "slug": "d-id",
+  "logo_url": "https://www.d-id.com/favicon.ico",
+  "icon_url": "https://www.d-id.com/favicon.ico",
+  "images": [
+    "https://www.d-id.com/favicon.ico"
+  ],
+  "website_url": "https://www.d-id.com",
+  "tagline": "Text/Audio-to-Video with talking avatars and API.",
+  "summary": "D‑ID provides AI tools to generate talking‑avatar videos from text or audio, suitable for presenters, tutorials, and support content. Users choose an avatar (stock or custom), provide a script or voice track, and render a video with lip‑synced speech. The platform offers a web studio and APIs for automation, with features covering multiple languages and voices (including integrations with third‑party TTS providers). Branding options, captions, and scene editing are supported for polished outputs.\n\nD‑ID’s solutions are frequently used in customer education, HR onboarding, and sales enablement when appearing on camera isn’t practical. Case studies on the site highlight reductions in production overhead and faster localization. Developers can build programmatic pipelines for personalized or high‑volume content using the API. Pricing tiers range from individual to enterprise, reflecting usage, watermarking, and feature access.\n\nD‑ID is best for teams wanting talking‑head style videos quickly without filming, with API routes for scale.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑avatar video",
+    "Audio‑to‑avatar video",
+    "Localization"
+  ],
+  "use_cases": [
+    "Tutorials",
+    "Support",
+    "Sales enablement",
+    "Training"
+  ],
+  "best_for": [
+    "Businesses",
+    "Creators",
+    "Educators"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "D‑ID avatar/voice stack; third‑party TTS integrations"
+  ],
+  "platforms": [
+    "Web",
+    "API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "TTS providers",
+    "LMS via export/embed"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Trials and paid tiers (see site)",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Tiered plans + enterprise",
+    "plans": [
+      {
+        "name": "Lite/Pro/Advanced/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Fast talking‑avatar production",
+      "API for scale"
+    ],
+    "cons": [
+      "Avatar format; not a general cinematic T2V"
+    ]
+  },
+  "key_differentiators": [
+    "Lip‑sync avatars from text/audio",
+    "Strong API"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 export; embeds"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "D‑ID customer stories",
+      "url": "https://www.d-id.com/case-studies/"
+    }
+  ],
+  "migration_paths": [
+    "Start in web studio; move to API for bulk/personalization"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "D‑ID",
+    "hq_country": null,
+    "twitter": "https://twitter.com/d_id_vision",
+    "linkedin": "https://www.linkedin.com/company/d-id/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.d-id.com/pricing/",
+    "docs": "https://docs.d-id.com",
+    "changelog": null,
+    "support": "https://support.d-id.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.d-id.com/favicon.ico",
+      "caption": "D-ID icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "D‑ID channel (official)",
+      "youtube": "https://www.youtube.com/@DID_Vision",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create talking avatars (official)",
+      "youtube": "https://www.youtube.com/watch?v=R0v2R7E2RYY",
+      "provider": "YouTube"
+    },
+    {
+      "title": "D‑ID API quickstart (community)",
+      "youtube": "https://www.youtube.com/watch?v=7pIh9jcYFvY",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

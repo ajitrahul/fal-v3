@@ -1,0 +1,128 @@
+{
+  "id": "voice-in-voice-typing-chrome",
+  "name": "Voice In Voice Typing (Chrome)",
+  "slug": "voice-in-voice-typing-chrome",
+  "logo_url": "https://dictanote.co/voicein/favicon.ico",
+  "icon_url": "https://dictanote.co/voicein/favicon.ico",
+  "images": [
+    "https://dictanote.co/voicein/favicon.ico"
+  ],
+  "website_url": "https://dictanote.co/voicein/",
+  "tagline": "Chrome extension to dictate into any text field.",
+  "summary": "Voice In Voice Typing (Chrome) enables fast personal dictation or transcription for notes and documents. Accuracy and language availability depend on the platform and device.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Dictation",
+    "Transcription",
+    "Editing"
+  ],
+  "use_cases": [
+    "Notes",
+    "Documents",
+    "Messaging"
+  ],
+  "best_for": [
+    "Individuals & professionals"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "On-device or service-managed dictation"
+  ],
+  "platforms": [
+    "Web/mobile/desktop (varies)"
+  ],
+  "languages": [
+    "Varies by platform"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Dictanote",
+    "hq_country": null,
+    "twitter": "https://twitter.com/dictanote",
+    "linkedin": "https://www.linkedin.com/company/dictanote/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://dictanote.co/voicein/",
+    "changelog": null,
+    "support": "https://dictanote.co/voicein/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:48:16Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://dictanote.co/voicein/favicon.ico",
+      "caption": "Voice In Voice Typing (Chrome) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

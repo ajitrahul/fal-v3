@@ -1,0 +1,128 @@
+{
+  "id": "8x8-transcription",
+  "name": "8x8 — Transcription",
+  "slug": "8x8-transcription",
+  "logo_url": "https://www.8x8.com/favicon.ico",
+  "icon_url": "https://www.8x8.com/favicon.ico",
+  "images": [
+    "https://www.8x8.com/favicon.ico"
+  ],
+  "website_url": "https://www.8x8.com",
+  "tagline": "UCaaS/CCaaS platform with live transcription features.",
+  "summary": "8x8 — Transcription adds built‑in or integrated speech‑to‑text to capture calls and enable search, summaries, and QA.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Media",
+    "Apps"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "8x8",
+    "hq_country": null,
+    "twitter": "https://twitter.com/8x8",
+    "linkedin": "https://www.linkedin.com/company/8x8/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.8x8.com",
+    "changelog": null,
+    "support": "https://www.8x8.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:19:34Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.8x8.com/favicon.ico",
+      "caption": "8x8 — Transcription icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

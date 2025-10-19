@@ -1,0 +1,173 @@
+{
+  "id": "stackblitz-bolt-new",
+  "name": "Bolt.new (StackBlitz)",
+  "slug": "stackblitz-bolt-new",
+  "logo_url": "https://stackblitz.com/favicon.ico",
+  "icon_url": "https://stackblitz.com/favicon.ico",
+  "images": [
+    "https://stackblitz.com/favicon.ico"
+  ],
+  "website_url": "https://bolt.new/",
+  "tagline": "AI web dev agent to prompt, run, edit, and deploy in the browser.",
+  "summary": "Bolt.new is StackBlitz’s AI‑powered web development agent that lets you prompt, run, edit, and deploy full‑stack applications directly from the browser. The open‑source codebase is published by StackBlitz, and the official tutorials walk through creating new projects, importing existing repositories, iterating with prompts, and deploying to production without local setup. Because it runs on StackBlitz’s WebContainers and cloud infrastructure, Bolt can start servers instantly, run package managers, and present a live preview as you and the agent iterate. \n\nGetting started is as simple as opening bolt.new, selecting a starter, or describing an app in natural language. You can refine the output with follow‑up prompts, open a file tree to make targeted edits, and ask the agent to handle routine tasks like wiring routing, auth, or styling. For teams, Bolt helps create prototypes, reproduce issues, or share minimal repros quickly. Migration typically involves importing an existing project via GitHub or ZIP, then using Bolt’s agent to refactor or add features before exporting or deploying. \n\nBolt is best for browser‑first development where speed and shareability matter—hackathons, proofs of concept, tutorials, and demo‑driven workflows. Since the project is open source, developers can review the code and extend the agent for custom workflows; the official YouTube channel provides short, practical lessons on prompting tips and deployment patterns.",
+  "main_category": "Code Assistant",
+  "subcategory": "Web Dev Agent",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "Cloud IDE"
+  ],
+  "tasks": [
+    "Scaffold & run apps",
+    "Prompt‑driven edits",
+    "Browser preview",
+    "Deploy"
+  ],
+  "use_cases": [
+    "Prototyping",
+    "Demos",
+    "Education",
+    "Issue repros"
+  ],
+  "best_for": [
+    "Web developers who want instant environments"
+  ],
+  "ideal_industries": [
+    "Startups",
+    "Education",
+    "SaaS"
+  ],
+  "roles": [
+    "Developers",
+    "Instructors"
+  ],
+  "job_roles": [
+    "Front‑End Engineer",
+    "Full‑Stack Engineer"
+  ],
+  "models": [
+    "Service‑managed"
+  ],
+  "platforms": [
+    "Web (StackBlitz)"
+  ],
+  "languages": [
+    "Web stacks (JS/TS, frameworks)"
+  ],
+  "integrations": [
+    "GitHub import/export",
+    "StackBlitz deploy"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free usage tier available; see repo/docs",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Open source + hosted experience",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Instant browser environments",
+      "Open‑source codebase",
+      "Simple sharing"
+    ],
+    "cons": [
+      "Best for web stacks; not a desktop IDE"
+    ]
+  },
+  "key_differentiators": [
+    "WebContainers + agentic prompts in the browser"
+  ],
+  "limitations": [
+    "Frameworks outside web stacks may require workarounds"
+  ],
+  "import_export": [
+    "Import GitHub/ZIP; export project; deploy from browser"
+  ],
+  "setup_time": "Seconds (open in browser)",
+  "case_studies": [],
+  "migration_paths": [
+    "Import an existing repo into bolt.new; iterate and deploy"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives: Replit Agent, Codespaces + Copilot, Stackblitz projects without agent",
+  "vendor": {
+    "name": "StackBlitz, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://twitter.com/stackblitz",
+    "linkedin": "https://www.linkedin.com/company/stackblitz/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/stackblitz/bolt.new",
+    "changelog": null,
+    "support": "https://stackblitz.com/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://stackblitz.com/favicon.ico",
+      "caption": "StackBlitz icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Get Started with bolt.new (official)",
+      "youtube": "https://www.youtube.com/watch?v=ZtDP2BW0IiE",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Bolt.new tutorials playlist (official)",
+      "youtube": "https://www.youtube.com/@BoltDotNew",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Bolt.new tutorials (playlist)",
+      "youtube": "https://www.youtube.com/playlist?list=PLDckhLrNepPSEMs8iX6Je3vC6O9Ppc8Q4",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

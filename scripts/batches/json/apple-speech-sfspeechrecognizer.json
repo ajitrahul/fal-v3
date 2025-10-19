@@ -1,0 +1,154 @@
+{
+  "id": "apple-speech-sfspeechrecognizer",
+  "name": "Apple Speech (SFSpeechRecognizer)",
+  "slug": "apple-speech-sfspeechrecognizer",
+  "logo_url": "https://developer.apple.com/documentation/speech/favicon.ico",
+  "icon_url": "https://developer.apple.com/documentation/speech/favicon.ico",
+  "images": [
+    "https://developer.apple.com/documentation/speech/favicon.ico"
+  ],
+  "website_url": "https://developer.apple.com/documentation/speech",
+  "tagline": "On‑device and server‑assisted speech recognition APIs for iOS, iPadOS, macOS.",
+  "summary": "The Apple Speech framework (SFSpeechRecognizer) provides APIs for speech recognition on iOS, iPadOS, and macOS, with a mix of on‑device and server‑assisted modes depending on language and device capabilities. Apps request authorization, capture audio, and receive partial and final transcriptions. Developers can display live captions, power voice search, or transcribe recorded files.\n\nThe framework integrates with AVFoundation for audio capture and supports locale selection and result timing. Apple’s documentation covers best practices for user prompts, privacy disclosures, and handling interruptions, as well as UI examples for UX compliance.\n\nApple Speech is best for native app developers who want integrated transcription without external services.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "On‑device/online transcription",
+    "Partial results"
+  ],
+  "use_cases": [
+    "Voice search",
+    "Accessibility captions",
+    "Note dictation"
+  ],
+  "best_for": [
+    "iOS/macOS app developers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Apple Speech models (OS‑managed)"
+  ],
+  "platforms": [
+    "iOS",
+    "iPadOS",
+    "macOS"
+  ],
+  "languages": [
+    "Locales per OS support matrix"
+  ],
+  "integrations": [
+    "AVFoundation",
+    "Combine/SwiftUI (app patterns)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Included with Apple platforms; usage policies apply",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Included APIs",
+    "plans": [
+      {
+        "name": "Apple Developer Program",
+        "price": "$99/yr",
+        "billing": "annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Apple",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Apple",
+    "linkedin": "https://www.linkedin.com/company/apple/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://developer.apple.com/programs/",
+    "docs": "https://developer.apple.com/documentation/speech",
+    "changelog": "https://developer.apple.com/documentation/speech/releasenotes",
+    "support": "https://developer.apple.com/support/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:15:46Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": true,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://developer.apple.com/documentation/speech/favicon.ico",
+      "caption": "Apple Speech (SFSpeechRecognizer) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Build with SFSpeechRecognizer (Apple)",
+      "youtube": "https://developer.apple.com/videos/",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Speech framework demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=9rGf3bJ7vGk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "On‑device dictation UX (community)",
+      "youtube": "https://www.youtube.com/watch?v=G1vQ1r2q8Ko",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

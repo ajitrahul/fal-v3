@@ -1,0 +1,164 @@
+{
+  "id": "picsart-ai-image-generator",
+  "name": "Picsart AI Image Generator",
+  "slug": "picsart-ai-image-generator",
+  "logo_url": "https://picsart.com/ai-image-generator/favicon.ico",
+  "icon_url": "https://picsart.com/ai-image-generator/favicon.ico",
+  "images": [
+    "https://picsart.com/ai-image-generator/favicon.ico"
+  ],
+  "website_url": "https://picsart.com/ai-image-generator/",
+  "tagline": "Text‑to‑image generator inside Picsart’s all‑in‑one creative platform.",
+  "summary": "Picsart’s AI Image Generator converts prompts into images within the broader Picsart creative platform, which includes a photo/video editor, templates, and additional AI tools (e.g., AI Replace, AI Background, AI Design Generator). The generator is positioned as beginner‑friendly with style presets and quick export to the Picsart editor for further adjustments and composites. Official support articles explain how to open the generator from the web editor and refine outputs.\n\nUse cases include social posts, marketing visuals, and quick ideation, especially for users who already rely on Picsart for editing. A free tier exists with subscription options (Plus/Pro) for expanded asset libraries and features.\n\nPicsart is a practical choice for creators who want to generate and finish assets in a single, template‑rich environment.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Picsart service‑managed"
+  ],
+  "platforms": [
+    "Web",
+    "iOS/Android apps"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Picsart editor & templates"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier; subscriptions add features/assets",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + subscriptions",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Plus/Pro",
+        "price": "see site",
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "All‑in‑one editor + generator",
+      "Large template/asset ecosystem",
+      "Beginner‑friendly"
+    ],
+    "cons": [
+      "Less granular control vs. pro tools"
+    ]
+  },
+  "key_differentiators": [
+    "Seamless handoff to full Picsart editor",
+    "Template‑driven workflows"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG/MP4 (via editor)"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Picsart Enterprise customer stories",
+      "url": "https://picsart.io/blog/customer-stories/"
+    }
+  ],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Picsart",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Picsart",
+    "linkedin": "https://www.linkedin.com/company/picsart/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://picsart.com/pricing",
+    "docs": "https://picsart.com/ai-image-generator/",
+    "changelog": null,
+    "support": "https://support.picsart.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://picsart.com/ai-image-generator/favicon.ico",
+      "caption": "Picsart AI Image Generator icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Picsart channel (official)",
+      "youtube": "https://www.youtube.com/@Picsart",
+      "provider": "YouTube"
+    },
+    {
+      "title": "How to use the AI Image Generator (official support)",
+      "youtube": "https://www.youtube.com/watch?v=_nkm1jYcVs4",
+      "provider": "YouTube"
+    },
+    {
+      "title": "AI Image Generator basics (community)",
+      "youtube": "https://www.youtube.com/watch?v=E4-2h_3s2tE",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

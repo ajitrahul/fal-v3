@@ -1,0 +1,128 @@
+{
+  "id": "google-cloud-contact-center-ai-ccai",
+  "name": "Google Cloud Contact Center AI (CCAI)",
+  "slug": "google-cloud-contact-center-ai-ccai",
+  "logo_url": "https://cloud.google.com/contact-center-ai/favicon.ico",
+  "icon_url": "https://cloud.google.com/contact-center-ai/favicon.ico",
+  "images": [
+    "https://cloud.google.com/contact-center-ai/favicon.ico"
+  ],
+  "website_url": "https://cloud.google.com/contact-center-ai",
+  "tagline": "ASR-powered virtual agents and agent assist solutions.",
+  "summary": "Google Cloud Contact Center AI (CCAI) adds transcription and analytics within CCaaS or cloud telephony offerings to accelerate QA, coaching, and compliance workflows.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Media",
+    "Contact center"
+  ],
+  "best_for": [
+    "Builders & teams needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine or service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Google Cloud",
+    "hq_country": null,
+    "twitter": "https://twitter.com/googlecloud",
+    "linkedin": "https://www.linkedin.com/showcase/google-cloud/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://cloud.google.com/contact-center-ai",
+    "changelog": null,
+    "support": "https://cloud.google.com/contact-center-ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:51:44Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://cloud.google.com/contact-center-ai/favicon.ico",
+      "caption": "Google Cloud Contact Center AI (CCAI) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "google-gemini",
+  "name": "Google Gemini",
+  "website_url": "https://gemini.google.com/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=gemini.google.com",
+  "description": "Gemini is Google’s multimodal AI accessible via web, mobile, and Google Workspace. Paid Google One AI Premium unlocks advanced capabilities and integrations.",
+  "category": "chat-assistant",
+  "use_cases": [
+    {
+      "title": "Workspace assistance",
+      "details": "Draft and summarize within Docs and Gmail."
+    },
+    {
+      "title": "Coding help",
+      "details": "Explain and generate code snippets."
+    },
+    {
+      "title": "Multimodal analysis",
+      "details": "Reason over images and text inputs."
+    }
+  ],
+  "pros": [
+    "Google ecosystem integration",
+    "Search/citation strengths",
+    "Mobile + Workspace"
+  ],
+  "cons": [
+    "Advanced features behind paid plan",
+    "Region differences"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Free",
+      "price": "0",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Basic Gemini"
+      ],
+      "trial_available": false,
+      "url": "https://gemini.google.com/"
+    },
+    {
+      "name": "Google One AI Premium",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Advanced Gemini",
+        "Workspace integration"
+      ],
+      "trial_available": true,
+      "url": "https://one.google.com/about/ai-premium"
+    }
+  ],
+  "company_details": {
+    "name": "Google LLC",
+    "founded_year": 1998,
+    "hq_city": "Mountain View",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://policies.google.com/terms",
+      "privacy_url": "https://policies.google.com/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/products/google-gemini"
+    }
+  ],
+  "image": "https://ai.google.dev/static/images/social-share.png",
+  "best_for": [
+    "Workspace users",
+    "Students",
+    "Developers"
+  ],
+  "models": [
+    {
+      "name": "Gemini 1.5 family",
+      "provider": "Google",
+      "modality": "multimodal",
+      "input_formats": [
+        "text",
+        "image"
+      ],
+      "output_formats": [
+        "text",
+        "image"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://ai.google.dev/gemini-api/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": [
+      "Google Workspace",
+      "Android",
+      "Chrome"
+    ]
+  },
+  "key_differentiator": [
+    "Deep integration with Google products and search"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://support.google.com/gemini"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://ai.google.dev/static/images/social-share.png",
+      "caption": "Gemini developer docs"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Build with Gemini",
+      "url": "https://www.youtube.com/watch?v=Z6W6X8t0dzc",
+      "channel": "Google for Developers"
+    }
+  ],
+  "qa": [
+    {
+      "question": "What is Google One AI Premium?",
+      "answer": "Paid plan unlocking advanced features.",
+      "source_url": "https://one.google.com/about/ai-premium"
+    },
+    {
+      "question": "Free version available?",
+      "answer": "Yes—access Gemini at gemini.google.com.",
+      "source_url": "https://gemini.google.com/"
+    },
+    {
+      "question": "Image support?",
+      "answer": "Yes—multimodal inputs and outputs.",
+      "source_url": "https://ai.google.dev/"
+    },
+    {
+      "question": "API available?",
+      "answer": "Yes—Gemini API and AI Studio.",
+      "source_url": "https://ai.google.dev/gemini-api"
+    },
+    {
+      "question": "Docs/Sheets support?",
+      "answer": "Available for eligible plans in Workspace.",
+      "source_url": "https://workspace.google.com/"
+    },
+    {
+      "question": "Tutorials?",
+      "answer": "See Google for Developers channel.",
+      "source_url": "https://www.youtube.com/@GoogleDevelopers"
+    },
+    {
+      "question": "Citations?",
+      "answer": "Gemini can provide links and citations in certain modes.",
+      "source_url": "https://gemini.google.com/"
+    },
+    {
+      "question": "Mobile app?",
+      "answer": "Available on Android and iOS in supported regions.",
+      "source_url": "https://support.google.com/gemini"
+    },
+    {
+      "question": "Data handling?",
+      "answer": "See Google’s privacy policy.",
+      "source_url": "https://policies.google.com/privacy"
+    },
+    {
+      "question": "Fine-tuning?",
+      "answer": "See docs for tuning tools and availability.",
+      "source_url": "https://ai.google.dev/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@GoogleDevelopers",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

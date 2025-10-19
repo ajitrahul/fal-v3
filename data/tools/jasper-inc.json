@@ -1,0 +1,198 @@
+{
+  "slug": "jasper-ai",
+  "name": "Jasper",
+  "website_url": "https://www.jasper.ai/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.jasper.ai",
+  "description": "Jasper is a marketing-focused AI platform to plan, create, and repurpose on-brand content across channels. It offers brand voice, templates, campaigns, and team collaboration.",
+  "category": "content-generation",
+  "use_cases": [
+    {
+      "title": "Blog & SEO",
+      "details": "Outline and draft optimized posts."
+    },
+    {
+      "title": "Ads & social",
+      "details": "Generate variants for ad platforms."
+    },
+    {
+      "title": "Email & lifecycle",
+      "details": "Personalize sequences at scale."
+    }
+  ],
+  "pros": [
+    "Brand voice controls",
+    "Team collaboration",
+    "Templates"
+  ],
+  "cons": [
+    "Human editing required",
+    "Higher cost for small teams"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Creator",
+      "price": 39,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Single seat",
+        "Brand Voice"
+      ],
+      "trial_available": true,
+      "url": "https://www.jasper.ai/pricing"
+    },
+    {
+      "name": "Pro",
+      "price": 69,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Multi-seat",
+        "Campaign workflow"
+      ],
+      "trial_available": true,
+      "url": "https://www.jasper.ai/pricing"
+    },
+    {
+      "name": "Business",
+      "price": "Contact sales",
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "features": [
+        "SSO",
+        "Security & governance"
+      ],
+      "trial_available": false,
+      "url": "https://www.jasper.ai/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Jasper, Inc.",
+    "founded_year": 2021,
+    "hq_city": "Austin",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://www.jasper.ai/legal/terms",
+      "privacy_url": "https://www.jasper.ai/legal/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/jasper-ai/reviews"
+    }
+  ],
+  "image": "https://www.jasper.ai/og-image.jpg",
+  "best_for": [
+    "Marketing teams",
+    "Agencies",
+    "SMBs"
+  ],
+  "models": [
+    {
+      "name": "GPT‑4 class (via providers)",
+      "provider": "Multiple",
+      "modality": "text,image",
+      "input_formats": [
+        "text"
+      ],
+      "output_formats": [
+        "text",
+        "image"
+      ],
+      "notes": "Routing depends on feature"
+    }
+  ],
+  "technical_information": {
+    "api_available": false,
+    "hosting_options": [
+      "SaaS"
+    ],
+    "integrations": [
+      "Chrome",
+      "SurferSEO",
+      "CMS"
+    ]
+  },
+  "key_differentiator": [
+    "Marketing-first workflows & brand governance"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://help.jasper.ai/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": false,
+    "requires_login": true,
+    "has_api": false
+  },
+  "gallery": [
+    {
+      "url": "https://www.jasper.ai/og-image.jpg",
+      "caption": "Jasper platform"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Jasper AI Tutorial for Beginners (2025)",
+      "url": "https://www.youtube.com/watch?v=W9y2rodf7Zg",
+      "channel": "H-Educate"
+    }
+  ],
+  "qa": [
+    {
+      "question": "What plans are offered?",
+      "answer": "Creator, Pro, Business.",
+      "source_url": "https://www.jasper.ai/pricing"
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes—typically 7 days.",
+      "source_url": "https://www.jasper.ai/pricing"
+    },
+    {
+      "question": "Who is Jasper for?",
+      "answer": "Marketing teams needing on-brand content.",
+      "source_url": "https://www.jasper.ai/"
+    },
+    {
+      "question": "Does Jasper support images?",
+      "answer": "Yes via Jasper Art features.",
+      "source_url": "https://www.jasper.ai/"
+    },
+    {
+      "question": "SEO tool integrations?",
+      "answer": "Yes—e.g., SurferSEO.",
+      "source_url": "https://www.jasper.ai/"
+    },
+    {
+      "question": "Multi-seat?",
+      "answer": "Yes—Pro and Business.",
+      "source_url": "https://www.jasper.ai/pricing"
+    },
+    {
+      "question": "API available?",
+      "answer": "Focus is the app; no public API.",
+      "source_url": "https://www.jasper.ai/"
+    },
+    {
+      "question": "Reviews?",
+      "answer": "See G2.",
+      "source_url": "https://www.g2.com/products/jasper-ai/reviews"
+    },
+    {
+      "question": "Brand voice?",
+      "answer": "Yes—train tone and style.",
+      "source_url": "https://www.jasper.ai/"
+    },
+    {
+      "question": "Good for agencies?",
+      "answer": "Yes—multi-client workflows.",
+      "source_url": "https://www.jasper.ai/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@JasperAIbusiness",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

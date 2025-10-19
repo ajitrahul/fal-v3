@@ -1,0 +1,128 @@
+{
+  "id": "microsoft-viva-engage-stream-search",
+  "name": "Microsoft Viva Engage/Stream search",
+  "slug": "microsoft-viva-engage-stream-search",
+  "logo_url": "https://learn.microsoft.com/stream/favicon.ico",
+  "icon_url": "https://learn.microsoft.com/stream/favicon.ico",
+  "images": [
+    "https://learn.microsoft.com/stream/favicon.ico"
+  ],
+  "website_url": "https://learn.microsoft.com/stream",
+  "tagline": "Leverages transcripts in Microsoft 365 video for search.",
+  "summary": "Microsoft Viva Engage/Stream search uses transcripts to power search, discovery, and knowledge sharing in enterprise video hubs.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Media",
+    "Apps"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Microsoft",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/showcase/microsoft-365/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://learn.microsoft.com/stream",
+    "changelog": null,
+    "support": "https://learn.microsoft.com/stream"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:03:25Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://learn.microsoft.com/stream/favicon.ico",
+      "caption": "Microsoft Viva Engage/Stream search icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

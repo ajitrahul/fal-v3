@@ -1,0 +1,128 @@
+{
+  "id": "web-speech-api-browser",
+  "name": "Web Speech API (Browser)",
+  "slug": "web-speech-api-browser",
+  "logo_url": "https://developer.mozilla.org/docs/Web/API/Web_Speech_API/favicon.ico",
+  "icon_url": "https://developer.mozilla.org/docs/Web/API/Web_Speech_API/favicon.ico",
+  "images": [
+    "https://developer.mozilla.org/docs/Web/API/Web_Speech_API/favicon.ico"
+  ],
+  "website_url": "https://developer.mozilla.org/docs/Web/API/Web_Speech_API",
+  "tagline": "Browser API surface for speech recognition/synthesis.",
+  "summary": "Web Speech API (Browser) lets developers add speech recognition capabilities directly in the browser or via JS SDKs.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Voice commands",
+    "Dictation",
+    "Transcription"
+  ],
+  "use_cases": [
+    "Web apps",
+    "Kiosks",
+    "Accessibility"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Web Platform (standards)",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/mozilla/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://developer.mozilla.org/docs/Web/API/Web_Speech_API",
+    "changelog": null,
+    "support": "https://developer.mozilla.org/docs/Web/API/Web_Speech_API"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:26:31Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://developer.mozilla.org/docs/Web/API/Web_Speech_API/favicon.ico",
+      "caption": "Web Speech API (Browser) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

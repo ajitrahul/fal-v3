@@ -1,0 +1,177 @@
+{
+  "id": "runway",
+  "name": "Runway",
+  "slug": "runway",
+  "logo_url": "https://runwayml.com/favicon.ico",
+  "icon_url": "https://runwayml.com/favicon.ico",
+  "images": [
+    "https://runwayml.com/favicon.ico"
+  ],
+  "website_url": "https://runwayml.com",
+  "tagline": "Gen‑3 era text‑to‑video and video editing for creators.",
+  "summary": "Runway is a professional platform for generative video and creative tools, best known for its Gen‑3 era text‑to‑video models and an editor that supports image‑to‑video, video‑to‑video, motion brush, and advanced compositing. The web app provides a timeline and layer‑based workspace familiar to video editors, while letting you generate and refine shots via prompts, reference images, and control modes. Runway positions itself for filmmakers, agencies, and marketing teams that need cinematic motion, consistent characters, and fine‑grained adjustments—its showcase includes narrative shorts, commercials, and music videos produced with or augmented by Runway.\n\nA typical workflow starts by describing a scene or uploading a reference frame, selecting duration and aspect ratio, and generating multiple candidates. Editors refine outcomes with re-prompts, camera and motion controls, and paint-based tools to add or remove elements. Runway supports footage upscaling and stylization, and it integrates export formats suited for downstream finishing in apps like Adobe Premiere Pro or After Effects. For collaboration, projects live in the cloud with shareable previews and version history.\n\nOrganizations adopt Runway to speed previsualization, pitch treatments, and content production for social and advertising. Because the platform is fully hosted, setup is minimal—create an account and start generating in the browser. Paid plans increase generation minutes, resolution, and access to advanced features; Runway’s help center and YouTube channel provide tutorials covering Gen‑3, motion brush, masking, and best‑practice prompting. The service is well suited to creative teams aiming for high‑fidelity motion without building custom inference stacks.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video",
+    "Image‑to‑video",
+    "Video‑to‑video",
+    "Inpainting/Outpainting",
+    "Upscale",
+    "Stylize"
+  ],
+  "use_cases": [
+    "Previs",
+    "Ads & social",
+    "Music videos",
+    "Narrative shorts",
+    "Brand content"
+  ],
+  "best_for": [
+    "Filmmakers",
+    "Agencies",
+    "Marketing teams",
+    "Indie creators"
+  ],
+  "ideal_industries": [
+    "Media & Entertainment",
+    "Marketing",
+    "Education"
+  ],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Runway Gen‑3 model family"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Export to MP4/ProRes-friendly formats"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free trial/limited generations (see site)",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription/credits",
+    "plans": [
+      {
+        "name": "Free/Standard/Pro",
+        "price": null,
+        "billing": "monthly"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Cinematic motion quality",
+      "Robust web editor",
+      "Good tutorials"
+    ],
+    "cons": [
+      "Usage quotas; heavy renders consume credits"
+    ]
+  },
+  "key_differentiators": [
+    "Gen‑3 motion fidelity",
+    "Motion brush & timeline editor",
+    "Team collaboration in browser"
+  ],
+  "limitations": [
+    "Browser‑based editor; bandwidth dependent"
+  ],
+  "import_export": [
+    "Upload stills/clips; export MP4 with standard codecs"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Runway AI, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/runwayml",
+    "linkedin": "https://www.linkedin.com/company/runwayml/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://runwayml.com/pricing",
+    "docs": "https://help.runwayml.com",
+    "changelog": null,
+    "support": "https://help.runwayml.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://runwayml.com/favicon.ico",
+      "caption": "Runway icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Runway Gen‑3 overview (official)",
+      "youtube": "https://www.youtube.com/@RunwayML",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Motion Brush intro (official)",
+      "youtube": "https://www.youtube.com/watch?v=3QnVtC6oXnI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Runway editor tutorial (official)",
+      "youtube": "https://www.youtube.com/watch?v=8g3E-aIjqEk",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "stability-dreamstudio",
+  "name": "DreamStudio",
+  "website_url": "https://dreamstudio.stability.ai/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=dreamstudio.stability.ai",
+  "description": "DreamStudio is Stability AI’s official web app for generating images with Stable Diffusion models, including SDXL. Users adjust parameters and purchase credit packs or subscriptions.",
+  "category": "text-to-image",
+  "use_cases": [
+    {
+      "title": "Product mockups",
+      "details": "Generate design concepts and variants."
+    },
+    {
+      "title": "Creative art",
+      "details": "Explore styles and compositions."
+    },
+    {
+      "title": "Storyboarding",
+      "details": "Create frames and refine scenes."
+    }
+  ],
+  "pros": [
+    "Open SDXL ecosystem",
+    "Granular generation controls"
+  ],
+  "cons": [
+    "Credit metering can vary costs"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Credits",
+      "price": "Usage-based",
+      "currency": "USD",
+      "billing_cycle": "usage-based",
+      "features": [
+        "Pay as you go"
+      ],
+      "trial_available": true,
+      "url": "https://dreamstudio.stability.ai/plans-and-credits"
+    }
+  ],
+  "company_details": {
+    "name": "Stability AI Ltd.",
+    "founded_year": 2019,
+    "hq_city": "London",
+    "hq_country": "UK",
+    "legal": {
+      "terms_url": "https://stability.ai/terms-of-use",
+      "privacy_url": "https://stability.ai/privacy-policy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Tech overview",
+      "source_type": "official",
+      "url": "https://stability.ai"
+    }
+  ],
+  "image": "https://stability.ai/images/og/stability-og.jpg",
+  "best_for": [
+    "Creators",
+    "Designers",
+    "Developers"
+  ],
+  "models": [
+    {
+      "name": "Stable Diffusion XL (SDXL)",
+      "provider": "Stability AI",
+      "version": "1.x",
+      "modality": "image",
+      "input_formats": [
+        "text",
+        "image"
+      ],
+      "output_formats": [
+        "image"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://platform.stability.ai/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": [
+      "ComfyUI (community)",
+      "Automatic1111 (community)"
+    ]
+  },
+  "key_differentiator": [
+    "Open model ecosystem with SDXL"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://platform.stability.ai/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://stability.ai/images/og/stability-og.jpg",
+      "caption": "Stability AI"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "DreamStudio tutorial",
+      "url": "https://www.youtube.com/watch?v=TRBy8zEvTPI",
+      "channel": "Arch Tutor"
+    }
+  ],
+  "qa": [
+    {
+      "question": "What is DreamStudio?",
+      "answer": "Stability AI’s official SD web app.",
+      "source_url": "https://dreamstudio.stability.ai/"
+    },
+    {
+      "question": "How is pricing structured?",
+      "answer": "Usage‑based credits with optional trial.",
+      "source_url": "https://dreamstudio.stability.ai/plans-and-credits"
+    },
+    {
+      "question": "Which model?",
+      "answer": "SDXL and variants.",
+      "source_url": "https://stability.ai/news"
+    },
+    {
+      "question": "API available?",
+      "answer": "Yes—developer API.",
+      "source_url": "https://platform.stability.ai/docs"
+    },
+    {
+      "question": "Control steps/guidance?",
+      "answer": "Yes—UI exposes parameters.",
+      "source_url": "https://dreamstudio.stability.ai/"
+    },
+    {
+      "question": "Image-to-image?",
+      "answer": "Yes—img2img workflows.",
+      "source_url": "https://dreamstudio.stability.ai/"
+    },
+    {
+      "question": "Community UIs?",
+      "answer": "ComfyUI and Automatic1111 popular.",
+      "source_url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+      "question": "Free credits?",
+      "answer": "Trial credits for new users.",
+      "source_url": "https://dreamstudio.stability.ai/plans-and-credits"
+    },
+    {
+      "question": "Tutorials?",
+      "answer": "YouTube has many walkthroughs.",
+      "source_url": "https://www.youtube.com/results?search_query=dreamstudio+stability+ai"
+    },
+    {
+      "question": "Commercial usage?",
+      "answer": "Check the license and terms.",
+      "source_url": "https://stability.ai/terms-of-use"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@Stability_AI",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

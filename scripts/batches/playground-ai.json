@@ -1,0 +1,151 @@
+{
+  "id": "playground-ai",
+  "name": "Playground AI",
+  "slug": "playground-ai",
+  "logo_url": "https://playgroundai.com/favicon.ico",
+  "icon_url": "https://playgroundai.com/favicon.ico",
+  "images": [
+    "https://playgroundai.com/favicon.ico"
+  ],
+  "website_url": "https://playgroundai.com",
+  "tagline": "Browser-based image generation and editing with community templates.",
+  "summary": "Playground AI is a browser‑based image generation and editing platform oriented toward fast iteration and community sharing. It offers text‑to‑image, image‑to‑image, and editing features like inpainting/outpainting, masking, and style presets. The service includes templates and an explore feed for inspiration and re‑use. The help center and official YouTube channel provide guidance on features and best practices.\n\nTypical usage: describe a concept, preview variants, and refine by masking/painting over portions of an image to adjust composition or style. Users export results for social, product mockups, or creative experiments. A free tier allows casual exploration, with paid plans increasing limits and unlocking advanced features; see the site for current details.\n\nPlayground AI suits individual creators and small teams who want a free‑to‑start, browser‑native generator and editor without installing desktop software.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Playground‑managed diffusion models (service)"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid plans",
+    "plans": [
+      {
+        "name": "Free/paid",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Easy web editing (masking/inpaint)",
+      "Community templates",
+      "Free tier"
+    ],
+    "cons": [
+      "Model/version specifics vary by service updates"
+    ]
+  },
+  "key_differentiators": [
+    "In‑browser editor + templates",
+    "Community remix culture"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG; template links"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Playground AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/playground_ai",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://playgroundai.com",
+    "docs": "https://help.playgroundai.com/en/",
+    "changelog": null,
+    "support": "https://help.playgroundai.com/en/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://playgroundai.com/favicon.ico",
+      "caption": "Playground AI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Playground AI (official channel)",
+      "youtube": "https://www.youtube.com/@playgroundai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Introducing the New Playground (official)",
+      "youtube": "https://www.youtube.com/watch?v=VPv4LCi3eWo",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Playground AI beginner tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=YvA2ru5kQY0",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

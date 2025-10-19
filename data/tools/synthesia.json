@@ -1,0 +1,181 @@
+{
+  "slug": "synthesia",
+  "name": "Synthesia",
+  "website_url": "https://www.synthesia.io/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.synthesia.io",
+  "description": "Synthesia creates presenter‑led videos from text using AI avatars. It includes multilingual voiceovers, templates, collaboration tools, and an API for automation.",
+  "category": "text-to-video",
+  "use_cases": [
+    {
+      "title": "Training & onboarding",
+      "details": "Create how‑to and compliance videos."
+    },
+    {
+      "title": "Marketing explainers",
+      "details": "Produce product demos and launches."
+    },
+    {
+      "title": "Localization",
+      "details": "Generate videos in many languages."
+    }
+  ],
+  "pros": [
+    "Fast production",
+    "Multilingual",
+    "Templates & workflows"
+  ],
+  "cons": [
+    "Avatar style constraints",
+    "Advanced features on higher tiers"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Starter/Enterprise",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Templates",
+        "Avatars"
+      ],
+      "trial_available": true,
+      "url": "https://www.synthesia.io/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Synthesia Limited",
+    "founded_year": 2017,
+    "hq_city": "London",
+    "hq_country": "UK",
+    "legal": {
+      "terms_url": "https://www.synthesia.io/terms",
+      "privacy_url": "https://www.synthesia.io/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/synthesia/reviews"
+    },
+    {
+      "source_name": "Capterra",
+      "source_type": "review_site",
+      "url": "https://www.capterra.com/p/232722/Synthesia/"
+    }
+  ],
+  "image": "https://www.synthesia.io/og-image.jpg",
+  "best_for": [
+    "L&D teams",
+    "Marketing",
+    "Support"
+  ],
+  "models": [
+    {
+      "name": "Proprietary avatar video models",
+      "provider": "Synthesia",
+      "modality": "video",
+      "input_formats": [
+        "text"
+      ],
+      "output_formats": [
+        "video"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://docs.synthesia.io/",
+    "sdk_languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": [
+      "LMS/CMS exports"
+    ]
+  },
+  "key_differentiator": [
+    "High‑quality avatars with enterprise controls"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://help.synthesia.io/en/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": false,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://www.synthesia.io/og-image.jpg",
+      "caption": "Synthesia avatars"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Create AI videos with Synthesia",
+      "url": "https://www.youtube.com/watch?v=QhZSs6d8eLQ",
+      "channel": "Synthesia"
+    }
+  ],
+  "qa": [
+    {
+      "question": "What is Synthesia for?",
+      "answer": "Presenter‑style videos for training/marketing.",
+      "source_url": "https://www.synthesia.io/"
+    },
+    {
+      "question": "API?",
+      "answer": "Yes—automation/integration available.",
+      "source_url": "https://docs.synthesia.io/"
+    },
+    {
+      "question": "Localization?",
+      "answer": "Yes—many languages supported.",
+      "source_url": "https://www.synthesia.io/"
+    },
+    {
+      "question": "Custom avatars?",
+      "answer": "Available on higher tiers.",
+      "source_url": "https://www.synthesia.io/pricing"
+    },
+    {
+      "question": "Free plan?",
+      "answer": "No—see pricing for trials.",
+      "source_url": "https://www.synthesia.io/pricing"
+    },
+    {
+      "question": "Team collaboration?",
+      "answer": "Yes—shared templates/workspaces.",
+      "source_url": "https://www.synthesia.io/"
+    },
+    {
+      "question": "Export formats?",
+      "answer": "Standard video formats; see docs.",
+      "source_url": "https://docs.synthesia.io/"
+    },
+    {
+      "question": "Screen capture?",
+      "answer": "Focus is avatars; combine via templates.",
+      "source_url": "https://www.synthesia.io/"
+    },
+    {
+      "question": "Commercial use?",
+      "answer": "See terms & license.",
+      "source_url": "https://www.synthesia.io/terms"
+    },
+    {
+      "question": "Reviews?",
+      "answer": "See G2 and Capterra.",
+      "source_url": "https://www.g2.com/products/synthesia/reviews"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@SynthesiaIO",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

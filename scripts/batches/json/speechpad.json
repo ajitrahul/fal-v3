@@ -1,0 +1,145 @@
+{
+  "id": "speechpad",
+  "name": "Speechpad",
+  "slug": "speechpad",
+  "logo_url": "https://www.speechpad.com/favicon.ico",
+  "icon_url": "https://www.speechpad.com/favicon.ico",
+  "images": [
+    "https://www.speechpad.com/favicon.ico"
+  ],
+  "website_url": "https://www.speechpad.com",
+  "tagline": "Transcription and captions with human reviewers and enterprise options.",
+  "summary": "Speechpad offers transcription and captioning services with human reviewers and service levels for accuracy and turnaround. Customers upload files or use integrations; transcripts and captions can be exported for broadcast and web. Enterprise accounts receive invoicing and account management.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Media",
+    "Business",
+    "Education"
+  ],
+  "best_for": [
+    "Teams requiring human‑verified quality"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Human + AI assisted workflows"
+  ],
+  "platforms": [
+    "Web portal",
+    "Integrations"
+  ],
+  "languages": [
+    "Multiple (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Speechpad",
+    "hq_country": null,
+    "twitter": "https://twitter.com/speechpad",
+    "linkedin": "https://www.linkedin.com/company/speechpad/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.speechpad.com/pricing",
+    "docs": "https://www.speechpad.com/faq",
+    "changelog": null,
+    "support": "https://www.speechpad.com/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:21:00Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.speechpad.com/favicon.ico",
+      "caption": "Speechpad icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Speechpad overview (official)",
+      "youtube": "https://www.youtube.com/results?search_query=speechpad",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Ordering & file upload (official)",
+      "youtube": "https://www.youtube.com/results?search_query=speechpad",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Caption exports (official)",
+      "youtube": "https://www.youtube.com/results?search_query=speechpad",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

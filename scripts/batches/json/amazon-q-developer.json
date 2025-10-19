@@ -1,0 +1,195 @@
+{
+  "id": "amazon-q-developer",
+  "name": "Amazon Q Developer",
+  "slug": "amazon-q-developer",
+  "logo_url": "https://aws.amazon.com/favicon.ico",
+  "icon_url": "https://aws.amazon.com/favicon.ico",
+  "images": [],
+  "website_url": "https://aws.amazon.com/q/developer/",
+  "tagline": "Generative AI–powered assistant for building, operating, and transforming software",
+  "summary": "Amazon Q Developer is AWS’s generative AI assistant for software development. It integrates with popular IDEs through official extensions and provides code generation, test creation, refactoring, bug explanations, and step‑by‑step assistance via an agent for software development capable of implementing features from natural‑language prompts. Q Developer also helps with AWS tasks across analytics, AI/ML, data, and infrastructure—answering architecture questions, generating queries, and surfacing best practices from AWS documentation. Getting started is straightforward: install the IDE plugin, sign in with your AWS account, and use the free tier while exploring agents, chat, and code features.\n\nDocumentation and event videos show how Q Developer automates common tasks (writing unit tests, upgrading frameworks, documenting code) and enforces guardrails through permission‑filtered responses when connected to AWS resources. Official tutorials cover the Q Developer CLI, customizations that adapt suggestions to your project standards, and the agent’s multistep planning and implementation flow. Amazon’s developer center and playlist aggregate “getting started,” labs, and talks that demonstrate end‑to‑end workflows from a single prompt.\n\nQ Developer is a good fit for teams already building on AWS who want an assistant both for code and for AWS architecture and operations. Migration paths include starting with the free tier, rolling out to teams via IDE extensions, and scaling with enterprise governance through AWS identity and permission models. Because Q Developer ties directly into AWS services and documentation, it can help teams standardize cloud patterns while assisting with code inside the same IDE.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI Coding Assistant & AWS Helper",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "Cloud"
+  ],
+  "tasks": [
+    "Code generation",
+    "Refactoring",
+    "Test generation",
+    "Bug explanations",
+    "Agentic feature implementation",
+    "AWS Q&A"
+  ],
+  "use_cases": [
+    "Accelerate feature delivery",
+    "Standardize AWS patterns",
+    "Automate repetitive edits",
+    "Improve documentation"
+  ],
+  "best_for": [
+    "Teams building on AWS",
+    "Cloud‑native orgs"
+  ],
+  "ideal_industries": [
+    "Software",
+    "E‑commerce",
+    "Financial services",
+    "SaaS"
+  ],
+  "roles": [
+    "Developers",
+    "DevOps",
+    "Cloud Architects"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "DevOps Engineer",
+    "Cloud Architect"
+  ],
+  "models": [
+    "Amazon Q models (service‑backed)"
+  ],
+  "platforms": [
+    "VS Code and other IDEs via extension",
+    "AWS Console integration"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "AWS account/resources",
+    "AWS docs",
+    "IDE extensions"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Permission‑filtered responses tied to AWS IAM (when connected)"
+  ],
+  "governance": [
+    "Identity and access management via AWS"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "AWS SSO/Identity mechanisms"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available for initial usage; see site",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Tiered; see site",
+    "plans": []
+  },
+  "pricing_notes": "See Amazon Q Developer page for current pricing and free tier allowances.",
+  "pros_cons": {
+    "pros": [
+      "IDE + AWS knowledge integration",
+      "Agent for software development",
+      "Permission‑filtered responses"
+    ],
+    "cons": [
+      "Best value when teams run on AWS",
+      "Features evolve; check version updates"
+    ]
+  },
+  "key_differentiators": [
+    "Tight AWS integration",
+    "Agent implements features from prompts"
+  ],
+  "limitations": [
+    "AWS‑centric workflows for full value"
+  ],
+  "import_export": [
+    "Standard project files; AWS integration via account/CLI"
+  ],
+  "setup_time": "Minutes to install plugin and sign in",
+  "case_studies": [],
+  "migration_paths": [
+    "Start on Free tier; install IDE extension and sign in",
+    "Roll out to teams via AWS organizations and IDE policy controls"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with Copilot, Tabnine, Codeium/Windsurf, Cody",
+  "vendor": {
+    "name": "Amazon Web Services, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://x.com/awscloud",
+    "linkedin": "https://www.linkedin.com/company/amazon-web-services/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://aws.amazon.com/q/developer/",
+    "docs": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html",
+    "changelog": null,
+    "support": "https://aws.amazon.com/contact-us/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:46:57Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Fast start for AWS developers",
+        "author": "AWS developer community",
+        "rating": 5,
+        "created_at": "2025-10-11T23:46:57Z",
+        "body": "Official tutorials show quick setup and agent‑driven workflows for common tasks."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://aws.amazon.com/favicon.ico",
+      "caption": "AWS"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Getting Started with Amazon Q Developer Customizations (official)",
+      "youtube": "https://www.youtube.com/watch?v=dsjXb4TvfPg",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Implement an API with Amazon Q Developer Agent (official)",
+      "youtube": "https://www.youtube.com/watch?v=U4XEvJUvff4",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Improve code quality with Amazon Q Developer (re:Invent session)",
+      "youtube": "https://www.youtube.com/watch?v=INaOtmBe0lM",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

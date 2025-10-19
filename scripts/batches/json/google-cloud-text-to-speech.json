@@ -1,0 +1,174 @@
+{
+  "id": "google-cloud-text-to-speech",
+  "name": "Google Cloud Text-to-Speech",
+  "slug": "google-cloud-text-to-speech",
+  "logo_url": "https://cloud.google.com/text-to-speech/favicon.ico",
+  "icon_url": "https://cloud.google.com/text-to-speech/favicon.ico",
+  "images": [
+    "https://cloud.google.com/text-to-speech/favicon.ico"
+  ],
+  "website_url": "https://cloud.google.com/text-to-speech",
+  "tagline": "WaveNet/Neural2 voices via Google Cloud.",
+  "summary": "Google Cloud Text‑to‑Speech provides WaveNet and Neural2 voices across many languages and locales, with SSML support for fine control over prosody, timbre, and pronunciation. The service exposes REST/SDK APIs, batch synthesis, and real‑time streaming for interactive applications. It integrates with other Google Cloud services for secure, scalable deployment and includes tools for custom pronunciation via lexicons. \n\nCommon use cases include contact center IVR, e‑learning narration, accessibility, device voices, and media apps. Developers specify a voice and audio format (MP3, LINEAR16, OGG_OPUS), control speaking rate, pitch, and volume gain, and retrieve audio via the API. Pricing is per million characters with a free tier; quotas and IAM control access and scaling.\n\nThe official documentation and codelabs provide quickstarts in multiple languages (Node.js, Python, Go, Java, C#). Tutorials on Google Cloud’s channel cover best practices for SSML and multilingual deployments, as well as pairing TTS with Speech‑to‑Text and Dialogflow for assistants.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Synthesis",
+    "Streaming",
+    "SSML",
+    "Audio profiles"
+  ],
+  "use_cases": [
+    "IVR/Assistants",
+    "E‑learning",
+    "Accessibility",
+    "Media & apps"
+  ],
+  "best_for": [
+    "Enterprises",
+    "Startups on GCP",
+    "Device makers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "WaveNet",
+    "Neural2"
+  ],
+  "platforms": [
+    "Google Cloud Console",
+    "SDKs",
+    "REST API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Dialogflow",
+    "Cloud Functions",
+    "Vertex AI (adjacent)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier within monthly character limits",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Per‑character pricing",
+    "plans": [
+      {
+        "name": "Pay‑as‑you‑go",
+        "price": null,
+        "billing": "usage"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "WaveNet/Neural2 quality",
+      "Rich language coverage",
+      "Strong docs"
+    ],
+    "cons": [
+      "Custom voices limited compared to cloning services"
+    ]
+  },
+  "key_differentiators": [
+    "WaveNet heritage",
+    "Easy multi‑language setup"
+  ],
+  "limitations": [
+    "Project/IAM setup required"
+  ],
+  "import_export": [
+    "MP3/OGG_OPUS/LINEAR16"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Google Cloud",
+    "hq_country": null,
+    "twitter": "https://twitter.com/googlecloud",
+    "linkedin": "https://www.linkedin.com/company/google-cloud/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://cloud.google.com/text-to-speech/pricing",
+    "docs": "https://cloud.google.com/text-to-speech/docs",
+    "changelog": null,
+    "support": "https://cloud.google.com/support"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://cloud.google.com/text-to-speech/favicon.ico",
+      "caption": "Google Cloud Text-to-Speech icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Cloud TTS quickstart (Google)",
+      "youtube": "https://www.youtube.com/@googlecloudtech",
+      "provider": "YouTube"
+    },
+    {
+      "title": "SSML & prosody on GCP (Google)",
+      "youtube": "https://www.youtube.com/@googlecloudtech",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Multilingual apps with TTS (Google)",
+      "youtube": "https://www.youtube.com/@googlecloudtech",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

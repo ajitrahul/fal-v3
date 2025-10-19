@@ -1,0 +1,128 @@
+{
+  "id": "glean-note-taking",
+  "name": "Glean (Note-taking)",
+  "slug": "glean-note-taking",
+  "logo_url": "https://glean.co/favicon.ico",
+  "icon_url": "https://glean.co/favicon.ico",
+  "images": [
+    "https://glean.co/favicon.ico"
+  ],
+  "website_url": "https://glean.co",
+  "tagline": "Lecture capture and note-taking with transcripts for students.",
+  "summary": "Glean helps students capture lectures, generate transcripts, and make annotated notes for study and accessibility.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Recording",
+    "Transcription",
+    "Notes"
+  ],
+  "use_cases": [
+    "Education",
+    "Accessibility"
+  ],
+  "best_for": [
+    "Students & educators"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "AI transcription (platform)"
+  ],
+  "platforms": [
+    "Web",
+    "iOS/Android"
+  ],
+  "languages": [
+    "Selected locales"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Glean",
+    "hq_country": null,
+    "twitter": "https://twitter.com/glean_co",
+    "linkedin": "https://www.linkedin.com/company/glean/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://glean.co/pricing",
+    "docs": "https://help.glean.co",
+    "changelog": null,
+    "support": "https://help.glean.co"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://glean.co/favicon.ico",
+      "caption": "Glean (Note-taking) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

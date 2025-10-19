@@ -1,0 +1,18 @@
+{
+  "recurse": true,
+  "concurrency": 20,
+  "timeout": 20000,
+  "verbosity": "INFO",
+  "skip": [
+    "^(?!https?:\\/\\/(127\\.0\\.0\\.1|localhost)(:\\d+)?).*",
+    "mailto:",
+    "tel:",
+    "linkedin\\.com",
+    "facebook\\.com",
+    "instagram\\.com",
+    "twitter\\.com",
+    "x\\.com",
+    "t\\.me",
+    "whatsapp\\.com"
+  ]
+}

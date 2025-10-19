@@ -1,0 +1,146 @@
+{
+  "id": "baidu-ai-cloud-speech-to-text",
+  "name": "Baidu AI Cloud Speech-to-Text",
+  "slug": "baidu-ai-cloud-speech-to-text",
+  "logo_url": "https://cloud.baidu.com/product/speechasr/favicon.ico",
+  "icon_url": "https://cloud.baidu.com/product/speechasr/favicon.ico",
+  "images": [
+    "https://cloud.baidu.com/product/speechasr/favicon.ico"
+  ],
+  "website_url": "https://cloud.baidu.com/product/speechasr",
+  "tagline": "ASR services on Baidu AI Cloud with streaming & batch, popular in CN market.",
+  "summary": "Baidu AI Cloud offers automatic speech recognition for real-time and file-based audio with coverage for Mandarin and other languages. APIs support web and mobile clients, with options for custom phrase boosting and punctuation. Baidu provides SDKs, demos, and a developer console to manage keys and usage.\n\nCommon use cases include voice assistants, customer service bots, captions, and dictation for apps distributed in China.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Streaming/batch ASR",
+    "Punctuation",
+    "Phrase hints"
+  ],
+  "use_cases": [
+    "Assistants",
+    "Customer service",
+    "Captions"
+  ],
+  "best_for": [
+    "Developers targeting China"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Baidu ASR models"
+  ],
+  "platforms": [
+    "Baidu Cloud console",
+    "REST/SDKs",
+    "WebSocket"
+  ],
+  "languages": [
+    "Mandarin + others (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Baidu",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/baidu/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://cloud.baidu.com/doc/SPEECH/index.html",
+    "docs": "https://cloud.baidu.com/doc/SPEECH/index.html",
+    "changelog": null,
+    "support": "https://cloud.baidu.com/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:15:46Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://cloud.baidu.com/product/speechasr/favicon.ico",
+      "caption": "Baidu AI Cloud Speech-to-Text icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Baidu Cloud developer channel (official)",
+      "youtube": "https://www.youtube.com/@BaiduInc",
+      "provider": "YouTube"
+    },
+    {
+      "title": "ASR quickstart (community)",
+      "youtube": "https://www.youtube.com/watch?v=3Qw7k4g3CwU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Streaming demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=s6cYMR8Qm1o",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

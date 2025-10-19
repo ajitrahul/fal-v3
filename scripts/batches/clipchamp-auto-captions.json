@@ -1,0 +1,146 @@
+{
+  "id": "clipchamp-auto-captions",
+  "name": "Clipchamp Auto Captions",
+  "slug": "clipchamp-auto-captions",
+  "logo_url": "https://clipchamp.com/favicon.ico",
+  "icon_url": "https://clipchamp.com/favicon.ico",
+  "images": [
+    "https://clipchamp.com/favicon.ico"
+  ],
+  "website_url": "https://clipchamp.com",
+  "tagline": "Microsoft’s browser video editor with automatic captions.",
+  "summary": "Clipchamp is Microsoft’s browser video editor that offers automatic captions. Creators edit in a timeline, generate captions, correct, and export for social platforms or internal comms. It’s included in some Microsoft 365 plans and available free with tiered features.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Auto captions",
+    "Editing",
+    "Export"
+  ],
+  "use_cases": [
+    "Internal comms",
+    "Social/marketing",
+    "Tutorials"
+  ],
+  "best_for": [
+    "Creators & business users"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Clipchamp ASR (service‑managed)"
+  ],
+  "platforms": [
+    "Web app (Microsoft 365 integration)"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [
+    "SRT; MP4 export; brand kits"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Microsoft",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Clipchamp",
+    "linkedin": "https://www.linkedin.com/company/clipchamp/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://clipchamp.com/pricing/",
+    "docs": "https://support.microsoft.com/clipchamp",
+    "changelog": "https://clipchamp.com/en/blog/",
+    "support": "https://support.microsoft.com/clipchamp"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:22:55Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://clipchamp.com/favicon.ico",
+      "caption": "Clipchamp Auto Captions icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Clipchamp channel (official)",
+      "youtube": "https://www.youtube.com/@clipchamp",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Auto captions in Clipchamp (official)",
+      "youtube": "https://www.youtube.com/@clipchamp",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Editing & export tips (official)",
+      "youtube": "https://www.youtube.com/@clipchamp",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

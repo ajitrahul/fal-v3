@@ -1,0 +1,283 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://yourdomain.com/schemas/tools.schema.json",
+  "title": "AI Tools Directory - Tool",
+  "type": "object",
+  "required": ["id", "name", "slug", "website_url", "status", "updated_at"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "tagline": { "type": "string" },
+    "summary": { "type": "string" },
+    "website_url": { "type": "string", "format": "uri" },
+    "logo_url": { "type": "string", "format": "uri", "nullable": true },
+
+    "gallery": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["src"],
+        "additionalProperties": false,
+        "properties": {
+          "src": { "type": "string", "format": "uri" },
+          "caption": { "type": "string", "nullable": true }
+        }
+      },
+      "default": []
+    },
+
+    "categories": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "tasks": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "job_roles": { "type": "array", "items": { "type": "string" }, "default": [] },
+
+    "pricing": {
+      "type": "object",
+      "required": ["model", "plans"],
+      "additionalProperties": false,
+      "properties": {
+        "model": { "type": "string", "enum": ["free", "freemium", "paid", "open-source", "contact"] },
+        "plans": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "price"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "price": { "type": "string" },
+              "features": { "type": "array", "items": { "type": "string" }, "default": [] }
+            }
+          }
+        }
+      }
+    },
+
+    "features": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "platforms": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "models": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "integrations": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "languages": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "maturity": { "type": "string", "enum": ["new", "growing", "established"], "nullable": true },
+    "release_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "nullable": true },
+    "updated_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "status": { "type": "string", "enum": ["active", "deadpool", "sunset"] },
+    "compliance": { "type": "array", "items": { "type": "string" }, "default": [] },
+
+    "vendor": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string", "nullable": true },
+        "hq_country": { "type": "string", "nullable": true },
+        "contact_email": { "type": "string", "format": "email", "nullable": true },
+        "twitter": { "type": "string", "format": "uri", "nullable": true },
+        "linkedin": { "type": "string", "format": "uri", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "community": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "rating": { "type": "number", "minimum": 0, "maximum": 5, "nullable": true },
+        "votes": { "type": "integer", "minimum": 0, "nullable": true },
+        "reviews": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "author", "rating", "title", "body", "created_at"],
+            "additionalProperties": false,
+            "properties": {
+              "id": { "type": "string" },
+              "author": { "type": "string" },
+              "rating": { "type": "integer", "minimum": 1, "maximum": 5 },
+              "title": { "type": "string" },
+              "body": { "type": "string" },
+              "created_at": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+            }
+          },
+          "default": []
+        }
+      },
+      "default": {}
+    },
+
+    "seo": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "keywords": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "canonical_url": { "type": "string", "format": "uri", "nullable": true },
+        "schema_org": { "type": "array", "items": { "type": "string" }, "default": [] }
+      },
+      "default": {}
+    },
+
+    "flags": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "free": { "type": "boolean", "default": false },
+        "no_signup": { "type": "boolean", "default": false },
+        "open_source": { "type": "boolean", "default": false },
+        "mobile_app": { "type": "boolean", "default": false },
+        "api_available": { "type": "boolean", "default": false },
+        "on_device": { "type": "boolean", "default": false },
+        "privacy_first": { "type": "boolean", "default": false },
+        "educational": { "type": "boolean", "default": false },
+        "nsfw": { "type": "boolean", "default": false },
+        "verified": { "type": "boolean", "default": false }
+      },
+      "default": {}
+    },
+
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "docs": { "type": "string", "format": "uri", "nullable": true },
+        "changelog": { "type": "string", "format": "uri", "nullable": true },
+        "support": { "type": "string", "format": "uri", "nullable": true },
+        "pricing": { "type": "string", "format": "uri", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "affiliate": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "enabled": { "type": "boolean", "default": false },
+        "link": { "type": "string", "format": "uri", "nullable": true },
+        "partner_id": { "type": "string", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "moderation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "submitted_by": { "type": "string", "nullable": true },
+        "moderation_state": { "type": "string", "enum": ["pending", "approved", "rejected"], "nullable": true },
+        "notes": { "type": "string", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "best_for": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "use_cases": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "ideal_industries": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "support_channels": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "pricing_notes": { "type": "string", "nullable": true },
+
+    "pros_cons": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "pros": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "cons": { "type": "array", "items": { "type": "string" }, "default": [] }
+      },
+      "default": {}
+    },
+
+    "key_differentiators": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "limitations": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "setup_time": { "type": "string", "nullable": true },
+    "import_export": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "data_controls": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "governance": { "type": "array", "items": { "type": "string" }, "default": [] },
+
+    "case_studies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      },
+      "default": []
+    },
+
+    "migration_paths": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "alternatives_notes": { "type": "string", "nullable": true },
+    "roadmap_highlights": { "type": "array", "items": { "type": "string" }, "default": [] },
+
+    "technical": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "context_tokens": { "type": ["integer", "null"] },
+        "latency_ms": { "type": ["integer", "null"] },
+        "throughput_rps": { "type": ["integer", "null"] },
+        "sdk_languages": { "type": "array", "items": { "type": "string" }, "default": [] }
+      },
+      "default": {}
+    },
+
+    "benchmarks": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "latency_ms_p50": { "type": ["integer", "null"] },
+        "latency_ms_p95": { "type": ["integer", "null"] },
+        "note": { "type": "string", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "privacy": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "training_policy": { "type": "string", "nullable": true },
+        "data_retention": { "type": "string", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "security": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "certifications": { "type": "array", "items": { "type": "string" }, "default": [] },
+        "sso": { "type": "string", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "free_tier": { "type": "string", "nullable": true },
+        "rate_limits": { "type": "string", "nullable": true }
+      },
+      "default": {}
+    },
+
+    "uptime_slo": { "type": "string", "nullable": true },
+
+    "tutorials": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "provider": { "type": "string", "enum": ["youtube", "vimeo", "loom", "wistia", "other"], "default": "youtube" },
+          "language": { "type": "string", "nullable": true }
+        }
+      },
+      "default": []
+    }
+  }
+}

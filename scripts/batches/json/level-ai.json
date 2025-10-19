@@ -1,0 +1,128 @@
+{
+  "id": "level-ai",
+  "name": "Level AI",
+  "slug": "level-ai",
+  "logo_url": "https://thelevel.ai/favicon.ico",
+  "icon_url": "https://thelevel.ai/favicon.ico",
+  "images": [
+    "https://thelevel.ai/favicon.ico"
+  ],
+  "website_url": "https://thelevel.ai",
+  "tagline": "Conversation intelligence for QA and coaching using transcripts.",
+  "summary": "Level AI ingests or generates transcripts from customer calls to provide analytics, QA, and real-time guidance integrated with CCaaS and CRMs.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Media",
+    "Contact center"
+  ],
+  "best_for": [
+    "Builders & teams needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine or service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Level AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/thelevelai",
+    "linkedin": "https://www.linkedin.com/company/level-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://thelevel.ai",
+    "changelog": null,
+    "support": "https://thelevel.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:51:44Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://thelevel.ai/favicon.ico",
+      "caption": "Level AI icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

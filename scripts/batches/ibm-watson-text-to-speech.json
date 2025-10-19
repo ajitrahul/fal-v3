@@ -1,0 +1,168 @@
+{
+  "id": "ibm-watson-text-to-speech",
+  "name": "IBM Watson Text to Speech",
+  "slug": "ibm-watson-text-to-speech",
+  "logo_url": "https://www.ibm.com/cloud/watson-text-to-speech/favicon.ico",
+  "icon_url": "https://www.ibm.com/cloud/watson-text-to-speech/favicon.ico",
+  "images": [
+    "https://www.ibm.com/cloud/watson-text-to-speech/favicon.ico"
+  ],
+  "website_url": "https://www.ibm.com/cloud/watson-text-to-speech",
+  "tagline": "Neural voices and SSML via IBM Cloud.",
+  "summary": "IBM Watson Text to Speech converts text into natural‑sounding audio with neural voices, SSML support, and language coverage suitable for enterprise applications. Available through IBM Cloud, the service exposes REST/SDKs and supports common audio formats. Organizations pair TTS with other Watson services to build assistants, IVR, and e‑learning experiences. \n\nDevelopers select a voice and format, provide text/SSML, and retrieve synthesized audio; batch jobs and caching strategies support scale. IBM materials address governance and security expectations for enterprise rollouts and provide migration guidance from older services. Pricing is usage‑based with tiers for high‑volume workloads.\n\nWatson TTS is a fit for enterprises with existing IBM Cloud footprints or regulated requirements that benefit from IBM’s documentation and support.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Synthesis",
+    "SSML",
+    "Streaming"
+  ],
+  "use_cases": [
+    "Assistants",
+    "IVR",
+    "E‑learning",
+    "Accessibility"
+  ],
+  "best_for": [
+    "Enterprises on IBM Cloud"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Neural voices"
+  ],
+  "platforms": [
+    "IBM Cloud",
+    "SDKs",
+    "REST API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Watson Assistant",
+    "Watson STT"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Lite tier within limits",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Usage‑based",
+    "plans": [
+      {
+        "name": "Lite/Standard",
+        "price": null,
+        "billing": "usage"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "IBM enterprise posture",
+      "Neural voices",
+      "Docs/support"
+    ],
+    "cons": [
+      "Smaller voice catalog than consumer‑focused vendors"
+    ]
+  },
+  "key_differentiators": [
+    "Tight integration with Watson services"
+  ],
+  "limitations": [
+    "Requires IBM Cloud setup"
+  ],
+  "import_export": [
+    "MP3/WAV/OGG; websockets"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "IBM",
+    "hq_country": null,
+    "twitter": "https://twitter.com/IBMdeveloper",
+    "linkedin": "https://www.linkedin.com/showcase/ibm-developer/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.ibm.com/cloud/watson-text-to-speech/pricing",
+    "docs": "https://cloud.ibm.com/apidocs/text-to-speech",
+    "changelog": null,
+    "support": "https://www.ibm.com/mysupport/s/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.ibm.com/cloud/watson-text-to-speech/favicon.ico",
+      "caption": "IBM Watson Text to Speech icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Watson TTS quickstart (IBM)",
+      "youtube": "https://www.youtube.com/@IBMTechnology",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build with Watson TTS (IBM)",
+      "youtube": "https://www.youtube.com/@IBMTechnology",
+      "provider": "YouTube"
+    },
+    {
+      "title": "SSML with Watson (community)",
+      "youtube": "https://www.youtube.com/watch?v=3kIPxzftunU",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,151 @@
+{
+  "id": "ideogram",
+  "name": "Ideogram",
+  "slug": "ideogram",
+  "logo_url": "https://ideogram.ai/favicon.ico",
+  "icon_url": "https://ideogram.ai/favicon.ico",
+  "images": [
+    "https://ideogram.ai/favicon.ico"
+  ],
+  "website_url": "https://ideogram.ai/",
+  "tagline": "Text-to-image platform with strong text/typography rendering and canvas features.",
+  "summary": "Ideogram is a text‑to‑image platform known for high‑quality text rendering (logos, signage, typography) and creative composition features. The web app supports prompt‑based generation with style controls and includes tools to edit and arrange assets on a canvas for iterative design. The service provides a public gallery and official YouTube channel with product walkthroughs and feature highlights.\n\nCommon use cases include social graphics with stylized text, posters, logos, stickers, and branded visuals where crisp typography matters. The workflow is browser‑based: enter a prompt, preview variants, refine, and use the canvas to combine or adjust results. Ideogram offers a free tier with paid upgrades for higher limits or advanced features (see the site for details).\n\nIdeogram suits creators who need reliable text rendering within images and a web canvas for organizing outputs into shareable compositions.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Ideogram model family"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available; paid upgrades",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid plans",
+    "plans": [
+      {
+        "name": "Free/paid plans",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Industry‑leading text rendering",
+      "Simple web workflow",
+      "Canvas for edits"
+    ],
+    "cons": [
+      "Advanced capacity requires paid tiers"
+    ]
+  },
+  "key_differentiators": [
+    "Typography fidelity within generations",
+    "Canvas for organization/editing"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG downloads; share links"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Ideogram",
+    "hq_country": null,
+    "twitter": "https://twitter.com/ideogram_ai",
+    "linkedin": "https://www.linkedin.com/company/ideogram-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://ideogram.ai/",
+    "docs": "https://ideogram.ai/",
+    "changelog": null,
+    "support": "https://ideogram.ai/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://ideogram.ai/favicon.ico",
+      "caption": "Ideogram icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Ideogram Official Channel",
+      "youtube": "https://www.youtube.com/@Ideogram_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Canvas feature overview (official)",
+      "youtube": "https://www.youtube.com/@Ideogram_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Ideogram basics (community)",
+      "youtube": "https://www.youtube.com/watch?v=YK-RK0RyaAc",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

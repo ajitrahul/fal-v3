@@ -1,0 +1,128 @@
+{
+  "id": "speechocean-multilingual-data-asr",
+  "name": "SpeechOcean — Multilingual Data (ASR)",
+  "slug": "speechocean-multilingual-data-asr",
+  "logo_url": "https://en.speechocean.com/favicon.ico",
+  "icon_url": "https://en.speechocean.com/favicon.ico",
+  "images": [
+    "https://en.speechocean.com/favicon.ico"
+  ],
+  "website_url": "https://en.speechocean.com",
+  "tagline": "Global data provider for ASR training including Spanish/Portuguese.",
+  "summary": "SpeechOcean — Multilingual Data (ASR) serves Iberian & LATAM markets through ASR services, datasets, or broadcast captioning operations.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Datasets/ASR",
+    "Captions",
+    "Localization"
+  ],
+  "use_cases": [
+    "Media",
+    "Contact center",
+    "Model training"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "SpeechOcean",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/speechocean/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://en.speechocean.com",
+    "changelog": null,
+    "support": "https://en.speechocean.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:14:50Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://en.speechocean.com/favicon.ico",
+      "caption": "SpeechOcean — Multilingual Data (ASR) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

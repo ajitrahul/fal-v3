@@ -1,0 +1,130 @@
+{
+  "id": "ask-codi",
+  "name": "Ask Codi",
+  "slug": "ask-codi",
+  "logo_url": "https://www.askcodi.com/favicon.ico",
+  "icon_url": "https://www.askcodi.com/favicon.ico",
+  "images": [
+    "https://www.askcodi.com/favicon.ico"
+  ],
+  "website_url": "https://www.askcodi.com",
+  "tagline": "AI coding assistant for code, SQL, and docs.",
+  "summary": "Ask Codi is an AI coding assistant that helps generate code, SQL queries, documentation, and tests from natural‑language prompts. The product offers a web interface and editor extensions where developers select a language or framework, provide a description, and receive code that can be refined via follow‑ups. Ask Codi highlights breadth of language support and templates that structure prompts for common tasks—CRUD endpoints, utility functions, or docstrings—so users can move quickly from idea to implementation.\n\nGetting started involves creating an account on the website or installing supported IDE plugins. Tutorials demonstrate generating code snippets, optimizing queries, and scaffolding documentation sections directly from code. The platform targets both individual developers and teams who want a prompt‑driven workflow that complements their existing editor setup.\n\nAsk Codi suits teams that want a general‑purpose assistant across code, SQL, and documentation without adopting a new IDE; it serves as a prompt helper and generator that integrates into common development flows.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Code Generation"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "Web",
+    "IDE extensions (see site)"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "AskCodi",
+    "hq_country": null,
+    "twitter": "https://twitter.com/askcodi",
+    "linkedin": "https://www.linkedin.com/company/askcodi/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.askcodi.com",
+    "docs": "https://www.askcodi.com",
+    "changelog": null,
+    "support": "https://www.askcodi.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.askcodi.com/favicon.ico",
+      "caption": "Ask Codi icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Ask Codi overview (official)",
+      "youtube": "https://www.youtube.com/@askcodi",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Ask Codi demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=4E5tSg_7G_g",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Ask Codi coding examples (community)",
+      "youtube": "https://www.youtube.com/watch?v=4fW9C2q3n5w",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

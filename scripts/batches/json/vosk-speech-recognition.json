@@ -1,0 +1,156 @@
+{
+  "id": "vosk-speech-recognition",
+  "name": "Vosk Speech Recognition",
+  "slug": "vosk-speech-recognition",
+  "logo_url": "https://alphacephei.com/vosk/favicon.ico",
+  "icon_url": "https://alphacephei.com/vosk/favicon.ico",
+  "images": [
+    "https://alphacephei.com/vosk/favicon.ico"
+  ],
+  "website_url": "https://alphacephei.com/vosk/",
+  "tagline": "Offline open‑source ASR toolkit with 20+ languages; lightweight for edge.",
+  "summary": "Vosk is an open‑source, offline speech recognition toolkit for mobile, desktop, and embedded devices. It supports 20+ languages and offers bindings for Python, Java, C#, Node.js, and Swift. Models range from small mobile footprints to large server variants. Developers can run recognition locally without sending audio to external services, enabling private transcription and low‑latency edge use cases.\n\nVosk is used for kiosks, on‑device assistants, and apps that require offline operation. Community models cover many locales, and the project provides example code and pre‑built binaries for major platforms.\n\nVosk is a good choice for open‑source, offline deployments with modest hardware.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Offline ASR",
+    "Word timestamps (selected models)"
+  ],
+  "use_cases": [
+    "Kiosks",
+    "Edge devices",
+    "Offline apps"
+  ],
+  "best_for": [
+    "Developers needing offline, lightweight ASR"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Vosk community models (20+ languages)"
+  ],
+  "platforms": [
+    "Local (bindings for Python/Java/C#/Node/Swift)"
+  ],
+  "languages": [
+    "20+ (see models page)"
+  ],
+  "integrations": [
+    "Bindings & examples"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Open‑source",
+    "plans": [
+      {
+        "name": "Apache 2.0 / CC‑BY (model‑dependent)",
+        "price": "$0 (self‑host)",
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Models & docs",
+      "url": "https://alphacephei.com/vosk/models"
+    }
+  ],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Alpha Cephei",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/alphacep/vosk-api",
+    "changelog": null,
+    "support": "https://github.com/alphacep/vosk-api/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:05:47Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://alphacephei.com/vosk/favicon.ico",
+      "caption": "Vosk Speech Recognition icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Install & use Vosk (community)",
+      "youtube": "https://www.youtube.com/watch?v=B-0lOrknw6w",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Vosk Python tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=3Mga7_8bYpw",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Real‑time STT with Vosk (community)",
+      "youtube": "https://www.youtube.com/watch?v=SqVeAxrPAB0",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

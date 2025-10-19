@@ -1,0 +1,129 @@
+{
+  "id": "callrail-conversation-intelligence",
+  "name": "CallRail Conversation Intelligence",
+  "slug": "callrail-conversation-intelligence",
+  "logo_url": "https://www.callrail.com/features/conversation-intelligence/favicon.ico",
+  "icon_url": "https://www.callrail.com/features/conversation-intelligence/favicon.ico",
+  "images": [
+    "https://www.callrail.com/features/conversation-intelligence/favicon.ico"
+  ],
+  "website_url": "https://www.callrail.com/features/conversation-intelligence/",
+  "tagline": "Transcribe calls for keyword spotting and agent insights.",
+  "summary": "CallRail Conversation Intelligence transcribes calls and extracts keywords and insights for small and mid‑sized businesses. It ties conversations to campaigns and provides searchable records.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Keyword spotting",
+    "Analytics"
+  ],
+  "use_cases": [
+    "SMB marketing",
+    "Lead qualification",
+    "QA"
+  ],
+  "best_for": [
+    "SMBs & agencies"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Automated transcription + keyword models"
+  ],
+  "platforms": [
+    "Web app",
+    "APIs/Integrations"
+  ],
+  "languages": [
+    "Selected locales (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "CallRail",
+    "hq_country": null,
+    "twitter": "https://twitter.com/CallRail",
+    "linkedin": "https://www.linkedin.com/company/callrail/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.callrail.com/pricing/",
+    "docs": "https://support.callrail.com",
+    "changelog": null,
+    "support": "https://support.callrail.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.callrail.com/features/conversation-intelligence/favicon.ico",
+      "caption": "CallRail Conversation Intelligence icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

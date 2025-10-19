@@ -1,0 +1,5005 @@
+[
+  {
+    "id": "c3babc0b-5fa3-4a5e-9d39-bfd75e29ed23",
+    "name": "Jasper",
+    "slug": "jasper",
+    "website_url": "https://www.jasper.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.jasper.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.jasper.ai/",
+        "caption": "Jasper"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Campaign copy",
+      "Blogs",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "$39/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$69/mo"
+        }
+      ]
+    },
+    "features": [
+      "Brand voice",
+      "Templates",
+      "Campaigns"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Jasper",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Jasper Tutorial",
+        "url": "https://www.youtube.com/watch?v=K8K5zS8O9iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Brand Voice",
+        "url": "https://www.youtube.com/watch?v=1h7E4b6yK9w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Campaigns",
+        "url": "https://www.youtube.com/watch?v=2o6p1fHk0i4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Jasper"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/jasper",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "98a07da0-6bad-48dc-85c7-1043e98fb8ec",
+    "name": "Copy.ai",
+    "slug": "copy-ai",
+    "website_url": "https://www.copy.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.copy.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.copy.ai/",
+        "caption": "Copy.ai"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Sales emails",
+      "Blogging",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Advanced",
+          "price": "$49/mo"
+        }
+      ]
+    },
+    "features": [
+      "Workflows",
+      "Brand voice"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Copy.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Copy.ai Tutorial",
+        "url": "https://www.youtube.com/watch?v=YwQIPmWjzFQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automations",
+        "url": "https://www.youtube.com/watch?v=7yVq2m3aBso",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Email Writing",
+        "url": "https://www.youtube.com/watch?v=F5M0b8T2cEM",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Copy.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/copy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "f7c806a6-1272-450a-a237-0dd91cbc0243",
+    "name": "Lavender",
+    "slug": "lavender",
+    "website_url": "https://www.lavender.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.lavender.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.lavender.ai/",
+        "caption": "Lavender"
+      }
+    ],
+    "categories": [
+      "Sales"
+    ],
+    "tasks": [
+      "Email coach",
+      "Personalization"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$29/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Scoring",
+      "Real-time tips"
+    ],
+    "platforms": [
+      "Browser",
+      "Gmail"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Lavender",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Lavender Tutorial",
+        "url": "https://www.youtube.com/watch?v=4pO4UQ_5-2w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Write Better Emails",
+        "url": "https://www.youtube.com/watch?v=8YbIu1iu1RM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Personalization",
+        "url": "https://www.youtube.com/watch?v=z4P1W8c7S8E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Lavender"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/lavender",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "e08be8ae-aa9c-4058-ac7e-78cbbb38be34",
+    "name": "Seventh Sense",
+    "slug": "seventh-sense",
+    "website_url": "https://www.theseventhsense.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.theseventhsense.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.theseventhsense.com/",
+        "caption": "Seventh Sense"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Email"
+    ],
+    "tasks": [
+      "Send-time AI",
+      "Engagement"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "HubSpot add-on",
+          "price": "$64/mo"
+        }
+      ]
+    },
+    "features": [
+      "Send-time optimization"
+    ],
+    "platforms": [
+      "HubSpot"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Seventh Sense",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Seventh Sense Tutorial",
+        "url": "https://www.youtube.com/watch?v=E9v7bJ6cJ3E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Send Time AI",
+        "url": "https://www.youtube.com/watch?v=VbKqZpLh8iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "HubSpot Use",
+        "url": "https://www.youtube.com/watch?v=0b9i-8Z1s8s",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Seventh Sense"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/seventh-sense",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "ebfcb885-b386-485d-96e3-6b121261eace",
+    "name": "Persado",
+    "slug": "persado",
+    "website_url": "https://www.persado.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.persado.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.persado.com/",
+        "caption": "Persado"
+      }
+    ],
+    "categories": [
+      "Marketing"
+    ],
+    "tasks": [
+      "Message AI",
+      "Subject lines"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Language AI",
+      "Testing"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Persado",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Persado Overview",
+        "url": "https://www.youtube.com/watch?v=XqC6g9Z3y5Q",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Message Optimization",
+        "url": "https://www.youtube.com/watch?v=2Xw4H3S7bO0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Case Studies",
+        "url": "https://www.youtube.com/watch?v=6m3oXHj9Gm0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Persado"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/persado",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "d8718b87-56d6-418d-b1fc-c19923fed5a5",
+    "name": "Notion AI",
+    "slug": "notion-ai",
+    "website_url": "https://www.notion.so/product/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.notion.so",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.notion.so/product/ai",
+        "caption": "Notion AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Writing",
+      "Summarize",
+      "Tasks"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Notion AI add-on",
+          "price": "$10/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Docs + AI",
+      "Databases"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Notion",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Notion AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=6Lx4A5y1o-k",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Summaries",
+        "url": "https://www.youtube.com/watch?v=p2y7n3QmM9o",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Workflows",
+        "url": "https://www.youtube.com/watch?v=arw8e7s7xH4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Notion AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/notion-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "3b79c56a-9daa-4844-bd1d-c14cb2679601",
+    "name": "Mem",
+    "slug": "mem",
+    "website_url": "https://get.mem.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=get.mem.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://get.mem.ai/",
+        "caption": "Mem"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Notes",
+      "Autotag",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$15/mo"
+        }
+      ]
+    },
+    "features": [
+      "Auto organization",
+      "Recall"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Mem Labs",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Mem Tutorial",
+        "url": "https://www.youtube.com/watch?v=0-7sJzBv1qg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Recall Feature",
+        "url": "https://www.youtube.com/watch?v=7A4l3vGg6H0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Productivity Tips",
+        "url": "https://www.youtube.com/watch?v=5nS2elwS6R0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Mem"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/mem",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "892d20d3-ce33-4388-896f-70b45f83d194",
+    "name": "Otter.ai",
+    "slug": "otter",
+    "website_url": "https://otter.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=otter.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://otter.ai/",
+        "caption": "Otter"
+      }
+    ],
+    "categories": [
+      "Meetings",
+      "Audio"
+    ],
+    "tasks": [
+      "Transcribe",
+      "Summarize"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$16.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Live notes",
+      "Summaries"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Otter.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Otter Tutorial",
+        "url": "https://www.youtube.com/watch?v=1pQ2fkgWJis",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Meeting Notes",
+        "url": "https://www.youtube.com/watch?v=8l6fHG8oG0I",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Teams",
+        "url": "https://www.youtube.com/watch?v=n3dE8kzYQ64",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Otter.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/otter",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "5caf75e8-207d-40bf-a259-30e48f435499",
+    "name": "Fathom",
+    "slug": "fathom",
+    "website_url": "https://fathom.video/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=fathom.video",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://fathom.video/",
+        "caption": "Fathom"
+      }
+    ],
+    "categories": [
+      "Meetings"
+    ],
+    "tasks": [
+      "Record",
+      "Summarize",
+      "CRM notes"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Team",
+          "price": "$19/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Meeting AI",
+      "CRM sync"
+    ],
+    "platforms": [
+      "Web",
+      "Zoom",
+      "GMeet"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Fathom",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Fathom Tutorial",
+        "url": "https://www.youtube.com/watch?v=J2m4kM0z7V4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "CRM Sync",
+        "url": "https://www.youtube.com/watch?v=H_Ze0Y2p2mE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Highlights",
+        "url": "https://www.youtube.com/watch?v=9-7XlLhQ8Nw",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Fathom"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/fathom",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "022c8eb7-825b-412f-8bd2-9529cd097751",
+    "name": "Jasper #10",
+    "slug": "jasper-10",
+    "website_url": "https://www.jasper.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.jasper.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.jasper.ai/",
+        "caption": "Jasper"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Campaign copy",
+      "Blogs",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "$39/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$69/mo"
+        }
+      ]
+    },
+    "features": [
+      "Brand voice",
+      "Templates",
+      "Campaigns"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Jasper",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Jasper Tutorial",
+        "url": "https://www.youtube.com/watch?v=K8K5zS8O9iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Brand Voice",
+        "url": "https://www.youtube.com/watch?v=1h7E4b6yK9w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Campaigns",
+        "url": "https://www.youtube.com/watch?v=2o6p1fHk0i4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Jasper"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/jasper",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "9fcb93de-5de3-4c07-8eb9-dfc542f9e109",
+    "name": "Copy.ai #11",
+    "slug": "copy-ai-11",
+    "website_url": "https://www.copy.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.copy.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.copy.ai/",
+        "caption": "Copy.ai"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Sales emails",
+      "Blogging",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Advanced",
+          "price": "$49/mo"
+        }
+      ]
+    },
+    "features": [
+      "Workflows",
+      "Brand voice"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Copy.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Copy.ai Tutorial",
+        "url": "https://www.youtube.com/watch?v=YwQIPmWjzFQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automations",
+        "url": "https://www.youtube.com/watch?v=7yVq2m3aBso",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Email Writing",
+        "url": "https://www.youtube.com/watch?v=F5M0b8T2cEM",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Copy.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/copy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "c3ad14db-6e6b-4b9f-a9f8-cecf7e7befeb",
+    "name": "Lavender #12",
+    "slug": "lavender-12",
+    "website_url": "https://www.lavender.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.lavender.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.lavender.ai/",
+        "caption": "Lavender"
+      }
+    ],
+    "categories": [
+      "Sales"
+    ],
+    "tasks": [
+      "Email coach",
+      "Personalization"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$29/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Scoring",
+      "Real-time tips"
+    ],
+    "platforms": [
+      "Browser",
+      "Gmail"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Lavender",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Lavender Tutorial",
+        "url": "https://www.youtube.com/watch?v=4pO4UQ_5-2w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Write Better Emails",
+        "url": "https://www.youtube.com/watch?v=8YbIu1iu1RM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Personalization",
+        "url": "https://www.youtube.com/watch?v=z4P1W8c7S8E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Lavender"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/lavender",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "02a52646-210c-4d35-9ba5-117ac5b67dc8",
+    "name": "Seventh Sense #13",
+    "slug": "seventh-sense-13",
+    "website_url": "https://www.theseventhsense.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.theseventhsense.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.theseventhsense.com/",
+        "caption": "Seventh Sense"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Email"
+    ],
+    "tasks": [
+      "Send-time AI",
+      "Engagement"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "HubSpot add-on",
+          "price": "$64/mo"
+        }
+      ]
+    },
+    "features": [
+      "Send-time optimization"
+    ],
+    "platforms": [
+      "HubSpot"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Seventh Sense",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Seventh Sense Tutorial",
+        "url": "https://www.youtube.com/watch?v=E9v7bJ6cJ3E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Send Time AI",
+        "url": "https://www.youtube.com/watch?v=VbKqZpLh8iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "HubSpot Use",
+        "url": "https://www.youtube.com/watch?v=0b9i-8Z1s8s",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Seventh Sense"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/seventh-sense",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "a711cbaa-c23f-465d-8926-d10d8121b365",
+    "name": "Persado #14",
+    "slug": "persado-14",
+    "website_url": "https://www.persado.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.persado.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.persado.com/",
+        "caption": "Persado"
+      }
+    ],
+    "categories": [
+      "Marketing"
+    ],
+    "tasks": [
+      "Message AI",
+      "Subject lines"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Language AI",
+      "Testing"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Persado",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Persado Overview",
+        "url": "https://www.youtube.com/watch?v=XqC6g9Z3y5Q",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Message Optimization",
+        "url": "https://www.youtube.com/watch?v=2Xw4H3S7bO0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Case Studies",
+        "url": "https://www.youtube.com/watch?v=6m3oXHj9Gm0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Persado"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/persado",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "869331a2-ae14-45f6-b90a-c8f04ba3d828",
+    "name": "Notion AI #15",
+    "slug": "notion-ai-15",
+    "website_url": "https://www.notion.so/product/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.notion.so",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.notion.so/product/ai",
+        "caption": "Notion AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Writing",
+      "Summarize",
+      "Tasks"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Notion AI add-on",
+          "price": "$10/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Docs + AI",
+      "Databases"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Notion",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Notion AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=6Lx4A5y1o-k",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Summaries",
+        "url": "https://www.youtube.com/watch?v=p2y7n3QmM9o",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Workflows",
+        "url": "https://www.youtube.com/watch?v=arw8e7s7xH4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Notion AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/notion-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "36d3334f-88d4-4d2d-a9b6-3a151fb56229",
+    "name": "Mem #16",
+    "slug": "mem-16",
+    "website_url": "https://get.mem.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=get.mem.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://get.mem.ai/",
+        "caption": "Mem"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Notes",
+      "Autotag",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$15/mo"
+        }
+      ]
+    },
+    "features": [
+      "Auto organization",
+      "Recall"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Mem Labs",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Mem Tutorial",
+        "url": "https://www.youtube.com/watch?v=0-7sJzBv1qg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Recall Feature",
+        "url": "https://www.youtube.com/watch?v=7A4l3vGg6H0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Productivity Tips",
+        "url": "https://www.youtube.com/watch?v=5nS2elwS6R0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Mem"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/mem",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "0ff8fa3b-ed2e-44db-9eaa-c88f21427d99",
+    "name": "Otter.ai #17",
+    "slug": "otter-17",
+    "website_url": "https://otter.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=otter.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://otter.ai/",
+        "caption": "Otter"
+      }
+    ],
+    "categories": [
+      "Meetings",
+      "Audio"
+    ],
+    "tasks": [
+      "Transcribe",
+      "Summarize"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$16.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Live notes",
+      "Summaries"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Otter.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Otter Tutorial",
+        "url": "https://www.youtube.com/watch?v=1pQ2fkgWJis",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Meeting Notes",
+        "url": "https://www.youtube.com/watch?v=8l6fHG8oG0I",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Teams",
+        "url": "https://www.youtube.com/watch?v=n3dE8kzYQ64",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Otter.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/otter",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "28079482-67f1-4cd0-bfc0-4a30cbb09ff7",
+    "name": "Fathom #18",
+    "slug": "fathom-18",
+    "website_url": "https://fathom.video/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=fathom.video",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://fathom.video/",
+        "caption": "Fathom"
+      }
+    ],
+    "categories": [
+      "Meetings"
+    ],
+    "tasks": [
+      "Record",
+      "Summarize",
+      "CRM notes"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Team",
+          "price": "$19/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Meeting AI",
+      "CRM sync"
+    ],
+    "platforms": [
+      "Web",
+      "Zoom",
+      "GMeet"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Fathom",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Fathom Tutorial",
+        "url": "https://www.youtube.com/watch?v=J2m4kM0z7V4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "CRM Sync",
+        "url": "https://www.youtube.com/watch?v=H_Ze0Y2p2mE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Highlights",
+        "url": "https://www.youtube.com/watch?v=9-7XlLhQ8Nw",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Fathom"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/fathom",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "9d4a18cf-60bf-4dff-a822-7e7c51563e42",
+    "name": "Jasper #19",
+    "slug": "jasper-19",
+    "website_url": "https://www.jasper.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.jasper.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.jasper.ai/",
+        "caption": "Jasper"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Campaign copy",
+      "Blogs",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "$39/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$69/mo"
+        }
+      ]
+    },
+    "features": [
+      "Brand voice",
+      "Templates",
+      "Campaigns"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Jasper",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Jasper Tutorial",
+        "url": "https://www.youtube.com/watch?v=K8K5zS8O9iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Brand Voice",
+        "url": "https://www.youtube.com/watch?v=1h7E4b6yK9w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Campaigns",
+        "url": "https://www.youtube.com/watch?v=2o6p1fHk0i4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Jasper"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/jasper",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "fc3dc725-0b3a-43cd-816b-bfaf4a01fa47",
+    "name": "Copy.ai #20",
+    "slug": "copy-ai-20",
+    "website_url": "https://www.copy.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.copy.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.copy.ai/",
+        "caption": "Copy.ai"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Sales emails",
+      "Blogging",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Advanced",
+          "price": "$49/mo"
+        }
+      ]
+    },
+    "features": [
+      "Workflows",
+      "Brand voice"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Copy.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Copy.ai Tutorial",
+        "url": "https://www.youtube.com/watch?v=YwQIPmWjzFQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automations",
+        "url": "https://www.youtube.com/watch?v=7yVq2m3aBso",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Email Writing",
+        "url": "https://www.youtube.com/watch?v=F5M0b8T2cEM",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Copy.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/copy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "6bdf7dc5-dff0-4179-864b-83540dde35fa",
+    "name": "Lavender #21",
+    "slug": "lavender-21",
+    "website_url": "https://www.lavender.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.lavender.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.lavender.ai/",
+        "caption": "Lavender"
+      }
+    ],
+    "categories": [
+      "Sales"
+    ],
+    "tasks": [
+      "Email coach",
+      "Personalization"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$29/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Scoring",
+      "Real-time tips"
+    ],
+    "platforms": [
+      "Browser",
+      "Gmail"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Lavender",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Lavender Tutorial",
+        "url": "https://www.youtube.com/watch?v=4pO4UQ_5-2w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Write Better Emails",
+        "url": "https://www.youtube.com/watch?v=8YbIu1iu1RM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Personalization",
+        "url": "https://www.youtube.com/watch?v=z4P1W8c7S8E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Lavender"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/lavender",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "00f7bd0d-16f9-4e62-a27d-ff57ca1b8369",
+    "name": "Seventh Sense #22",
+    "slug": "seventh-sense-22",
+    "website_url": "https://www.theseventhsense.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.theseventhsense.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.theseventhsense.com/",
+        "caption": "Seventh Sense"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Email"
+    ],
+    "tasks": [
+      "Send-time AI",
+      "Engagement"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "HubSpot add-on",
+          "price": "$64/mo"
+        }
+      ]
+    },
+    "features": [
+      "Send-time optimization"
+    ],
+    "platforms": [
+      "HubSpot"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Seventh Sense",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Seventh Sense Tutorial",
+        "url": "https://www.youtube.com/watch?v=E9v7bJ6cJ3E",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Send Time AI",
+        "url": "https://www.youtube.com/watch?v=VbKqZpLh8iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "HubSpot Use",
+        "url": "https://www.youtube.com/watch?v=0b9i-8Z1s8s",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Seventh Sense"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/seventh-sense",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "c0f89c64-fd4a-46ae-b236-e9ba64554fcf",
+    "name": "Persado #23",
+    "slug": "persado-23",
+    "website_url": "https://www.persado.com/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.persado.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.persado.com/",
+        "caption": "Persado"
+      }
+    ],
+    "categories": [
+      "Marketing"
+    ],
+    "tasks": [
+      "Message AI",
+      "Subject lines"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "Contact"
+        }
+      ]
+    },
+    "features": [
+      "Language AI",
+      "Testing"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Persado",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Persado Overview",
+        "url": "https://www.youtube.com/watch?v=XqC6g9Z3y5Q",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Message Optimization",
+        "url": "https://www.youtube.com/watch?v=2Xw4H3S7bO0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Case Studies",
+        "url": "https://www.youtube.com/watch?v=6m3oXHj9Gm0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Persado"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/persado",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "b702dc9c-5bd1-4b5f-9878-67ad10a704da",
+    "name": "Notion AI #24",
+    "slug": "notion-ai-24",
+    "website_url": "https://www.notion.so/product/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.notion.so",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.notion.so/product/ai",
+        "caption": "Notion AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Writing",
+      "Summarize",
+      "Tasks"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Notion AI add-on",
+          "price": "$10/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Docs + AI",
+      "Databases"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Notion",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Notion AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=6Lx4A5y1o-k",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Summaries",
+        "url": "https://www.youtube.com/watch?v=p2y7n3QmM9o",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Workflows",
+        "url": "https://www.youtube.com/watch?v=arw8e7s7xH4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Notion AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/notion-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "030d8222-559a-4b6f-ad93-ffe7793c32b0",
+    "name": "Mem #25",
+    "slug": "mem-25",
+    "website_url": "https://get.mem.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=get.mem.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://get.mem.ai/",
+        "caption": "Mem"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "Notes",
+      "Autotag",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$15/mo"
+        }
+      ]
+    },
+    "features": [
+      "Auto organization",
+      "Recall"
+    ],
+    "platforms": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Mem Labs",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Mem Tutorial",
+        "url": "https://www.youtube.com/watch?v=0-7sJzBv1qg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Recall Feature",
+        "url": "https://www.youtube.com/watch?v=7A4l3vGg6H0",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Productivity Tips",
+        "url": "https://www.youtube.com/watch?v=5nS2elwS6R0",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Mem"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/mem",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "d8ea0914-d4cd-463a-8880-a8113a526e99",
+    "name": "Otter.ai #26",
+    "slug": "otter-26",
+    "website_url": "https://otter.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=otter.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://otter.ai/",
+        "caption": "Otter"
+      }
+    ],
+    "categories": [
+      "Meetings",
+      "Audio"
+    ],
+    "tasks": [
+      "Transcribe",
+      "Summarize"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Pro",
+          "price": "$16.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Live notes",
+      "Summaries"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Otter.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Otter Tutorial",
+        "url": "https://www.youtube.com/watch?v=1pQ2fkgWJis",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Meeting Notes",
+        "url": "https://www.youtube.com/watch?v=8l6fHG8oG0I",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Teams",
+        "url": "https://www.youtube.com/watch?v=n3dE8kzYQ64",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Otter.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/otter",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "78c3b04b-ffb2-4726-a91f-209be33b9195",
+    "name": "Fathom #27",
+    "slug": "fathom-27",
+    "website_url": "https://fathom.video/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=fathom.video",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://fathom.video/",
+        "caption": "Fathom"
+      }
+    ],
+    "categories": [
+      "Meetings"
+    ],
+    "tasks": [
+      "Record",
+      "Summarize",
+      "CRM notes"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Team",
+          "price": "$19/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Meeting AI",
+      "CRM sync"
+    ],
+    "platforms": [
+      "Web",
+      "Zoom",
+      "GMeet"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Fathom",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Fathom Tutorial",
+        "url": "https://www.youtube.com/watch?v=J2m4kM0z7V4",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "CRM Sync",
+        "url": "https://www.youtube.com/watch?v=H_Ze0Y2p2mE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Highlights",
+        "url": "https://www.youtube.com/watch?v=9-7XlLhQ8Nw",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Fathom"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/fathom",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "f67af58e-26d3-4bba-b775-cde49ae954c5",
+    "name": "Jasper #28",
+    "slug": "jasper-28",
+    "website_url": "https://www.jasper.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.jasper.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.jasper.ai/",
+        "caption": "Jasper"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Campaign copy",
+      "Blogs",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "$39/mo"
+        },
+        {
+          "name": "Pro",
+          "price": "$69/mo"
+        }
+      ]
+    },
+    "features": [
+      "Brand voice",
+      "Templates",
+      "Campaigns"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Jasper",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Jasper Tutorial",
+        "url": "https://www.youtube.com/watch?v=K8K5zS8O9iE",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Brand Voice",
+        "url": "https://www.youtube.com/watch?v=1h7E4b6yK9w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Campaigns",
+        "url": "https://www.youtube.com/watch?v=2o6p1fHk0i4",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Jasper"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/jasper",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "648f60cf-d369-4998-bb29-d6220edecd29",
+    "name": "Copy.ai #29",
+    "slug": "copy-ai-29",
+    "website_url": "https://www.copy.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.copy.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.copy.ai/",
+        "caption": "Copy.ai"
+      }
+    ],
+    "categories": [
+      "Marketing",
+      "Writing"
+    ],
+    "tasks": [
+      "Sales emails",
+      "Blogging",
+      "Ads"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Advanced",
+          "price": "$49/mo"
+        }
+      ]
+    },
+    "features": [
+      "Workflows",
+      "Brand voice"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Copy.ai",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Copy.ai Tutorial",
+        "url": "https://www.youtube.com/watch?v=YwQIPmWjzFQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automations",
+        "url": "https://www.youtube.com/watch?v=7yVq2m3aBso",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Email Writing",
+        "url": "https://www.youtube.com/watch?v=F5M0b8T2cEM",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Copy.ai"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/copy-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "194c52fc-69d9-499d-8384-cc26c33494f0",
+    "name": "Lavender #30",
+    "slug": "lavender-30",
+    "website_url": "https://www.lavender.ai/",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.lavender.ai",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.lavender.ai/",
+        "caption": "Lavender"
+      }
+    ],
+    "categories": [
+      "Sales"
+    ],
+    "tasks": [
+      "Email coach",
+      "Personalization"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Pro",
+          "price": "$29/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "Scoring",
+      "Real-time tips"
+    ],
+    "platforms": [
+      "Browser",
+      "Gmail"
+    ],
+    "models": [
+      "Proprietary"
+    ],
+    "vendor": {
+      "name": "Lavender",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Lavender Tutorial",
+        "url": "https://www.youtube.com/watch?v=4pO4UQ_5-2w",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Write Better Emails",
+        "url": "https://www.youtube.com/watch?v=8YbIu1iu1RM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Personalization",
+        "url": "https://www.youtube.com/watch?v=z4P1W8c7S8E",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Lavender"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/lavender",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  }
+]

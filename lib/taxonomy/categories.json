@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "slug": "orchestration",
+      "name": "Orchestration",
+      "aliases": ["workflow orchestration", "workflow engine", "pipelines", "pipelines/orchestration"]
+    },
+    {
+      "slug": "automation",
+      "name": "Automation",
+      "aliases": ["automations", "automation tools", "automation platform"]
+    },
+    {
+      "slug": "rpa-and-agents",
+      "name": "RPA & Agents",
+      "aliases": ["rpa", "agents", "robotic process automation", "rpa/agents", "(rpa & agents)"]
+    },
+    {
+      "slug": "speech-to-text",
+      "name": "Speech to Text",
+      "aliases": ["speech recognition", "stt", "asr", "voice to text"]
+    },
+    {
+      "slug": "transcription",
+      "name": "Transcription",
+      "aliases": ["audio transcription", "meeting transcription"]
+    }
+  ],
+  "stopwords": ["ai", "tool", "tools", "app", "apps", "platform"],
+  "joiners": ["&"],
+  "separators": ["/", "|", "•"]
+}

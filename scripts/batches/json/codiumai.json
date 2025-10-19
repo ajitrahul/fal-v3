@@ -1,0 +1,130 @@
+{
+  "id": "codiumai",
+  "name": "CodiumAI",
+  "slug": "codiumai",
+  "logo_url": "https://www.codium.ai/favicon.ico",
+  "icon_url": "https://www.codium.ai/favicon.ico",
+  "images": [
+    "https://www.codium.ai/favicon.ico"
+  ],
+  "website_url": "https://www.codium.ai",
+  "tagline": "AI for test generation and code integrity.",
+  "summary": "CodiumAI builds tools that assist developers in writing tests and maintaining code integrity. Its offerings include test generation driven by prompts and code context, suggestions for edge cases, and explanations that help developers understand complex functions before authoring tests. The website highlights integrations with popular IDEs and workflows that bring assisted testing into the normal development loop.\n\nDevelopers typically add CodiumAI to their IDE, select a function or file, and request tests that cover expected and edge behaviors. Tutorials show how to iterate on generated tests, request parameterized variants, and integrate with CI to run generated suites. Teams use CodiumAI to increase coverage on critical code paths and to bootstrap tests when onboarding new engineers to a codebase.\n\nCodiumAI fits organizations that prioritize test quality and want AI to accelerate coverage without imposing a new editor. It complements code generation assistants by focusing specifically on unit tests and robustness.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Testing",
+    "Code Generation"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "IDE plugins"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "CodiumAI Ltd.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/codiumai",
+    "linkedin": "https://www.linkedin.com/company/codiumai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.codium.ai/pricing",
+    "docs": "https://www.codium.ai",
+    "changelog": null,
+    "support": "https://www.codium.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.codium.ai/favicon.ico",
+      "caption": "CodiumAI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "CodiumAI overview (official)",
+      "youtube": "https://www.youtube.com/@codiumai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Unit tests with CodiumAI (official)",
+      "youtube": "https://www.youtube.com/watch?v=j3bA6_J4YyI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "CodiumAI demo (official)",
+      "youtube": "https://www.youtube.com/watch?v=0wFfZ8Vf0xw",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,146 @@
+{
+  "id": "houndify-soundhound",
+  "name": "Houndify (SoundHound)",
+  "slug": "houndify-soundhound",
+  "logo_url": "https://www.houndify.com/favicon.ico",
+  "icon_url": "https://www.houndify.com/favicon.ico",
+  "images": [
+    "https://www.houndify.com/favicon.ico"
+  ],
+  "website_url": "https://www.houndify.com",
+  "tagline": "Voice AI platform with speech recognition and NLU for custom assistants.",
+  "summary": "Houndify is a voice AI platform from SoundHound that combines automatic speech recognition with natural language understanding for building custom assistants. It offers streaming speech recognition, domain knowledge graphs, and wake‑word options. Developers integrate via SDKs and cloud APIs to build voice interfaces for devices and apps.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Streaming ASR",
+    "NLU/intents",
+    "Wake word"
+  ],
+  "use_cases": [
+    "In‑car assistants",
+    "IoT devices",
+    "Apps"
+  ],
+  "best_for": [
+    "Device makers & app developers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Houndify ASR + NLU"
+  ],
+  "platforms": [
+    "SDKs",
+    "Cloud APIs",
+    "Embedded options"
+  ],
+  "languages": [
+    "Selected (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "SoundHound AI, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/SoundHoundAI",
+    "linkedin": "https://www.linkedin.com/company/soundhound/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.houndify.com/pricing",
+    "docs": "https://docs.houndify.com",
+    "changelog": null,
+    "support": "https://support.soundhound.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.houndify.com/favicon.ico",
+      "caption": "Houndify (SoundHound) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Houndify channel (official)",
+      "youtube": "https://www.youtube.com/@SoundHoundAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build with Houndify (official)",
+      "youtube": "https://www.youtube.com/@SoundHoundAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Wake word & intents (official)",
+      "youtube": "https://www.youtube.com/@SoundHoundAI",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

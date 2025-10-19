@@ -1,0 +1,128 @@
+{
+  "id": "mobius-md-ehr-dictation",
+  "name": "Mobius MD — EHR dictation",
+  "slug": "mobius-md-ehr-dictation",
+  "logo_url": "https://www.mobius.md/favicon.ico",
+  "icon_url": "https://www.mobius.md/favicon.ico",
+  "images": [
+    "https://www.mobius.md/favicon.ico"
+  ],
+  "website_url": "https://www.mobius.md",
+  "tagline": "Mobile dictation into the EHR with voice commands.",
+  "summary": "Mobius MD — EHR dictation provides dictation features tuned for clinical or professional documentation.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Dictation",
+    "Commands",
+    "Integration"
+  ],
+  "use_cases": [
+    "Clinical notes",
+    "Templates",
+    "EHR workflows"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Mobius MD",
+    "hq_country": null,
+    "twitter": "https://twitter.com/mobiusmd",
+    "linkedin": "https://www.linkedin.com/company/mobius-md/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.mobius.md",
+    "changelog": null,
+    "support": "https://www.mobius.md"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:08:41Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.mobius.md/favicon.ico",
+      "caption": "Mobius MD — EHR dictation icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

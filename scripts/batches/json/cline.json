@@ -1,0 +1,130 @@
+{
+  "id": "cline",
+  "name": "Cline",
+  "slug": "cline",
+  "logo_url": "https://cline.bot/favicon.ico",
+  "icon_url": "https://cline.bot/favicon.ico",
+  "images": [
+    "https://cline.bot/favicon.ico"
+  ],
+  "website_url": "https://cline.bot",
+  "tagline": "Open‑source VS Code agent that plans and edits your code.",
+  "summary": "Cline is an open‑source software development agent that runs inside Visual Studio Code. It plans multi‑step changes, edits files, runs commands, and iterates until tasks are complete, with your supervision. Cline aims to bring agentic workflows to everyday development by leveraging VS Code’s terminal and file system and presenting a clear plan before making edits. The extension is open‑source and documented with installation steps, model provider configuration, and examples of task prompts.\n\nDevelopers install the extension from the VS Code Marketplace, configure a model provider, and prompt Cline to implement features or refactors. The agent proposes a plan, shows diffs, and can execute terminal commands (e.g., run tests, start dev servers) as part of the loop. Community tutorials show end‑to‑end examples, from small fixes to adding complex components. Because it is open‑source, teams can audit behavior and extend Cline to fit their policies.\n\nCline suits engineers who want an agentic assistant embedded in VS Code with transparent plans and diffs, and organizations that prefer open‑source tooling they can customize.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Open Source",
+    "Agents"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "VS Code"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Cline (open‑source)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/cline_bot",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://cline.bot",
+    "changelog": "https://github.com/cline/cline",
+    "support": "https://github.com/cline/cline/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://cline.bot/favicon.ico",
+      "caption": "Cline icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Cline official channel",
+      "youtube": "https://www.youtube.com/@clinebot",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Cline demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=3hWgA8wE6bs",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build with Cline (community)",
+      "youtube": "https://www.youtube.com/watch?v=ZcG0aG86tBw",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

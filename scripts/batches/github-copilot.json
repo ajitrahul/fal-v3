@@ -1,0 +1,279 @@
+{
+  "id": "github-copilot",
+  "name": "GitHub Copilot",
+  "slug": "github-copilot",
+  "logo_url": "https://github.githubassets.com/favicons/favicon.png",
+  "icon_url": "https://github.githubassets.com/favicons/favicon.png",
+  "images": [],
+  "website_url": "https://github.com/copilot",
+  "tagline": "AI pair programmer and coding agent across IDEs and GitHub.com",
+  "summary": "GitHub Copilot is GitHub’s AI coding assistant that surfaces code suggestions, test generation, inline explanations, and repository-aware chat directly in the IDE and on GitHub.com. It is available in three principal tracks—individual (Copilot Free, Pro, and Pro+), organizational (Copilot Business), and enterprise-wide (Copilot Enterprise)—with governance capabilities that matter in regulated, multi-team environments. Copilot integrates natively with Visual Studio Code, Visual Studio, JetBrains IDEs, and GitHub’s web UI, and augments the pull request and issue workflows with features like PR summaries, test authoring, and issue drafting. \n\n\nFor organizations, Copilot adds admin guardrails, including content exclusion so you can centrally declare files or paths that Copilot must not read for context, as well as auditability to review changes to exclusion policies. Spend governance is built-in via request allowances and premium request monitoring so admins can track and cap higher-cost requests. Copilot’s security posture benefits from GitHub’s platform controls and SSO/SAML integration when used under Business or Enterprise. \n\n\nTeams standardize adoption through GitHub’s published playbooks and measurement guides, which outline how to pilot Copilot in controlled cohorts and quantify productivity impact over time. Customer stories document outcomes at scale—for example, large enterprises reporting improved developer satisfaction and faster delivery after centralizing development on GitHub and enabling Copilot. Enterprises can upgrade organizations from Copilot Business to Enterprise using documented steps, and manage plan changes—upgrades, downgrades, or billing cycle changes—at the organization or enterprise level. \n\n\nCopilot’s differentiators include its deep embedding in GitHub flows (pull requests, Issues, CLI), enterprise-grade policy controls, and continual investment in the “coding agent” that can tackle scoped development tasks from Issues. Copilot is best for engineering teams that already use GitHub and want AI assistance that is repository-aware, policy-governed, and measurable, with an adoption path that scales from individual developers to fully governed enterprises.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI Pair Programmer",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "IDE Plugins",
+    "Agentic Coding"
+  ],
+  "tasks": [
+    "Code completion",
+    "Chat with repo",
+    "Generate tests",
+    "Explain code",
+    "Refactor code",
+    "PR summaries",
+    "Issue drafting",
+    "Terminal/CLI assistance"
+  ],
+  "use_cases": [
+    "Speed up feature work",
+    "Reduce boilerplate",
+    "Improve test coverage",
+    "Onboard to new repos",
+    "Document generation"
+  ],
+  "best_for": [
+    "Engineering teams on GitHub",
+    "Startups scaling delivery",
+    "Enterprises with policy needs"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Financial services",
+    "Automotive",
+    "Telecom",
+    "Government",
+    "Healthcare"
+  ],
+  "roles": [
+    "Developers",
+    "Tech Leads",
+    "QA/SET",
+    "DevOps",
+    "SRE"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "Data Engineer",
+    "SRE",
+    "Platform Engineer",
+    "QA Engineer"
+  ],
+  "models": [
+    "GitHub Copilot (various modes)",
+    "Copilot coding agent"
+  ],
+  "platforms": [
+    "VS Code",
+    "Visual Studio",
+    "JetBrains IDEs",
+    "Neovim (community)",
+    "GitHub.com"
+  ],
+  "languages": [
+    "Multiple programming languages (JS/TS, Python, Java, C#, Go, etc.)"
+  ],
+  "integrations": [
+    "GitHub.com",
+    "GitHub CLI",
+    "GitHub Actions",
+    "SSO/SAML (Business/Enterprise)"
+  ],
+  "compliance": [
+    "SOC 2 (via GitHub platform)",
+    "SSO/SAML (Business/Enterprise)"
+  ],
+  "data_controls": [
+    "Content Exclusion (org/enterprise scope)",
+    "Org instructions/policies",
+    "Spend controls and premium request monitoring"
+  ],
+  "governance": [
+    "Org and enterprise policy management",
+    "Audit of content-exclusion changes",
+    "Per-seat licensing with allowances"
+  ],
+  "security": {
+    "certifications": [
+      "SOC 2 (platform)"
+    ],
+    "sso": "SAML SSO for Business/Enterprise"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": [
+      "JavaScript/TypeScript (CLI/REST)",
+      "REST APIs",
+      "GraphQL (platform)"
+    ]
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": "See GitHub Copilot privacy and content policies",
+    "data_retention": "Admin-configurable via enterprise billing & policies"
+  },
+  "limits": {
+    "free_tier": "Copilot Free includes limited monthly usage; upgrade path documented in GitHub docs.",
+    "rate_limits": "Premium request allowances & monitoring available (Business/Enterprise)"
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Per-seat subscription; premium request metering",
+    "plans": [
+      {
+        "name": "Copilot Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Copilot Pro",
+        "price": "$10/month or $100/year",
+        "billing": "monthly/yearly"
+      },
+      {
+        "name": "Copilot Pro+",
+        "price": "$39/month or $390/year",
+        "billing": "monthly/yearly"
+      },
+      {
+        "name": "Copilot Business",
+        "price": "per-seat",
+        "billing": "monthly/yearly"
+      },
+      {
+        "name": "Copilot Enterprise",
+        "price": "per-seat",
+        "billing": "annual contracts"
+      }
+    ]
+  },
+  "pricing_notes": "Official documentation lists plan options and per-seat pricing for individuals and enterprises; upgrade flows between plans are documented.",
+  "pros_cons": {
+    "pros": [
+      "Deep GitHub integration across PRs, Issues, CLI, and web",
+      "Enterprise policy controls: content exclusion, spending, audit",
+      "Strong adoption resources and measurement guides"
+    ],
+    "cons": [
+      "Feature set varies by plan; premium requests metered",
+      "Best experience tied to GitHub ecosystem",
+      "Context window specifics not publicly fixed across modes"
+    ]
+  },
+  "key_differentiators": [
+    "Native to GitHub workflows (PR/Issues/CLI)",
+    "Org/enterprise policy & audit for content exclusion",
+    "Evolving coding agent that executes scoped tasks from Issues"
+  ],
+  "limitations": [
+    "Plan-based feature access; org controls require Business/Enterprise"
+  ],
+  "import_export": [
+    "Works within IDEs and GitHub—no generic import/export artifacts"
+  ],
+  "setup_time": "Minutes for individuals; days/weeks for enterprise rollout",
+  "case_studies": [
+    {
+      "title": "Carlsberg unifies development on GitHub Enterprise and accelerates innovation with Copilot",
+      "url": "https://github.com/customer-stories/carlsberg-group"
+    },
+    {
+      "title": "Accenture: 12,000 developers using GitHub Copilot",
+      "url": "https://github.com/customer-stories/accenture"
+    },
+    {
+      "title": "Emirates NBD delivers cutting-edge digital banking with GitHub Copilot",
+      "url": "https://github.com/customer-stories/emirates-nbd"
+    }
+  ],
+  "migration_paths": [
+    "Upgrade from Copilot Free → Pro or Pro+ via account settings (per individual docs)",
+    "Upgrade organization from Copilot Business → Copilot Enterprise at the enterprise level; downgrades supported (docs)",
+    "Manage license changes and billing cycle switches with proration rules documented by GitHub"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with other code assistants; strongest for GitHub-centric teams",
+  "vendor": {
+    "name": "GitHub, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://x.com/github",
+    "linkedin": "https://www.linkedin.com/company/github/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://docs.github.com/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot",
+    "docs": "https://docs.github.com/copilot",
+    "changelog": "https://github.blog/changelog/label/github-copilot/",
+    "support": "https://support.github.com/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:38:55Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Enterprise rollout playbook is clear",
+        "author": "Customer story highlights",
+        "rating": 5,
+        "created_at": "2025-10-11T23:38:55Z",
+        "body": "GitHub’s customer stories and adoption guides make it straightforward to pilot and scale Copilot with measurable impact."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://github.githubassets.com/images/modules/logos_page/Octocat.png",
+      "caption": "GitHub brand mascot (Octocat)"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Getting started with GitHub Copilot (official)",
+      "youtube": "https://www.youtube.com/watch?v=n0NlxUyA7FI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "What’s new with the Copilot coding agent | GitHub Checkout",
+      "youtube": "https://www.youtube.com/watch?v=t4ERV6aHCPM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "GitHub Copilot playlist (official)",
+      "youtube": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": [
+    {
+      "q": "Can organizations exclude sensitive code from Copilot context?",
+      "a": "Yes—organization and enterprise admins can configure content exclusion and audit policy changes.",
+      "source": "https://docs.github.com/en/copilot/how-tos/configure-content-exclusion",
+      "updated_at": "2025-10-11T23:38:55Z"
+    },
+    {
+      "q": "How do I upgrade to Copilot Enterprise?",
+      "a": "Enterprises can upgrade organizations from Copilot Business to Copilot Enterprise following the documented steps.",
+      "source": "https://docs.github.com/en/enterprise-cloud%40latest/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-plan/upgrade-plan",
+      "updated_at": "2025-10-11T23:38:55Z"
+    }
+  ]
+}

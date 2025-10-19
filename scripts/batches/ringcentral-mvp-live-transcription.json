@@ -1,0 +1,129 @@
+{
+  "id": "ringcentral-mvp-live-transcription",
+  "name": "RingCentral MVP — Live Transcription",
+  "slug": "ringcentral-mvp-live-transcription",
+  "logo_url": "https://www.ringcentral.com/favicon.ico",
+  "icon_url": "https://www.ringcentral.com/favicon.ico",
+  "images": [
+    "https://www.ringcentral.com/favicon.ico"
+  ],
+  "website_url": "https://www.ringcentral.com",
+  "tagline": "Cloud phone & meetings with live transcription.",
+  "summary": "RingCentral MVP — Live Transcription offers meeting transcription and AI-generated insights to streamline follow-ups and knowledge sharing. Integrations with calendars, conferencing, and CRMs vary by product.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Summaries",
+    "Highlights"
+  ],
+  "use_cases": [
+    "Team meetings",
+    "Sales calls",
+    "Hiring"
+  ],
+  "best_for": [
+    "Teams & orgs on the platform"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Managed ASR + summarization"
+  ],
+  "platforms": [
+    "Web/desktop/mobile",
+    "Integrations"
+  ],
+  "languages": [
+    "Varies by product"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "RingCentral",
+    "hq_country": null,
+    "twitter": "https://twitter.com/ringcentral",
+    "linkedin": "https://www.linkedin.com/company/ringcentral/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.ringcentral.com/pricing",
+    "docs": "https://www.ringcentral.com",
+    "changelog": null,
+    "support": "https://www.ringcentral.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:48:16Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.ringcentral.com/favicon.ico",
+      "caption": "RingCentral MVP — Live Transcription icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

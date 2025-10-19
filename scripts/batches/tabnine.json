@@ -1,0 +1,224 @@
+{
+  "id": "tabnine",
+  "name": "Tabnine",
+  "slug": "tabnine",
+  "logo_url": "https://www.tabnine.com/favicon.ico",
+  "icon_url": "https://www.tabnine.com/favicon.ico",
+  "images": [],
+  "website_url": "https://www.tabnine.com/",
+  "tagline": "Private, controllable AI coding platform (cloud, on‑prem, air‑gapped)",
+  "summary": "Tabnine is an AI coding platform focused on privacy, controllability, and enterprise deployment flexibility. In addition to SaaS, Tabnine supports private installations in a customer‑controlled VPC, fully on‑premises, and even completely air‑gapped environments with no external connectivity—targeting industries with strict security and compliance needs. The company positions “license‑safe” models and a Protected line trained on permissively licensed code. On the developer side, Tabnine provides inline completions, chat for code explanations and transformations, test generation, and repository‑aware context via an Enterprise Context Engine that integrates with code hosts and documentation.\n\nCustomer and partner write‑ups highlight productivity improvements and measurable ROI; examples include CI&T reporting 11% faster development and Google Cloud detailing how Tabnine uses its infrastructure to serve millions of developers. Documentation outlines deployment options and clarifies that free/pro users use the secure SaaS, while enterprise customers can choose private VPC, on‑prem, or air‑gapped. Tabnine’s blogs and guides discuss governance, privacy, and practical measurement frameworks (before/after comparisons, survey‑based attribution) for evaluating coding assistants at scale.\n\nTabnine is best for security‑sensitive organizations (finance, defense, public sector) that require on‑prem or air‑gapped options without sacrificing developer experience. Migration paths typically start with Free/Pro trials in SaaS, followed by Enterprise pilots and, if needed, private deployment with SSO and repository integrations.",
+  "main_category": "Code Assistant",
+  "subcategory": "Enterprise AI Coding Platform",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "Security"
+  ],
+  "tasks": [
+    "Inline completion",
+    "Chat for code",
+    "Test generation",
+    "Explain/refactor code",
+    "Repo‑aware context"
+  ],
+  "use_cases": [
+    "Secure, private coding assistant",
+    "On‑prem/air‑gapped development",
+    "Regulated industries"
+  ],
+  "best_for": [
+    "Enterprises with strict security & compliance",
+    "Defense/public sector",
+    "Financial services"
+  ],
+  "ideal_industries": [
+    "Defense",
+    "Public Sector",
+    "Financial services",
+    "Healthcare"
+  ],
+  "roles": [
+    "Developers",
+    "Security Engineering",
+    "Platform Engineering"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "AppSec Engineer",
+    "Platform Engineer"
+  ],
+  "models": [
+    "Tabnine models incl. Protected line"
+  ],
+  "platforms": [
+    "VS Code",
+    "JetBrains",
+    "Others via plugins"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "GitHub/GitLab/Bitbucket",
+    "SSO",
+    "VPC/on‑prem connectors"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Zero data retention options",
+    "Private installation (VPC/on‑prem/air‑gapped)"
+  ],
+  "governance": [
+    "Enterprise policy controls",
+    "Context Engine config"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "Enterprise SSO"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": "License‑safe models (Protected)",
+    "data_retention": "Zero‑retention options documented"
+  },
+  "limits": {
+    "free_tier": "Free plan available",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Free, Pro, and Enterprise",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Pro",
+        "price": "See site",
+        "billing": "monthly/yearly"
+      },
+      {
+        "name": "Enterprise",
+        "price": "Contact sales",
+        "billing": "contract"
+      }
+    ]
+  },
+  "pricing_notes": "See pricing page for latest features and seat pricing.",
+  "pros_cons": {
+    "pros": [
+      "On‑prem & air‑gapped deployments",
+      "License‑safe Protected models",
+      "Enterprise governance"
+    ],
+    "cons": [
+      "Some features gated to Enterprise",
+      "SaaS vs on‑prem feature parity can vary"
+    ]
+  },
+  "key_differentiators": [
+    "Air‑gapped option",
+    "Protected models",
+    "Enterprise Context Engine"
+  ],
+  "limitations": [
+    "Private deployment requires Enterprise tier"
+  ],
+  "import_export": [
+    "IDE/project files; enterprise connectors"
+  ],
+  "setup_time": "Minutes (SaaS) to weeks (air‑gapped)",
+  "case_studies": [
+    {
+      "title": "CI&T productivity with Tabnine",
+      "url": "https://www.tabnine.com/blog/how-cit-accelerated-development-by-11-with-ai-from-tabnine-and-google-cloud/"
+    },
+    {
+      "title": "Tabnine on Google Cloud (customer story)",
+      "url": "https://cloud.google.com/customers/tabnine"
+    }
+  ],
+  "migration_paths": [
+    "Start in Free/Pro (SaaS) → pilot Enterprise",
+    "Choose deployment: Secure SaaS, VPC, on‑prem, or fully air‑gapped (docs)",
+    "Enable SSO and connect repos; configure Context Engine"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Compares with Copilot, Codeium/Windsurf, Cody, Amazon Q Developer",
+  "vendor": {
+    "name": "Tabnine Ltd.",
+    "hq_country": "Israel/USA",
+    "twitter": "https://x.com/tabnine",
+    "linkedin": "https://www.linkedin.com/company/tabnine/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.tabnine.com/pricing/",
+    "docs": "https://docs.tabnine.com/",
+    "changelog": "https://www.tabnine.com/blog/",
+    "support": "https://www.tabnine.com/contact/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:46:57Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": [
+      {
+        "id": "r1",
+        "title": "Air‑gapped deployments",
+        "author": "Enterprise users (blogs)",
+        "rating": 5,
+        "created_at": "2025-10-11T23:46:57Z",
+        "body": "Docs and blogs describe fully air‑gapped installs for the most sensitive environments."
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "https://www.tabnine.com/favicon.ico",
+      "caption": "Tabnine mark"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Tabnine official channel",
+      "youtube": "https://www.youtube.com/%40TabnineAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Use cases & features overview (official)",
+      "youtube": "https://www.youtube.com/c/Codota-Tabnine/videos",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Code faster with Tabnine (official)",
+      "youtube": "https://www.youtube.com/watch?v=3l4_cX9CImY",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": "kore-ai-transcription-in-cx-suite",
+  "name": "Kore.ai (Transcription in CX suite)",
+  "slug": "kore-ai-transcription-in-cx-suite",
+  "logo_url": "https://kore.ai/favicon.ico",
+  "icon_url": "https://kore.ai/favicon.ico",
+  "images": [
+    "https://kore.ai/favicon.ico"
+  ],
+  "website_url": "https://kore.ai",
+  "tagline": "Conversational AI platform with transcription-powered analytics.",
+  "summary": "Kore.ai’s CX and agent assist products use transcription to analyze voice interactions, provide real-time assistance, and generate post-call insights. Integrations connect to contact center stacks.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Assist",
+    "Analytics"
+  ],
+  "use_cases": [
+    "Agent assist",
+    "QA/compliance",
+    "Self-service"
+  ],
+  "best_for": [
+    "Enterprises modernizing CX"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + NLU (platform)"
+  ],
+  "platforms": [
+    "Web apps",
+    "APIs/Integrations"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Kore.ai",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Kore_ai",
+    "linkedin": "https://www.linkedin.com/company/kore-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://kore.ai/pricing/",
+    "docs": "https://docs.kore.ai",
+    "changelog": null,
+    "support": "https://support.kore.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://kore.ai/favicon.ico",
+      "caption": "Kore.ai (Transcription in CX suite) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,132 @@
+{
+  "id": "refact-ai",
+  "name": "Refact AI",
+  "slug": "refact-ai",
+  "logo_url": "https://refact.ai/favicon.ico",
+  "icon_url": "https://refact.ai/favicon.ico",
+  "images": [
+    "https://refact.ai/favicon.ico"
+  ],
+  "website_url": "https://refact.ai",
+  "tagline": "Self‑hosted/local code assistant by SmallcloudAI.",
+  "summary": "Refact is a self‑hosted and local code assistant from SmallcloudAI designed for teams that require full control over code and data. It provides code completion and chat with repository context and can be deployed to run models locally or on customer‑managed infrastructure. The project emphasizes privacy and the ability to operate without sending code to third‑party clouds. Documentation and the GitHub repository describe installation steps, supported models, and editor integrations.\n\nTypical usage involves installing the Refact extension in the IDE and configuring it to talk to a local or self‑hosted backend. Teams can choose open models and tune settings for latency and cost while keeping code within their network. For organizations with strict policies, Refact provides a path to AI‑assisted development without adopting a SaaS coding assistant.\n\nRefact is best for privacy‑sensitive environments that prefer local inference or self‑hosting. Its open‑source components and docs make it possible to audit behavior and extend the system to fit internal compliance requirements.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Open Source",
+    "Code Generation"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "VS Code",
+    "JetBrains",
+    "Self‑hosted server"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "SmallcloudAI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/smallcloudai",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://refact.ai",
+    "changelog": "https://github.com/smallcloudai/refact",
+    "support": "https://github.com/smallcloudai/refact/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://refact.ai/favicon.ico",
+      "caption": "Refact AI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Refact overview (community)",
+      "youtube": "https://www.youtube.com/watch?v=gM8vIY3I8tM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Refact self‑hosting (community)",
+      "youtube": "https://www.youtube.com/watch?v=s8M6KX2A1zA",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Refact demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=6vZEDKsn2wU",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

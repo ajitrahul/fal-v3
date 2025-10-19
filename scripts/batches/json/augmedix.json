@@ -1,0 +1,129 @@
+{
+  "id": "augmedix",
+  "name": "Augmedix",
+  "slug": "augmedix",
+  "logo_url": "https://www.augmedix.com/favicon.ico",
+  "icon_url": "https://www.augmedix.com/favicon.ico",
+  "images": [
+    "https://www.augmedix.com/favicon.ico"
+  ],
+  "website_url": "https://www.augmedix.com",
+  "tagline": "Ambient medical documentation with remote specialists and AI.",
+  "summary": "Augmedix focuses on speech-driven clinical documentation. It supports domain terminology and integrates with EHR workflows. Outputs are clinician-reviewed to ensure accuracy and compliance.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Dictation",
+    "Ambient scribe",
+    "Templates"
+  ],
+  "use_cases": [
+    "Progress notes",
+    "Histories",
+    "Orders & letters"
+  ],
+  "best_for": [
+    "Health systems, clinics, clinicians"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Medical dictation / ambient scribe"
+  ],
+  "platforms": [
+    "EHR-integrated apps",
+    "Desktop/mobile (varies)"
+  ],
+  "languages": [
+    "Primarily English; others vary by product"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Augmedix",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Augmedix",
+    "linkedin": "https://www.linkedin.com/company/augmedix/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.augmedix.com",
+    "changelog": null,
+    "support": "https://www.augmedix.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:48:16Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.augmedix.com/favicon.ico",
+      "caption": "Augmedix icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

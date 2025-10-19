@@ -1,0 +1,128 @@
+{
+  "id": "reaper-via-scripts-plugins",
+  "name": "REAPER (via scripts/plugins)",
+  "slug": "reaper-via-scripts-plugins",
+  "logo_url": "https://www.reaper.fm/favicon.ico",
+  "icon_url": "https://www.reaper.fm/favicon.ico",
+  "images": [
+    "https://www.reaper.fm/favicon.ico"
+  ],
+  "website_url": "https://www.reaper.fm",
+  "tagline": "DAW where users integrate ASR via scripts and extensions.",
+  "summary": "REAPER (via scripts/plugins) relies on ASR to power text‑based editing or alignment features within professional audio/video tools.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Alignment",
+    "Text‑based editing",
+    "Subtitles"
+  ],
+  "use_cases": [
+    "Broadcast",
+    "Journalism",
+    "Post‑production"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Cockos",
+    "hq_country": null,
+    "twitter": "https://twitter.com/reaperofficial",
+    "linkedin": "https://www.linkedin.com/company/cockos-inc-/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.reaper.fm",
+    "changelog": null,
+    "support": "https://www.reaper.fm"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:08:41Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.reaper.fm/favicon.ico",
+      "caption": "REAPER (via scripts/plugins) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

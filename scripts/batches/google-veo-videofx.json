@@ -1,0 +1,153 @@
+{
+  "id": "google-veo-videofx",
+  "name": "Google Veo (VideoFX)",
+  "slug": "google-veo-videofx",
+  "logo_url": "https://labs.google/fx/tools/video/favicon.ico",
+  "icon_url": "https://labs.google/fx/tools/video/favicon.ico",
+  "images": [
+    "https://labs.google/fx/tools/video/favicon.ico"
+  ],
+  "website_url": "https://labs.google/fx/tools/video",
+  "tagline": "Google’s Veo model available via VideoFX in Labs.",
+  "summary": "Veo is Google’s state‑of‑the‑art video generation model, accessible to select users through the VideoFX tool in Google Labs. Demos highlight high‑quality motion, physics, and coherence across longer clips than early‑generation systems. VideoFX provides a browser interface to prompt scenes, set duration and aspect, and iterate with follow‑up instructions. Google’s announcements describe Veo’s integration roadmap across the Google ecosystem and guardrails for safe and responsible media generation.\n\nAs availability expands, creators can use VideoFX for concept reels, educational content, and marketing assets. The Labs interface is designed for fast prompt iteration and previewing, with export for finishing in standard editors. Enterprise integration details (e.g., Vertex AI access) continue to evolve in public materials; teams should track the official blog and documentation for wider rollout information.\n\nVeo via VideoFX is a compelling option for those in Google’s ecosystem who want early access to next‑gen T2V capabilities grounded in Google’s research and safety standards.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video",
+    "Image‑to‑video (per demos)"
+  ],
+  "use_cases": [
+    "Concept videos",
+    "Education",
+    "Marketing"
+  ],
+  "best_for": [
+    "Creators on Google ecosystem",
+    "Early adopters"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Google Veo"
+  ],
+  "platforms": [
+    "Web (VideoFX, Labs)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "High‑quality motion in demos",
+      "Simple web UI"
+    ],
+    "cons": [
+      "Limited access; evolving productization"
+    ]
+  },
+  "key_differentiators": [
+    "Google research lineage",
+    "VideoFX Labs availability"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 exports via UI"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Google",
+    "hq_country": null,
+    "twitter": "https://twitter.com/google",
+    "linkedin": "https://www.linkedin.com/company/google/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://deepmind.google/technologies/veo/",
+    "changelog": null,
+    "support": "https://support.google.com/labs"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://labs.google/fx/tools/video/favicon.ico",
+      "caption": "Google Veo (VideoFX) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Veo intro (Google)",
+      "youtube": "https://www.youtube.com/@Google",
+      "provider": "YouTube"
+    },
+    {
+      "title": "VideoFX walkthrough (Google Labs)",
+      "youtube": "https://www.youtube.com/@Google",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Veo breakdowns (community)",
+      "youtube": "https://www.youtube.com/watch?v=9a1Y1mJ2nIE",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

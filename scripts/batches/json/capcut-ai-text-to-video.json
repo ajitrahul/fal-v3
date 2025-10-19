@@ -1,0 +1,168 @@
+{
+  "id": "capcut-ai-text-to-video",
+  "name": "CapCut AI Text to Video",
+  "slug": "capcut-ai-text-to-video",
+  "logo_url": "https://www.capcut.com/ai-text-to-video/favicon.ico",
+  "icon_url": "https://www.capcut.com/ai-text-to-video/favicon.ico",
+  "images": [
+    "https://www.capcut.com/ai-text-to-video/favicon.ico"
+  ],
+  "website_url": "https://www.capcut.com/ai-text-to-video",
+  "tagline": "CapCut’s AI generator integrated with its editor.",
+  "summary": "CapCut integrates AI text‑to‑video within its popular editor, letting users prompt a concept and receive a baseline video that can be edited using CapCut’s full suite—templates, transitions, effects, and audio tools. The generator targets social formats (vertical/wide) and pairs well with CapCut’s large template library. Because it runs in the same environment as the editor, creators can generate, cut, caption, and publish without switching tools.\n\nThe workflow starts with a prompt and format selection, then moves into the standard timeline. Users can overlay text/graphics, replace clips, adjust pacing, and export directly to platforms. CapCut’s learning center and official YouTube channels provide how‑tos for AI features, captioning, and template customization. Free usage is available with subscriptions for premium assets and advanced features.\n\nCapCut’s text‑to‑video is best for creators who already rely on CapCut for editing and distribution, enabling faster turnarounds for social and marketing content.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Generate base video",
+    "Edit in timeline",
+    "Caption/graphics"
+  ],
+  "use_cases": [
+    "Social content",
+    "Ads",
+    "Tutorials"
+  ],
+  "best_for": [
+    "Creators",
+    "Marketers",
+    "Educators"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "CapCut service‑managed"
+  ],
+  "platforms": [
+    "Web",
+    "Desktop",
+    "Mobile"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free usage; premium assets by subscription",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + subscriptions",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Pro",
+        "price": "see site",
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "End‑to‑end in one app",
+      "Large template library"
+    ],
+    "cons": [
+      "Creative control bounded by generator/template design"
+    ]
+  },
+  "key_differentiators": [
+    "Generator + full NLE in one",
+    "Direct social export"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 export; project files within CapCut"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Bytedance (CapCut)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/CapCutOfficial",
+    "linkedin": "https://www.linkedin.com/company/capcut/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.capcut.com/pricing",
+    "docs": "https://www.capcut.com/ai-text-to-video",
+    "changelog": null,
+    "support": "https://support.capcut.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.capcut.com/ai-text-to-video/favicon.ico",
+      "caption": "CapCut AI Text to Video icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "CapCut official channel",
+      "youtube": "https://www.youtube.com/@CapCutEN",
+      "provider": "YouTube"
+    },
+    {
+      "title": "AI text to video in CapCut (official)",
+      "youtube": "https://www.youtube.com/watch?v=1V9Z2xv9pWw",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Make TikTok videos with CapCut AI (official)",
+      "youtube": "https://www.youtube.com/watch?v=4WcEo0QK3xg",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

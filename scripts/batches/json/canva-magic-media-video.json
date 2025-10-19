@@ -1,0 +1,168 @@
+{
+  "id": "canva-magic-media-video",
+  "name": "Canva Magic Media (Video)",
+  "slug": "canva-magic-media-video",
+  "logo_url": "https://www.canva.com/magic/favicon.ico",
+  "icon_url": "https://www.canva.com/magic/favicon.ico",
+  "images": [
+    "https://www.canva.com/magic/favicon.ico"
+  ],
+  "website_url": "https://www.canva.com/magic/",
+  "tagline": "Canva’s text‑to‑video and editing features inside the Canva editor.",
+  "summary": "Canva’s Magic Media suite includes text‑to‑video generation alongside image tools, all embedded in the Canva editor. Users start with a prompt, select style and duration, and receive a clip inside a ready‑to‑edit design where they can add titles, transitions, stickers, and brand assets. The draw is speed: many non‑designers can go from prompt to a templated, on‑brand asset in minutes.\n\nTutorials and help center articles explain how to locate Magic Media in the editor, configure brand kits, and combine generated footage with stock and uploaded media. A free tier provides limited usage, while Pro/Teams expand limits and asset libraries. Because the tool sits in Canva, exports for social, presentations, and ads are straightforward.\n\nMagic Media video is best for small teams and educators who want a simple, template‑driven path to animated content without learning a full NLE.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video",
+    "Template editing",
+    "Brand kit application"
+  ],
+  "use_cases": [
+    "Social posts",
+    "Lesson intros",
+    "Promo videos"
+  ],
+  "best_for": [
+    "Marketers",
+    "Teachers",
+    "Small businesses"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Canva service‑managed; partner models may power features"
+  ],
+  "platforms": [
+    "Web",
+    "iOS/Android"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier with caps; higher limits on Pro/Teams",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + Pro/Teams",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Pro",
+        "price": "see site",
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Template‑first UX",
+      "Easy brand control",
+      "All‑in‑one editor"
+    ],
+    "cons": [
+      "Less granular control than pro NLEs"
+    ]
+  },
+  "key_differentiators": [
+    "Design + generation unified",
+    "Brand kit integration"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4/other exports"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Canva",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Canva",
+    "linkedin": "https://www.linkedin.com/company/canva/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.canva.com/pricing/",
+    "docs": "https://www.canva.com/help/using-magic-media/",
+    "changelog": null,
+    "support": "https://www.canva.com/help/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.canva.com/magic/favicon.ico",
+      "caption": "Canva Magic Media (Video) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Canva channel (official)",
+      "youtube": "https://www.youtube.com/@canva",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Magic Media video (official)",
+      "youtube": "https://www.youtube.com/watch?v=MDviG1S2-xQ",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Text‑to‑video in Canva (community)",
+      "youtube": "https://www.youtube.com/watch?v=7X6m7jU3W1U",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

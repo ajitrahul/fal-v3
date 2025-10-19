@@ -1,0 +1,131 @@
+{
+  "id": "opendevin",
+  "name": "OpenDevin",
+  "slug": "opendevin",
+  "logo_url": "https://opendevin.org/favicon.ico",
+  "icon_url": "https://opendevin.org/favicon.ico",
+  "images": [
+    "https://opendevin.org/favicon.ico"
+  ],
+  "website_url": "https://opendevin.org",
+  "tagline": "Open‑source autonomous software engineer.",
+  "summary": "OpenDevin is an open‑source project that explores an autonomous software engineer agent capable of planning and executing multi‑step development tasks. It provides a framework for tools, memory, and environment interaction, allowing researchers and practitioners to experiment with agentic coding on real repositories. The project website and GitHub repository document installation, supported tools, and evaluation environments.\n\nUsers can run OpenDevin locally or in containers, configure model backends, and connect editors or terminals where the agent can propose and apply changes. Tutorials and talks from the community show demonstrations of issue‑to‑PR workflows, task decomposition, and evaluation on coding benchmarks. Because it is research‑oriented and open‑source, OpenDevin is best suited for experimentation rather than production, offering a platform to test new approaches to autonomous development.\n\nOrganizations interested in agentic development can use OpenDevin as a sandbox for prototypes and internal research, integrating their own tools and governance layers to study feasibility.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Open Source",
+    "Agents"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "Local/containers",
+    "Editor integrations (community)"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "OpenDevin (open‑source)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/OpenDevin",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://opendevin.org",
+    "changelog": "https://github.com/OpenDevin/OpenDevin",
+    "support": "https://github.com/OpenDevin/OpenDevin/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://opendevin.org/favicon.ico",
+      "caption": "OpenDevin icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "OpenDevin demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=8vK0s2M4dCM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "OpenDevin talk (community)",
+      "youtube": "https://www.youtube.com/watch?v=po5g1x3fZzM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "OpenDevin setup (community)",
+      "youtube": "https://www.youtube.com/watch?v=a6HGQyM3CXY",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <style>
+      .title{font: 900 200px/1 "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; letter-spacing: 6px}
+      .sub{font: 600 40px/1 "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; letter-spacing: 2px}
+      .ink{stroke:#0F172A;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;fill:none}
+      .node{fill:#06B6D4}
+    </style>
+  </defs>
+  <rect width="1600" height="420" fill="#ffffff"></rect>
+  <!-- icon (left) -->
+  <g transform="translate(80,70)">
+    <circle cx="120" cy="120" r="90" class="ink"></circle>
+    <line x1="200" y1="120" x2="260" y2="120" class="ink"></line>
+    <rect x="260" y="104" width="32" height="32" rx="8" fill="#0F172A"></rect>
+    <circle cx="120" cy="120" r="7" class="node"></circle>
+    <line x1="120" y1="120" x2="120" y2="40" class="ink"></line>
+    <line x1="120" y1="120" x2="40" y2="120" class="ink"></line>
+    <line x1="120" y1="120" x2="120" y2="200" class="ink"></line>
+    <line x1="120" y1="120" x2="200" y2="120" class="ink"></line>
+    <circle cx="120" cy="40" r="8" class="node"></circle>
+    <circle cx="40" cy="120" r="8" class="node"></circle>
+    <circle cx="120" cy="200" r="8" class="node"></circle>
+    <circle cx="200" cy="120" r="8" class="node"></circle>
+  </g>
+  <!-- wordmark -->
+  <text x="430" y="230" class="title" fill="#0F172A">F</text>
+  <text x="610" y="230" class="title" fill="#06B6D4">A</text>
+  <text x="830" y="230" class="title" fill="#0F172A">L</text>
+  <text x="430" y="320" class="sub" fill="#64748B">findailist.com</text>
+</svg>

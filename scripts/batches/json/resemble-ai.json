@@ -1,0 +1,171 @@
+{
+  "id": "resemble-ai",
+  "name": "Resemble AI",
+  "slug": "resemble-ai",
+  "logo_url": "https://www.resemble.ai/favicon.ico",
+  "icon_url": "https://www.resemble.ai/favicon.ico",
+  "images": [
+    "https://www.resemble.ai/favicon.ico"
+  ],
+  "website_url": "https://www.resemble.ai",
+  "tagline": "Custom voices, speech‑to‑speech, and localization with API.",
+  "summary": "Resemble AI provides custom voice cloning (with consent), text‑to‑speech, and speech‑to‑speech conversion aimed at enterprises and creative studios. Its toolkit supports multilingual synthesis, emotion controls, and real‑time generation, alongside features for watermarking and provenance. Resemble’s web studio allows dataset management and voice training with appropriate rights, while the API enables bulk generation and integration into pipelines.\n\nUse cases include localized product videos, IVR agents with brand voices, in‑game characters, and personalized marketing. The platform highlights content authenticity and security options for enterprise deployments. Tutorials and case studies show end‑to‑end flows from data collection and consent through training, evaluation, and deployment. \n\nResemble is best for teams that need owned, brand‑aligned voices and programmatic control for large content volumes.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "TTS",
+    "Voice cloning",
+    "Emotion control",
+    "Localization"
+  ],
+  "use_cases": [
+    "Brand voice for IVR",
+    "Marketing",
+    "Games",
+    "Training"
+  ],
+  "best_for": [
+    "Enterprises",
+    "Studios"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Resemble neural TTS",
+    "Speech‑to‑speech"
+  ],
+  "platforms": [
+    "Web Studio",
+    "API/SDK"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "REST API",
+    "Realtime endpoints"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Trials; paid usage for production",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Usage/subscription",
+    "plans": [
+      {
+        "name": "Self‑serve/Enterprise",
+        "price": null,
+        "billing": "usage/contract"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Custom voice ownership",
+      "Realtime generation",
+      "Security options"
+    ],
+    "cons": [
+      "Training requires quality data & consent"
+    ]
+  },
+  "key_differentiators": [
+    "Speech‑to‑speech",
+    "Watermark/provenance options"
+  ],
+  "limitations": [
+    "Data collection & governance overhead for custom voices"
+  ],
+  "import_export": [
+    "MP3/WAV; realtime streams"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Resemble AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/resembleai",
+    "linkedin": "https://www.linkedin.com/company/resemble-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.resemble.ai/pricing",
+    "docs": "https://docs.resemble.ai",
+    "changelog": null,
+    "support": "https://support.resemble.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.resemble.ai/favicon.ico",
+      "caption": "Resemble AI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Resemble channel (official)",
+      "youtube": "https://www.youtube.com/@ResembleAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build custom voices (official)",
+      "youtube": "https://www.youtube.com/@ResembleAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Realtime demos (official)",
+      "youtube": "https://www.youtube.com/@ResembleAI",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

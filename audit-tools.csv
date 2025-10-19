@@ -1,0 +1,1281 @@
+slug,name,hasRating,rating,hasVotesOrReviews,votes_or_reviews,isFeatured,hasOfficialVideo,hasAnyVideo
+2short,2short.ai,true,4.7,true,197,true,false,true
+acapela-cloud,Acapela Cloud (VAAS),false,,false,,false,false,false
+acapela-my-own-voice,Acapela — My Own Voice,false,,false,,false,false,false
+acapela,Acapela Group,false,,false,,false,false,false
+acapelabox,Acapela Box,false,,false,,false,false,false
+adobe-express-ai-image,Adobe Express — Text to Image,false,,false,,false,false,false
+adobe-express-image,Adobe Express — Image Gen,false,,false,,false,false,false
+adobe-express-t2i,Adobe Express — Text to Image,false,,false,,false,false,true
+adobe-express-video,Adobe Express — Video,false,,false,,false,false,false
+adobe-firefly,Adobe Firefly,true,4.8,true,2765,false,false,true
+adobe-firefly2,Adobe Firefly (Alt),true,4.1,true,5847,false,false,true
+adobe-launchpad,Adobe Creative Cloud Express Video (Launchpad),false,,false,,false,false,false
+adobe-podcast,Adobe Podcast (Project Shasta),false,,false,,false,false,false
+adobe-premiere-ai,Adobe Premiere Pro (AI),false,,false,,false,false,false
+adobe-premiere-pro,Adobe Premiere Pro (Sensei),false,,false,,false,false,false
+adobe-premiere,Adobe Premiere Pro (AI),false,,false,,false,false,true
+adobe-stock-firefly,Adobe Stock — Firefly Integration,false,,false,,false,false,false
+aflorithmic,Aflorithmic (api.audio),false,,false,,false,false,false
+after-effects,Adobe After Effects (Sensei),false,,false,,false,false,false
+agora-rtc,Agora RTC,false,,false,,false,false,false
+ahs-voiceroid2,AHS — VOICEROID2,false,,false,,false,false,false
+ai-frames-interpolate,Flowframes (frame interpolation),false,,false,,false,false,false
+ai-horde,Stable Horde,false,,false,,false,false,false
+ai-media,AI‑Media,false,,false,,false,false,false
+aider-chat,aider (CLI),false,,false,,false,false,false
+aider,Aider,false,,false,,false,false,true
+aiinc-aitalk,"AI, Inc. — AITalk",false,,false,,false,false,false
+aimages,Aimages,false,,false,,false,false,false
+airbrush-ai,Airbrush AI,false,,false,,false,false,true
+airbyte-copilot,Airbyte — AI Copilot,false,,false,,false,false,false
+aiseesoft-video-enhancer-ai,Aiseesoft Video Enhancer AI,false,,false,,false,false,false
+alcuban,Alugha,false,,false,,false,false,false
+alibaba-tts,Alibaba Cloud — Speech Synthesis,false,,false,,false,false,false
+alight-motion,Alight Motion,false,,false,,false,false,false
+altered,Altered Studio,false,,false,,false,false,false
+amara,Amara,false,,false,,false,false,false
+amazon-polly,Amazon Polly,false,,false,,false,false,false
+amazon-q-code-transformation,Amazon Q — Code Transformation,false,,false,,false,false,false
+amazon-q-developer,Amazon Q Developer,false,,false,,false,false,true
+amberscript,Amberscript,false,,false,,false,false,false
+amplication-ai,Amplication + AI,false,,false,,false,false,false
+android-studio-gemini,Gemini in Android Studio,false,,false,,false,false,false
+android-tts,Android Text‑to‑Speech,false,,false,,false,false,false
+anima-ai,Anima — Figma to Code,false,,false,,false,false,false
+animaker-ai,Animaker AI,false,,false,,false,false,false
+animaker,Animaker,false,,false,,false,false,false
+animatron,Animatron,false,,false,,false,false,false
+animaze,Animaze by FaceRig,false,,false,,false,false,false
+animoto-ai,Animoto AI,false,,false,,false,false,false
+animoto-teams,Animoto for Teams,false,,false,,false,false,false
+animoto,Animoto,false,,false,,false,false,false
+anthropic-claude-api-code,Anthropic API (code),false,,false,,false,false,false
+anthropic-claude-code,Anthropic — Claude Code,false,,false,,false,false,false
+anthropic-claude-desktop,Anthropic — Claude Desktop,false,,false,,false,false,false
+apache-airflow-ai,Airflow + AI assistants,false,,false,,false,false,false
+apexzero,Apex (OpenAI),false,,false,,false,false,false
+api.video,api.video,false,,false,,false,false,false
+apify-ai,Apify AI,false,,false,,false,false,false
+appicons-ai,Appicons AI,false,,false,,false,false,false
+apple-avspeech,Apple — AVSpeechSynthesizer,false,,false,,false,false,false
+apple-clips,Apple Clips,false,,false,,false,false,false
+appypie-image,Appy Pie — AI Image Generator,false,,false,,false,false,false
+aquest-aquestalk,AQUEST — AquesTalk,false,,false,,false,false,false
+aragon-ai,Aragon AI (Headshots),false,,false,,false,false,false
+artbreeder,Artbreeder,false,,false,,false,false,false
+artflow,Artflow AI,false,,false,,false,false,false
+artguru-ai,Artguru AI,false,,false,,false,false,false
+artguru,Artguru AI,false,,false,,false,false,false
+artify-ai,Artify AI,false,,false,,false,false,true
+artlist-creator,Artlist — Creator,false,,false,,false,false,false
+artsmart-ai,ArtSmart AI,false,,false,,false,false,true
+artsmart,ArtSmart AI,false,,false,,false,false,false
+askcodi,Ask Codi,false,,false,,false,false,false
+assemble-post,Assemble,false,,false,,false,false,false
+astria-ai,Astria AI,false,,false,,false,false,false
+astria,Astria,false,,false,,false,false,false
+atlassian-intelligence,Atlassian Intelligence (Dev),false,,false,,false,false,false
+augie,Augie (Aug X Labs),false,,false,,false,false,false
+autogen,Microsoft AutoGen,false,,false,,false,false,false
+automatic1111-webui,Stable Diffusion web UI (AUTOMATIC1111),false,,false,,false,false,false
+automatic1111,Stable Diffusion web UI (AUTOMATIC1111),false,,false,,false,false,false
+autopod,AutoPod (Premiere plugin),false,,false,,false,false,false
+avclabs-photo-enhancer,AVCLabs Photo Enhancer AI,false,,false,,false,false,false
+avclabs-veai,AVCLabs Video Enhancer AI,false,,false,,false,false,true
+avclabs-video-enhancer,AVCLabs Video Enhancer AI,false,,false,,false,false,false
+avid-media-composer-ai,Avid Media Composer (AI),false,,false,,false,false,false
+avid-media-composer,Avid Media Composer,false,,false,,false,false,false
+aws-bedrock-stable,AWS Bedrock — Stability,false,,false,,false,false,false
+aws-codewhisperer,AWS CodeWhisperer,false,,false,,false,false,false
+aws-ivs,AWS IVS,false,,false,,false,false,false
+azure-ai-code,Azure AI Studio + Code,false,,false,,false,false,false
+azure-custom-voice,Azure Custom Neural Voice,false,,false,,false,false,false
+azure-devops-copilot,Copilot in Azure DevOps,false,,false,,false,false,false
+azure-openai-images,Azure OpenAI — Images,false,,false,,false,false,false
+azure-tts,Microsoft Azure Neural TTS,false,,false,,false,false,false
+backdrop-ai,Backdrop AI,false,,false,,false,false,false
+backgroundcut,BackgroundCut,false,,false,,false,false,false
+baidu-tts,Baidu AI Cloud — TTS,false,,false,,false,false,false
+balabolka,Balabolka,false,,false,,false,false,false
+bannerbear-video,Bannerbear Video API,false,,false,,false,false,false
+bannerbear,Bannerbear,false,,false,,false,false,false
+banuba-video-editor-sdk,Banuba Video Editor SDK,false,,false,,false,false,false
+bark,Bark (Sun0day),false,,false,,false,false,false
+beatleap,Beatleap by Lightricks,false,,false,,false,false,false
+bedrock-code,Amazon Bedrock + Code models,false,,false,,false,false,false
+befunky-ai-2,BeFunky — AI Art (Alt),false,,false,,false,false,true
+befunky-ai-image,BeFunky — AI Image,false,,false,,false,false,true
+befunky-ai,BeFunky — AI Image Generator,false,,false,,false,false,false
+befunky,BeFunky (AI),false,,false,,false,false,false
+beyondwords,BeyondWords,false,,false,,false,false,false
+bgeraser,BgEraser,false,,false,,false,false,false
+bgsub,BgSub,false,,false,,false,false,false
+bhuman,BHuman,false,,false,,false,false,false
+bigcode-starcoder2,BigCode — StarCoder2,false,,false,,false,false,false
+bigjpg,Bigjpg,false,,false,,false,false,false
+bigroom,BigRoom,false,,false,,false,false,false
+bigvu,BIGVU,false,,false,,false,false,false
+biteable-teams,Biteable Teams,false,,false,,false,false,false
+biteable,Biteable,false,,false,,false,false,false
+bito,Bito AI,false,,false,,false,false,false
+black-forest-labs-flux,Black Forest Labs — FLUX,false,,false,,false,false,false
+black-forest-labs-play,Black Forest Labs — Play,false,,false,,false,false,true
+blackbird-cloud,Blackbird (cloud editor),false,,false,,false,false,false
+blackbox,Blackbox AI,false,,false,,false,false,false
+blakify,Blakify,false,,false,,false,false,false
+blockade-labs-skybox,Blockade Labs — Skybox AI,false,,false,,false,false,false
+blueframe,BlueFrame Technology,false,,false,,false,false,false
+bluetwillow,BlueWillow,false,,false,,false,false,false
+bluewillow,BlueWillow,false,,false,,false,false,true
+bolt-ai,Bolt AI (macOS),false,,false,,false,false,false
+bolt-new,Bolt.new (Stripe),false,,false,,false,false,false
+bombbomb,BombBomb,false,,false,,false,false,false
+boords-animatic,Boords Animatic,false,,false,,false,false,false
+boords,Boords,false,,false,,false,false,false
+booth-ai,Booth AI,false,,false,,false,false,false
+boothai-studio,Booth.AI Studio,false,,false,,false,false,false
+brandcrowd-logo,BrandCrowd — Logo Maker,false,,false,,false,false,false
+brandmark-ai,Brandmark — Logo Maker,false,,false,,false,false,true
+brandmark-io,Brandmark.io,false,,false,,false,false,false
+brandmark,Brandmark,false,,false,,false,false,false
+brightcove-studio,Brightcove Studio,false,,false,,false,false,false
+brightcove-zencoder,Brightcove — Zencoder,false,,false,,false,false,false
+brightcove,Brightcove,false,,false,,false,false,false
+budibase-ai,Budibase AI,false,,false,,false,false,false
+butterflow,Butterflow,false,,false,,false,false,false
+camtasia-ai-editor,Camtasia (AI),false,,false,,false,false,false
+camtasia-ai,TechSmith Camtasia (AI),false,,false,,false,false,false
+canon-video-editing,Canon Video Editing (apps),false,,false,,false,false,false
+canva-ai,Canva — AI Image,false,,false,,false,false,true
+canva-ai2,Canva AI (Alt),false,,false,,false,false,true
+canva-logo,Canva — Logo Maker,false,,false,,false,false,false
+canva-magic-media-image,Canva — Magic Media (Image),false,,false,,false,false,false
+canva-magic-media,Canva — Magic Media (Images),false,,false,,false,false,false
+canva-mobile,Canva Mobile (Video),false,,false,,false,false,false
+canva-text-to-image,Canva — AI Image Generator,false,,false,,false,false,true
+canva-video,Canva — Magic Media (Video),false,,false,,false,false,false
+capcut-ai-video,CapCut — AI Video,false,,false,,false,false,false
+capcut-pro-editor,CapCut Pro,false,,false,,false,false,false
+capcut,CapCut,false,,false,,false,false,false
+capsule,Capsule,false,,false,,false,false,false
+capti-voice,Capti Voice,false,,false,,false,false,false
+captionhub,CaptionHub,false,,false,,false,false,false
+captions-ai,Captions,false,,false,,false,false,false
+captions-auto-dub,Captions — Auto Dub,false,,false,,false,false,false
+captions-batch,Captions — Batch Editor,false,,false,,false,false,false
+captions,Captions,false,,false,,false,false,true
+captionsapp-web,Captions App (Web),false,,false,,false,false,false
+cartoonize-net,Cartoonize.net,false,,false,,false,false,false
+celtra-creative-automation,Celtra Creative Automation,false,,false,,false,false,false
+celtra,Celtra,false,,false,,false,false,false
+cepstral,Cepstral Voices,false,,false,,false,false,false
+cerence-tts,Cerence TTS,false,,false,,false,false,false
+cereproc,CereProc,false,,false,,false,false,false
+cerevoice-cloud,CereProc — CereVoice Cloud,false,,false,,false,false,false
+cevio-ai-talk,CeVIO AI — Talk,false,,false,,false,false,false
+cf-spark-art,CF Spark Art,false,,false,,false,false,true
+cf-spark,Creative Fabrica — CF Spark,false,,false,,false,false,false
+chopcast,Chopcast,false,,false,,false,false,false
+circleci-copilot,CircleCI + AI,false,,false,,false,false,false
+civitai,Civitai (models hub),false,,false,,false,false,false
+claap,Claap,false,,false,,false,false,false
+claid-ai,Claid.ai (by Let’s Enhance),false,,false,,false,false,false
+claroread,ClaroRead,false,,false,,false,false,false
+cleanup-pictures,Cleanup.pictures,false,,false,,false,false,false
+clickhouse-copilot,ClickHouse Copilot,false,,false,,false,false,false
+clideo,Clideo,false,,false,,false,false,false
+clipchamp-ai-video,Clipchamp AI Video,false,,false,,false,false,false
+clipchamp-tts,Clipchamp Text‑to‑Speech,false,,false,,false,false,false
+clipchamp,Microsoft Clipchamp,false,,false,,false,false,false
+clipdrop-stable-diffusion,Clipdrop — Stable Diffusion,false,,false,,false,false,true
+clipdrop,Clipdrop (Stability),false,,false,,false,false,false
+clipscribe,ClipScribe,false,,false,,false,false,false
+cloudflare-ai-copilot,Cloudflare — AI in Workers,false,,false,,false,false,false
+cloudflare-stream,Cloudflare Stream,false,,false,,false,false,false
+cloudinary-video-ai,Cloudinary — Video AI,false,,false,,false,false,false
+codacy-ai,Codacy AI,false,,false,,false,false,false
+code-llama,Code Llama,false,,false,,false,false,false
+codeball,Codeball,false,,false,,false,false,false
+codecomplete,CodeComplete,false,,false,,false,false,false
+codegeex,CodeGeeX,false,,false,,false,false,false
+codegpt,CodeGPT,false,,false,,false,false,false
+codeium,Codeium,false,,false,,false,false,false
+codellama-3,Llama 3.1 Code (Meta),false,,false,,false,false,false
+codellama-guardrails,Guardrails AI,false,,false,,false,false,false
+coder-ai,Coder + AI,false,,false,,false,false,false
+coderabbit,CodeRabbit,false,,false,,false,false,false
+codesandbox-ai,CodeSandbox AI,false,,false,,false,false,false
+codesquire,CodeSquire,false,,false,,false,false,false
+codestral-ide,Codestral in IDEs,false,,false,,false,false,false
+codestral-server,Mistral — Codestral Server,false,,false,,false,false,false
+codet5plus,Salesforce — CodeT5+,false,,false,,false,false,false
+codiga,Codiga,false,,false,,false,false,false
+codiumai-pr-agent,CodiumAI — PR‑Agent,false,,false,,false,false,false
+codiumai,CodiumAI,false,,false,,false,false,false
+coefont,CoeFont,false,,false,,false,false,false
+cognition-devin,Cognition — Devin,false,,false,,false,false,false
+colab-ai,Google Colab AI,false,,false,,false,false,false
+colossyan-api,Colossyan API,false,,false,,false,false,false
+colossyan-creator,Colossyan Creator,false,,false,,false,false,false
+colossyan-workflows,Colossyan Workflows,false,,false,,false,false,false
+colossyan,Colossyan,false,,false,,false,false,false
+comfyui,ComfyUI,false,,false,,false,false,false
+contentfries,ContentFries,false,,false,,false,false,false
+continue-dev,Continue,false,,false,,false,false,true
+copilot-designer,Microsoft Copilot Designer,false,,false,,false,false,false
+copilot-image-creator,Microsoft Copilot — Image Creator,false,,false,,false,false,false
+coqui-studio,Coqui Studio,false,,false,,false,false,false
+coqui-tts-lib,Coqui TTS (OSS),false,,false,,false,false,false
+coqui,Coqui TTS,false,,false,,false,false,false
+corel-videostudio-ai,Corel VideoStudio (AI),false,,false,,false,false,false
+couchbase-ai,Couchbase + AI,false,,false,,false,false,false
+craiyon,Craiyon,false,,false,,false,false,false
+craiyon2,Craiyon (Alt),false,,false,,false,false,true
+creative-fabrica-cf-spark,Creative Fabrica — CF Spark,false,,false,,false,false,false
+creativefabrica-2,Creative Fabrica (Alt),false,,false,,false,false,true
+creatomate-api,Creatomate API,false,,false,,false,false,false
+creatomate,Creatomate,false,,false,,false,false,false
+creatopy,Creatopy,false,,false,,false,false,false
+crello-logos,VistaCreate — Logo Maker,false,,false,,false,false,false
+crello-vista-video,VistaCreate (Crello) — Video,false,,false,,false,false,false
+crossclip,CrossClip (Streamlabs),false,,false,,false,false,false
+cursor-copilot,Cursor — Copilot features,false,,false,,false,false,false
+cursor-ide,Cursor IDE,false,,false,,false,false,false
+cursor,Cursor,false,,false,,false,false,true
+cutout-pro,Cutout.Pro,false,,false,,false,false,false
+cutoutpro-ai-art,Cutout.pro — AI Art Generator,false,,false,,false,false,false
+cutoutpro-ai,Cutout.pro — AI Art,false,,false,,false,false,true
+cutoutpro-bg,Cutout.pro BG,false,,false,,false,false,false
+cutoutpro-video,Cutout.pro Video,false,,false,,false,false,false
+cyberlink-powerdirector,CyberLink PowerDirector (AI),false,,false,,false,false,false
+d-id-studio,D‑ID Studio,false,,false,,false,false,false
+d-id,D‑ID,false,,false,,false,false,false
+dagshub-ai,DagsHub + AI,false,,false,,false,false,false
+dagster-ai-studio,Dagster AI Studio,false,,false,,false,false,false
+dagster-ai,Dagster+ AI,false,,false,,false,false,false
+dagster-copilot,Dagster Copilot,false,,false,,false,false,false
+dagworks-hamilton-ai,Hamilton + AI,false,,false,,false,false,false
+daily-co,Daily.co,false,,false,,false,false,false
+databricks-assistant,Databricks AI Assistant,false,,false,,false,false,false
+datacamp-ai,DataCamp Workspace AI,false,,false,,false,false,false
+davinci-resolve-neural,DaVinci Resolve (Neural Engine),false,,false,,false,false,false
+davinci-resolve,DaVinci Resolve (Neural Engine),false,,false,,false,false,false
+dbt-cloud-ai,dbt Cloud + AI,false,,false,,false,false,false
+deep-dream-generator,Deep Dream Generator,false,,false,,false,false,true
+deep-image,Deep-image.ai,false,,false,,false,false,false
+deepai-2,DeepAI (Alt),false,,false,,false,false,true
+deepai-cartoonizer,DeepAI — Cartoonizer,false,,false,,false,false,false
+deepai-image-generator,DeepAI Image Generator,false,,false,,false,false,true
+deepai-image,DeepAI — Image Generator,false,,false,,false,false,false
+deepai-text2img,DeepAI — Text to Image,false,,false,,false,false,true
+deepart-io,DeepArt.io,false,,false,,false,false,false
+deepbrain-ai,DeepBrain AI,false,,false,,false,false,false
+deepbrain-studios,AI Studios (Deepbrain),false,,false,,false,false,false
+deepcode-legacy,Snyk DeepCode (legacy),false,,false,,false,false,false
+deepdreamgenerator,Deep Dream Generator,false,,false,,false,false,false
+deepdub-go,Deepdub Go,false,,false,,false,false,false
+deepdub,Deepdub,false,,false,,false,false,false
+deepmotion-animate3d,DeepMotion — Animate 3D,false,,false,,false,false,false
+deepseek-coder-api,DeepSeek Coder API,false,,false,,false,false,false
+deepseek-coder,DeepSeek Coder,false,,false,,false,false,false
+deepsource,DeepSource Autofix,false,,false,,false,false,false
+dependabot-copilot,Dependabot + Copilot,false,,false,,false,false,false
+descript-ai,Descript AI,false,,false,,false,false,false
+descript-overdub,Descript — Overdub,false,,false,,false,false,false
+descript-squadcast,Descript + SquadCast,false,,false,,false,false,false
+descript,Descript,false,,false,,false,false,false
+designer-io-gravit,Gravit Designer (Corel) — AI tools,false,,false,,false,false,false
+designify,Designify,false,,false,,false,false,false
+designs-ai-2,Designs.ai (Alt),false,,false,,false,false,true
+designs-ai-designmaker,Designs.ai — Designmaker,false,,false,,false,false,false
+designs-ai-video,Designs.ai — Videomaker,false,,false,,false,false,false
+designs-ai,Designs.ai — Image,false,,false,,false,false,false
+designsai-videomaker,Designs.ai Videomaker,false,,false,,false,false,false
+desygner-ai,Desygner — AI Image,false,,false,,false,false,true
+devchat,DevChat,false,,false,,false,false,false
+devcycle-ai,DevCycle + AI,false,,false,,false,false,false
+deviantart-dreamup,DeviantArt — DreamUp,false,,false,,false,false,false
+devpod-ai,DevPod + AI,false,,false,,false,false,false
+dezgo-2,Dezgo (Alt),false,,false,,false,false,true
+dezgo,Dezgo,false,,false,,false,false,false
+diffblue-cover,Diffblue Cover,false,,false,,false,false,false
+diffusionbee,DiffusionBee (macOS),false,,false,,false,false,false
+dolby-io,Dolby.io Media APIs,false,,false,,false,false,false
+domino-copilot,Domino — AI Coding Assist,false,,false,,false,false,false
+domoai-discord,DomoAI,false,,false,,false,false,false
+domoai,DomoAI,false,,false,,false,false,false
+domyshoot,DoMyShoot,false,,false,,false,false,false
+doodly-app,Doodly,false,,false,,false,false,false
+draw-things,Draw Things,false,,false,,false,false,false
+drawthings,Draw Things,false,,false,,false,false,false
+dream-by-wombo,Dream by WOMBO,false,,false,,false,false,true
+dreamlike-2,Dreamlike.art (Alt),false,,false,,false,false,true
+dreamlike-art,Dreamlike.art,false,,false,,false,false,true
+dreamlike,Dreamlike,false,,false,,false,false,false
+dreampic,DreamPic.AI,false,,false,,false,false,false
+dreamstudio,DreamStudio (Stability),false,,false,,false,false,false
+dreamup-devart,DreamUp by DeviantArt,false,,false,,false,false,false
+dreamup,DeviantArt DreamUp,false,,false,,false,false,false
+dubverse-ai,Dubverse,false,,false,,false,false,false
+dubverse-localize,Dubverse Localization,false,,false,,false,false,false
+dubverse,Dubverse,false,,false,,false,false,false
+duckdb-writer,DuckDB — AI SQL helpers,false,,false,,false,false,false
+dumme-app,Dumme,false,,false,,false,false,false
+dumme,Dumme,false,,false,,false,false,false
+dvdfab-video-enhancer,DVDFab Video Enhancer AI,false,,false,,false,false,false
+ebsynth-app,EbSynth,false,,false,,false,false,false
+ebsynth,EbSynth,false,,false,,false,false,false
+eclipse-ai,Eclipse IDE + AI extensions,false,,false,,false,false,false
+edenai-image,Eden AI — Image APIs,false,,false,,false,false,false
+editframe,Editframe,false,,false,,false,false,false
+edpuzzle,Edpuzzle,false,,false,,false,false,false
+eklipse,Eklipse.gg,false,,false,,false,false,false
+elai-studio,Elai Studio,false,,false,,false,false,false
+elai,Elai,false,,false,,false,false,false
+elevenlabs-dub,ElevenLabs — Dubbing,false,,false,,false,false,false
+elevenlabs-dubbing,ElevenLabs Dubbing,false,,false,,false,false,false
+elevenlabs-dubbing2,ElevenLabs Dubbing,false,,false,,false,false,false
+elevenlabs,ElevenLabs,false,,false,,false,false,false
+endely-ai,Endely,false,,false,,false,false,false
+erase-bg,Erase.bg,false,,false,,false,false,false
+espeak,eSpeak NG,false,,false,,false,false,false
+espnet-tts,ESPnet — TTS,false,,false,,false,false,false
+everart,EverArt (by Reface),false,,false,,false,false,false
+explaindev,ExplainDev,false,,false,,false,false,false
+faceapp,FaceApp,false,,false,,false,false,false
+facemagic,FaceMagic,false,,false,,false,false,false
+facet,Facet AI,false,,false,,false,false,false
+facetune,Facetune (AI),false,,false,,false,false,false
+fakeyou,FakeYou,false,,false,,false,false,false
+fal-ai,Fal.ai,false,,false,,false,false,false
+fermat,Fermat,false,,false,,false,false,false
+festival,Festival TTS,false,,false,,false,false,false
+figstack,Figstack,false,,false,,false,false,false
+filmora-ai-video,Filmora AI Video,false,,false,,false,false,false
+filmora-ai,Wondershare Filmora — AI,false,,false,,false,false,false
+filmora-go,FilmoraGo,false,,false,,false,false,false
+final-cut-pro,Apple Final Cut Pro,false,,false,,false,false,false
+fineshare-finevoice,FineShare — FineVoice,false,,false,,false,false,false
+flawless-ai,Flawless AI — TrueSync,false,,false,,false,false,false
+flexclip-ai,FlexClip AI,false,,false,,false,false,false
+flexclip,FlexClip,false,,false,,false,false,false
+fliki,Fliki,false,,false,,false,false,false
+flixier,Flixier,false,,false,,false,false,false
+flutter-studio-ai,FlutterFlow AI Gen,false,,false,,false,false,false
+fly-io-ai,Fly.io Launchpad + AI,false,,false,,false,false,false
+flyte-ai,Flyte — AI coding,false,,false,,false,false,false
+fococlipping,FocoClipping,false,,false,,false,false,false
+fooocus,Fooocus,false,,false,,false,false,false
+fossa-ai,FOSSA + AI,false,,false,,false,false,false
+fotojet-ai-image,FotoJet — AI Image,false,,false,,false,false,true
+fotojet-ai,FotoJet — AI Image Generator,false,,false,,false,false,false
+fotor-ai-image-generator,Fotor AI Image Generator,false,,false,,false,false,true
+fotor-ai-image,Fotor AI Image Generator,false,,false,,false,false,false
+fotor-ai,Fotor — AI Image Generator,false,,false,,false,false,false
+framedrop,Framedrop,false,,false,,false,false,false
+free-tts,Free TTS,false,,false,,false,false,false
+freepik-ai-image-generator,Freepik AI Image Generator,false,,false,,false,false,true
+freepik-ai-image,Freepik — AI Image Generator,false,,false,,false,false,false
+freepik-pikaso,Wepik by Freepik (AI),false,,false,,false,false,false
+galileo-ai,Galileo AI (design),false,,false,,false,false,false
+gemini-code-assist,Gemini Code Assist,false,,false,,false,false,true
+gencraft,Gencraft,false,,false,,false,false,false
+generated-photos,Generated Photos — Face Generator,false,,false,,false,false,false
+genmo-animate,Genmo Animate,false,,false,,false,false,false
+genmo,Genmo (Moonvalley),false,,false,,false,false,false
+getimg-ai,getimg.ai,false,,false,,false,false,true
+getimg-background,getimg.ai — Background,false,,false,,false,false,true
+getimg-editor,Getimg Editor,false,,false,,false,false,false
+getimg-photobooth,getimg — Photobooth,false,,false,,false,false,false
+getimg,Getimg.ai,false,,false,,false,false,false
+getrecut,Recut,false,,false,,false,false,false
+getty-generative-ai,Getty Images Generative AI,false,,false,,false,false,true
+getty-generative,Getty Images — Generative AI,false,,false,,false,false,false
+getty-iStock-creator,iStock by Getty — AI Generator,false,,false,,false,false,false
+getty-nvidia-generative,Getty Images — Generative (NVIDIA),false,,false,,false,false,false
+gimp-plugins,GIMP (plugins),false,,false,,false,false,false
+gitguardian-ai,GitGuardian + AI,false,,false,,false,false,false
+github-actions-copilot,GitHub Actions + Copilot,false,,false,,false,false,false
+github-copilot-enterprise,GitHub Copilot Enterprise,false,,false,,false,false,false
+github-copilot-workspace,GitHub Copilot Workspace,false,,false,,false,false,false
+github-copilot,GitHub Copilot,false,,false,,false,false,true
+github-gh-copilot,GitHub CLI — gh‑copilot,false,,false,,false,false,false
+gitkraken-commit-ai,GitKraken — Commit Message AI,false,,false,,false,false,false
+gitlab-duo-workflow,GitLab Duo Workflow,false,,false,,false,false,false
+gitlab-duo,GitLab Duo,false,,false,,false,false,false
+gitpod-ai,Gitpod + AI,false,,false,,false,false,false
+glasp-video-notes,Glasp — Video Notes,false,,false,,false,false,false
+glia-cloud,GliaCloud (GliaStudio),false,,false,,false,false,false
+glia-gliastudio,GliaStudio,false,,false,,false,false,false
+glia-studio,GliaCloud — GliaStudio,false,,false,,false,false,false
+glide-ai,Glide AI,false,,false,,false,false,false
+gling-app,Gling,false,,false,,false,false,false
+gling,Gling,false,,false,,false,false,true
+glitch-ai,Glitch + AI tools,false,,false,,false,false,false
+gloss-ai,GlossAI,false,,false,,false,false,false
+google-custom-voice,Google Custom Voice,false,,false,,false,false,false
+google-imagefx,Google — ImageFX,false,,false,,false,false,false
+google-imagen-vertex,Google — Imagen on Vertex AI,false,,false,,false,false,true
+google-meet,Google Meet (AI captions),false,,false,,false,false,false
+google-tts,Google Cloud Text-to-Speech,false,,false,,false,false,false
+google-veo,Google — Veo,false,,false,,false,false,false
+google-vertex-imagen,Google Vertex AI — Imagen,false,,false,,false,false,false
+gopro-quik,GoPro Quik,false,,false,,false,false,false
+gpt-engineer,GPT‑Engineer,false,,false,,false,false,false
+gradio-code,Hugging Face — Transformers Agent,false,,false,,false,false,false
+grain,Grain,false,,false,,false,false,false
+graphite-ai,Graphite — AI Review,false,,false,,false,false,false
+gravit-designer,Gravit Designer (Corel),false,,false,,false,false,true
+greptile,Greptile,false,,false,,false,false,false
+grid-studio,Grid Studio,false,,false,,false,false,false
+grit,Grit.io,false,,false,,false,false,false
+guidde-capture,Guidde Capture,false,,false,,false,false,false
+guidde,Guidde,false,,false,,false,false,false
+haiper-gen,Haiper Generator,false,,false,,false,false,false
+haiper,Haiper,false,,false,,false,false,false
+hama,Hama — Remove Objects,false,,false,,false,false,false
+happyscribe,Happy Scribe,false,,false,,false,false,false
+hasura-codegen,Hasura — codegen tools,false,,false,,false,false,false
+hasura-copilot,Hasura — AI Copilot,false,,false,,false,false,false
+hasura-studio,Hasura Studio AI,false,,false,,false,false,false
+hatchful,Shopify — Hatchful,false,,false,,false,false,false
+haystack,Haystack,false,,false,,false,false,false
+headliner,Headliner,false,,false,,false,false,false
+headpix,Headpix,false,,false,,false,false,false
+headshotpro-studio,HeadshotPro Studio,false,,false,,false,false,false
+headshotpro,HeadshotPro,false,,false,,false,false,false
+heroku-ai,Heroku + AI,false,,false,,false,false,false
+hex-magic,Hex — Magic,false,,false,,false,false,false
+heygen-dubbing,HeyGen Dubbing,false,,false,,false,false,false
+heygen-live,HeyGen Live,false,,false,,false,false,false
+heygen-localize,HeyGen Translate,false,,false,,false,false,false
+heygen-studio,HeyGen Studio,false,,false,,false,false,false
+heygen-translate,HeyGen Translate,false,,false,,false,false,false
+heygen,HeyGen,false,,false,,false,false,false
+hf-spaces-t2i,Hugging Face Spaces — T2I,false,,false,,false,false,false
+hippo-video,Hippo Video,false,,false,,false,false,false
+hitfilm-ai,HitFilm (AI),false,,false,,false,false,false
+hitfilm-editor,HitFilm (AI),false,,false,,false,false,false
+hitfilm,HitFilm,false,,false,,false,false,false
+hitpaw-photo-enhancer,HitPaw Photo Enhancer,false,,false,,false,false,false
+hitpaw-veai,HitPaw Video Enhancer,false,,false,,false,false,true
+hitpaw-video-enhancer,HitPaw Video Enhancer,false,,false,,false,false,false
+hostinger-logo-maker,Hostinger — Logo Maker,false,,false,,false,false,false
+hotpot-2,Hotpot.ai (Alt),false,,false,,false,false,true
+hotpot-ai,Hotpot.ai,false,,false,,false,false,false
+hotpot,Hotpot.ai,false,,false,,false,false,false
+hourone-studio,Hour One Studio,false,,false,,false,false,false
+hourone,Hour One,false,,false,,false,false,false
+hoya-voicetext,HOYA — VoiceText,false,,false,,false,false,false
+huawei-mlkit-tts,Huawei ML Kit — TTS,false,,false,,false,false,false
+huggingface-endpoints,Hugging Face — Inference Endpoints,false,,false,,false,false,false
+hybrainy,Hume AI — Prosody (voice),false,,false,,false,false,false
+hyper,Hyper (vtuber),false,,false,,false,false,false
+hypic-ai,Hypic AI,false,,false,,false,false,true
+hypotenuse-image,Hypotenuse AI — Images,false,,false,,false,false,false
+ibm-custom-voice,IBM Watson — Custom Voice,false,,false,,false,false,false
+ibm-watson-media,IBM Watson Media,false,,false,,false,false,false
+ibm-watson-tts,IBM Watson Text to Speech,false,,false,,false,false,false
+ibm-wxca-ansible,IBM watsonx Code Assistant for Red Hat Ansible,false,,false,,false,false,false
+ibm-wxca-z,IBM watsonx Code Assistant for Z,false,,false,,false,false,false
+ibm-wxca,IBM watsonx Code Assistant,false,,false,,false,false,false
+icons8-bgremover,Icons8 — Background Remover,false,,false,,false,false,false
+icons8-megacreator,Icons8 — Mega Creator,false,,false,,false,false,false
+icons8-suppressor,Icons8 — Suppressor,false,,false,,false,false,false
+icons8-upscaler,Icons8 — Smart Upscaler,false,,false,,false,false,false
+iconscout-ai,Iconscout — AI Generator,false,,false,,false,false,false
+idata-driven-video,Idata Driven Video,false,,false,,false,false,false
+ideogram,Ideogram,false,,false,,false,false,false
+ideogram2,Ideogram (Alt),false,,false,,false,false,true
+idomoo,Idomoo,false,,false,,false,false,false
+iflytek-tts,iFLYTEK — Speech Synthesis,false,,false,,false,false,false
+illuin-artisse,Artisse,false,,false,,false,false,false
+illusrtroke,Illustroke (text‑to‑SVG),false,,false,,false,false,false
+illustroke-alt,Illustroke Studio,false,,false,,false,false,false
+illustroke,Illustroke,false,,false,,false,false,false
+imagine-me,Imagine Me,false,,false,,false,false,false
+imagineart,Imagine.art,false,,false,,false,false,false
+imglarger,AI Image Enlarger,false,,false,,false,false,false
+imgupscaler,ImgUpscaler,false,,false,,false,false,false
+imyfone-voxbox,iMyFone — VoxBox,false,,false,,false,false,false
+inshot-ai,InShot (AI),false,,false,,false,false,false
+inshot-editor,InShot (AI),false,,false,,false,false,false
+inshot,InShot,false,,false,,false,false,false
+instantart,InstantArt,false,,false,,false,false,false
+instantid-rembg,Rembg (open source),false,,false,,false,false,false
+intellij-ai-assistant,IntelliJ IDEA AI Assistant,false,,false,,false,false,false
+interiorai,Interior AI,false,,false,,false,false,false
+invideo-ai,InVideo AI,false,,false,,false,false,false
+invideo,Invideo AI,false,,false,,false,false,false
+invoke-ai,InvokeAI,false,,false,,false,false,false
+invokeai,InvokeAI,false,,false,,false,false,false
+iorad,iorad,false,,false,,false,false,false
+iSpeech,iSpeech,false,,false,,false,false,false
+istock-ai,iStock — AI Image Generator,false,,false,,false,false,true
+jasper-art,Jasper Art,false,,false,,false,false,false
+jetbrains-ai-assistant,JetBrains AI Assistant,false,,false,,false,false,true
+jetbrains-ai,JetBrains AI Assistant,false,,false,,false,false,false
+jetbrains-qodana-ai,JetBrains Qodana + AI,false,,false,,false,false,false
+jivox-creative,Jivox Creative Automation,false,,false,,false,false,false
+jumper-ai-clips,Jumper.ai Clips,false,,false,,false,false,false
+jupyter-ai,Jupyter AI,false,,false,,false,false,false
+jwplayer-library,JW Player Library,false,,false,,false,false,false
+jwplayer,JW Player,false,,false,,false,false,false
+kaedim-2d-to-3d,Kaedim (2D→3D),false,,false,,false,false,false
+kaggle-notebooks-ai,Kaggle — Notebooks AI,false,,false,,false,false,false
+kaiber-audio-reactive,Kaiber Audio‑Reactive,false,,false,,false,false,false
+kaiber-styles,Kaiber Styles,false,,false,,false,false,false
+kaiber,Kaiber,false,,false,,false,false,false
+kaito,Kaito (Kubernetes AI Toolkit),false,,false,,false,false,false
+kakao-tts,Kakao i — TTS,false,,false,,false,false,false
+kaltura,Kaltura,false,,false,,false,false,false
+kamua-legacy,Kamua (legacy),false,,false,,false,false,false
+kapcut-pro,CapCut Pro,false,,false,,false,false,false
+kaption-it,Kaption It,false,,false,,false,false,false
+kaptioned,Kaptioned,false,,false,,false,false,false
+kapwing-ai-image-generator,Kapwing AI Image Generator,false,,false,,false,false,true
+kapwing-ai-image,Kapwing — AI Image Generator,false,,false,,false,false,false
+kapwing-ai-img,Kapwing — AI Image,false,,false,,false,false,true
+kapwing-ai-video,Kapwing AI Video,false,,false,,false,false,false
+kapwing-image,Kapwing — AI Image Generator,false,,false,,false,false,false
+kapwing-reel,Kapwing Reels,false,,false,,false,false,false
+kapwing-smartcut,Kapwing — Smart Cut,false,,false,,false,false,false
+kapwing-studio,Kapwing Studio,false,,false,,false,false,false
+kapwing-subtitler,Kapwing Subtitler,false,,false,,false,false,false
+kapwing,Kapwing,false,,false,,false,false,false
+kinemaster-ai,KineMaster (AI),false,,false,,false,false,false
+kinemaster-editor,KineMaster,false,,false,,false,false,false
+kinemaster,KineMaster,false,,false,,false,false,false
+kinescope,Kinescope,false,,false,,false,false,false
+kinetic-kinch,Kinetix Studio,false,,false,,false,false,false
+kinetix,Kinetix,false,,false,,false,false,false
+kite-legacy,Kite (discontinued),false,,false,,false,false,false
+kits-ai-voice,Kits.ai Voice,false,,false,,false,false,false
+kittl-ai,Kittl AI,false,,false,,false,false,false
+klap,Klap,false,,false,,false,false,false
+kling,Kling AI,false,,false,,false,false,false
+kokoro-tts,Kokoro‑TTS,false,,false,,false,false,false
+krea-ai,Krea AI,false,,false,,false,false,false
+krea-realtime,Krea Realtime Video,false,,false,,false,false,false
+krea,Krea AI,false,,false,,false,false,true
+krea2,Krea (Alt),false,,false,,false,false,true
+krita-ai,Krita (plugins),false,,false,,false,false,false
+kukarella,Kukarella,false,,false,,false,false,false
+kurzweil-3000,Kurzweil 3000,false,,false,,false,false,false
+langchain,LangChain,false,,false,,false,false,false
+larynx,Larynx TTS,false,,false,,false,false,false
+lately,Lately.ai,false,,false,,false,false,false
+latte-social,Latte Social,false,,false,,false,false,false
+launchdarkly-ai,LaunchDarkly + AI,false,,false,,false,false,false
+leawo-video-ai,Leawo Video Enhancer AI,false,,false,,false,false,false
+leiai-animate2,LeiaPix Animate (Alt),false,,false,,false,false,false
+leiapix-animate,LeiaPix Animate,false,,false,,false,false,false
+leiapix-converter,LeiaPix Converter,false,,false,,false,false,false
+leiapix,LeiaPix — Generator,false,,false,,false,false,true
+lensa,Lensa AI,false,,false,,false,false,false
+leonardo-ai,Leonardo AI,false,,false,,false,false,false
+leonardo,Leonardo AI,false,,false,,false,false,false
+leonardo2,Leonardo AI (Alt),false,,false,,false,false,true
+letsenhance,Let’s Enhance,false,,false,,false,false,false
+lexica-aperture,Lexica Aperture,false,,false,,false,false,false
+lexica-art,Lexica,false,,false,,false,false,true
+lexica,Lexica,false,,false,,false,false,false
+lightcut,LightCut,false,,false,,false,false,false
+lightly-ai,Lightly + AI templates,false,,false,,false,false,false
+lightricks-videoleap,Videoleap (AI),false,,false,,false,false,false
+lightworks-ai,Lightworks (AI),false,,false,,false,false,false
+lightworks-editor,Lightworks (AI),false,,false,,false,false,false
+lightworks,Lightworks,false,,false,,false,false,false
+lightx-ai,LightX — AI Image,false,,false,,false,false,false
+lightx,LightX — AI,false,,false,,false,false,false
+linearity-move,Linearity Move (with AI),false,,false,,false,false,false
+linguatec-voice-reader,Linguatec — Voice Reader Studio,false,,false,,false,false,false
+lipdub-ai,LipDub AI,false,,false,,false,false,false
+listnr,Listnr,false,,false,,false,false,false
+locofy-ai,Locofy.ai,false,,false,,false,false,false
+logo-com,LOGO.com Maker,false,,false,,false,false,false
+logo-dot-com,LOGO.com,false,,false,,false,false,true
+logoai-ai,LogoAI — Logo Maker,false,,false,,false,false,true
+logoai,LogoAI,false,,false,,false,false,false
+logocreator-ai,LogoCreator AI,false,,false,,false,false,false
+logomaster,LOGO.com (LogoMaker),false,,false,,false,false,false
+looka,Looka,false,,false,,false,false,false
+loom-ai,Loom (AI),false,,false,,false,false,false
+loom,Loom,false,,false,,false,false,false
+looptap-translatevideo,Translate.Video,false,,false,,false,false,false
+lovo,LOVO (Genny),false,,false,,false,false,false
+ltx-studio,LTX Studio (Fable),false,,false,,false,false,false
+luma-api,Luma API,false,,false,,false,false,false
+luma-dream-machine,Luma — Dream Machine,false,,false,,false,false,false
+luma-upscale,Luma Upscale (video),false,,false,,false,false,false
+lumen5-ai,Lumen5 AI,false,,false,,false,false,false
+lumen5-studio,Lumen5 Studio,false,,false,,false,false,false
+lumen5,Lumen5,false,,false,,false,false,false
+lumenvox-tts,LumenVox TTS,false,,false,,false,false,false
+luminar-neo-gen,Luminar Neo (GenAI),false,,false,,false,false,false
+mabl-ai,mabl + AI,false,,false,,false,false,false
+maestra,Maestra Suite,false,,false,,false,false,false
+mage-space,Mage.space,false,,false,,false,false,false
+mage-space2,Mage.Space (Alt),false,,false,,false,false,true
+magiceraser,Magic Eraser,false,,false,,false,false,false
+magicstudio-imagine,MagicStudio — Imagine,false,,false,,false,false,false
+magisto,Magisto,false,,false,,false,false,false
+magnific-ai,Magnific AI,false,,false,,false,false,false
+make-com-ai,Make.com AI,false,,false,,false,false,false
+makelogo-ai,MakeLogoAI,false,,false,,false,false,false
+(no-slug),(no-name),false,,false,,false,false,false
+marscode,MarsCode,false,,false,,false,false,false
+marvin,Prefect — Marvin,false,,false,,false,false,false
+marytts,MARY TTS,false,,false,,false,false,false
+matesub,MateSub,false,,false,,false,false,false
+maverick,Maverick,false,,false,,false,false,false
+mediaio-ai-image,Media.io — AI Image Generator,false,,false,,false,false,false
+mediaio-upscaler,Media.io — AI Image Upscaler,false,,false,,false,false,false
+meshcapade,Meshcapade (avatars),false,,false,,false,false,false
+metabob,Metabob,false,,false,,false,false,false
+metaflow-ai,Metaflow + AI,false,,false,,false,false,false
+metrica-subtitles,Métrica Subtitles,false,,false,,false,false,false
+micmonster,MicMonster,false,,false,,false,false,false
+microsoft-copilot-azure,Microsoft Copilot for Azure,false,,false,,false,false,false
+microsoft-designer,Microsoft Designer (Image Creator),false,,false,,false,false,false
+microsoft-designer2,Microsoft Designer (Alt),false,,false,,false,false,true
+microsoft-teams,Microsoft Teams (Intelligence),false,,false,,false,false,false
+microsoft-vs-intellicode,Visual Studio IntelliCode,false,,false,,false,false,false
+midjourney,Midjourney,false,,false,,false,false,false
+milvus-copilot,Milvus Copilot,false,,false,,false,false,false
+mimic3,Mimic 3 (Mycroft),false,,false,,false,false,false
+mintlify-copilot,Mintlify Copilot,false,,false,,false,false,false
+mistral-codestral,Mistral — Codestral,false,,false,,false,false,false
+mlflow-copilot,MLflow + AI helpers,false,,false,,false,false,false
+mmhmm,mmhmm,false,,false,,false,false,false
+modal-ai,Modal + AI templates,false,,false,,false,false,false
+modal,Modal (image examples),false,,false,,false,false,false
+moderne,Moderne Platform,false,,false,,false,false,false
+mokker-ai,Mokker AI,false,,false,,false,false,true
+mokker,Mokker AI,false,,false,,false,false,false
+mongodb-copilot,MongoDB AI Copilot,false,,false,,false,false,false
+moovly-studio,Moovly Studio,false,,false,,false,false,false
+moovly,Moovly,false,,false,,false,false,false
+movavi-ai-video,Movavi AI Video,false,,false,,false,false,false
+movavi-video-editor,Movavi Video Editor (AI),false,,false,,false,false,false
+move-ai,Move.ai,false,,false,,false,false,false
+moveai-mocap,Move.ai Mocap,false,,false,,false,false,false
+moveai-motion,Move.ai Motion,false,,false,,false,false,false
+mozilla-tts,Mozilla TTS (archived),false,,false,,false,false,false
+ms-immersive-reader,Microsoft Immersive Reader,false,,false,,false,false,false
+munch-ai,Munch AI,false,,false,,false,false,false
+munch-clip,Munch Clips,false,,false,,false,false,false
+munch,Munch,false,,false,,false,false,false
+murf,Murf AI,false,,false,,false,false,false
+muse-ai,muse.ai,false,,false,,false,false,false
+mutableai,MutableAI,false,,false,,false,false,false
+mux,Mux,false,,false,,false,false,false
+myheritage-aim,MyHeritage — AI Time Machine,false,,false,,false,false,false
+myshell-openvoice,MyShell — OpenVoice,false,,false,,false,false,false
+n8n-ai,n8n + AI,false,,false,,false,false,false
+namecheap-logo,Namecheap Logo Maker,false,,false,,false,false,false
+narakeet,Narakeet,false,,false,,false,false,false
+narro,Narro,false,,false,,false,false,false
+naturalreaders,NaturalReader,false,,false,,false,false,false
+naver-clova-tts,NAVER Clova TTS,false,,false,,false,false,false
+nebuly-ai-image,Nebuly — AI Image,false,,false,,false,false,true
+neo-coder,Neo — code agent,false,,false,,false,false,false
+neo4j-copilot,Neo4j — Graph Copilot,false,,false,,false,false,false
+neon-ai-migrate,Neon — AI Migrate,false,,false,,false,false,false
+neon-copilot,Neon — SQL Copilot,false,,false,,false,false,false
+nero-ai,Nero AI Video Upscaler,false,,false,,false,false,false
+netbeans-ai,Apache NetBeans + AI plugins,false,,false,,false,false,false
+neural-canvas,Neural Canvas,false,,false,,false,false,true
+neural-love-image,neural.love — Images,false,,false,,false,false,false
+neural-love-video,neural.love — Video,false,,false,,false,false,false
+neural-love,neural.love,false,,false,,false,false,false
+neuralframes,Neural Frames,false,,false,,false,false,false
+newrelic-codestream-ai,New Relic CodeStream + AI,false,,false,,false,false,false
+nextup-textaloud,NextUp — TextAloud,false,,false,,false,false,false
+nightcafe-creator,NightCafe Creator,false,,false,,false,false,true
+nightcafe-studio,NightCafe Studio,false,,false,,false,false,true
+nightcafe,NightCafe,false,,false,,false,false,false
+nightcafe2,NightCafe (Alt),false,,false,,false,false,true
+nijijourney,niji・journey (by Spellbrush),false,,false,,false,false,false
+nikon-capture,Nikon — Capture NX (video),false,,false,,false,false,false
+nikon-nx-studio-video,Nikon — NX Studio (video),false,,false,,false,false,false
+notebooklm,Google — NotebookLM,false,,false,,false,false,false
+notevibes,Notevibes,false,,false,,false,false,false
+notta,Notta,false,,false,,false,false,false
+nova-ai-app,Nova A.I.,false,,false,,false,false,false
+nova-ai,Nova A.I.,false,,false,,false,false,false
+novelai-image,NovelAI Image,false,,false,,false,false,false
+novelai,NovelAI — Image Generation,false,,false,,false,false,false
+novita-ai,Novita AI,false,,false,,false,false,false
+nuance,Nuance (Microsoft),false,,false,,false,false,false
+numba-ai,Numba + AI patterns,false,,false,,false,false,false
+nvidia-broadcast,NVIDIA Broadcast,false,,false,,false,false,false
+nvidia-canvas,NVIDIA Canvas (GauGAN),false,,false,,false,false,false
+nvidia-maxine,NVIDIA Maxine,false,,false,,false,false,false
+nvidia-nemo-tts,NVIDIA NeMo — TTS,false,,false,,false,false,false
+nvidia-nim-code,NVIDIA NIM + code samples,false,,false,,false,false,false
+nvidia-riva-tts,NVIDIA Riva TTS,false,,false,,false,false,false
+oddcast,Oddcast TTS,false,,false,,false,false,false
+offeo,OFFEO,false,,false,,false,false,false
+openai-chatgpt,OpenAI — ChatGPT,false,,false,,false,false,false
+openai-dall-e-3,OpenAI DALL·E 3,false,,false,,false,false,true
+openai-dalle,OpenAI — DALL·E,false,,false,,false,false,false
+openai-images-api,OpenAI — Images API,false,,false,,false,false,false
+openai-images,OpenAI — Images API (DALL·E),false,,false,,false,false,false
+openai-sora,OpenAI — Sora,false,,false,,false,false,false
+openai-swiftagent,OpenAI SwiftAgent (example),false,,false,,false,false,false
+openai-tts,OpenAI TTS,false,,false,,false,false,false
+openart-2,OpenArt (Alt),false,,false,,false,false,true
+openart,OpenArt,false,,false,,false,false,false
+openbb-copilot,OpenBB Copilot,false,,false,,false,false,false
+opencut,Opencut.ai,false,,false,,false,false,false
+opendevin,OpenDevin,false,,false,,false,false,false
+openhands,OpenHands (All‑Hands),false,,false,,false,false,false
+openinterpreter,Open Interpreter,false,,false,,false,false,false
+openrefactory-autofix,OpenRefactory — Autonomic Code Repair,false,,false,,false,false,false
+openrouter-code,OpenRouter + code models,false,,false,,false,false,false
+openshot-ai-tools,OpenShot (with AI add‑ons),false,,false,,false,false,false
+openshot-ai,OpenShot (with AI add‑ons),false,,false,,false,false,false
+openshot-editor,OpenShot,false,,false,,false,false,false
+opentts,OpenTTS,false,,false,,false,false,false
+openvscode-copilot-ext,OpenVSCode (Copilot ext),false,,false,,false,false,false
+opus-clip-main,Opus Clip,false,,false,,false,false,false
+opus-clip-smart,Opus Clip — Smart B‑roll,false,,false,,false,false,false
+opus-clip-youtube,Opus Clip (YouTube),false,,false,,false,false,true
+opus-clip,Opus Clip,false,,false,,false,false,false
+opus-youtube,Opus for YouTube,false,,false,,false,false,false
+oracle-apex-ai,Oracle APEX + AI,false,,false,,false,false,false
+otter-ai,Otter.ai,false,,false,,false,false,false
+overflowai,Stack Overflow — OverflowAI,false,,false,,false,false,false
+oxolo-avatars,Oxolo Avatars,false,,false,,false,false,false
+oxolo,Oxolo,false,,false,,false,false,false
+paddlespeech-tts,PaddleSpeech — TTS,false,,false,,false,false,false
+paintschainer,PaintsChainer,false,,false,,false,false,false
+pallyy-video,Pallyy (video tools),false,,false,,false,false,false
+panopto,Panopto,false,,false,,false,false,false
+papercup-ai,Papercup,false,,false,,false,false,false
+papercup-localize,Papercup Localization,false,,false,,false,false,false
+papercup,Papercup,false,,false,,false,false,false
+parler-tts,Parler‑TTS (HF),false,,false,,false,false,false
+patterned-2,PatternedAI (Alt),false,,false,,false,false,true
+patterned-ai,PatternedAI,false,,false,,false,false,false
+pebblely-ai,Pebblely — Product Scenes,false,,false,,false,false,true
+pebblely,Pebblely,false,,false,,false,false,false
+pebblo,Pebblo (Protect AI),false,,false,,false,false,false
+peech-ai,Peech,false,,false,,false,false,false
+pencil-ads,Pencil Ads,false,,false,,false,false,false
+pencil,Pencil,false,,false,,false,false,false
+perplexity,Perplexity,false,,false,,false,false,false
+phind-ide,Phind IDE Beta,false,,false,,false,false,false
+phind,Phind,false,,false,,false,false,false
+photoai,PhotoAI,false,,false,,false,false,false
+photoaid-bg,PhotoAid — Background Remover,false,,false,,false,false,false
+photoaid,PhotoAid Background AI,false,,false,,false,false,true
+photokit,PhotoKit,false,,false,,false,false,false
+photoleap,Photoleap (Lightricks),false,,false,,false,false,false
+photopea-genfill,Photopea — Generative Fill,false,,false,,false,false,true
+photopea,Photopea (with AI features),false,,false,,false,false,false
+photoroom-ai,PhotoRoom — AI Backgrounds,false,,false,,false,false,true
+photoroom-backgrounds,PhotoRoom — AI Backgrounds,false,,false,,false,false,true
+photoroom-bg,PhotoRoom — Backgrounds (Alt),false,,false,,false,false,true
+photoroom,PhotoRoom,false,,false,,false,false,false
+photoscissors,PhotoScissors,false,,false,,false,false,false
+photoshop-generative-fill,Adobe Photoshop — Generative Fill,false,,false,,false,false,false
+photosink-ai,Photosink AI,false,,false,,false,false,true
+photosonic,Photosonic (Writesonic),false,,false,,false,false,false
+phygitalplus-ai,Phygital+ — Product Scenes,false,,false,,false,false,true
+phygitalplus,Phygital+ AI,false,,false,,false,false,false
+picsart-ai-image-generator,Picsart AI Image Generator,false,,false,,false,false,true
+picsart-ai-image,Picsart — AI Image Generator,false,,false,,false,false,false
+picsart-logo,Picsart — Logo Maker,false,,false,,false,false,true
+pictory-ai,Pictory AI,false,,false,,false,false,false
+pictory-highlights,Pictory Highlights,false,,false,,false,false,false
+pictory,Pictory,false,,false,,false,false,false
+pieces-copilot,Pieces for Developers,false,,false,,false,false,false
+pieces-for-developers,Pieces for Developers,false,,false,,false,false,true
+pika-style,Pika Styles,false,,false,,false,false,false
+pika,Pika,false,,false,,false,false,false
+pinecone-genkit,Pinecone — Genkit,false,,false,,false,false,false
+pink-ai,Pink AI — Product Photos,false,,false,,false,false,false
+pipedream-ai,Pipedream + AI,false,,false,,false,false,false
+piper,Piper TTS,false,,false,,false,false,false
+pipio,Pipio,false,,false,,false,false,false
+pirsonal,Pirsonal,false,,false,,false,false,false
+pixai,PixAI Art,false,,false,,false,false,false
+pixelbin,PixelBin.io,false,,false,,false,false,false
+pixelcut-upscale,Pixelcut — Upscaler,false,,false,,false,false,false
+pixelcut,Pixelcut,false,,false,,false,false,false
+pixelied,Pixelied (AI),false,,false,,false,false,false
+pixian-ai,Pixian.ai,false,,false,,false,false,false
+pixlr-2,Pixlr (Alt),false,,false,,false,false,true
+pixlr-ai-image,Pixlr — AI Image Generator,false,,false,,false,false,true
+pixlr-ai,Pixlr — AI Image Generator,false,,false,,false,false,false
+pixomatic-video,Pixomatic Video,false,,false,,false,false,false
+pixop,Pixop,false,,false,,false,false,false
+pixverse-discord,PixVerse (Discord),false,,false,,false,false,false
+pixverse,PixVerse,false,,false,,false,false,false
+plainlyvideos,Plainly Videos,false,,false,,false,false,false
+plandex,Plandex,false,,false,,false,false,false
+plask-mocap,Plask Mocap,false,,false,,false,false,false
+plask-motion,Plask Motion,false,,false,,false,false,false
+plask,Plask,false,,false,,false,false,false
+playform-art,Playform — AI Art,false,,false,,false,false,false
+playform,Playform,false,,false,,false,false,false
+playground-ai,Playground AI,false,,false,,false,false,false
+playgroundai,Playground AI,false,,false,,false,false,false
+playht,Play.ht,false,,false,,false,false,false
+playplay,PlayPlay,false,,false,,false,false,false
+playposit,PlayPosit,false,,false,,false,false,false
+playwright-codemods,Microsoft — Playwright Codemods,false,,false,,false,false,false
+polarr-copilot,Polarr Copilot,false,,false,,false,false,false
+pollinations-studio,Pollinations — Studio,false,,false,,false,false,false
+pollinations,Pollinations.ai,false,,false,,false,false,false
+polly-brandvoice,Amazon Polly — BrandVoice,false,,false,,false,false,false
+polycam-skybox,Polycam — Skybox AI,false,,false,,false,false,false
+ponicode-legacy,"Ponicode (legacy, Codeium)",false,,false,,false,false,false
+postman-ai,Postman — AI,false,,false,,false,false,false
+powerdirector-ai,PowerDirector (AI),false,,false,,false,false,false
+powtoon-ai,Powtoon AI,false,,false,,false,false,false
+powtoon-enterprise,Powtoon Enterprise,false,,false,,false,false,false
+powtoon,Powtoon,false,,false,,false,false,false
+prefect-copilot,Prefect Copilot,false,,false,,false,false,false
+prefect-ops-ai,Prefect Ops + AI,false,,false,,false,false,false
+premiere-rush,Adobe Premiere Rush,false,,false,,false,false,false
+prisma-copilot,Prisma Copilot (preview),false,,false,,false,false,false
+prisma,Prisma,false,,false,,false,false,false
+prodia,Prodia,false,,false,,false,false,false
+profilepicture-ai,ProfilePicture.AI,false,,false,,false,false,false
+promo-ai-suite,Promo AI Suite,false,,false,,false,false,false
+promo,Promo.com,false,,false,,false,false,false
+prophotos,ProPhotos AI,false,,false,,false,false,false
+pycharm-ai-assistant,PyCharm AI Assistant,false,,false,,false,false,false
+qlip,Qlip.ai,false,,false,,false,false,false
+quickvid-ai,QuickVid AI,false,,false,,false,false,false
+quickvid,QuickVid.ai,false,,false,,false,false,false
+quik-ai,GoPro Quik (AI),false,,false,,false,false,false
+quinvio,Quinvio AI,false,,false,,false,false,false
+qumu-pansonic,Qumu (Enghouse),false,,false,,false,false,false
+qwen-coder,Qwen2.5‑Coder,false,,false,,false,false,false
+r2devops-ai,R2Devops + AI,false,,false,,false,false,false
+radical-mocap,RADiCAL Motion,false,,false,,false,false,false
+radical-motion,RADiCAL Motion,false,,false,,false,false,false
+railway-ai,Railway AI,false,,false,,false,false,false
+railway-gpt,Railway GPT,false,,false,,false,false,false
+rapidapi-ai,Rapid — AI Hub,false,,false,,false,false,false
+rask-ai,Rask AI,false,,false,,false,false,false
+rask-localize,Rask Localization,false,,false,,false,false,false
+rawshorts-ai,Raw Shorts,false,,false,,false,false,false
+rawshorts,Raw Shorts,false,,false,,false,false,false
+raycast-ai,Raycast AI,false,,false,,false,false,false
+readaloud,Read Aloud (Extension),false,,false,,false,false,false
+readspeaker-embedded,ReadSpeaker Embedded,false,,false,,false,false,false
+readspeaker-speechmaker,ReadSpeaker — SpeechMaker,false,,false,,false,false,false
+readspeaker-voicelab,ReadSpeaker VoiceLab,false,,false,,false,false,false
+readspeaker-webreader,ReadSpeaker — webReader,false,,false,,false,false,false
+readspeaker,ReadSpeaker,false,,false,,false,false,false
+recast-studio,Recast Studio,false,,false,,false,false,false
+recraft-2,Recraft (Alt),false,,false,,false,false,true
+recraft-ai,Recraft AI,false,,false,,false,false,false
+redact-video,Reduct.Video,false,,false,,false,false,false
+redhat-lightspeed,Red Hat Ansible Lightspeed,false,,false,,false,false,false
+redis-copilot,Redis Copilot,false,,false,,false,false,false
+reface,Reface,false,,false,,false,false,false
+refact,Refact.ai,false,,false,,false,false,false
+reimaginehome,REimagine Home,false,,false,,false,false,false
+relaythat-ai-2,RelayThat — AI (Alt),false,,false,,false,false,true
+relaythat-ai-image,RelayThat — AI Image,false,,false,,false,false,true
+relaythat-ai,RelayThat — AI Art,false,,false,,false,false,false
+remini-video,Remini (Video Enhance),false,,false,,false,false,false
+remini,Remini,false,,false,,false,false,false
+removal-ai,Removal.AI,false,,false,,false,false,false
+remove-ai,Remove.ai,false,,false,,false,false,false
+remove-watermark,WatermarkRemover.io,false,,false,,false,false,false
+removeai-art,Removal.AI — Art & BG,false,,false,,false,false,true
+removebg-api,remove.bg API,false,,false,,false,false,false
+removebg,remove.bg,false,,false,,false,false,false
+removeit-bg,HitPaw Background Remover,false,,false,,false,false,false
+render-ai,Render + AI,false,,false,,false,false,false
+renderforest-2,Renderforest (Alt),false,,false,,false,false,true
+renderforest-ai-image,Renderforest — AI Image,false,,false,,false,false,false
+rendernet-2,RenderNet AI (Alt entry),false,,false,,false,false,true
+rendernet-ai,RenderNet AI,false,,false,,false,false,false
+rendernet,RenderNet AI,false,,false,,false,false,true
+rephrase-studio-legacy,Rephrase Studio (legacy),false,,false,,false,false,false
+rephrase-studio,Rephrase Studio,false,,false,,false,false,false
+rephrase,Rephrase.ai,false,,false,,false,false,true
+replica-studios,Replica Studios,false,,false,,false,false,false
+replicate,Replicate (image models),false,,false,,false,false,false
+replit-agent,Replit Agent,false,,false,,false,false,true
+replit-ai,Replit AI (Ghostwriter),false,,false,,false,false,false
+repper,Repper (Patterns),false,,false,,false,false,false
+rerender,ReRender AI,false,,false,,false,false,false
+resemble-dubbing,Resemble AI Dubbing,false,,false,,false,false,false
+resemblefx,Supertone (By HYBE),false,,false,,false,false,false
+respeecher,Respeecher,false,,false,,false,false,false
+responsivevoice,ResponsiveVoice,false,,false,,false,false,false
+ressemble,Resemble AI,false,,false,,false,false,false
+retool-ai,Retool AI,false,,false,,false,false,false
+rev,Rev.com,false,,false,,false,false,false
+reverie-tts,Reverie — TTS,false,,false,,false,false,false
+revid-ai,Revid AI,false,,false,,false,false,false
+reviewpad,Reviewpad (AI),false,,false,,false,false,false
+revocalize,Revoicer,false,,false,,false,false,false
+rhvoice,RHVoice,false,,false,,false,false,false
+rife-ncnn,RIFE (apps),false,,false,,false,false,false
+riverside-magicclips,Riverside Magic Clips,false,,false,,false,false,false
+riverside,Riverside,false,,false,,false,false,false
+robocorp-lab-ai,Robocorp Lab + AI,false,,false,,false,false,false
+rocketium,Rocketium,false,,false,,false,false,false
+rokoko-video,Rokoko Video,false,,false,,false,false,false
+rokoko-vision,Rokoko Vision,false,,false,,false,false,false
+rokoko-vision2,Rokoko Vision (Alt),false,,false,,false,false,false
+roo-code,Roo Code,false,,false,,false,false,false
+roomgpt,RoomGPT,false,,false,,false,false,false
+rotor-videos,Rotor Videos,false,,false,,false,false,false
+rundiffusion,RunDiffusion,false,,false,,false,false,false
+runpod,RunPod (image endpoints),false,,false,,false,false,false
+runway-api,Runway API,false,,false,,false,false,false
+runway-background,Runway Background,false,,false,,false,false,false
+runway-gen3,Runway Gen-3,false,,false,,false,false,false
+runway-green-screen,Runway — Green Screen,false,,false,,false,false,false
+runway-inpaint,Runway Inpainting,false,,false,,false,false,false
+runway-interp,Runway Frame Interpolation,false,,false,,false,false,false
+runway-motion,Runway Motion Brush,false,,false,,false,false,false
+runway,Runway — Gen‑3,false,,false,,false,false,false
+safedep-ai,SafeDep + AI,false,,false,,false,false,false
+safurai,Safurai,false,,false,,false,false,false
+sap-build-code,SAP Build Code (Joule),false,,false,,false,false,false
+scenario-gg,Scenario — Game Asset Generator,false,,false,,false,false,false
+scenario,Scenario,false,,false,,false,false,false
+screenflow-ai,ScreenFlow (AI),false,,false,,false,false,false
+screenflow,ScreenFlow,false,,false,,false,false,false
+screenity,Screenity,false,,false,,false,false,false
+screenpal,ScreenPal (formerly Screencast‑O‑Matic),false,,false,,false,false,false
+scribe-ai,Scribe AI,false,,false,,false,false,false
+scribe-intelligence,Scribe Intelligence,false,,false,,false,false,false
+scribehow,Scribe,false,,false,,false,false,false
+seaart,SeaArt AI,false,,false,,false,false,false
+secta-ai,Secta AI (Headshots),false,,false,,false,false,false
+secta,Secta AI,false,,false,,false,false,false
+semaphore-ai,Semaphore + AI,false,,false,,false,false,false
+sendspark,Sendspark,false,,false,,false,false,false
+sentry-autofix,Sentry — AI Autofix,false,,false,,false,false,false
+sentry-codemap,Sentry Code Maps + AI,false,,false,,false,false,false
+sestek-tts,SESTEK TTS,false,,false,,false,false,false
+shakr,Shakr,false,,false,,false,false,false
+shotcut-ai,Shotcut (with AI plugins),false,,false,,false,false,false
+shotcut-editor,Shotcut,false,,false,,false,false,false
+shotrate,ShotRate (AI),false,,false,,false,false,false
+shotstack-hq,Shotstack HQ,false,,false,,false,false,false
+shotstack,Shotstack,false,,false,,false,false,false
+shuffll,Shuffll,false,,false,,false,false,false
+shutterstock-ai-image-generator,Shutterstock AI Image Generator,false,,false,,false,false,true
+shutterstock-ai,Shutterstock — AI Image Generator,false,,false,,false,false,false
+shutterstock-generate,Shutterstock — Generate,false,,false,,false,false,false
+silero-tts,Silero TTS,false,,false,,false,false,false
+simon-says,Simon Says,false,,false,,false,false,false
+simplified-ai-image,Simplified — AI Image Generator,false,,false,,false,false,false
+simplified-image,Simplified — AI Image,false,,false,,false,false,false
+simplified-video,Simplified — Video,false,,false,,false,false,false
+simplified,Simplified (Video AI),false,,false,,false,false,true
+sitepal,SitePal (Oddcast),false,,false,,false,false,false
+slazzer-api,Slazzer API,false,,false,,false,false,false
+slazzer,Slazzer,false,,false,,false,false,false
+smartly-creative,Smartly.io Creative,false,,false,,false,false,false
+smartly-io-video,Smartly.io — Video,false,,false,,false,false,false
+smesh-labs,SMPLer / Smesh Labs,false,,false,,false,false,false
+smol-developer,smol‑developer,false,,false,,false,false,false
+snapedit,SnapEdit,false,,false,,false,false,false
+snapied,Snapied (AI),false,,false,,false,false,false
+snappa-ai-image,Snappa — AI Image,false,,false,,false,false,true
+snappa-ai,Snappa — AI Image,false,,false,,false,false,false
+snappa-logo,Snappa — Logo Maker,false,,false,,false,false,true
+snapy,Snapy.ai,false,,false,,false,false,false
+snowflake-cortex-analyst,Snowflake — Cortex Analyst,false,,false,,false,false,false
+snyk-code-ai,Snyk Code (AI),false,,false,,false,false,false
+sonantic,Sonantic (Spotify),false,,false,,false,false,false
+sonar-ai,Sonar — Clean Code AI,false,,false,,false,false,false
+sonatype-lift-ai,Sonatype Lift + AI,false,,false,,false,false,false
+sonix,Sonix,false,,false,,false,false,false
+sony-catalyst,Sony — Catalyst,false,,false,,false,false,false
+sora,OpenAI — Sora,false,,false,,false,false,false
+sourcegraph-amp,Sourcegraph Amp,false,,false,,false,false,true
+sourcegraph-batch-changes,Sourcegraph Batch Changes,false,,false,,false,false,false
+sourcegraph-cody,Sourcegraph Cody,false,,false,,false,false,false
+sourcerer-oss,OpenSSF Scorecard + AI (ecosystem),false,,false,,false,false,false
+sourcery,Sourcery,false,,false,,false,false,true
+specterr,Specterr,false,,false,,false,false,false
+speech-central,Speech Central,false,,false,,false,false,false
+speechelo,Speechelo,false,,false,,false,false,false
+speechgen,SpeechGen.io,false,,false,,false,false,false
+speechify,Speechify,false,,false,,false,false,false
+speechki,Speechki,false,,false,,false,false,false
+speechlab,SpeechLab,false,,false,,false,false,false
+speechmax,SpeechMax,false,,false,,false,false,false
+spike-dubbing,Spikelang Dubbing,false,,false,,false,false,false
+splice-ai,Splice (AI),false,,false,,false,false,false
+splice-editor,Splice (AI),false,,false,,false,false,false
+splice-mobile,Splice Mobile,false,,false,,false,false,false
+splice,Splice,false,,false,,false,false,false
+spokestack-tts,Spokestack — TTS,false,,false,,false,false,false
+sproutvideo,SproutVideo,false,,false,,false,false,false
+squadcast,SquadCast (by Descript),false,,false,,false,false,false
+ssemble,Ssemble,false,,false,,false,false,false
+stability-ai-stable-diffusion,Stability AI — Stable Diffusion,false,,false,,false,false,true
+stability-ai,Stability AI — Stable Diffusion,false,,false,,false,false,false
+stability-api,Stability AI — API,false,,false,,false,false,false
+stability-dreamstudio,Stability AI — DreamStudio,false,,false,,false,false,false
+stability-stablecode,Stability — StableCode,false,,false,,false,false,false
+stability-svd,Stability — Stable Video Diffusion,false,,false,,false,false,false
+stability-video,Stability AI — Stable Video,false,,false,,false,false,false
+stablecog,Stablecog,false,,false,,false,false,false
+stablediffusionweb,StableDiffusionWeb,false,,false,,false,false,false
+stackblitz-bolt,StackBlitz — Bolt.new,false,,false,,false,false,false
+starforge,Starforge AI,false,,false,,false,false,false
+starryai,StarryAI,false,,false,,false,false,false
+steve-ai,Steve AI,false,,false,,false,false,false
+stockimg-2,Stockimg.ai (Alt),false,,false,,false,false,true
+stockimg-ai,Stockimg AI,false,,false,,false,false,false
+stockimg-logos,Stockimg — Logo Generator,false,,false,,false,false,false
+stockphotos-ai,StockPhotos AI,false,,false,,false,false,false
+stoplight-ai,Stoplight + AI,false,,false,,false,false,false
+storyboardthat,Storyboard That,false,,false,,false,false,false
+storykit-ai,Storykit,false,,false,,false,false,false
+storykit,Storykit,false,,false,,false,false,false
+storyprompt,StoryPrompt,false,,false,,false,false,false
+storyteq,Storyteq,false,,false,,false,false,false
+storyxpress,StoryXpress,false,,false,,false,false,false
+streamlabs-podcast-editor,Streamlabs Podcast Editor,false,,false,,false,false,false
+stryker-mutator-ai,Stryker Mutator + AI,false,,false,,false,false,false
+studioshot,StudioShot AI,false,,false,,false,false,false
+stylized,Stylized.ai,false,,false,,false,false,false
+subly,Subly,false,,false,,false,false,false
+submagic,Submagic,false,,false,,false,false,false
+subtitle-edit-pro,Subtitle Edit Pro,false,,false,,false,false,false
+subtitle-submagic,Submagic,false,,false,,false,false,false
+subtitlebee,SubtitleBee,false,,false,,false,false,false
+sundaysky,SundaySky,false,,false,,false,false,false
+supabase-ai,Supabase AI,false,,false,,false,false,false
+supabase-studio-ai,Supabase Studio + AI,false,,false,,false,false,false
+superblocks-copilot,Superblocks Copilot,false,,false,,false,false,false
+supercreator,Supercreator.ai,false,,false,,false,false,false
+supermaven,Supermaven,false,,false,,false,false,false
+supertranslate,Supertranslate,false,,false,,false,false,false
+svgator-ai,SVGator (AI),false,,false,,false,false,false
+swe-agent,SWE‑agent,false,,false,,false,false,false
+sweep-ai,Sweep AI,false,,false,,false,false,false
+swimm-ai,Swimm AI,false,,false,,false,false,false
+synthesia-localize,Synthesia Translate,false,,false,,false,false,false
+synthesia-studio,Synthesia Studio,false,,false,,false,false,false
+synthesia,Synthesia,false,,false,,false,false,false
+synthesys-avatar,Synthesys Avatars,false,,false,,false,false,false
+synthesys-studio,Synthesys Studio,false,,false,,false,false,false
+synthesys-voice,Synthesys — AI Voiceover,false,,false,,false,false,false
+synthesys,Synthesys,false,,false,,false,false,false
+synths-video,Synths.Video,false,,false,,false,false,false
+tabbyml,TabbyML,false,,false,,false,false,false
+tabnine,Tabnine,false,,false,,false,false,true
+tailorbrands-logo,Tailor Brands — Logo Maker,false,,false,,false,false,false
+tailorbrands,Tailor Brands,false,,false,,false,false,false
+tavus,Tavus,false,,false,,false,false,false
+techsmith-audiate,TechSmith Audiate,false,,false,,false,false,false
+teleporthq-ai,TeleportHQ,false,,false,,false,false,false
+tella,Tella,false,,false,,false,false,false
+temporal-ai,Temporal + AI,false,,false,,false,false,false
+tencent-tts,Tencent Cloud — TTS,false,,false,,false,false,false
+tensor-art,Tensor.Art,false,,false,,false,false,false
+tensorflowtts,TensorFlowTTS,false,,false,,false,false,false
+testim-ai,Testim (Tricentis) — AI tests,false,,false,,false,false,false
+text2speech-org,Text2Speech.org,false,,false,,false,false,false
+texthelp-readwrite,Texthelp — Read&Write,false,,false,,false,false,false
+textures-com-ai,Textures.com — AI,false,,false,,false,false,false
+theinpaint,Inpaint,false,,false,,false,false,false
+thinkdiffusion,ThinkDiffusion,false,,false,,false,false,false
+tilemaker-ai,TileMaker AI,false,,false,,false,false,false
+timebolt,TimeBolt,false,,false,,false,false,false
+timescaledb-ai,Timescale + AI,false,,false,,false,false,false
+tinkoff-voicekit-tts,Tinkoff VoiceKit — TTS,false,,false,,false,false,false
+tl;dv-ai,tl;dv AI,false,,false,,false,false,false
+tl;dv,tl;dv,false,,false,,false,false,false
+toonly-app,Toonly,false,,false,,false,false,false
+toonme,ToonMe,false,,false,,false,false,false
+topaz-chronos,Topaz Chronos (in Video AI),false,,false,,false,false,false
+topaz-gigapixel-ai,Topaz Gigapixel AI,false,,false,,false,false,false
+topaz-gigapixel,Topaz Gigapixel AI,false,,false,,false,false,false
+topaz-photo-ai,Topaz Photo AI,false,,false,,false,false,false
+topaz-video-ai,Topaz Video AI,false,,false,,false,false,false
+trace-api,Trace API (Kaleido),false,,false,,false,false,false
+trace-clippingmagic,Clipping Magic,false,,false,,false,false,false
+trace-stickermule,Sticker Mule — Trace,false,,false,,false,false,false
+trinity-audio,Trinity Audio,false,,false,,false,false,false
+trint,Trint,false,,false,,false,false,false
+triton-ai,OpenAI Triton + helpers,false,,false,,false,false,false
+trunk-merge,Trunk Merge (with AI),false,,false,,false,false,false
+tryiton,Try It On AI,false,,false,,false,false,false
+tryitonai,TryItOn AI,false,,false,,false,false,false
+ttscloud,TTS Cloud (Japan),false,,false,,false,false,false
+ttsfree,TTSFree,false,,false,,false,false,false
+ttsmaker,TTSMaker,false,,false,,false,false,false
+ttsmp3,TTSMP3,false,,false,,false,false,false
+ttsreader,TTSReader,false,,false,,false,false,false
+tubebuddy-gen,TubeBuddy (AI),false,,false,,false,false,false
+tubics,Tubics,false,,false,,false,false,false
+turbologo,Turbologo,false,,false,,false,false,false
+twilio-video,Twilio Programmable Video,false,,false,,false,false,false
+type-studio,Type Studio,false,,false,,false,false,false
+typecast,Typecast,false,,false,,false,false,false
+uberduck,Uberduck,false,,false,,false,false,false
+uizard-ai,Uizard AI,false,,false,,false,false,false
+unrealspeech,UnrealSpeech,false,,false,,false,false,false
+unscreen-app,Unscreen,false,,false,,false,false,false
+unscreen-bg,Unscreen BG,false,,false,,false,false,false
+unscreen,Unscreen,false,,false,,false,false,false
+upscale-media,Upscale.media,false,,false,,false,false,false
+upscayl,Upscayl,false,,false,,false,false,false
+vana-portrait,Vana Portrait,false,,false,,false,false,false
+vanceai-2,VanceAI (Alt),false,,false,,false,false,true
+vanceai-art,VanceAI — AI Art Generator,false,,false,,false,false,true
+vanceai-image,VanceAI — Image Generator,false,,false,,false,false,true
+vanceai,VanceAI,false,,false,,false,false,false
+vectorart-ai,VectorArt.ai,false,,false,,false,false,false
+vectorizer-ai,Vectorizer.AI,false,,false,,false,false,false
+vectormagic,Vector Magic,false,,false,,false,false,false
+vectornator-linearity,Linearity Curve (Vectornator),false,,false,,false,false,false
+vedia-ai,Vedia AI,false,,false,,false,false,false
+veed-ai-2,VEED — AI Image (Alt),false,,false,,false,false,true
+veed-ai-image,VEED — AI Image Generator,false,,false,,false,false,false
+veed-ai,VEED AI,false,,false,,false,false,false
+veed-transcript-cleaner,VEED Transcript Cleaner,false,,false,,false,false,false
+veed-translator,VEED AI Translate,false,,false,,false,false,false
+veed-visualizer,VEED Music Visualizer,false,,false,,false,false,false
+veed,VEED.io,false,,false,,false,false,false
+veedeo-subtitles,Veed.io Subtitles,false,,false,,false,false,false
+vegas-pro-ai,VEGAS Pro (AI),false,,false,,false,false,false
+vegas-pro,VEGAS Pro (AI),false,,false,,false,false,false
+verbatik,Verbatik,false,,false,,false,false,false
+verbio-tts,Verbio — TTS,false,,false,,false,false,false
+verbit,Verbit,false,,false,,false,false,false
+vercel-v0,Vercel v0,false,,false,,false,false,false
+veritone-voice,Veritone Voice,false,,false,,false,false,false
+vertex-ai-imagen,Google Vertex AI — Imagen,false,,false,,false,false,false
+vertexai-code,Google Vertex AI + Code,false,,false,,false,false,false
+vidboard,VidBoard.ai,false,,false,,false,false,false
+vidby,Vidby,false,,false,,false,false,false
+viddyoze,Viddyoze,false,,false,,false,false,false
+videate,Videate,false,,false,,false,false,false
+videobolt,Videobolt,false,,false,,false,false,false
+videocompressor-uni,Wondershare UniConverter (AI),false,,false,,false,false,false
+videofx,VideoFX (Lightricks),false,,false,,false,false,false
+videoleap-editor,Videoleap (AI),false,,false,,false,false,false
+videoleap,Videoleap (Lightricks),false,,false,,false,false,false
+vidiq-ai-videos,vidIQ AI Videos,false,,false,,false,false,false
+vidiq-gen,vidIQ (AI),false,,false,,false,false,false
+vidizmo,VIDIZMO,false,,false,,false,false,false
+vidnoz,Vidnoz AI,false,,false,,false,false,false
+vidyard-ai-assist,Vidyard AI Assist,false,,false,,false,false,false
+vidyard-personalized,Vidyard — Personalized Video,false,,false,,false,false,false
+vidyard-studio,Vidyard Studio,false,,false,,false,false,false
+vidyard,Vidyard,false,,false,,false,false,false
+vidyo-ai,Vidyo.ai,false,,false,,false,false,false
+vidyo,Vidyo.ai,false,,false,,false,false,false
+viggle,Viggle AI,false,,false,,false,false,false
+vimeo-ai,Vimeo — AI,false,,false,,false,false,false
+vimeo-create-ai,Vimeo Create AI,false,,false,,false,false,false
+virbo-studio,Virbo Studio,false,,false,,false,false,false
+visla,Visla,false,,false,,false,false,false
+visme-ai-image,Visme — AI Image Generator,false,,false,,false,false,false
+visme-design,Visme — Design (AI),false,,false,,false,false,false
+vistacreate-ai,VistaCreate — AI Image Generator,false,,false,,false,false,false
+visualhound,VisualHound,false,,false,,false,false,false
+vizard-ai,Vizard AI,false,,false,,false,false,false
+vizard,Vizard,false,,false,,false,false,false
+vlc-subtitle-gen,VLC (extensions),false,,false,,false,false,false
+vlipsy,VLIPSY (clip maker),false,,false,,false,false,false
+vllo,VLLO,false,,false,,false,false,false
+vmake,Vmake AI,false,,false,,false,false,false
+vn-editor,VN Video Editor,false,,false,,false,false,false
+vocalid,VocaliD,false,,false,,false,false,false
+vocalvideo,Vocal Video,false,,false,,false,false,false
+vocalware,Vocalware,false,,false,,false,false,false
+voice-dream-reader,Voice Dream Reader,false,,false,,false,false,false
+voiceloft,Voiceloft,false,,false,,false,false,false
+voicemaker,Voicemaker,false,,false,,false,false,false
+voicemod-tts,Voicemod — Text to Voice,false,,false,,false,false,false
+voiceovermaker,VoiceOverMaker,false,,false,,false,false,false
+voicerss,VoiceRSS,false,,false,,false,false,false
+voicery,Voicery,false,,false,,false,false,false
+voicevox,VOICEVOX,false,,false,,false,false,false
+voiser,Voiser,false,,false,,false,false,false
+voisey,Voiseed (now Aflorithmic partner),false,,false,,false,false,false
+vonage-video,Vonage Video API,false,,false,,false,false,false
+voxygen-embedded,Voxygen Embedded,false,,false,,false,false,false
+voxygen,Voxygen,false,,false,,false,false,false
+vrew-ai,Vrew,false,,false,,false,false,false
+vrew-editor,Vrew,false,,false,,false,false,false
+vtube-studio,VTube Studio,false,,false,,false,false,false
+vyond-enterprise,Vyond,false,,false,,false,false,false
+vyond,Vyond,false,,false,,false,false,false
+waifu2x-io,waifu2x.io,false,,false,,false,false,false
+waifu2x-net,waifu2x.net,false,,false,,false,false,false
+waifu2x-pro,waifu2x.pro,false,,false,,false,false,false
+waifulabs,Waifu Labs,false,,false,,false,false,false
+warp-ai,Warp AI,false,,false,,false,false,false
+wave-video,Wave.video,false,,false,,false,false,false
+wavel-ai,Wavel AI (Video),false,,false,,false,false,true
+wavel-dubbing,Wavel — Dubbing,false,,false,,false,false,false
+wavel-localize,Wavel Localization,false,,false,,false,false,false
+wavel-tts,Wavel — Text to Speech,false,,false,,false,false,false
+wavel,Wavel AI,false,,false,,false,false,false
+wavevideo-ai,Wave.video AI,false,,false,,false,false,false
+waymark,Waymark,false,,false,,false,false,false
+weaviate-coder,Weaviate — dev tools,false,,false,,false,false,false
+websitevoice,WebsiteVoice,false,,false,,false,false,false
+weights-biases-ai,Weights & Biases + AI,false,,false,,false,false,false
+wellsaid-labs,WellSaid Labs,false,,false,,false,false,false
+wellsaidlabs-api,WellSaid Labs API,false,,false,,false,false,false
+wevideo-ai,WeVideo AI,false,,false,,false,false,false
+wevideo,WeVideo,false,,false,,false,false,false
+windmill-ai,Windmill AI,false,,false,,false,false,false
+windmill-openai-copilot,OpenAI + Windmill templates,false,,false,,false,false,false
+windsurf-ai,Windsurf (Codeium IDE),false,,false,,false,false,false
+windsurf,Windsurf (by Codeium),false,,false,,false,false,true
+wisecut-ai,Wisecut AI Tools,false,,false,,false,false,false
+wisecut-app,Wisecut,false,,false,,false,false,false
+wisecut-studio,Wisecut Studio,false,,false,,false,false,false
+wisecut-yt,Wisecut (YouTube),false,,false,,false,false,false
+wisecut,Wisecut,false,,false,,false,false,false
+wistia-studio,Wistia Studio,false,,false,,false,false,false
+wistia,Wistia,false,,false,,false,false,false
+wix-logo-maker,Wix Logo Maker,false,,false,,false,false,false
+wizardcoder,WizardCoder,false,,false,,false,false,false
+wombo-dream,Dream by WOMBO,false,,false,,false,false,false
+wombo2,Dream by WOMBO (Alt),false,,false,,false,false,true
+wonder-studio,Wonder Studio (Wonder Dynamics),false,,false,,false,false,false
+wondershare-democreator,Wondershare DemoCreator (AI),false,,false,,false,false,false
+wondershare-virbo,Wondershare Virbo,false,,false,,false,false,false
+woochit,Wochit,false,,false,,false,false,false
+woord,Woord,false,,false,,false,false,false
+wowto,WowTo,false,,false,,false,false,false
+writesonic-photosonic,Photosonic (Writesonic),false,,false,,false,false,false
+wsc-sports,WSC Sports,false,,false,,false,false,false
+xata-copilot,Xata — AI SQL Copilot,false,,false,,false,false,false
+xpression-camera,Xpression Camera,false,,false,,false,false,false
+xsplit-vcam,XSplit VCam,false,,false,,false,false,false
+yandex-speechkit,Yandex SpeechKit TTS,false,,false,,false,false,false
+yepic-studio,Yepic Studio,false,,false,,false,false,false
+yepic,Yepic AI,false,,false,,false,false,false
+youcam-perfect,YouCam Perfect (AI),false,,false,,false,false,false
+youcut,YouCut,false,,false,,false,false,false
+zapier-central,Zapier Central (AI),false,,false,,false,false,false
+zebrium-ai,Zebrium + AI (logs to fixes),false,,false,,false,false,false
+zed-ai,Zed — AI Assist,false,,false,,false,false,false
+zeemo,Zeemo,false,,false,,false,false,false
+zegocloud,ZEGOCLOUD,false,,false,,false,false,false
+zencastr-video,Zencastr Video,false,,false,,false,false,false
+zencoder-aws,AWS Elemental MediaConvert,false,,false,,false,false,false
+zight,Zight (CloudApp),false,,false,,false,false,false
+zmo-ai,ZMO.ai,false,,false,,false,false,false
+zoom-ai,Zoom (AI features),false,,false,,false,false,false
+zubtitle-app,Zubtitle,false,,false,,false,false,false
+zubtitle,Zubtitle,false,,false,,false,false,false

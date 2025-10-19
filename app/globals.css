@@ -1,0 +1,154 @@
+/* app/globals.css */
+
+/* Tailwind layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* -------------------------------------------------
+   Base theme + typography
+-------------------------------------------------- */
+:root {
+  /* Let native UI (inputs, scrollbars) adapt to theme */
+  color-scheme: light dark;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  @apply min-h-screen bg-white text-gray-900 antialiased dark:bg-zinc-950 dark:text-zinc-100;
+}
+
+/* Improve default link behavior */
+a {
+  @apply underline-offset-2;
+}
+a:hover {
+  @apply underline;
+}
+
+/* Make selections readable in both themes */
+::selection {
+  @apply bg-black text-white dark:bg-zinc-100 dark:text-zinc-900;
+}
+
+/* Accessible focus style (only when keyboarding) */
+:focus-visible {
+  @apply outline-none ring-2 ring-offset-2 ring-gray-900 ring-offset-white
+         dark:ring-zinc-200 dark:ring-offset-zinc-950;
+}
+
+/* Images + embeds */
+img {
+  @apply select-none;
+  image-rendering: auto;
+}
+iframe {
+  border: 0;
+}
+
+/* -------------------------------------------------
+   Utilities
+-------------------------------------------------- */
+
+/* Small-caps utility:
+   Write text as lowercase in markup; this styles it with small-caps
+   (first letters appear slightly larger than the rest). */
+.small-caps {
+  font-variant-caps: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 0.015em;
+}
+
+/* Container padding helper (optional) */
+.container-px {
+  @apply px-4 sm:px-6 lg:px-8;
+}
+
+/* Visually hidden but accessible (Tailwind has sr-only, this keeps parity) */
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+/* -------------------------------------------------
+   Scrollbar (subtle) — modern browsers
+-------------------------------------------------- */
+* {
+  scrollbar-width: thin;                 /* Firefox */
+  scrollbar-color: #d4d4d8 transparent;  /* zinc-300 on light */
+}
+.dark * {
+  scrollbar-color: #52525b transparent;  /* zinc-600 on dark */
+}
+
+/* WebKit scrollbars */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 9999px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* -------------------------------------------------
+   Prose tweaks (if you use @tailwindcss/typography)
+-------------------------------------------------- */
+.prose :where(h1, h2, h3, h4) {
+  @apply scroll-mt-24;
+}
+.prose :where(a) {
+  @apply text-blue-600 underline-offset-2 hover:underline dark:text-blue-400;
+}
+.prose :where(code) {
+  @apply rounded bg-zinc-100 px-1 py-0.5 text-zinc-900 dark:bg-zinc-800 dark:text-zinc-100;
+}
+
+/* -------------------------------------------------
+   Card + Button helpers (optional, used by some UI)
+-------------------------------------------------- */
+.card {
+  @apply rounded-2xl border bg-white shadow-sm border-gray-200
+         dark:bg-zinc-900 dark:border-zinc-800;
+}
+.card-hover:hover {
+  transition: transform 150ms, box-shadow 150ms;
+  @apply -translate-y-1 shadow-lg ring-2 ring-gray-900/5 dark:ring-zinc-100/10;
+}
+
+.btn-solid {
+  @apply inline-flex items-center rounded-lg px-3 py-1.5 text-sm
+         bg-gray-900 text-white hover:bg-black
+         dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white;
+}
+.btn-outline {
+  @apply inline-flex items-center rounded-lg px-3 py-1.5 text-sm
+         border border-gray-200 text-gray-700 hover:bg-gray-100
+         dark:border-zinc-800 dark:text-zinc-300 dark:hover:bg-zinc-800;
+}
+
+/* -------------------------------------------------
+   Motion preference
+-------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

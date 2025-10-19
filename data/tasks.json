@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "remove-background",
+    "name": "Remove Background",
+    "description": "Cut out backgrounds from photos automatically."
+  },
+  {
+    "slug": "transcribe-audio",
+    "name": "Transcribe Audio",
+    "description": "Turn speech into text accurately."
+  },
+  {
+    "slug": "create-pitch-deck",
+    "name": "Create Pitch Deck",
+    "description": "Generate slides and storylines."
+  },
+  {
+    "slug": "generate-code",
+    "name": "Generate Code",
+    "description": "Produce functions, tests, and snippets."
+  },
+  {
+    "slug": "summarize-text",
+    "name": "Summarize Text",
+    "description": "Compress long content into key points."
+  }
+]

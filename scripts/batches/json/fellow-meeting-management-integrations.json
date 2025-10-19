@@ -1,0 +1,128 @@
+{
+  "id": "fellow-meeting-management-integrations",
+  "name": "Fellow — Meeting Management (integrations)",
+  "slug": "fellow-meeting-management-integrations",
+  "logo_url": "https://fellow.app/favicon.ico",
+  "icon_url": "https://fellow.app/favicon.ico",
+  "images": [
+    "https://fellow.app/favicon.ico"
+  ],
+  "website_url": "https://fellow.app",
+  "tagline": "Agenda/notes; can ingest transcripts via integrations.",
+  "summary": "Fellow — Meeting Management (integrations) captures conversation context and converts transcripts into structured notes and tasks.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Media",
+    "Apps"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Fellow",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/fellowapp/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://fellow.app",
+    "changelog": null,
+    "support": "https://fellow.app"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:31:07Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://fellow.app/favicon.ico",
+      "caption": "Fellow — Meeting Management (integrations) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

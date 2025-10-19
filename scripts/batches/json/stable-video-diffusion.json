@@ -1,0 +1,159 @@
+{
+  "id": "stable-video-diffusion",
+  "name": "Stable Video Diffusion",
+  "slug": "stable-video-diffusion",
+  "logo_url": "https://stability.ai/favicon.ico",
+  "icon_url": "https://stability.ai/favicon.ico",
+  "images": [
+    "https://stability.ai/favicon.ico"
+  ],
+  "website_url": "https://stability.ai",
+  "tagline": "Open models for video generation by Stability AI.",
+  "summary": "Stable Video Diffusion (SVD) is Stability AI’s family of open models for video generation and interpolation. Released with research weights and examples, SVD allows developers and researchers to run video generation locally or on their own infrastructure. While not a turnkey web product like DreamStudio, SVD underpins many community tools and experiments that expose text‑to‑video or image‑to‑video pipelines. Stability’s announcements and GitHub resources provide model cards, licensing, and sample notebooks.\n\nTypical adopters are engineers and researchers who want to build custom pipelines, tune inference parameters, and integrate video synthesis into larger systems. SVD variants focus on short clips, stage conditioning, and improved temporal coherence compared to earlier open efforts. Because it’s open, teams can profile costs and performance on their own GPUs, add safety and watermarking, and design queueing for throughput.\n\nSVD is best for technical teams comfortable with model setup who want maximum control rather than a hosted editor. For a hosted UI, Stability directs users toward DreamStudio or partner apps that consume Stability APIs.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Image‑to‑video",
+    "Video interpolation",
+    "(Community) text‑to‑video pipelines"
+  ],
+  "use_cases": [
+    "Custom R&D",
+    "Integrations",
+    "On‑prem deployments"
+  ],
+  "best_for": [
+    "Engineers",
+    "Researchers",
+    "Open‑source adopters"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "SVD model family"
+  ],
+  "platforms": [
+    "Weights & notebooks",
+    "Third‑party UIs",
+    "APIs via partners"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Community frontends; Stability ecosystem"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Open weights (license terms apply)",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Open weights; hosted usage via credits/partners",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Open models",
+      "On‑prem control"
+    ],
+    "cons": [
+      "DIY setup; not a turnkey web app"
+    ]
+  },
+  "key_differentiators": [
+    "Open licensing relative to proprietary T2V",
+    "Ecosystem of community tools"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 outputs via pipelines"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Stability AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/StabilityAI",
+    "linkedin": "https://www.linkedin.com/company/stability-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://stability.ai",
+    "docs": "https://stability.ai/news/stable-video-diffusion",
+    "changelog": null,
+    "support": "https://stability.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://stability.ai/favicon.ico",
+      "caption": "Stable Video Diffusion icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Stable Video Diffusion intro (community)",
+      "youtube": "https://www.youtube.com/watch?v=8tY2_9R9Q34",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Run SVD locally (community)",
+      "youtube": "https://www.youtube.com/watch?v=cC5cQWvQmEU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "SVD workflows (community)",
+      "youtube": "https://www.youtube.com/watch?v=B9dTW4X-Mgk",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

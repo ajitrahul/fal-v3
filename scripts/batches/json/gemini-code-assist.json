@@ -1,0 +1,180 @@
+{
+  "id": "gemini-code-assist",
+  "name": "Gemini Code Assist",
+  "slug": "gemini-code-assist",
+  "logo_url": "https://codeassist.google/favicon.ico",
+  "icon_url": "https://codeassist.google/favicon.ico",
+  "images": [
+    "https://codeassist.google/favicon.ico"
+  ],
+  "website_url": "https://codeassist.google/",
+  "tagline": "AI coding assistant from Google, for individuals and businesses.",
+  "summary": "Gemini Code Assist is Google’s AI coding assistant that supports individual developers and teams with code generation, completions, refactoring, and code explanations across IDEs and terminals. It includes a free edition for individuals and paid editions for teams and enterprises, with documentation that covers IDE setup, terminal tooling, and enterprise administration. The product emphasizes integration with Google Cloud development workflows, model performance from the Gemini family, and organizational features like SSO and policy controls in the business editions. \n\nDevelopers can start at no cost, adding the Gemini extension to their IDE to receive contextual completions and chat grounded in their workspace. Playbooks and tutorials show how to adopt Code Assist in larger environments and how to connect to Google Cloud projects. For terminal‑first workflows, Google also provides a Gemini CLI powered by the Gemini 2.x models so engineers can ask for refactors, code generation, and command explanations from the shell; this CLI integrates with Code Assist licensing for individuals. Business pages describe code assistance for teams, governance options, and integration with enterprise identity systems. \n\nIn practice, Gemini Code Assist is used to speed common tasks (boilerplate, tests), guide engineers through unfamiliar APIs, and streamline cloud‑specific development by surfacing reference patterns from official docs. Google’s documentation includes overviews, tutorials, and setup guides that show the path from an individual install to a managed rollout within an organization. Tutorials and demos on YouTube demonstrate Code Assist features in the IDE and the CLI, while ecosystem talks discuss how developers can pair Gemini with other Google tools (Veo, Imagen) in multimodal workflows. \n\nGemini Code Assist is best for developers who use Google Cloud or prefer Google’s model family and want a first‑party assistant with documented free and business editions. Enterprises should review the business product pages for identity and policy capabilities and follow the playbooks for team rollouts.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI Pair Programmer",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "Cloud"
+  ],
+  "tasks": [
+    "Inline completions",
+    "Code generation",
+    "Explain/refactor code",
+    "Terminal assistance (CLI)"
+  ],
+  "use_cases": [
+    "Faster feature delivery",
+    "Cloud‑aligned development",
+    "Learning new APIs"
+  ],
+  "best_for": [
+    "Google Cloud developers",
+    "Teams seeking a Google‑first assistant"
+  ],
+  "ideal_industries": [
+    "Software",
+    "SaaS",
+    "Education"
+  ],
+  "roles": [
+    "Developers",
+    "DevOps"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "Cloud Engineer"
+  ],
+  "models": [
+    "Gemini model family (2.x)"
+  ],
+  "platforms": [
+    "IDE extensions",
+    "CLI",
+    "Google Cloud tooling"
+  ],
+  "languages": [
+    "Multi‑language"
+  ],
+  "integrations": [
+    "Google Cloud projects",
+    "IDE plugins"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Enterprise identity & policy controls (business editions)"
+  ],
+  "governance": [
+    "SSO and org policy (business editions)"
+  ],
+  "security": {
+    "certifications": [],
+    "sso": "Supported in business editions"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free edition for individuals",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Free + business tiers",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Free individual edition",
+      "Gemini CLI integration",
+      "Google Cloud alignment"
+    ],
+    "cons": [
+      "Enterprise features limited to paid editions"
+    ]
+  },
+  "key_differentiators": [
+    "First‑party Google tooling",
+    "CLI + IDE coverage"
+  ],
+  "limitations": [
+    "Team features require business editions"
+  ],
+  "import_export": [
+    "Standard project files via IDE"
+  ],
+  "setup_time": "Minutes (install IDE plugin or CLI)",
+  "case_studies": [],
+  "migration_paths": [
+    "Start free → adopt business editions for SSO/policy; follow Google’s rollout playbooks"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives: GitHub Copilot, Amazon Q Developer, Tabnine, Cody.",
+  "vendor": {
+    "name": "Google",
+    "hq_country": "USA",
+    "twitter": "https://twitter.com/googledevs",
+    "linkedin": "https://www.linkedin.com/company/google/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://codeassist.google/products/business",
+    "docs": "https://developers.google.com/gemini-code-assist/docs/overview",
+    "changelog": null,
+    "support": "https://cloud.google.com/support"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://codeassist.google/favicon.ico",
+      "caption": "Gemini Code Assist icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Gemini Code Assist — official demo",
+      "youtube": "https://www.youtube.com/watch?v=APH41U55hos",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Gemini Code Assist Playbooks (Google Cloud)",
+      "youtube": "https://www.youtube.com/playlist?list=PLSo0pjml8Hm_gNBijLzJkV8vXIyOQAO4J",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Gemini CLI overview (community)",
+      "youtube": "https://www.youtube.com/watch?v=bE0VcwcJ71s",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

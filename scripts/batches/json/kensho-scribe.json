@@ -1,0 +1,127 @@
+{
+  "id": "kensho-scribe",
+  "name": "Kensho Scribe",
+  "slug": "kensho-scribe",
+  "logo_url": "https://www.kensho.com/products/scribe/favicon.ico",
+  "icon_url": "https://www.kensho.com/products/scribe/favicon.ico",
+  "images": [
+    "https://www.kensho.com/products/scribe/favicon.ico"
+  ],
+  "website_url": "https://www.kensho.com/products/scribe",
+  "tagline": "Finance-grade transcription for earnings calls and financial audio.",
+  "summary": "Kensho Scribe transcribes financial audio such as earnings calls with terminology handling for finance, delivering structured outputs for analysts and downstream systems.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Earnings calls",
+    "Finance research"
+  ],
+  "best_for": [
+    "Financial services"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Domain-optimized ASR"
+  ],
+  "platforms": [
+    "APIs",
+    "Platform"
+  ],
+  "languages": [
+    "English (focus)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Kensho (S&P Global)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Kensho",
+    "linkedin": "https://www.linkedin.com/company/kensho-technologies/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.kensho.com/contact",
+    "docs": "https://www.kensho.com/products/scribe",
+    "changelog": null,
+    "support": "https://www.kensho.com/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.kensho.com/products/scribe/favicon.ico",
+      "caption": "Kensho Scribe icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

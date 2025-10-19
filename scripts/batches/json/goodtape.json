@@ -1,0 +1,127 @@
+{
+  "id": "goodtape",
+  "name": "GoodTape",
+  "slug": "goodtape",
+  "logo_url": "https://goodtape.io/favicon.ico",
+  "icon_url": "https://goodtape.io/favicon.ico",
+  "images": [
+    "https://goodtape.io/favicon.ico"
+  ],
+  "website_url": "https://goodtape.io",
+  "tagline": "Free transcription tool for journalists and researchers.",
+  "summary": "GoodTape is a free online transcription tool popular with journalists and researchers, supporting a range of languages and export formats.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Exports"
+  ],
+  "use_cases": [
+    "Journalism",
+    "Research",
+    "Academia"
+  ],
+  "best_for": [
+    "Students & reporters"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "AI transcription"
+  ],
+  "platforms": [
+    "Web app"
+  ],
+  "languages": [
+    "Many (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "GoodTape",
+    "hq_country": null,
+    "twitter": "https://twitter.com/goodtape_io",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://goodtape.io",
+    "changelog": null,
+    "support": "https://goodtape.io"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://goodtape.io/favicon.ico",
+      "caption": "GoodTape icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

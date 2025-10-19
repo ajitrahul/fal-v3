@@ -1,0 +1,32 @@
+### **Logic for "Featured" and "Trending" AI Tools**
+
+This document outlines the criteria and logic for categorizing AI tools on your website's homepage.
+
+#### **I. "Featured" Tools**
+
+* **Definition:** These tools are strategically chosen by the website owner to be prominently displayed. Their selection is based on business goals and strategic value.
+* **Selection Process:** Manual and periodic (e.g., weekly or bi-weekly).
+* **Criteria for a Tool to be "Featured":**
+    * **Monetization:** The tool is part of an affiliate program or a paid partnership. (Priority: High)
+    * **Newness/Innovation:** The tool is a recent addition to the website and offers a unique or novel solution. (Priority: Medium)
+    * **Quality of Listing:** The tool's listing on the site is complete, with high-quality descriptions, images, and video demonstrations. (Priority: Medium)
+    * **Expert Recommendation:** The tool has been endorsed by a trusted figure in the AI industry. (Priority: Low)
+
+#### **II. "Trending" Tools**
+
+* **Definition:** These tools are automatically identified as gaining a significant surge in popularity over a recent, short period. Their selection is purely data-driven.
+* **Selection Process:** Automated script or function that runs at a regular interval (e.g., daily or hourly).
+* **Criteria for a Tool to be "Trending":**
+    * **Data Points to Track:**
+        1.  `view_count`: Number of page views in the last 7 days.
+        2.  `click_through_rate`: Clicks from homepage/category pages in the last 7 days.
+        3.  `new_saves_count`: Number of times the tool has been "favorited" in the last 7 days.
+        4.  `new_reviews_count`: Number of new reviews added in the last 7 days.
+* **Logic (Example Algorithm):**
+    1.  Fetch the data for all tools for the past 7 days.
+    2.  Calculate a "Trending Score" for each tool using a weighted formula. Adjust the weights to prioritize certain metrics.
+        * `Trending_Score = (0.5 * view_count) + (0.3 * click_through_rate) + (0.2 * new_saves_count)`
+    3.  Sort all tools in descending order based on their `Trending_Score`.
+    4.  The top 5-10 tools from this sorted list are automatically flagged as "Trending" and displayed on the homepage.
+    5.  This process should run daily to ensure the list is always fresh and reflects current user behavior.
+

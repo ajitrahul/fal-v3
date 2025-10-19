@@ -1,0 +1,130 @@
+{
+  "id": "blackbox-ai",
+  "name": "Blackbox AI",
+  "slug": "blackbox-ai",
+  "logo_url": "https://www.blackbox.ai/favicon.ico",
+  "icon_url": "https://www.blackbox.ai/favicon.ico",
+  "images": [
+    "https://www.blackbox.ai/favicon.ico"
+  ],
+  "website_url": "https://www.blackbox.ai",
+  "tagline": "AI coding assistant for code generation and search.",
+  "summary": "Blackbox AI offers an AI coding assistant accessible via the web and browser extensions. It focuses on generating code snippets, explaining code, and enabling developers to search public code examples. The product aims to reduce the time spent on boilerplate by producing language‑appropriate implementations and helping users translate between frameworks or languages.\n\nThe workflow is browser‑first: paste a prompt, attach relevant snippets, and ask Blackbox to implement or refactor. Community tutorials demonstrate how to iterate from initial drafts to production‑ready code by requesting stronger typing, additional tests, or different library choices. Blackbox also surfaces code search results that can guide decisions or provide reference implementations. For teams, Blackbox documents feature tiers and collaboration options on its site.\n\nBlackbox AI is useful for developers who prefer a simple web companion for code generation and exploration without adopting a new IDE. It can complement an existing assistant in the editor by providing quick external references and alternative approaches to the same task.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Code Generation"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "Web",
+    "Browser extensions"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Blackbox AI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/blackbox_ai",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.blackbox.ai",
+    "changelog": null,
+    "support": "https://www.blackbox.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.blackbox.ai/favicon.ico",
+      "caption": "Blackbox AI icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Blackbox AI tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=TA4kP7D05zM",
+      "provider": "YouTube"
+    },
+    {
+      "title": "How to use Blackbox AI (community)",
+      "youtube": "https://www.youtube.com/watch?v=9C8T3u3c2lg",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Blackbox walkthrough (community)",
+      "youtube": "https://www.youtube.com/watch?v=e9z96p3cQy8",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

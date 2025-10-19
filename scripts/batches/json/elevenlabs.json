@@ -1,0 +1,180 @@
+{
+  "id": "elevenlabs",
+  "name": "ElevenLabs",
+  "slug": "elevenlabs",
+  "logo_url": "https://elevenlabs.io/favicon.ico",
+  "icon_url": "https://elevenlabs.io/favicon.ico",
+  "images": [
+    "https://elevenlabs.io/favicon.ico"
+  ],
+  "website_url": "https://elevenlabs.io",
+  "tagline": "Multi‑language neural TTS, voice cloning, and speech tools.",
+  "summary": "ElevenLabs provides neural text‑to‑speech (TTS), voice cloning, and speech tools for creators and enterprises. The web studio offers instant voice selection, fine‑tunable settings, and project management, while the API enables programmatic generation at scale. ElevenLabs supports many languages and accents and offers features like Voice Library (community voices), Voice Design (create synthetic voices), and projects to manage longer scripts and audiobooks. The platform emphasizes natural prosody and expressive delivery, which is crucial for narration, explainers, and character content.\n\nCommon use cases include audio versions of articles, e‑learning and onboarding content, YouTube narration, game and character voices, and assistive applications where high‑quality speech is essential. The workflow is straightforward: select or design a voice, paste a script, adjust stability/pitch/speed where relevant, preview, and download. Developers integrate via REST/SDKs to automate generation, batch jobs, or dynamic voice features, including streaming for real‑time scenarios. \n\nFor teams, ElevenLabs provides organizational features, usage quotas, and licensing guidance; enterprise plans include advanced governance, SSO, and support. Migration is simple—import existing scripts/assets, recreate preferred voices under appropriate consent/licensing, and connect to CMS/LMS or apps with the API. The official YouTube channel publishes tutorials on the studio, cloning ethics and consent, and multilingual narration best practices. \n\nElevenLabs is best for creators and organizations that need lifelike TTS with a broad voice catalog and straightforward APIs, supported by an active community and rapid product updates.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Text‑to‑speech",
+    "Voice cloning (consent‑based)",
+    "Long‑form projects",
+    "Streaming TTS"
+  ],
+  "use_cases": [
+    "Narration",
+    "E‑learning",
+    "YouTube/Podcasts",
+    "Games",
+    "Accessibility"
+  ],
+  "best_for": [
+    "Creators",
+    "L&D teams",
+    "Studios",
+    "Developers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ElevenLabs TTS & Voice Design models"
+  ],
+  "platforms": [
+    "Web Studio",
+    "API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "REST API",
+    "SDKs"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available; paid tiers scale usage",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid + enterprise",
+    "plans": [
+      {
+        "name": "Free/Starter/Creator/Pro/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Natural, expressive voices",
+      "Large language coverage",
+      "Easy API"
+    ],
+    "cons": [
+      "High‑volume use requires paid tiers; cloning requires clear consent/licensing"
+    ]
+  },
+  "key_differentiators": [
+    "Expressiveness and voice library",
+    "Long‑form project tooling"
+  ],
+  "limitations": [
+    "Consent/license required for cloning; content policy applies"
+  ],
+  "import_export": [
+    "MP3/WAV exports; API streaming"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Customer stories (publisher & e‑learning)",
+      "url": "https://elevenlabs.io/blog"
+    }
+  ],
+  "migration_paths": [
+    "Recreate voices with consent; import scripts; integrate API for publishing"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "ElevenLabs",
+    "hq_country": null,
+    "twitter": "https://twitter.com/elevenlabsio",
+    "linkedin": "https://www.linkedin.com/company/elevenlabs/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://elevenlabs.io/pricing",
+    "docs": "https://elevenlabs.io/docs",
+    "changelog": "https://elevenlabs.io/changelog",
+    "support": "https://help.elevenlabs.io"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://elevenlabs.io/favicon.ico",
+      "caption": "ElevenLabs icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Getting started with ElevenLabs (official)",
+      "youtube": "https://www.youtube.com/@elevenlabsio",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Voice Design / cloning basics (official)",
+      "youtube": "https://www.youtube.com/@elevenlabsio",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Long‑form narration tips (official)",
+      "youtube": "https://www.youtube.com/@elevenlabsio",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "pexip-captions-transcripts",
+  "name": "Pexip — Captions & Transcripts",
+  "slug": "pexip-captions-transcripts",
+  "logo_url": "https://www.pexip.com/favicon.ico",
+  "icon_url": "https://www.pexip.com/favicon.ico",
+  "images": [
+    "https://www.pexip.com/favicon.ico"
+  ],
+  "website_url": "https://www.pexip.com",
+  "tagline": "Enterprise video platform with captioning and transcript options.",
+  "summary": "Pexip — Captions & Transcripts provides features or APIs for captions and/or transcription inside real-time communications. Availability and languages vary by plan and region; transcripts can typically be searched, shared, or integrated via APIs depending on the product.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Transcription",
+    "Search/Export"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Events",
+    "Contact center"
+  ],
+  "best_for": [
+    "Teams building or using RTC apps"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Managed ASR or partner integrations"
+  ],
+  "platforms": [
+    "Apps/SDKs/APIs"
+  ],
+  "languages": [
+    "Varies (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Pexip",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Pexip",
+    "linkedin": "https://www.linkedin.com/company/pexip/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.pexip.com/pricing",
+    "docs": "https://www.pexip.com",
+    "changelog": null,
+    "support": "https://www.pexip.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:48:16Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.pexip.com/favicon.ico",
+      "caption": "Pexip — Captions & Transcripts icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

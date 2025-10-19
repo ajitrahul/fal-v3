@@ -1,0 +1,175 @@
+{
+  "id": "synthesia",
+  "name": "Synthesia",
+  "slug": "synthesia",
+  "logo_url": "https://www.synthesia.io/favicon.ico",
+  "icon_url": "https://www.synthesia.io/favicon.ico",
+  "images": [
+    "https://www.synthesia.io/favicon.ico"
+  ],
+  "website_url": "https://www.synthesia.io",
+  "tagline": "AI avatar video generation with script-to-video workflow.",
+  "summary": "Synthesia is an AI video generation platform specializing in photorealistic avatar presenters. Users paste or write a script, select an avatar and language/voice, add backgrounds and on‑screen elements, and render a complete video without cameras or actors. Synthesia targets training, onboarding, product explainers, and localized content at scale; enterprise features include branded avatars, SSO, custom voice, and collaborative review. The web editor supports scene‑based timelines, captions, and screen recordings.\n\nThe company publishes numerous case studies showcasing reduced production time and translation costs across industries like tech, retail, and education. Tutorials and the Synthesia Academy cover best practices for script structure, visual pacing, and accessibility with captions and on‑screen text. Plans range from individual to enterprise, with higher tiers unlocking custom avatars/voices and governance options. Developers can leverage APIs for templated generation in bulk.\n\nSynthesia is best for organizations that need presenter‑led content quickly and at scale, especially where localization and brand consistency are priorities.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Script‑to‑video",
+    "Avatar presentation",
+    "Localization",
+    "Bulk generation"
+  ],
+  "use_cases": [
+    "Training & onboarding",
+    "Product explainers",
+    "Support content",
+    "Internal comms"
+  ],
+  "best_for": [
+    "Enterprises",
+    "L&D teams",
+    "Marketing"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Synthesia avatar/voice models"
+  ],
+  "platforms": [
+    "Web",
+    "API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "SSO",
+    "Learning platforms (via exports/embed)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription + enterprise",
+    "plans": [
+      {
+        "name": "Starter/Creator/Enterprise",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Fast localized video at scale",
+      "Enterprise features (SSO, custom avatars)"
+    ],
+    "cons": [
+      "Avatar style; less suited for fully synthetic cinematic motion"
+    ]
+  },
+  "key_differentiators": [
+    "Photoreal avatars",
+    "Localization at scale",
+    "API for bulk"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 exports; embeds"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Synthesia customer stories",
+      "url": "https://www.synthesia.io/case-studies"
+    }
+  ],
+  "migration_paths": [
+    "Start with templates; scale to custom avatars/voices; connect SSO and APIs for bulk"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Synthesia",
+    "hq_country": null,
+    "twitter": "https://twitter.com/synthesiaIO",
+    "linkedin": "https://www.linkedin.com/company/synthesia-io/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.synthesia.io/pricing",
+    "docs": "https://help.synthesia.io",
+    "changelog": null,
+    "support": "https://www.synthesia.io/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.synthesia.io/favicon.ico",
+      "caption": "Synthesia icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Synthesia Academy (official)",
+      "youtube": "https://www.youtube.com/@SynthesiaIO",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create videos in minutes (official)",
+      "youtube": "https://www.youtube.com/watch?v=O3pMZx4bRSk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Localize with Synthesia (official)",
+      "youtube": "https://www.youtube.com/watch?v=V0zW7bS1H-g",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

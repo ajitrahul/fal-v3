@@ -1,0 +1,135 @@
+[
+  {
+    "type": "visit",
+    "ts": "2025-10-04T08:10:17.537Z",
+    "path": "/",
+    "lang": "en-GB",
+    "tz": "Asia/Calcutta",
+    "screen": {
+      "w": 1920,
+      "h": 1080,
+      "dpr": 0.800000011920929
+    },
+    "utm": null,
+    "ip_hash": "3aa21283f31500e86bc09b32",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/",
+    "geo": {
+      "country": null,
+      "region": null,
+      "city": null
+    }
+  },
+  {
+    "type": "sponsor_impression",
+    "slot": "homepage_hero",
+    "id": "spn-001",
+    "sponsor": "SuperPrompt Inc.",
+    "ts": "2025-10-04T08:10:23.254Z"
+  },
+  {
+    "type": "sponsor_impression",
+    "slot": "homepage_hero",
+    "id": "spn-001",
+    "sponsor": "SuperPrompt Inc.",
+    "ts": "2025-10-04T08:10:28.986Z"
+  },
+  {
+    "type": "sponsor_impression",
+    "slot": "homepage_hero",
+    "id": "spn-001",
+    "sponsor": "SuperPrompt Inc.",
+    "ts": "2025-10-04T08:10:37.815Z"
+  },
+  {
+    "type": "sponsor_impression",
+    "slot": "homepage_hero",
+    "id": "spn-001",
+    "sponsor": "SuperPrompt Inc.",
+    "ts": "2025-10-04T08:10:37.831Z"
+  },
+  {
+    "type": "visit",
+    "ts": "2025-10-04T08:15:24.693Z",
+    "path": "/category/web%20builders",
+    "lang": "en-GB",
+    "tz": "Asia/Calcutta",
+    "screen": {
+      "w": 1920,
+      "h": 1080,
+      "dpr": 0.800000011920929
+    },
+    "utm": null,
+    "ip_hash": "3aa21283f31500e86bc09b32",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/category/web%20builders",
+    "geo": {
+      "country": null,
+      "region": null,
+      "city": null
+    }
+  },
+  {
+    "type": "visit",
+    "ts": "2025-10-04T08:15:28.175Z",
+    "path": "/",
+    "lang": "en-GB",
+    "tz": "Asia/Calcutta",
+    "screen": {
+      "w": 1920,
+      "h": 1080,
+      "dpr": 0.800000011920929
+    },
+    "utm": null,
+    "ip_hash": "3aa21283f31500e86bc09b32",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/",
+    "geo": {
+      "country": null,
+      "region": null,
+      "city": null
+    }
+  },
+  {
+    "type": "visit",
+    "ts": "2025-10-04T08:18:06.473Z",
+    "path": "/",
+    "lang": "en-GB",
+    "tz": "Asia/Calcutta",
+    "screen": {
+      "w": 1920,
+      "h": 1080,
+      "dpr": 0.800000011920929
+    },
+    "utm": null,
+    "ip_hash": "3aa21283f31500e86bc09b32",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/",
+    "geo": {
+      "country": null,
+      "region": null,
+      "city": null
+    }
+  },
+  {
+    "type": "visit",
+    "ts": "2025-10-04T08:26:31.601Z",
+    "path": "/tools/character-ai",
+    "lang": "en-GB",
+    "tz": "Asia/Calcutta",
+    "screen": {
+      "w": 1920,
+      "h": 1080,
+      "dpr": 0.800000011920929
+    },
+    "utm": null,
+    "ip_hash": "3aa21283f31500e86bc09b32",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/tools/character-ai",
+    "geo": {
+      "country": null,
+      "region": null,
+      "city": null
+    }
+  }
+]

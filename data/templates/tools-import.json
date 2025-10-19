@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "example-tool",
+    "name": "Example Tool",
+    "tagline": "One-liner",
+    "summary": "Short paragraph describing what it does.",
+    "website_url": "https://example.com",
+    "logo_url": "/logos/example.png",
+    "gallery": [],
+    "categories": [
+      "Category"
+    ],
+    "tasks": [
+      "Task"
+    ],
+    "job_roles": [
+      "Role"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": []
+    },
+    "features": [],
+    "platforms": [
+      "Web"
+    ],
+    "models": [],
+    "integrations": [],
+    "languages": [
+      "en"
+    ],
+    "maturity": "growing",
+    "release_date": "2024-01-01",
+    "updated_at": "2025-10-01",
+    "status": "active",
+    "compliance": [],
+    "vendor": {
+      "name": "Vendor",
+      "hq_country": "US"
+    },
+    "community": {
+      "rating": 0,
+      "votes": 0,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [],
+      "canonical_url": "",
+      "schema_org": [
+        "SoftwareApplication"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": false
+    },
+    "links": {},
+    "affiliate": {
+      "enabled": false
+    },
+    "moderation": {
+      "submitted_by": "admin",
+      "moderation_state": "approved"
+    },
+    "technical": {
+      "context_tokens": 128000,
+      "max_file_mb": 50,
+      "latency_ms": 900,
+      "throughput_rps": 10,
+      "sdk_languages": [
+        "JS",
+        "Python"
+      ],
+      "deployment": "Cloud"
+    },
+    "limits": {
+      "free_tier": "100 calls/month",
+      "rate_limits": "60 RPM",
+      "quotas": "Contact sales for higher",
+      "regional_availability": "Global"
+    },
+    "privacy": {
+      "training_policy": "No customer data used for training",
+      "data_retention": "30 days",
+      "dpa_url": ""
+    },
+    "security": {
+      "sso": "SAML/OIDC",
+      "sla": "99.9% uptime",
+      "certifications": [
+        "SOC2",
+        "ISO27001"
+      ]
+    },
+    "pricing_notes": "Overage: $4 per 1K calls"
+  }
+]

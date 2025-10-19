@@ -1,0 +1,176 @@
+{
+  "slug": "runway-ml",
+  "name": "Runway ML",
+  "website_url": "https://runwayml.com/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=runwayml.com",
+  "description": "Runway is an AI video generation and editing suite. Gen‑3 Alpha powers text‑to‑video and image‑to‑video with cinematic controls, plus inpainting, motion brush, and more.",
+  "category": "text-to-video",
+  "use_cases": [
+    {
+      "title": "Concept-to-shot",
+      "details": "Generate establishing shots and scenes."
+    },
+    {
+      "title": "VFX & editing",
+      "details": "Inpaint, background removal, motion tracking."
+    },
+    {
+      "title": "Previs & storyboards",
+      "details": "Plan shots and iterate on style."
+    }
+  ],
+  "pros": [
+    "High‑quality outputs",
+    "Creative controls",
+    "Web workflow"
+  ],
+  "cons": [
+    "Usage‑based costs",
+    "Prompt iteration needed"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Starter/Standard/Pro",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Credits‑based"
+      ],
+      "trial_available": true,
+      "url": "https://runwayml.com/pricing/"
+    }
+  ],
+  "company_details": {
+    "name": "Runway AI, Inc.",
+    "founded_year": 2018,
+    "hq_city": "New York",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://runwayml.com/terms/",
+      "privacy_url": "https://runwayml.com/privacy/"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/runwayml/reviews"
+    }
+  ],
+  "image": "https://runwayml.com/og-image.jpg",
+  "best_for": [
+    "Filmmakers",
+    "Creators",
+    "Agencies"
+  ],
+  "models": [
+    {
+      "name": "Gen‑3 Alpha",
+      "provider": "Runway",
+      "modality": "video",
+      "input_formats": [
+        "text",
+        "image"
+      ],
+      "output_formats": [
+        "video"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://docs.runwayml.com/",
+    "sdk_languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": [
+      "Adobe exports"
+    ]
+  },
+  "key_differentiator": [
+    "Cinematic text‑to‑video with creative tools"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://help.runwayml.com/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://runwayml.com/og-image.jpg",
+      "caption": "Runway Gen‑3"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Runway Gen‑3 Tutorial",
+      "url": "https://www.youtube.com/watch?v=5qL4Lkz2QeU",
+      "channel": "Runway"
+    }
+  ],
+  "qa": [
+    {
+      "question": "What is Gen‑3 Alpha?",
+      "answer": "Latest text‑to‑video model for cinematic results.",
+      "source_url": "https://runwayml.com/research/gen-3/"
+    },
+    {
+      "question": "API available?",
+      "answer": "Yes—programmatic generation via docs.",
+      "source_url": "https://docs.runwayml.com/"
+    },
+    {
+      "question": "Pricing?",
+      "answer": "Credits‑based across plan tiers.",
+      "source_url": "https://runwayml.com/pricing/"
+    },
+    {
+      "question": "Do I need a GPU?",
+      "answer": "No—cloud‑based web workflow.",
+      "source_url": "https://runwayml.com/"
+    },
+    {
+      "question": "Edit existing videos?",
+      "answer": "Yes—inpainting and effects supported.",
+      "source_url": "https://runwayml.com/"
+    },
+    {
+      "question": "Content policies?",
+      "answer": "See terms and usage policies.",
+      "source_url": "https://runwayml.com/terms/"
+    },
+    {
+      "question": "Export options?",
+      "answer": "Standard formats for editors.",
+      "source_url": "https://help.runwayml.com/"
+    },
+    {
+      "question": "Free tier?",
+      "answer": "Starter usage available; see pricing.",
+      "source_url": "https://runwayml.com/pricing/"
+    },
+    {
+      "question": "Audio?",
+      "answer": "Focus on video/effects; see docs.",
+      "source_url": "https://docs.runwayml.com/"
+    },
+    {
+      "question": "Commercial use?",
+      "answer": "Check license/terms.",
+      "source_url": "https://runwayml.com/terms/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/@RunwayML",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

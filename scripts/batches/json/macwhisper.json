@@ -1,0 +1,146 @@
+{
+  "id": "macwhisper",
+  "name": "MacWhisper",
+  "slug": "macwhisper",
+  "logo_url": "https://goodsnooze.gumroad.com/l/macwhisper/favicon.ico",
+  "icon_url": "https://goodsnooze.gumroad.com/l/macwhisper/favicon.ico",
+  "images": [
+    "https://goodsnooze.gumroad.com/l/macwhisper/favicon.ico"
+  ],
+  "website_url": "https://goodsnooze.gumroad.com/l/macwhisper",
+  "tagline": "Native macOS app for offline transcription using Whisper models.",
+  "summary": "MacWhisper is a native macOS app that runs OpenAI Whisper models locally for offline transcription. Users import audio/video, choose a model size, and receive transcripts with timestamps and translation options, all without uploading files to external servers. It’s popular with journalists, researchers, and privacy‑minded users.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Offline ASR",
+    "Translation",
+    "Batch processing"
+  ],
+  "use_cases": [
+    "Interviews",
+    "Journalism",
+    "Research notes"
+  ],
+  "best_for": [
+    "Mac users needing private, offline STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Whisper tiny/base/small/medium/large (local)"
+  ],
+  "platforms": [
+    "macOS app (Apple Silicon recommended)"
+  ],
+  "languages": [
+    "Many (model‑dependent)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [
+    "TXT/SRT/VTT; media imports"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Good Snooze (independent)",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://goodsnooze.gumroad.com/l/macwhisper",
+    "docs": "https://goodsnooze.gumroad.com/l/macwhisper",
+    "changelog": null,
+    "support": "https://goodsnooze.gumroad.com/l/macwhisper"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:22:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://goodsnooze.gumroad.com/l/macwhisper/favicon.ico",
+      "caption": "MacWhisper icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "MacWhisper overview (community)",
+      "youtube": "https://www.youtube.com/watch?v=Wn6Aa-7U_0k",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Transcribe locally on Mac (community)",
+      "youtube": "https://www.youtube.com/watch?v=Up97k0bVf6E",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Choose Whisper models (community)",
+      "youtube": "https://www.youtube.com/watch?v=o0GfThk7qNQ",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

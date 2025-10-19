@@ -1,0 +1,173 @@
+{
+  "id": "microsoft-azure-neural-tts",
+  "name": "Microsoft Azure Neural TTS",
+  "slug": "microsoft-azure-neural-tts",
+  "logo_url": "https://azure.microsoft.com/en-us/products/ai-services/text-to-speech/favicon.ico",
+  "icon_url": "https://azure.microsoft.com/en-us/products/ai-services/text-to-speech/favicon.ico",
+  "images": [
+    "https://azure.microsoft.com/en-us/products/ai-services/text-to-speech/favicon.ico"
+  ],
+  "website_url": "https://azure.microsoft.com/en-us/products/ai-services/text-to-speech",
+  "tagline": "Neural voices, SSML, and custom voice on Azure Cognitive Services.",
+  "summary": "Azure Neural Text‑to‑Speech is part of Azure AI Speech, providing natural‑sounding neural voices, SSML controls, and custom voice training (with consent) for enterprise applications. Developers synthesize speech via REST/SDKs, stream audio for real‑time use, and configure pronunciation with lexicons. Azure exposes granular controls for speaking style, role play, and emotions in supported voices, and enterprise customers can enforce identity and access policies across subscriptions.\n\nTypical applications span IVR systems, accessibility and screen readers, interactive assistants, and multimedia e‑learning. Azure provides pay‑as‑you‑go pricing with free tiers and offers regional availability for compliance needs. Documentation covers quickstarts and deployment patterns using Functions, Kubernetes, or App Services; event logging and monitoring integrate with Azure Monitor. \n\nAzure Neural TTS is a strong fit for organizations standardizing on Microsoft cloud services that want high‑quality voices, customization options, and enterprise governance.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Synthesis",
+    "Streaming",
+    "SSML",
+    "Custom Voice"
+  ],
+  "use_cases": [
+    "IVR & assistants",
+    "Accessibility",
+    "E‑learning",
+    "Narration"
+  ],
+  "best_for": [
+    "Enterprises on Azure",
+    "Public sector with regional needs"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Neural voices",
+    "Custom Neural Voice (with consent)"
+  ],
+  "platforms": [
+    "Azure Portal",
+    "SDKs",
+    "REST API"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Azure Functions",
+    "AKS",
+    "Power Platform (adjacent)"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier within monthly character limits",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Per‑character pricing + custom voice fees",
+    "plans": [
+      {
+        "name": "Pay‑as‑you‑go",
+        "price": null,
+        "billing": "usage"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "High‑quality neural voices",
+      "Custom voice option",
+      "Azure governance"
+    ],
+    "cons": [
+      "Custom voice requires consent and extra setup"
+    ]
+  },
+  "key_differentiators": [
+    "Style/emotion controls",
+    "Custom Neural Voice program"
+  ],
+  "limitations": [
+    "Consent and review required for custom voice"
+  ],
+  "import_export": [
+    "WAV/MP3/OGG; web socket streaming"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Microsoft Azure",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Azure",
+    "linkedin": "https://www.linkedin.com/showcase/microsoft-azure/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/",
+    "docs": "https://learn.microsoft.com/azure/ai-services/speech-service/text-to-speech",
+    "changelog": null,
+    "support": "https://azure.microsoft.com/support"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://azure.microsoft.com/en-us/products/ai-services/text-to-speech/favicon.ico",
+      "caption": "Microsoft Azure Neural TTS icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Azure TTS quickstart (Microsoft)",
+      "youtube": "https://www.youtube.com/@MicrosoftDevelopers",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Custom Neural Voice overview (Microsoft)",
+      "youtube": "https://www.youtube.com/watch?v=8r3M2Q_1Wec",
+      "provider": "YouTube"
+    },
+    {
+      "title": "SSML with Azure TTS (Microsoft)",
+      "youtube": "https://www.youtube.com/watch?v=V3xJxN3z9u0",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

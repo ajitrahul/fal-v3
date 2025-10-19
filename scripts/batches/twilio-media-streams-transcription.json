@@ -1,0 +1,129 @@
+{
+  "id": "twilio-media-streams-transcription",
+  "name": "Twilio Media Streams + Transcription",
+  "slug": "twilio-media-streams-transcription",
+  "logo_url": "https://www.twilio.com/voice/favicon.ico",
+  "icon_url": "https://www.twilio.com/voice/favicon.ico",
+  "images": [
+    "https://www.twilio.com/voice/favicon.ico"
+  ],
+  "website_url": "https://www.twilio.com/voice",
+  "tagline": "Programmable Voice with media streams enabling real-time transcription pipelines.",
+  "summary": "Twilio Programmable Voice offers real-time Media Streams that developers route to transcription engines for captions, IVR, and analytics. It supports webhooks and integrates with serverless functions and CRMs.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Real-time streaming to ASR",
+    "IVR with speech"
+  ],
+  "use_cases": [
+    "Contact centers",
+    "Bots",
+    "Compliance analytics"
+  ],
+  "best_for": [
+    "Telephony developers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Bring-your-own ASR via media streams"
+  ],
+  "platforms": [
+    "Programmable Voice APIs",
+    "WebSockets",
+    "Functions"
+  ],
+  "languages": [
+    "Depends on ASR backend"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Twilio",
+    "hq_country": null,
+    "twitter": "https://twitter.com/twilio",
+    "linkedin": "https://www.linkedin.com/company/twilio/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.twilio.com/pricing",
+    "docs": "https://www.twilio.com/docs/voice/twiml/stream",
+    "changelog": "https://www.twilio.com/changelog",
+    "support": "https://support.twilio.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.twilio.com/voice/favicon.ico",
+      "caption": "Twilio Media Streams + Transcription icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

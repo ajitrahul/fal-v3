@@ -1,0 +1,188 @@
+{
+  "id": "replit-ai-agent",
+  "name": "Replit AI (Agent)",
+  "slug": "replit-ai-agent",
+  "logo_url": "https://replit.com/public/icons/favicon-196.png",
+  "icon_url": "https://replit.com/public/icons/favicon-196.png",
+  "images": [
+    "https://replit.com/public/icons/favicon-196.png"
+  ],
+  "website_url": "https://replit.com/ai",
+  "tagline": "Ask for an app or site and watch it get built—deploy from the same workspace.",
+  "summary": "Replit AI centers on an agent that turns natural‑language prompts into running applications and websites in the browser. You describe what you want—an internal tool, a prototype, or a production‑quality webapp—and the agent scaffolds the project, writes code across files, installs dependencies, and runs the app on a cloud container so you can interact with it immediately. You can iterate conversationally, attach screenshots or examples, and deploy to a live URL without leaving the Replit workspace. \n\nReplit’s positioning is “vibe coding”: building software by describing intent while the agent handles most boilerplate and wiring. Tutorials and official videos show live builds (from cloning sample sites to connecting data and auth) and walk through good prompting practices—breaking the job into steps, verifying outputs, and locking the agent when you want to review or hand‑edit code. For teams, Replit offers enterprise capabilities such as SSO, SOC 2 posture, private deployments, and backups, which are highlighted on its product pages. Developers can start free, then adopt paid features and seat management as projects mature. \n\nIn practice, Replit AI is used for prototyping, hackathon‑speed product validation, internal tools, and educational projects. Because everything runs in the browser, it removes local setup friction and enables instant collaboration; the agent is available in the same environment you use to edit code, manage packages, run servers, and capture logs. Migration paths are simple: open an existing repo in Replit, let the agent help with refactors or upgrades, and deploy to a hosted instance; organizations can roll out SSO and private workspaces, and set policies around agent access and deployment rights. Replit’s public tutorials and partner content cover end‑to‑end flows (prompt → build → deploy) so new users can see what “agentic development” looks like before committing.",
+  "main_category": "Code Assistant",
+  "subcategory": "Agentic Builder",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "Cloud IDE"
+  ],
+  "tasks": [
+    "Scaffold full apps",
+    "Iterative code edits",
+    "Explain/fix code",
+    "Instant deploy",
+    "Integrate APIs"
+  ],
+  "use_cases": [
+    "Prototyping",
+    "Internal tools",
+    "Education",
+    "Hackathons"
+  ],
+  "best_for": [
+    "Builders who want zero‑setup web dev",
+    "Teams needing quick prototypes"
+  ],
+  "ideal_industries": [
+    "Startups",
+    "Education",
+    "SaaS"
+  ],
+  "roles": [
+    "Developers",
+    "Product Managers",
+    "Students"
+  ],
+  "job_roles": [
+    "Full‑Stack Engineer",
+    "No‑Code/Low‑Code Builder"
+  ],
+  "models": [
+    "Replit Agent backing models (service)"
+  ],
+  "platforms": [
+    "Web",
+    "API (select)"
+  ],
+  "languages": [
+    "Multi‑language (web stacks)"
+  ],
+  "integrations": [
+    "Replit Deploy",
+    "Secrets",
+    "Databases",
+    "Templates"
+  ],
+  "compliance": [
+    "SOC 2 (enterprise materials)"
+  ],
+  "data_controls": [
+    "Backups & one‑click restore; private deployments (enterprise)"
+  ],
+  "governance": [
+    "SSO and org controls for enterprise"
+  ],
+  "security": {
+    "certifications": [
+      "SOC 2 (per site)"
+    ],
+    "sso": "SSO for enterprise"
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier available; see site",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid features",
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Zero‑setup build & deploy",
+      "Conversational agent",
+      "SSO & SOC 2 options"
+    ],
+    "cons": [
+      "Agent behavior must be supervised for production"
+    ]
+  },
+  "key_differentiators": [
+    "Agent that builds & deploys in one workspace",
+    "Browser‑native collaboration"
+  ],
+  "limitations": [
+    "Edge cases require manual review; watch permission scopes"
+  ],
+  "import_export": [
+    "Import Git repos; export via Git/deploy artifacts"
+  ],
+  "setup_time": "Minutes (create workspace or import repo)",
+  "case_studies": [],
+  "migration_paths": [
+    "Start in a browser workspace; import repo; enable SSO & private deployments on enterprise tiers"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives include Cursor, Windsurf, Codespaces + Copilot.",
+  "vendor": {
+    "name": "Replit, Inc.",
+    "hq_country": "USA",
+    "twitter": "https://twitter.com/replit",
+    "linkedin": "https://www.linkedin.com/company/replit/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://replit.com/ai",
+    "changelog": null,
+    "support": "https://replit.com/~"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://replit.com/public/icons/favicon-196.png",
+      "caption": "Replit icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Meet the Replit Agent (official)",
+      "youtube": "https://www.youtube.com/watch?v=IYiVPrxY8-Y",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Replit Agent 3 — First Look (official)",
+      "youtube": "https://www.youtube.com/watch?v=4FxNXFOdt6w",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Replit channel — Agent demos (official)",
+      "youtube": "https://www.youtube.com/@replit",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

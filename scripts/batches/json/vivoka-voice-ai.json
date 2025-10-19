@@ -1,0 +1,128 @@
+{
+  "id": "vivoka-voice-ai",
+  "name": "Vivoka Voice AI",
+  "slug": "vivoka-voice-ai",
+  "logo_url": "https://vivoka.com/favicon.ico",
+  "icon_url": "https://vivoka.com/favicon.ico",
+  "images": [
+    "https://vivoka.com/favicon.ico"
+  ],
+  "website_url": "https://vivoka.com",
+  "tagline": "Embedded voice AI suite including ASR for offline/edge devices.",
+  "summary": "Vivoka provides an embedded voice AI suite with offline ASR, TTS, and wake word for edge devices in industrial and retail use cases.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Offline ASR",
+    "Voice commands"
+  ],
+  "use_cases": [
+    "Industry",
+    "Retail",
+    "Kiosks"
+  ],
+  "best_for": [
+    "OEMs & integrators"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Embedded ASR/TTS"
+  ],
+  "platforms": [
+    "On‑device SDKs",
+    "Edge devices"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Vivoka",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Vivoka_",
+    "linkedin": "https://www.linkedin.com/company/vivoka/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://vivoka.com/contact/",
+    "docs": "https://vivoka.com",
+    "changelog": null,
+    "support": "https://vivoka.com/contact/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://vivoka.com/favicon.ico",
+      "caption": "Vivoka Voice AI icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

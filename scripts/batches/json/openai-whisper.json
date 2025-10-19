@@ -1,0 +1,158 @@
+{
+  "id": "openai-whisper",
+  "name": "OpenAI Whisper",
+  "slug": "openai-whisper",
+  "logo_url": "https://github.com/openai/whisper/favicon.ico",
+  "icon_url": "https://github.com/openai/whisper/favicon.ico",
+  "images": [
+    "https://github.com/openai/whisper/favicon.ico"
+  ],
+  "website_url": "https://github.com/openai/whisper",
+  "tagline": "Open‑source multilingual speech recognition & translation models.",
+  "summary": "Whisper is an open‑source sequence‑to‑sequence model for automatic speech recognition, translation, and language identification. Trained on a large, diverse dataset, it supports many languages and is widely used for research and practical transcription tasks. Developers run it locally or on servers (Python/PyTorch) and can access community ports for faster inference. \n\nTypical uses: captioning, interviews, podcasts, and multilingual transcription. Implementations vary from CLI tools to integrated pipelines. Because it is a general model, accuracy and latency depend on model size (tiny‑xxl) and audio domain; careful evaluation on target data is recommended.\n\nWhisper is best for teams that want an open, local model with strong baseline accuracy and the flexibility to customize pipelines.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "ASR",
+    "Speech translation",
+    "Language ID"
+  ],
+  "use_cases": [
+    "Captioning",
+    "Interviews",
+    "Multilingual transcription"
+  ],
+  "best_for": [
+    "Open‑source workflows",
+    "Research & scripting"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "whisper tiny/base/small/medium/large (open‑source)"
+  ],
+  "platforms": [
+    "Local/Server (PyTorch)"
+  ],
+  "languages": [
+    "Many (model‑dependent)"
+  ],
+  "integrations": [
+    "CLI/FFmpeg/Python"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Open‑source",
+    "plans": [
+      {
+        "name": "MIT License",
+        "price": "$0 (self‑host)",
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [
+    {
+      "title": "Model card & paper",
+      "url": "https://github.com/openai/whisper"
+    }
+  ],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "OpenAI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/OpenAI",
+    "linkedin": "https://www.linkedin.com/company/openai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/openai/whisper",
+    "changelog": null,
+    "support": "https://github.com/openai/whisper/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:05:47Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://github.com/openai/whisper/favicon.ico",
+      "caption": "OpenAI Whisper icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Whisper repository overview",
+      "youtube": "https://github.com/openai/whisper",
+      "provider": "GitHub"
+    },
+    {
+      "title": "Community tutorial 1",
+      "youtube": "https://www.youtube.com/watch?v=sFDjUxHPP-M",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Community tutorial 2",
+      "youtube": "https://www.youtube.com/watch?v=3Mga7_8bYpw",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

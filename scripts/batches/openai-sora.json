@@ -1,0 +1,148 @@
+{
+  "id": "openai-sora",
+  "name": "OpenAI Sora",
+  "slug": "openai-sora",
+  "logo_url": "https://openai.com/sora/favicon.ico",
+  "icon_url": "https://openai.com/sora/favicon.ico",
+  "images": [
+    "https://openai.com/sora/favicon.ico"
+  ],
+  "website_url": "https://openai.com/sora",
+  "tagline": "Text‑to‑video model; limited availability via OpenAI.",
+  "summary": "Sora is OpenAI’s text‑to‑video model demonstrated with high‑fidelity samples across varied scenes and styles. As of public materials, Sora access is limited (research/preview programs), with updates provided on OpenAI’s site and social channels. The model demonstrates long‑duration clips, dynamic camera motion, and complex scene understanding from concise prompts. While official productization timelines evolve, Sora’s research provides guidance for prompt structure, subject continuity, and composition hints that carry over to other T2V systems.\n\nBecause access is restricted, most teams cannot directly integrate Sora today; instead, they study the samples and workflow notes while using currently available T2V tools for production. When Sora becomes broadly accessible, it is expected to be offered through OpenAI’s platform with usage policies aligned to safety and media provenance work. Teams already building on OpenAI’s stack will likely evaluate Sora once general availability details are published.\n\nFor now, treat Sora as a forward‑looking model to watch, with official updates from OpenAI’s announcements and system cards. Creators interested in the aesthetic can prototype with DALL·E for ideation and use other T2V tools to approximate motion and narrative pacing until Sora access widens.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video (research/preview)"
+  ],
+  "use_cases": [
+    "R&D; evaluate capabilities and future workflows"
+  ],
+  "best_for": [
+    "Teams following OpenAI’s research roadmap"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Sora"
+  ],
+  "platforms": [
+    "To be announced by OpenAI"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "High‑fidelity samples",
+      "Complex scene modeling"
+    ],
+    "cons": [
+      "Limited access; not generally available"
+    ]
+  },
+  "key_differentiators": [
+    "Longer clips; complex physics in samples"
+  ],
+  "limitations": [
+    "Access restricted; not a generally available product"
+  ],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "OpenAI",
+    "hq_country": null,
+    "twitter": "https://twitter.com/OpenAI",
+    "linkedin": "https://www.linkedin.com/company/openai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://openai.com/sora",
+    "changelog": null,
+    "support": "https://help.openai.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://openai.com/sora/favicon.ico",
+      "caption": "OpenAI Sora icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Sora sample reel (OpenAI)",
+      "youtube": "https://www.youtube.com/@OpenAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Sora research overview (OpenAI)",
+      "youtube": "https://www.youtube.com/@OpenAI",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Sora breakdowns (community)",
+      "youtube": "https://www.youtube.com/watch?v=1CYSW9gtQh4",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

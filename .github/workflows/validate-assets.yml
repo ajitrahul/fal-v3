@@ -1,0 +1,56 @@
+name: Validate Assets (logos/screenshots/tutorials)
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - "data/tools.json"
+      - "scripts/validate-assets.mjs"
+      - ".github/workflows/validate-assets.yml"
+  schedule:
+    - cron: "25 2 * * *"  # daily at 02:25 UTC
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Create CI env file
+        run: |
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" > .env.ci
+
+      - name: Audit (no fix)
+        run: node --env-file=.env.ci scripts/validate-assets.mjs --region=US
+
+      - name: Upload audit CSVs
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-audit-reports
+          path: |
+            data/tools-link-audit.csv
+            data/tutorials-audit.csv
+
+      - name: Try to auto-fix (optional)
+        if: ${{ secrets.YOUTUBE_API_KEY != '' }}
+        run: node --env-file=.env.ci scripts/validate-assets.mjs --fix --region=US
+
+      - name: Upload cleaned tools.json (if produced)
+        if: ${{ secrets.YOUTUBE_API_KEY != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: tools-json-cleaned
+          path: data/tools.cleaned.json

@@ -1,0 +1,131 @@
+{
+  "id": "ibm-watsonx-code-assistant",
+  "name": "IBM watsonx Code Assistant",
+  "slug": "ibm-watsonx-code-assistant",
+  "logo_url": "https://www.ibm.com/products/watsonx-code-assistant/favicon.ico",
+  "icon_url": "https://www.ibm.com/products/watsonx-code-assistant/favicon.ico",
+  "images": [
+    "https://www.ibm.com/products/watsonx-code-assistant/favicon.ico"
+  ],
+  "website_url": "https://www.ibm.com/products/watsonx-code-assistant",
+  "tagline": "IBM’s AI assistant for code modernization and enterprise workflows.",
+  "summary": "IBM watsonx Code Assistant provides AI assistance for application modernization and enterprise development workflows on the IBM watsonx platform. It focuses on tasks such as translating legacy code to modern languages, generating unit tests, and accelerating development within regulated environments. IBM materials describe use cases in mainframe and Java modernization as well as domain‑specific assistants like COBOL to Java translation. The assistant integrates with IBM tooling and can be paired with enterprise governance, security, and data privacy controls managed in IBM Cloud or on‑prem deployments.\n\nDocumentation and product pages outline how organizations evaluate watsonx Code Assistant for specific modernization goals—profiling existing code, selecting migration paths, and staging rollouts. IBM case studies and solution briefs discuss productivity and quality outcomes when combining AI assistance with tooling and best practices. Tutorials from IBM’s official channels demonstrate end‑to‑end flows, including preparing codebases, creating test plans, and validating migrated services.\n\nIBM watsonx Code Assistant is best for enterprises with legacy portfolios who need vendor‑supported AI guidance for translation and modernization with governance aligned to corporate standards.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Enterprise",
+    "Code Generation"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "IBM Cloud / on‑prem (per product)",
+    "IDE integrations (see docs)"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "IBM",
+    "hq_country": "USA",
+    "twitter": "https://twitter.com/IBMdeveloper",
+    "linkedin": "https://www.linkedin.com/showcase/ibm-developer/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.ibm.com/products/watsonx-code-assistant",
+    "docs": "https://www.ibm.com/docs/en/watsonx",
+    "changelog": "https://www.ibm.com/support/pages/ibm-watsonx-code-assistant",
+    "support": "https://www.ibm.com/mysupport/s/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.ibm.com/products/watsonx-code-assistant/favicon.ico",
+      "caption": "IBM watsonx Code Assistant icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "IBM watsonx Code Assistant overview (official)",
+      "youtube": "https://www.youtube.com/watch?v=dMlQJ8H6E7k",
+      "provider": "YouTube"
+    },
+    {
+      "title": "COBOL modernization with watsonx (official)",
+      "youtube": "https://www.youtube.com/watch?v=JcUoV4qQH6Y",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Watsonx Code Assistant demo (official)",
+      "youtube": "https://www.youtube.com/watch?v=Ld7w1Z0oG7A",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

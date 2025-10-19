@@ -1,0 +1,4943 @@
+[
+  {
+    "id": "18389100-bfbe-418b-9a0c-d6f9698c381f",
+    "name": "Zapier Central",
+    "slug": "zapier-central",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "76918d32-49a8-4d85-b250-3ab418b38293",
+    "name": "Tability AI",
+    "slug": "tability-ai",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "e9557c31-933d-4f97-a376-5153b64009ed",
+    "name": "Khanmigo",
+    "slug": "khanmigo",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "570145a7-d21a-4b95-b859-42585f9560b6",
+    "name": "Quizlet Q-Chat",
+    "slug": "quizlet-qchat",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "61c4bc60-fd01-4404-96ef-2660f6e9384f",
+    "name": "Zapier Central #5",
+    "slug": "zapier-central-5",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "12a2d1c0-357f-49cb-a4a0-da0640edba4f",
+    "name": "Tability AI #6",
+    "slug": "tability-ai-6",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "a99ea0b1-1a1e-4359-ba02-ef76e5a0f47f",
+    "name": "Khanmigo #7",
+    "slug": "khanmigo-7",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "f9f24123-f1ba-4685-afbc-414e0761f629",
+    "name": "Quizlet Q-Chat #8",
+    "slug": "quizlet-qchat-8",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "42c0808f-9483-470f-9442-a57ce74993d5",
+    "name": "Zapier Central #9",
+    "slug": "zapier-central-9",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "c3ec1494-4604-4b7e-bc25-8242ec004a8f",
+    "name": "Tability AI #10",
+    "slug": "tability-ai-10",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "efd9d0f7-5171-4d89-9435-8b7294de7adf",
+    "name": "Khanmigo #11",
+    "slug": "khanmigo-11",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "1f5b949c-aec5-4c99-b69c-ee4f0587b45d",
+    "name": "Quizlet Q-Chat #12",
+    "slug": "quizlet-qchat-12",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "7fab7989-9b42-4a32-b7f2-f46f8af95054",
+    "name": "Zapier Central #13",
+    "slug": "zapier-central-13",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "c294ff0b-49d9-4574-92e6-026df61927dd",
+    "name": "Tability AI #14",
+    "slug": "tability-ai-14",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "e6944a20-0756-4133-8e18-41d5ddbfe95d",
+    "name": "Khanmigo #15",
+    "slug": "khanmigo-15",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "175ee025-79bb-4f1f-8ffa-41f3f2c2e188",
+    "name": "Quizlet Q-Chat #16",
+    "slug": "quizlet-qchat-16",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "89bf7e23-0f9b-470a-9253-71ed36fa18be",
+    "name": "Zapier Central #17",
+    "slug": "zapier-central-17",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "cb1a9d6c-e1b6-4df5-a66a-dff7e97ada87",
+    "name": "Tability AI #18",
+    "slug": "tability-ai-18",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "d2b753a5-7638-42c6-898d-8128a4a01d8c",
+    "name": "Khanmigo #19",
+    "slug": "khanmigo-19",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "5d17b409-45e3-4ceb-88a1-7ecd6fd65596",
+    "name": "Quizlet Q-Chat #20",
+    "slug": "quizlet-qchat-20",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "504300b3-d082-4219-918b-901dcbad37f5",
+    "name": "Zapier Central #21",
+    "slug": "zapier-central-21",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "d26f29ad-7123-4117-984e-dd875fb8b9f5",
+    "name": "Tability AI #22",
+    "slug": "tability-ai-22",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "e2873bef-4262-404c-90be-4c08b13a665c",
+    "name": "Khanmigo #23",
+    "slug": "khanmigo-23",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "b4d846cb-315f-41fb-bce0-b5213c1cb6cc",
+    "name": "Quizlet Q-Chat #24",
+    "slug": "quizlet-qchat-24",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "49ccfc82-a572-4ad5-a4ef-a50a0d5e1af5",
+    "name": "Zapier Central #25",
+    "slug": "zapier-central-25",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "c68c0514-6ba6-4e09-8f3c-184ce91afe86",
+    "name": "Tability AI #26",
+    "slug": "tability-ai-26",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "bf9a491c-31ac-4ac8-882e-365b970f90d3",
+    "name": "Khanmigo #27",
+    "slug": "khanmigo-27",
+    "website_url": "https://www.khanacademy.org/khan-labs",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.khanacademy.org",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.khanacademy.org/khan-labs",
+        "caption": "Khanmigo"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Tutor",
+      "Lesson planning"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Donor-supported",
+          "price": "$0+"
+        }
+      ]
+    },
+    "features": [
+      "Guided tutoring"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Khan Academy",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Khanmigo Demo",
+        "url": "https://www.youtube.com/watch?v=h1j4lY2DqTY",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Classroom Use",
+        "url": "https://www.youtube.com/watch?v=J9gU1d7b3jQ",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Math Tutor",
+        "url": "https://www.youtube.com/watch?v=_U2ZtK7Zy6A",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Khanmigo"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/khanmigo",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "d46237f0-206d-40ed-b38a-a5c592a10d47",
+    "name": "Quizlet Q-Chat #28",
+    "slug": "quizlet-qchat-28",
+    "website_url": "https://quizlet.com/features/q-chat",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=quizlet.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://quizlet.com/features/q-chat",
+        "caption": "Quizlet Q-Chat"
+      }
+    ],
+    "categories": [
+      "Education"
+    ],
+    "tasks": [
+      "Study",
+      "Practice",
+      "Recall"
+    ],
+    "pricing": {
+      "model": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0"
+        },
+        {
+          "name": "Plus",
+          "price": "$7.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "Q&A",
+      "Practice"
+    ],
+    "platforms": [
+      "Web",
+      "Mobile"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Quizlet",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Quizlet Q-Chat",
+        "url": "https://www.youtube.com/watch?v=7R8tS8U3f5c",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Study with AI",
+        "url": "https://www.youtube.com/watch?v=T8s0eW7YxvM",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Tips",
+        "url": "https://www.youtube.com/watch?v=1m-5xK8gqgk",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Quizlet Q-Chat"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/quizlet-qchat",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "343bf5c3-9269-4b6a-9d16-c3af15dd55bc",
+    "name": "Zapier Central #29",
+    "slug": "zapier-central-29",
+    "website_url": "https://zapier.com/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=zapier.com",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://zapier.com/ai",
+        "caption": "Zapier Central"
+      }
+    ],
+    "categories": [
+      "Agents",
+      "Automation"
+    ],
+    "tasks": [
+      "Multi-step agents",
+      "Apps"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Professional",
+          "price": "$19.99/mo"
+        }
+      ]
+    },
+    "features": [
+      "1000+ apps",
+      "No-code"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Zapier",
+      "hq_country": "US",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Zapier AI Tutorial",
+        "url": "https://www.youtube.com/watch?v=3jL1t0y2sC8",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Build Agents",
+        "url": "https://www.youtube.com/watch?v=f3c3D0s9pDg",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "Automation Tips",
+        "url": "https://www.youtube.com/watch?v=3zG9G9v1eQ8",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Zapier Central"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/zapier-central",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  },
+  {
+    "id": "ed577e22-9063-41bb-a519-7f182087e3e6",
+    "name": "Tability AI #30",
+    "slug": "tability-ai-30",
+    "website_url": "https://www.tability.io/ai",
+    "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.tability.io",
+    "gallery": [
+      {
+        "src": "https://image.thum.io/get/width/1200/crop/800/https://www.tability.io/ai",
+        "caption": "Tability AI"
+      }
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "tasks": [
+      "OKRs",
+      "Strategy",
+      "Summaries"
+    ],
+    "pricing": {
+      "model": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "$8/user/mo"
+        }
+      ]
+    },
+    "features": [
+      "OKR coach",
+      "AI updates"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "models": [
+      "Various"
+    ],
+    "vendor": {
+      "name": "Tability",
+      "hq_country": "AU",
+      "contact_email": "",
+      "twitter": "",
+      "linkedin": ""
+    },
+    "tutorials": [
+      {
+        "title": "Tability Tutorial",
+        "url": "https://www.youtube.com/watch?v=JdA9S5nJcQw",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "AI Updates",
+        "url": "https://www.youtube.com/watch?v=XG5r2mO0d8s",
+        "provider": "youtube",
+        "language": "en"
+      },
+      {
+        "title": "OKR Coach",
+        "url": "https://www.youtube.com/watch?v=T5dIyk8L0eE",
+        "provider": "youtube",
+        "language": "en"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "maturity": "established",
+    "release_date": "2023-01-01",
+    "updated_at": "2025-10-05",
+    "status": "active",
+    "compliance": [],
+    "community": {
+      "rating": 4.5,
+      "votes": 1000,
+      "reviews": []
+    },
+    "seo": {
+      "keywords": [
+        "Tability AI"
+      ],
+      "canonical_url": "https://yourdomain.com/tools/tability-ai",
+      "schema_org": [
+        "SoftwareApplication",
+        "Product"
+      ]
+    },
+    "flags": {
+      "free": false,
+      "no_signup": false,
+      "open_source": false,
+      "mobile_app": false,
+      "api_available": false,
+      "on_device": false,
+      "privacy_first": false,
+      "educational": false,
+      "nsfw": false,
+      "verified": true
+    },
+    "links": {
+      "docs": "",
+      "changelog": "",
+      "roadmap": "",
+      "support": "",
+      "pricing": ""
+    },
+    "affiliate": {
+      "enabled": false,
+      "link": "",
+      "partner_id": ""
+    },
+    "moderation": {
+      "submitted_by": "seed",
+      "moderation_state": "approved",
+      "notes": ""
+    },
+    "best_for": [],
+    "use_cases": [],
+    "ideal_industries": [],
+    "support_channels": [
+      "Docs"
+    ],
+    "pricing_notes": "",
+    "pros_cons": {
+      "pros": [],
+      "cons": []
+    },
+    "key_differentiators": [],
+    "limitations": [],
+    "setup_time": "5–15 min",
+    "import_export": [],
+    "data_controls": [],
+    "governance": [],
+    "case_studies": [],
+    "migration_paths": [],
+    "alternatives_notes": "",
+    "roadmap_highlights": [],
+    "technical": {
+      "context_tokens": null,
+      "latency_ms": null,
+      "throughput_rps": null,
+      "sdk_languages": []
+    },
+    "benchmarks": {
+      "latency_ms_p50": null,
+      "latency_ms_p95": null,
+      "note": null
+    },
+    "privacy": {
+      "training_policy": "",
+      "data_retention": ""
+    },
+    "security": {
+      "certifications": [],
+      "sso": null
+    },
+    "limits": {
+      "free_tier": "No",
+      "rate_limits": "Plan-based"
+    },
+    "uptime_slo": null
+  }
+]

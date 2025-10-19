@@ -1,0 +1,32 @@
+[
+  {
+    "t": "2025-10-07T17:17:53.799Z",
+    "slug": "lavender",
+    "to": "https://www.lavender.ai/?utm_source=findailist&utm_medium=referral&utm_campaign=go_redirect",
+    "ip": "::1",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/tools/lavender",
+    "ctx": "go"
+  },
+  {
+    "t": "2025-10-07T18:16:45.148Z",
+    "slug": "mem-16",
+    "to": "https://get.mem.ai/?utm_source=findailist&utm_medium=referral&utm_campaign=go_redirect&utm_content=home_card",
+    "ip": "::1",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "ref": "http://localhost:3000/",
+    "ctx": "home_card"
+  },
+  {
+    "t": "2025-10-07T18:41:09.167Z",
+    "slug": "jasper",
+    "to": "https://www.jasper.ai/?utm_source=findailist&utm_medium=referral&utm_campaign=go_redirect&utm_content=home_card",
+    "ip": "::1",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36",
+    "ref": null,
+    "ctx": "home_card"
+  }
+]home_card"
+  }
+] }
+]

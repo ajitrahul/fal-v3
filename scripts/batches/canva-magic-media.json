@@ -1,0 +1,160 @@
+{
+  "id": "canva-magic-media",
+  "name": "Canva Magic Media",
+  "slug": "canva-magic-media",
+  "logo_url": "https://www.canva.com/magic/favicon.ico",
+  "icon_url": "https://www.canva.com/magic/favicon.ico",
+  "images": [
+    "https://www.canva.com/magic/favicon.ico"
+  ],
+  "website_url": "https://www.canva.com/magic/",
+  "tagline": "Canva’s AI tools for creating and editing images and videos inside the Canva editor.",
+  "summary": "Magic Media is Canva’s suite of generative AI tools built into the Canva editor for images and video. Users can transform prompts into visuals, edit images with Magic Edit/Erase, and apply design‑automation features like Magic Design and Magic Switch. The tools live directly in the Canva UI with templates and brand kits, making it easy to generate, edit, and export within the same workflow. Official help articles explain how to access Magic Media from the toolbar and how to use it in mobile and desktop experiences.\n\nUse cases include rapid social content, marketing visuals, presentation assets, and creative experimentation. Many non‑designers adopt Canva because of its templates and drag‑and‑drop editor; Magic Media accelerates the starting point with generated images and videos. A free tier exists with usage caps; Canva Pro and enterprise tiers expand limits and brand controls.\n\nMagic Media is best for small teams, educators, and marketers who want to ideate and finish designs in one place without switching between multiple apps.",
+  "main_category": "Text-to-Image",
+  "subcategory": null,
+  "categories": [
+    "Design",
+    "Media Generation",
+    "Marketing"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Canva service‑managed generators; partner models (per product updates)"
+  ],
+  "platforms": [
+    "Web",
+    "iOS/Android (Canva app)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Canva Brand Kit",
+    "Apps marketplace"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier with usage limits; higher limits on Pro/Teams",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + Pro/Teams",
+    "plans": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billing": "monthly"
+      },
+      {
+        "name": "Pro",
+        "price": "see site",
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "All‑in‑one design + AI",
+      "Huge template library",
+      "Team collaboration"
+    ],
+    "cons": [
+      "Advanced controls may be less granular than pro tools"
+    ]
+  },
+  "key_differentiators": [
+    "Design + generate in one editor",
+    "Brand assets and templates"
+  ],
+  "limitations": [],
+  "import_export": [
+    "PNG/JPG/PDF/MP4/others via Canva exports"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Canva",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Canva",
+    "linkedin": "https://www.linkedin.com/company/canva/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.canva.com/pricing/",
+    "docs": "https://www.canva.com/help/using-magic-media/",
+    "changelog": null,
+    "support": "https://www.canva.com/help/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:57:35Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.canva.com/magic/favicon.ico",
+      "caption": "Canva Magic Media icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Canva channel (official)",
+      "youtube": "https://www.youtube.com/@canva",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Magic Media overview (official)",
+      "youtube": "https://www.youtube.com/watch?v=YzUjlt8yPZk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Canva Magic Studio updates (official)",
+      "youtube": "https://www.youtube.com/watch?v=MDviG1S2-xQ",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

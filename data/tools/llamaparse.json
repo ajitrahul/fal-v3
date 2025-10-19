@@ -1,0 +1,155 @@
+{
+  "slug": "llamaparse",
+  "name": "LlamaParse",
+  "website_url": "https://www.llamaparse.com/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.llamaparse.com",
+  "description": "LlamaParse is an AI tool in the rag framework category. See the official site for features and availability.",
+  "category": "rag-framework",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use LlamaParse for rag framework tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://www.llamaparse.com/"
+    }
+  ],
+  "company_details": {
+    "name": "LlamaIndex",
+    "legal": {
+      "terms_url": "https://www.llamaparse.com/",
+      "privacy_url": "https://www.llamaparse.com/"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=LlamaParse"
+    }
+  ],
+  "image": "https://www.llamaparse.com/",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "LlamaIndex",
+      "modality": "text"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://www.llamaparse.com/",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the LlamaIndex ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://www.llamaparse.com/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": false,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://www.llamaparse.com/",
+      "caption": "LlamaParse"
+    }
+  ],
+  "tutorials_youtube": [],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://www.llamaparse.com/"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://www.llamaparse.com/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T12:00:08.035857"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "veritone-captioning",
+  "name": "Veritone Captioning",
+  "slug": "veritone-captioning",
+  "logo_url": "https://www.veritone.com/applications/captions/favicon.ico",
+  "icon_url": "https://www.veritone.com/applications/captions/favicon.ico",
+  "images": [
+    "https://www.veritone.com/applications/captions/favicon.ico"
+  ],
+  "website_url": "https://www.veritone.com/applications/captions/",
+  "tagline": "AI-powered caption generation and management (aiWARE).",
+  "summary": "Veritone Captioning provides captioning and localization workflows. Many offer AI-assisted generation with human QA for broadcast-quality results and accessibility compliance.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Captions",
+    "Subtitles",
+    "Translation"
+  ],
+  "use_cases": [
+    "Broadcast",
+    "Streaming",
+    "Education/enterprise"
+  ],
+  "best_for": [
+    "Media teams & enterprises"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "AI + human captioning (varies)"
+  ],
+  "platforms": [
+    "Web portals",
+    "APIs/Integrations"
+  ],
+  "languages": [
+    "Global coverage (varies)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Veritone",
+    "hq_country": null,
+    "twitter": "https://twitter.com/veritoneinc",
+    "linkedin": "https://www.linkedin.com/company/veritone/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.veritone.com/applications/captions/",
+    "changelog": null,
+    "support": "https://www.veritone.com/applications/captions/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:48:16Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.veritone.com/applications/captions/favicon.ico",
+      "caption": "Veritone Captioning icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,145 @@
+{
+  "id": "modjo",
+  "name": "Modjo",
+  "slug": "modjo",
+  "logo_url": "https://www.modjo.ai/favicon.ico",
+  "icon_url": "https://www.modjo.ai/favicon.ico",
+  "images": [
+    "https://www.modjo.ai/favicon.ico"
+  ],
+  "website_url": "https://www.modjo.ai",
+  "tagline": "Conversation intelligence for European teams: record, transcribe, and coach.",
+  "summary": "Modjo provides conversation intelligence for European sales teams, recording and transcribing calls to surface insights and coach reps. It supports GDPR‑minded deployments, integrates with CRMs, and organizes recordings by opportunities and accounts.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Coaching",
+    "Search & snippets"
+  ],
+  "use_cases": [
+    "Sales enablement",
+    "Deal reviews",
+    "Onboarding"
+  ],
+  "best_for": [
+    "EU revenue teams"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + analytics"
+  ],
+  "platforms": [
+    "Web",
+    "Dialer/CRM integrations"
+  ],
+  "languages": [
+    "Multiple European languages (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Modjo",
+    "hq_country": null,
+    "twitter": "https://twitter.com/modjo_ai",
+    "linkedin": "https://www.linkedin.com/company/modjo-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.modjo.ai/pricing",
+    "docs": "https://help.modjo.ai",
+    "changelog": null,
+    "support": "https://help.modjo.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:22:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.modjo.ai/favicon.ico",
+      "caption": "Modjo icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Modjo channel (official)",
+      "youtube": "https://www.youtube.com/@modjoai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Modjo overview (official)",
+      "youtube": "https://www.youtube.com/@modjoai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Coach with Modjo (official)",
+      "youtube": "https://www.youtube.com/@modjoai",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

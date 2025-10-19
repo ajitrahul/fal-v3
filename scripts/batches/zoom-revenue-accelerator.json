@@ -1,0 +1,146 @@
+{
+  "id": "zoom-revenue-accelerator",
+  "name": "Zoom Revenue Accelerator",
+  "slug": "zoom-revenue-accelerator",
+  "logo_url": "https://explore.zoom.us/en/products/zoom-iq/favicon.ico",
+  "icon_url": "https://explore.zoom.us/en/products/zoom-iq/favicon.ico",
+  "images": [
+    "https://explore.zoom.us/en/products/zoom-iq/favicon.ico"
+  ],
+  "website_url": "https://explore.zoom.us/en/products/zoom-iq/",
+  "tagline": "Conversation intelligence for sales with transcripts, topics, and coaching.",
+  "summary": "Zoom Revenue Accelerator (formerly Zoom IQ for Sales) analyzes sales conversations using meeting transcripts to extract topics, talk ratios, deal risks, and coaching points. It integrates directly with Zoom meetings and recordings and syncs with CRM systems.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Coaching insights",
+    "Deal risks/topics"
+  ],
+  "use_cases": [
+    "Sales coaching",
+    "Pipeline reviews",
+    "Onboarding"
+  ],
+  "best_for": [
+    "Sales organizations on Zoom"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Zoom transcription + analytics"
+  ],
+  "platforms": [
+    "Zoom platform",
+    "Web app",
+    "CRM integrations"
+  ],
+  "languages": [
+    "Selected locales (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Zoom Video Communications",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Zoom",
+    "linkedin": "https://www.linkedin.com/company/zoom-video-communications/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://explore.zoom.us/en/pricing/",
+    "docs": "https://support.zoom.us",
+    "changelog": null,
+    "support": "https://support.zoom.us"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:22:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://explore.zoom.us/en/products/zoom-iq/favicon.ico",
+      "caption": "Zoom Revenue Accelerator icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Zoom Revenue Accelerator overview (official)",
+      "youtube": "https://www.youtube.com/@zoom",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Analyze calls & coach (official)",
+      "youtube": "https://www.youtube.com/@zoom",
+      "provider": "YouTube"
+    },
+    {
+      "title": "CRM integration walkthrough (official)",
+      "youtube": "https://www.youtube.com/@zoom",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

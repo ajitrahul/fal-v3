@@ -1,0 +1,214 @@
+{
+  "slug": "openai-chatgpt",
+  "name": "ChatGPT",
+  "website_url": "https://chatgpt.com/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=chatgpt.com",
+  "description": "ChatGPT is OpenAI’s conversational AI for writing, coding, analysis, and creative tasks. It supports multimodal interactions, file uploads, custom GPTs, and enterprise controls across web and mobile.",
+  "category": "chat-assistant",
+  "use_cases": [
+    {
+      "title": "Content drafting",
+      "details": "Write blogs, emails, briefs, and ads."
+    },
+    {
+      "title": "Code help",
+      "details": "Explain, debug, and generate code."
+    },
+    {
+      "title": "Document analysis",
+      "details": "Summarize reports and extract data."
+    }
+  ],
+  "pros": [
+    "Strong general performance",
+    "Custom GPTs & actions",
+    "Large ecosystem"
+  ],
+  "cons": [
+    "Usage caps on lower tiers",
+    "Human review needed for critical work"
+  ],
+  "pricing_plans": [
+    {
+      "name": "Free",
+      "price": "0",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Core chat"
+      ],
+      "trial_available": false,
+      "url": "https://openai.com/business/chatgpt-pricing/"
+    },
+    {
+      "name": "Plus",
+      "price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Priority access",
+        "More features"
+      ],
+      "trial_available": false,
+      "url": "https://openai.com/business/chatgpt-pricing/"
+    },
+    {
+      "name": "Business",
+      "price": "Contact sales",
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "features": [
+        "Admin controls",
+        "Data controls",
+        "SSO"
+      ],
+      "trial_available": false,
+      "url": "https://openai.com/business/chatgpt-pricing/"
+    }
+  ],
+  "company_details": {
+    "name": "OpenAI",
+    "founded_year": 2015,
+    "hq_city": "San Francisco",
+    "hq_country": "USA",
+    "legal": {
+      "terms_url": "https://openai.com/policies/terms-of-use",
+      "privacy_url": "https://openai.com/policies/privacy-policy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "G2",
+      "source_type": "review_site",
+      "url": "https://www.g2.com/products/chatgpt/reviews"
+    },
+    {
+      "source_name": "Capterra",
+      "source_type": "review_site",
+      "url": "https://www.capterra.com/p/10009334/ChatGPT/reviews/"
+    },
+    {
+      "source_name": "Trustpilot",
+      "source_type": "review_site",
+      "url": "https://www.trustpilot.com/review/chatgpt.com"
+    }
+  ],
+  "image": "https://openai.com/content/images/size/w1200/2024/05/openai-default.png",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "GPT-4o",
+      "provider": "OpenAI",
+      "modality": "multimodal",
+      "input_formats": [
+        "text",
+        "image"
+      ],
+      "output_formats": [
+        "text",
+        "image"
+      ]
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://platform.openai.com/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS"
+    ],
+    "integrations": [
+      "Zapier",
+      "Notion",
+      "Slack"
+    ]
+  },
+  "key_differentiator": [
+    "Custom GPTs & actions ecosystem",
+    "Broad adoption"
+  ],
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://help.openai.com/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://openai.com/content/images/size/w1200/2024/05/openai-default.png",
+      "caption": "ChatGPT UI"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "GPT‑4o demos",
+      "url": "https://www.youtube.com/watch?v=MkTpplPhi4s",
+      "channel": "OpenAI"
+    }
+  ],
+  "qa": [
+    {
+      "question": "How much is ChatGPT Plus?",
+      "answer": "$20/month as listed on OpenAI’s pricing page.",
+      "source_url": "https://openai.com/business/chatgpt-pricing/"
+    },
+    {
+      "question": "Is there a free plan?",
+      "answer": "Yes—basic features are free.",
+      "source_url": "https://openai.com/index/chatgpt-plus/"
+    },
+    {
+      "question": "Does ChatGPT have an API?",
+      "answer": "Yes—via OpenAI Platform.",
+      "source_url": "https://platform.openai.com/docs"
+    },
+    {
+      "question": "Can I build custom GPTs?",
+      "answer": "Yes—Plus and above support custom GPTs.",
+      "source_url": "https://help.openai.com/"
+    },
+    {
+      "question": "Are there usage caps?",
+      "answer": "Yes—message caps vary by tier.",
+      "source_url": "https://help.openai.com/en/articles/8554407-chatgpt-plus"
+    },
+    {
+      "question": "Is data used for training?",
+      "answer": "Business/Enterprise offer data controls; see policy.",
+      "source_url": "https://openai.com/policies/"
+    },
+    {
+      "question": "Mobile apps available?",
+      "answer": "Yes—on iOS and Android.",
+      "source_url": "https://help.openai.com/"
+    },
+    {
+      "question": "Can it read images?",
+      "answer": "Yes—multimodal features supported.",
+      "source_url": "https://openai.com/"
+    },
+    {
+      "question": "Where to read reviews?",
+      "answer": "See G2, Capterra, Trustpilot.",
+      "source_url": "https://www.g2.com/products/chatgpt/reviews"
+    },
+    {
+      "question": "Does Business include SSO?",
+      "answer": "Yes—admin & data controls; contact sales.",
+      "source_url": "https://openai.com/business/chatgpt-pricing/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/c/OpenAI",
+  "last_crawled_at": "2025-10-19T05:17:47.873650"
+}

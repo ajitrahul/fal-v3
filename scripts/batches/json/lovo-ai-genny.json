@@ -1,0 +1,168 @@
+{
+  "id": "lovo-ai-genny",
+  "name": "LOVO.ai (Genny)",
+  "slug": "lovo-ai-genny",
+  "logo_url": "https://lovo.ai/favicon.ico",
+  "icon_url": "https://lovo.ai/favicon.ico",
+  "images": [
+    "https://lovo.ai/favicon.ico"
+  ],
+  "website_url": "https://lovo.ai",
+  "tagline": "AI voice generator and cloning for creators and teams.",
+  "summary": "LOVO (Genny) is an AI voice generator geared toward creators and teams producing marketing, explainer, and e‑learning content. The web studio provides a script editor, large voice catalog, background music/SFX, and basic multitrack timeline features. Users can create custom voices with consent and manage projects for longer scripts. Exports integrate with common video editors for finishing.\n\nUse cases include social promos, product explainers, and localized training. Tutorials from LOVO’s official channel cover script pacing, emphasis, and combining voice tracks with background music for more polished output. Pricing includes individual and team plans; enterprise options add governance and service levels.\n\nLOVO suits creators who want a one‑stop studio to generate voiceovers without deep audio engineering expertise.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Voiceover generation",
+    "Custom voices",
+    "Multitrack editing (basic)"
+  ],
+  "use_cases": [
+    "Marketing",
+    "Explainers",
+    "E‑learning"
+  ],
+  "best_for": [
+    "Creators",
+    "SMBs",
+    "Agencies"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "LOVO neural TTS",
+    "Custom voices (consent‑based)"
+  ],
+  "platforms": [
+    "Web Studio",
+    "API (selected)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "Stock music/SFX libraries"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free trial/limited use",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Subscription tiers",
+    "plans": [
+      {
+        "name": "Basic/Pro/Pro+",
+        "price": null,
+        "billing": "monthly/annual"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Large voice catalog",
+      "Simple studio",
+      "Team options"
+    ],
+    "cons": [
+      "Less granular audio engineering controls than DAWs"
+    ]
+  },
+  "key_differentiators": [
+    "Studio + voices in one tool"
+  ],
+  "limitations": [
+    "Advanced audio post requires external DAW/NLE"
+  ],
+  "import_export": [
+    "MP3/WAV exports"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "LOVO",
+    "hq_country": null,
+    "twitter": "https://twitter.com/lovo_ai",
+    "linkedin": "https://www.linkedin.com/company/lovo-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://lovo.ai/pricing",
+    "docs": "https://lovo.ai",
+    "changelog": null,
+    "support": "https://help.lovo.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://lovo.ai/favicon.ico",
+      "caption": "LOVO.ai (Genny) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "LOVO channel (official)",
+      "youtube": "https://www.youtube.com/@lovo_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Create voiceovers with LOVO (official)",
+      "youtube": "https://www.youtube.com/@lovo_ai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Genny tutorial (official)",
+      "youtube": "https://www.youtube.com/@lovo_ai",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

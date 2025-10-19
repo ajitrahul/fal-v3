@@ -1,0 +1,155 @@
+{
+  "slug": "grafana-machine-learning",
+  "name": "Grafana Machine Learning",
+  "website_url": "https://grafana.com/oss/machine-learning/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=grafana.com",
+  "description": "Grafana Machine Learning is an AI tool in the developer platform category. See the official site for features and availability.",
+  "category": "developer-platform",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use Grafana Machine Learning for developer platform tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://grafana.com/oss/machine-learning/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Grafana",
+    "legal": {
+      "terms_url": "https://grafana.com/oss/machine-learning/terms",
+      "privacy_url": "https://grafana.com/oss/machine-learning/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=Grafana%20Machine%20Learning"
+    }
+  ],
+  "image": "https://grafana.com/oss/machine-learning/",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "Grafana",
+      "modality": "text"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://grafana.com/oss/machine-learning/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the Grafana ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://grafana.com/oss/machine-learning/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": false,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://grafana.com/oss/machine-learning/",
+      "caption": "Grafana Machine Learning"
+    }
+  ],
+  "tutorials_youtube": [],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://grafana.com/oss/machine-learning/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://grafana.com/oss/machine-learning/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://grafana.com/oss/machine-learning/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://grafana.com/oss/machine-learning/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://grafana.com/oss/machine-learning/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://grafana.com/oss/machine-learning/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://grafana.com/oss/machine-learning/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://grafana.com/oss/machine-learning/"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://grafana.com/oss/machine-learning/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T12:53:19.417660"
+}

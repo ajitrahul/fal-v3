@@ -1,0 +1,128 @@
+{
+  "id": "streamtext",
+  "name": "StreamText",
+  "slug": "streamtext",
+  "logo_url": "https://streamtext.net/favicon.ico",
+  "icon_url": "https://streamtext.net/favicon.ico",
+  "images": [
+    "https://streamtext.net/favicon.ico"
+  ],
+  "website_url": "https://streamtext.net",
+  "tagline": "Real‑time streaming of captions/CART to the web.",
+  "summary": "StreamText serves broadcasters and event producers with automated captioning and subtitle workflows; many pair AI with professional QC for on‑air readiness.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Post captions",
+    "Workflows"
+  ],
+  "use_cases": [
+    "Broadcast",
+    "Live events",
+    "Streaming"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "StreamText",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/streamtext/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://streamtext.net",
+    "changelog": null,
+    "support": "https://streamtext.net"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:13:43Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://streamtext.net/favicon.ico",
+      "caption": "StreamText icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

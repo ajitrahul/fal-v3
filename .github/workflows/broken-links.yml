@@ -1,0 +1,54 @@
+name: Broken Link Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 2 * * *" # daily at 08:00 IST
+  pull_request:
+
+env:
+  SITE_URL: https://findailist.com
+
+jobs:
+  crawl-with-linkinator:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Recursive crawl (Linkinator)
+        run: |
+          npx --yes linkinator "$SITE_URL" \
+            --recurse \
+            --timeout 20000 \
+            --skip '.*(mailto:|tel:|linkedin\\.com|facebook\\.com|instagram\\.com|twitter\\.com|x\\.com).*' \
+            --silent --format json > linkinator-report.json
+
+      - name: Upload Linkinator report
+        uses: actions/upload-artifact@v4
+        with:
+          name: linkinator-report
+          path: linkinator-report.json
+
+  sitemap-with-lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download sitemap
+        run: |
+          curl -sSL "$SITE_URL/sitemap.xml" -o sitemap.xml
+
+      - name: Lychee on sitemap
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >
+            --no-progress
+            --verbose
+            --max-retries 2
+            --retry-wait-time 2
+            --timeout 20
+            --exclude '.*(linkedin\\.com|facebook\\.com|instagram\\.com|twitter\\.com|x\\.com).*'
+            sitemap.xml
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

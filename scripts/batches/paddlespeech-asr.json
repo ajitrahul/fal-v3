@@ -1,0 +1,126 @@
+{
+  "id": "paddlespeech-asr",
+  "name": "PaddleSpeech (ASR)",
+  "slug": "paddlespeech-asr",
+  "logo_url": "https://github.com/PaddlePaddle/PaddleSpeech/favicon.ico",
+  "icon_url": "https://github.com/PaddlePaddle/PaddleSpeech/favicon.ico",
+  "images": [
+    "https://github.com/PaddlePaddle/PaddleSpeech/favicon.ico"
+  ],
+  "website_url": "https://github.com/PaddlePaddle/PaddleSpeech",
+  "tagline": "Baidu’s PaddlePaddle toolkit for ASR/TTS with pretrained models.",
+  "summary": "PaddleSpeech provides ASR/TTS pipelines and pretrained models built on PaddlePaddle, with examples for training and inference.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "ASR training/inference"
+  ],
+  "use_cases": [
+    "Research",
+    "Prototypes",
+    "Apps"
+  ],
+  "best_for": [
+    "Developers in Paddle ecosystem"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR pretrained models"
+  ],
+  "platforms": [
+    "Local/Server (Python)"
+  ],
+  "languages": [
+    "Varies by model"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Baidu (open-source)",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "changelog": "https://github.com/PaddlePaddle/PaddleSpeech/releases",
+    "support": "https://github.com/PaddlePaddle/PaddleSpeech/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:33:24Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": true,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://github.com/PaddlePaddle/PaddleSpeech/favicon.ico",
+      "caption": "PaddleSpeech (ASR) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

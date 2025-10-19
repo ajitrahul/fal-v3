@@ -1,0 +1,129 @@
+{
+  "id": "maestra-subtitles-dubbing",
+  "name": "Maestra (Subtitles & Dubbing)",
+  "slug": "maestra-subtitles-dubbing",
+  "logo_url": "https://maestra.ai/favicon.ico",
+  "icon_url": "https://maestra.ai/favicon.ico",
+  "images": [
+    "https://maestra.ai/favicon.ico"
+  ],
+  "website_url": "https://maestra.ai",
+  "tagline": "Auto subtitles, transcripts, and voiceover/dubbing tools.",
+  "summary": "Maestra provides automatic subtitles, transcripts, and voiceover/dubbing tools for creators and businesses. Users edit subtitles in a web UI and export in standard formats.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Subtitles",
+    "Transcripts",
+    "Voiceover"
+  ],
+  "use_cases": [
+    "Localization",
+    "Marketing",
+    "Training"
+  ],
+  "best_for": [
+    "Creators & teams"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + TTS for dubbing"
+  ],
+  "platforms": [
+    "Web app",
+    "Integrations"
+  ],
+  "languages": [
+    "Many (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Maestra",
+    "hq_country": null,
+    "twitter": "https://twitter.com/maestra_ai",
+    "linkedin": "https://www.linkedin.com/company/maestraai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://maestra.ai/pricing",
+    "docs": "https://help.maestra.ai",
+    "changelog": null,
+    "support": "https://help.maestra.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://maestra.ai/favicon.ico",
+      "caption": "Maestra (Subtitles & Dubbing) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

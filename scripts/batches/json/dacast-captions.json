@@ -1,0 +1,126 @@
+{
+  "id": "dacast-captions",
+  "name": "Dacast (Captions)",
+  "slug": "dacast-captions",
+  "logo_url": "https://www.dacast.com/favicon.ico",
+  "icon_url": "https://www.dacast.com/favicon.ico",
+  "images": [
+    "https://www.dacast.com/favicon.ico"
+  ],
+  "website_url": "https://www.dacast.com",
+  "tagline": "Live & VOD streaming with caption support and integrations.",
+  "summary": "Dacast provides live and VOD streaming with caption support and integrations for accessibility. Captions can be added through workflows and partner services.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Captions",
+    "Live/VOD publishing"
+  ],
+  "use_cases": [
+    "Events",
+    "Enterprise streaming"
+  ],
+  "best_for": [
+    "Broadcasters & enterprises"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Caption upload & ASR options"
+  ],
+  "platforms": [
+    "Dacast platform"
+  ],
+  "languages": [
+    "Selected locales"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Dacast",
+    "hq_country": null,
+    "twitter": "https://twitter.com/dacaststreaming",
+    "linkedin": "https://www.linkedin.com/company/dacast/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.dacast.com/pricing/",
+    "docs": "https://www.dacast.com/support/",
+    "changelog": null,
+    "support": "https://www.dacast.com/support/"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.dacast.com/favicon.ico",
+      "caption": "Dacast (Captions) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

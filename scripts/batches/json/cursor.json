@@ -1,0 +1,181 @@
+{
+  "id": "cursor",
+  "name": "Cursor",
+  "slug": "cursor",
+  "logo_url": "https://cursor.com/favicon.ico",
+  "icon_url": "https://cursor.com/favicon.ico",
+  "images": [
+    "https://cursor.com/favicon.ico"
+  ],
+  "website_url": "https://cursor.com/",
+  "tagline": "AI‑native code editor with chat, edits, and repo‑aware assistance.",
+  "summary": "Cursor is an AI‑native code editor designed to make software creation faster by baking chat, code edits, and repository‑aware assistance directly into the editor. The experience starts with a familiar coding layout and adds AI that can read open files, navigate your project tree, and apply changes across files in response to natural‑language instructions. Cursor’s chat and “edit” workflows let you request new functions, refactor a class, or fix errors; changes are applied as real diffs so you can review and accept or iterate. An Ask‑Repository feature lets you query the codebase for patterns or examples. \n\nInstallation is straightforward: download for macOS, Windows, or Linux, sign in, and open your project folder. Cursor supports popular languages and toolchains out of the box because it’s editor‑first rather than a web sandbox; extensions and settings mirror familiar IDE paradigms so teams can standardize quickly. For larger tasks, the editor can orchestrate multi‑step edits—with the model proposing a plan, modifying multiple files, and validating results through test or build commands you run from within the editor. When you need to bring additional context, you can point Cursor at docs or READMEs in your repo and ask for explanations grounded to those files. \n\nOrganizations use Cursor to accelerate everyday development (feature stubs, boilerplate, tests) and onboarding—new engineers can ask how a module works and get guided edits to start contributing. The editor’s lightweight packaging and fast startup make it a practical choice even for laptops with limited resources. Cursor provides installation builds and a self‑contained download page; changelogs and deeper pricing details are published on its website and community channels. Because it’s an IDE you install locally, your code remains on your machine unless you opt into cloud features. Tutorials from the official channel and reputable educators demonstrate best practices for structuring prompts, scoping diffs, and iterating safely on complex changes. \n\nCursor is best for developers who prefer an editor they can run locally with tight AI integration—especially teams that want to keep the development loop inside the IDE while using an assistant that understands their repository structure and coding style.",
+  "main_category": "Code Assistant",
+  "subcategory": "AI IDE",
+  "categories": [
+    "Developer Tools",
+    "Code Generation",
+    "IDE"
+  ],
+  "tasks": [
+    "Inline suggestions",
+    "Chat over repo",
+    "Multi‑file edits",
+    "Refactor & fix",
+    "Explain code",
+    "Generate tests"
+  ],
+  "use_cases": [
+    "Feature development",
+    "Bug fixing",
+    "Onboarding",
+    "Rapid prototyping"
+  ],
+  "best_for": [
+    "Developers who want an AI‑first local editor",
+    "Teams standardizing on an AI IDE"
+  ],
+  "ideal_industries": [
+    "Software",
+    "Education",
+    "Startups"
+  ],
+  "roles": [
+    "Developers",
+    "Tech Leads"
+  ],
+  "job_roles": [
+    "Software Engineer",
+    "Full‑Stack Engineer"
+  ],
+  "models": [
+    "Multiple LLM backends (editor‑integrated)"
+  ],
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+  ],
+  "languages": [
+    "Multi‑language (JS/TS, Python, Java, Go, etc.)"
+  ],
+  "integrations": [
+    "Editor extensions",
+    "CLI workflows"
+  ],
+  "compliance": [],
+  "data_controls": [
+    "Local editing; code remains on device unless cloud features used"
+  ],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Editor‑native AI",
+      "Repo‑aware edits & diffs",
+      "Runs locally"
+    ],
+    "cons": [
+      "Feature details and quotas evolve; check site"
+    ]
+  },
+  "key_differentiators": [
+    "AI chat + edit loops built into the editor",
+    "Ask‑Repo & multi‑file diffs"
+  ],
+  "limitations": [
+    "Model/feature access tied to plan; check official site"
+  ],
+  "import_export": [
+    "Standard project files & diffs"
+  ],
+  "setup_time": "Minutes (download & open project)",
+  "case_studies": [],
+  "migration_paths": [
+    "Download, sign in, and open existing repos; import settings & extensions"
+  ],
+  "roadmap_highlights": [],
+  "alternatives_notes": "Alternatives include Windsurf (Codeium), VS Code + extensions, JetBrains AI Assistant.",
+  "vendor": {
+    "name": "Cursor",
+    "hq_country": null,
+    "twitter": "https://twitter.com/cursor_ai",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://cursor.com/",
+    "changelog": null,
+    "support": "https://cursor.com/download"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:50:05Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://cursor.com/favicon.ico",
+      "caption": "Cursor icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Cursor AI Tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=ocMOZpuAMw4",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Cursor Tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=3289vhOUdKA",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Cursor channel (official videos)",
+      "youtube": "https://www.youtube.com/@cursor_ai/videos",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

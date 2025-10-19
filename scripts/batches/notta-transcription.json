@@ -1,0 +1,128 @@
+{
+  "id": "notta-transcription",
+  "name": "Notta — Transcription",
+  "slug": "notta-transcription",
+  "logo_url": "https://www.notta.ai/favicon.ico",
+  "icon_url": "https://www.notta.ai/favicon.ico",
+  "images": [
+    "https://www.notta.ai/favicon.ico"
+  ],
+  "website_url": "https://www.notta.ai",
+  "tagline": "Web and mobile transcription with editors and export.",
+  "summary": "Notta — Transcription targets quick capture of spoken ideas and content creation through transcripts and summaries.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Dictation",
+    "Transcription",
+    "Export"
+  ],
+  "use_cases": [
+    "Personal notes",
+    "Content drafting",
+    "Interviews"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Notta",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Notta_AI",
+    "linkedin": "https://www.linkedin.com/company/notta-ai/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.notta.ai",
+    "changelog": null,
+    "support": "https://www.notta.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:19:34Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.notta.ai/favicon.ico",
+      "caption": "Notta — Transcription icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,132 @@
+{
+  "id": "tabby",
+  "name": "Tabby",
+  "slug": "tabby",
+  "logo_url": "https://tabby.tabbyml.com/favicon.ico",
+  "icon_url": "https://tabby.tabbyml.com/favicon.ico",
+  "images": [
+    "https://tabby.tabbyml.com/favicon.ico"
+  ],
+  "website_url": "https://tabby.tabbyml.com",
+  "tagline": "Self‑hosted AI coding assistant by TabbyML.",
+  "summary": "Tabby is an open‑source, self‑hosted AI coding assistant by TabbyML. It provides code completions and chat with support for multiple languages and offers server components that you can deploy on your own infrastructure. The project documentation covers setup with Docker and Helm, model choices, and IDE integrations. Tabby aims to deliver the convenience of modern code assistants while giving teams control over where their code flows and how models are served.\n\nInstallation typically involves launching a Tabby server and connecting IDE clients (e.g., VS Code, JetBrains). Organizations can deploy on Kubernetes, set resource limits, and integrate authentication. Tutorials and the official repository show how to choose models, manage caching, and tune performance. Because it is self‑hosted, teams can measure and control costs, enforce network policies, and ensure source code remains within their environment.\n\nTabby is suited to companies seeking a private alternative to SaaS assistants, with extensibility and community support through open‑source development.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Open Source",
+    "Code Generation"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "Server (Docker/K8s)",
+    "VS Code",
+    "JetBrains"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "TabbyML",
+    "hq_country": null,
+    "twitter": "https://twitter.com/TabbyML",
+    "linkedin": "https://www.linkedin.com/company/tabbyml/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://tabby.tabbyml.com",
+    "changelog": "https://github.com/TabbyML/tabby",
+    "support": "https://github.com/TabbyML/tabby/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://tabby.tabbyml.com/favicon.ico",
+      "caption": "Tabby icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Tabby quickstart (official)",
+      "youtube": "https://www.youtube.com/@tabbymlofficial",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Deploy Tabby with Docker (community)",
+      "youtube": "https://www.youtube.com/watch?v=7U1b0J8m0QU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Tabby + VS Code (community)",
+      "youtube": "https://www.youtube.com/watch?v=5wXrR8mXOYE",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

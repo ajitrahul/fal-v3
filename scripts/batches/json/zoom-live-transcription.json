@@ -1,0 +1,144 @@
+{
+  "id": "zoom-live-transcription",
+  "name": "Zoom Live Transcription",
+  "slug": "zoom-live-transcription",
+  "logo_url": "https://zoom.us/favicon.ico",
+  "icon_url": "https://zoom.us/favicon.ico",
+  "images": [
+    "https://zoom.us/favicon.ico"
+  ],
+  "website_url": "https://zoom.us",
+  "tagline": "Built-in live transcription and meeting summaries in Zoom.",
+  "summary": "Zoom provides built‑in live transcription and, with AI Companion features, meeting summaries and action items. Hosts can enable live captions during calls, and transcripts can be saved for later review depending on account settings. This capability is native to Zoom meetings and webinars and integrates with cloud recordings.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live captions",
+    "Saved transcripts",
+    "Summaries (AI Companion)"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Webinars",
+    "Training"
+  ],
+  "best_for": [
+    "Teams using Zoom"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Zoom transcription (service‑managed)"
+  ],
+  "platforms": [
+    "Zoom desktop/web/mobile"
+  ],
+  "languages": [
+    "Selected locales (see Zoom docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Zoom Video Communications",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Zoom",
+    "linkedin": "https://www.linkedin.com/company/zoom-video-communications/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://zoom.us/pricing",
+    "docs": "https://support.zoom.us",
+    "changelog": null,
+    "support": "https://support.zoom.us"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://zoom.us/favicon.ico",
+      "caption": "Zoom Live Transcription icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Enable live transcription (Zoom)",
+      "youtube": "https://www.youtube.com/@zoom",
+      "provider": "YouTube"
+    },
+    {
+      "title": "AI Companion overview (Zoom)",
+      "youtube": "https://www.youtube.com/@zoom",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Using meeting transcripts (Zoom)",
+      "youtube": "https://www.youtube.com/@zoom",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

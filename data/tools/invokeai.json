@@ -1,0 +1,155 @@
+{
+  "slug": "invokeai",
+  "name": "InvokeAI",
+  "website_url": "https://invoke-ai.github.io/InvokeAI/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=invoke-ai.github.io",
+  "description": "InvokeAI is an AI tool in the text to image category. See the official site for features and availability.",
+  "category": "text-to-image",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use InvokeAI for text to image tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://invoke-ai.github.io/InvokeAI/"
+    }
+  ],
+  "company_details": {
+    "name": "InvokeAI",
+    "legal": {
+      "terms_url": "https://invoke-ai.github.io/InvokeAI/",
+      "privacy_url": "https://invoke-ai.github.io/InvokeAI/"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=InvokeAI"
+    }
+  ],
+  "image": "https://invoke-ai.github.io/InvokeAI/",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "InvokeAI",
+      "modality": "image"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://invoke-ai.github.io/InvokeAI/",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the InvokeAI ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://invoke-ai.github.io/InvokeAI/"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://invoke-ai.github.io/InvokeAI/",
+      "caption": "InvokeAI"
+    }
+  ],
+  "tutorials_youtube": [],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://invoke-ai.github.io/InvokeAI/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T12:00:08.035857"
+}

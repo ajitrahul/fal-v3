@@ -1,0 +1,161 @@
+{
+  "slug": "stable-audio",
+  "name": "Stable Audio",
+  "website_url": "https://stability.ai/stable-audio",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=stability.ai",
+  "description": "Stable Audio is an AI tool in the music generation category. See the official site for features and availability.",
+  "category": "music-generation",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use Stable Audio for music generation tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://stability.ai/stable-audio/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Stability AI",
+    "legal": {
+      "terms_url": "https://stability.ai/stable-audio/terms",
+      "privacy_url": "https://stability.ai/stable-audio/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=Stable%20Audio"
+    }
+  ],
+  "image": "https://stability.ai/stable-audio",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "Stability AI",
+      "modality": "video"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://stability.ai/stable-audio/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the Stability AI ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://stability.ai/stable-audio/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": true,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://stability.ai/stable-audio",
+      "caption": "Stable Audio"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Stable Audio tutorial (overview)",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "channel": "YouTube"
+    }
+  ],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://stability.ai/stable-audio/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://stability.ai/stable-audio/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://stability.ai/stable-audio/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://stability.ai/stable-audio/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://stability.ai/stable-audio/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://stability.ai/stable-audio/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://stability.ai/stable-audio/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://stability.ai/stable-audio"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://stability.ai/stable-audio"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T10:20:11.388200"
+}

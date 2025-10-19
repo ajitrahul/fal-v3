@@ -1,0 +1,129 @@
+{
+  "id": "kaltura-reach-captioning",
+  "name": "Kaltura REACH (Captioning)",
+  "slug": "kaltura-reach-captioning",
+  "logo_url": "https://corp.kaltura.com/products/interactive-video/automatic-captioning/favicon.ico",
+  "icon_url": "https://corp.kaltura.com/products/interactive-video/automatic-captioning/favicon.ico",
+  "images": [
+    "https://corp.kaltura.com/products/interactive-video/automatic-captioning/favicon.ico"
+  ],
+  "website_url": "https://corp.kaltura.com/products/interactive-video/automatic-captioning/",
+  "tagline": "Enterprise video platform captioning with ASR and human options.",
+  "summary": "Kaltura REACH provides automatic and professional captioning for the Kaltura Video Platform, enabling accessibility at scale for education and enterprise content.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Captions",
+    "Translations",
+    "Workflows"
+  ],
+  "use_cases": [
+    "LMS/education",
+    "Enterprise video",
+    "Events"
+  ],
+  "best_for": [
+    "Organizations on Kaltura"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + human captioning (partners)"
+  ],
+  "platforms": [
+    "Kaltura Video Platform",
+    "APIs/Integrations"
+  ],
+  "languages": [
+    "Many (see site)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Kaltura",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Kaltura",
+    "linkedin": "https://www.linkedin.com/company/kaltura/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://corp.kaltura.com/requests/pricing/",
+    "docs": "https://knowledge.kaltura.com",
+    "changelog": null,
+    "support": "https://support.kaltura.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:29:55Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://corp.kaltura.com/products/interactive-video/automatic-captioning/favicon.ico",
+      "caption": "Kaltura REACH (Captioning) icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "superpower-chatgpt-extension",
+  "name": "Superpower ChatGPT (extension)",
+  "website_url": "https://www.superpower.chat/",
+  "logo_url": "https://www.google.com/s2/favicons?sz=128&domain=www.superpower.chat",
+  "description": "Superpower ChatGPT (extension) is an AI tool in the productivity assistant category. See the official site for features and availability.",
+  "category": "productivity-assistant",
+  "use_cases": [
+    {
+      "title": "Overview",
+      "details": "Use Superpower ChatGPT (extension) for productivity assistant tasks."
+    },
+    {
+      "title": "Teams",
+      "details": "Boost collaboration and productivity."
+    },
+    {
+      "title": "Developers",
+      "details": "Integrations and APIs where available."
+    }
+  ],
+  "pros": [
+    "Well-known vendor",
+    "Active ecosystem"
+  ],
+  "cons": [
+    "Features vary by plan/region",
+    "Pricing may change"
+  ],
+  "pricing_plans": [
+    {
+      "name": "See pricing",
+      "price": "See pricing page",
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "features": [
+        "Refer to vendor site"
+      ],
+      "trial_available": true,
+      "url": "https://www.superpower.chat/pricing"
+    }
+  ],
+  "company_details": {
+    "name": "Superpower",
+    "legal": {
+      "terms_url": "https://www.superpower.chat/terms",
+      "privacy_url": "https://www.superpower.chat/privacy"
+    }
+  },
+  "reviews_and_ratings": [
+    {
+      "source_name": "Product Hunt",
+      "source_type": "social",
+      "url": "https://www.producthunt.com/search?q=Superpower%20ChatGPT%20%28extension%29"
+    }
+  ],
+  "image": "https://www.superpower.chat/",
+  "best_for": [
+    "Individuals",
+    "Teams",
+    "Enterprises"
+  ],
+  "models": [
+    {
+      "name": "Proprietary / various",
+      "provider": "Superpower",
+      "modality": "text"
+    }
+  ],
+  "technical_information": {
+    "api_available": true,
+    "api_docs_url": "https://www.superpower.chat/docs",
+    "sdk_languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "hosting_options": [
+      "SaaS",
+      "API"
+    ],
+    "integrations": []
+  },
+  "key_differentiator": "Part of the Superpower ecosystem.",
+  "case_studies": [],
+  "vendor_details": {
+    "support_url": "https://www.superpower.chat/help"
+  },
+  "flags": {
+    "is_open_source": false,
+    "has_free_tier": false,
+    "requires_login": true,
+    "has_api": true
+  },
+  "gallery": [
+    {
+      "url": "https://www.superpower.chat/",
+      "caption": "Superpower ChatGPT (extension)"
+    }
+  ],
+  "tutorials_youtube": [
+    {
+      "title": "Superpower ChatGPT (extension) tutorial (overview)",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "channel": "YouTube"
+    }
+  ],
+  "qa": [
+    {
+      "question": "Is there a free plan?",
+      "answer": "See the vendor pricing page for current details.",
+      "source_url": "https://www.superpower.chat/pricing"
+    },
+    {
+      "question": "Is there an API?",
+      "answer": "Check the docs link for availability.",
+      "source_url": "https://www.superpower.chat/docs"
+    },
+    {
+      "question": "Where is support?",
+      "answer": "Use the help center or contact page.",
+      "source_url": "https://www.superpower.chat/help"
+    },
+    {
+      "question": "What about privacy?",
+      "answer": "Refer to the vendor privacy policy.",
+      "source_url": "https://www.superpower.chat/privacy"
+    },
+    {
+      "question": "Are there usage limits?",
+      "answer": "Limits vary by plan; see pricing and docs.",
+      "source_url": "https://www.superpower.chat/pricing"
+    },
+    {
+      "question": "Is there an enterprise plan?",
+      "answer": "Often available via sales.",
+      "source_url": "https://www.superpower.chat/pricing"
+    },
+    {
+      "question": "Do they have tutorials?",
+      "answer": "YouTube often hosts tutorials; see the Tutorials section.",
+      "source_url": "https://www.youtube.com/"
+    },
+    {
+      "question": "Can I use it commercially?",
+      "answer": "Check the terms of service for license and usage rights.",
+      "source_url": "https://www.superpower.chat/terms"
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Check the official site for platform availability.",
+      "source_url": "https://www.superpower.chat/"
+    },
+    {
+      "question": "Which regions are supported?",
+      "answer": "Availability may vary by region; refer to the official site.",
+      "source_url": "https://www.superpower.chat/"
+    }
+  ],
+  "official_video": "https://www.youtube.com/",
+  "last_crawled_at": "2025-10-19T11:39:11.715865"
+}

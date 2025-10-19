@@ -1,0 +1,146 @@
+{
+  "id": "nice-nexidia-enlighten",
+  "name": "NICE Nexidia (Enlighten)",
+  "slug": "nice-nexidia-enlighten",
+  "logo_url": "https://www.nice.com/favicon.ico",
+  "icon_url": "https://www.nice.com/favicon.ico",
+  "images": [
+    "https://www.nice.com/favicon.ico"
+  ],
+  "website_url": "https://www.nice.com",
+  "tagline": "Contact center analytics with ASR-based insights and compliance.",
+  "summary": "NICE Nexidia (with Enlighten AI) provides conversation analytics for contact centers, using transcription as the basis for intent, sentiment, and compliance insights. It integrates with CXone and other ecosystems to deliver QA automation, coaching, and performance dashboards at scale.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Intent/sentiment",
+    "QA automation"
+  ],
+  "use_cases": [
+    "Compliance",
+    "Performance",
+    "Customer insights"
+  ],
+  "best_for": [
+    "Large contact centers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR + Enlighten analytics"
+  ],
+  "platforms": [
+    "CXone platform",
+    "Web apps",
+    "APIs"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "NICE Ltd.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/NICE_CXone",
+    "linkedin": "https://www.linkedin.com/company/nice-systems/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.nice.com/contact-us",
+    "docs": "https://help.nice-incontact.com",
+    "changelog": null,
+    "support": "https://www.nice.com/support"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:21:00Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.nice.com/favicon.ico",
+      "caption": "NICE Nexidia (Enlighten) icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "NICE CXone channel (official)",
+      "youtube": "https://www.youtube.com/@NICECXone",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Enlighten AI overview (official)",
+      "youtube": "https://www.youtube.com/@NICECXone",
+      "provider": "YouTube"
+    },
+    {
+      "title": "QA automation workflows (official)",
+      "youtube": "https://www.youtube.com/@NICECXone",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

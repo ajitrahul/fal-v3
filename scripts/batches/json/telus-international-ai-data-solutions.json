@@ -1,0 +1,128 @@
+{
+  "id": "telus-international-ai-data-solutions",
+  "name": "TELUS International AI Data Solutions",
+  "slug": "telus-international-ai-data-solutions",
+  "logo_url": "https://www.telusinternational.com/solutions/ai-data/favicon.ico",
+  "icon_url": "https://www.telusinternational.com/solutions/ai-data/favicon.ico",
+  "images": [
+    "https://www.telusinternational.com/solutions/ai-data/favicon.ico"
+  ],
+  "website_url": "https://www.telusinternational.com/solutions/ai-data",
+  "tagline": "Speech/audio labeling and transcription at scale.",
+  "summary": "TELUS International AI Data Solutions supplies speech datasets and human labeling for training and evaluating ASR systems.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Collection",
+    "Transcription",
+    "QA"
+  ],
+  "use_cases": [
+    "Model training",
+    "Evaluation",
+    "Customization"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "TELUS International",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": "https://www.linkedin.com/company/telus-international/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://www.telusinternational.com/solutions/ai-data",
+    "changelog": null,
+    "support": "https://www.telusinternational.com/solutions/ai-data"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:13:43Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.telusinternational.com/solutions/ai-data/favicon.ico",
+      "caption": "TELUS International AI Data Solutions icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

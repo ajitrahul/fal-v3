@@ -1,0 +1,128 @@
+{
+  "id": "dovetail-research-repository",
+  "name": "Dovetail — Research Repository",
+  "slug": "dovetail-research-repository",
+  "logo_url": "https://dovetail.com/favicon.ico",
+  "icon_url": "https://dovetail.com/favicon.ico",
+  "images": [
+    "https://dovetail.com/favicon.ico"
+  ],
+  "website_url": "https://dovetail.com",
+  "tagline": "User research hub with automatic transcripts.",
+  "summary": "Dovetail — Research Repository centralizes research recordings and transcripts for analysis and discovery.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Tagging",
+    "Search"
+  ],
+  "use_cases": [
+    "UX research",
+    "Customer discovery",
+    "Insights"
+  ],
+  "best_for": [
+    "Teams & developers needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine/service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Dovetail",
+    "hq_country": null,
+    "twitter": "https://twitter.com/dovetailapp",
+    "linkedin": "https://www.linkedin.com/company/dovetail-research/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://dovetail.com",
+    "changelog": null,
+    "support": "https://dovetail.com"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T01:13:43Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://dovetail.com/favicon.ico",
+      "caption": "Dovetail — Research Repository icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

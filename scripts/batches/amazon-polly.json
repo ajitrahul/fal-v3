@@ -1,0 +1,176 @@
+{
+  "id": "amazon-polly",
+  "name": "Amazon Polly",
+  "slug": "amazon-polly",
+  "logo_url": "https://aws.amazon.com/polly/favicon.ico",
+  "icon_url": "https://aws.amazon.com/polly/favicon.ico",
+  "images": [
+    "https://aws.amazon.com/polly/favicon.ico"
+  ],
+  "website_url": "https://aws.amazon.com/polly/",
+  "tagline": "Neural TTS on AWS with many languages and lifelike voices.",
+  "summary": "Amazon Polly is AWS’s neural text‑to‑speech service that converts text into lifelike speech in dozens of languages and voices. It supports Neural TTS (NTTS), lexicons and SSML for precise control, and features like time‑synchronized speech marks for lip‑sync or subtitles. Polly integrates with other AWS services for scalable production (S3 for storage, Lambda for serverless generation, CloudFront for distribution) and can be called from web, mobile, or backend apps via SDKs.\n\nTypical use cases include IVR and contact centers, e‑learning and training narration, newsreaders, accessibility, and content localization. Developers choose a voice, pass text or SSML, and receive audio in formats like MP3/OGG/PCM; batch synthesis and asynchronous jobs support large workloads. Polly offers real‑time streaming for low‑latency applications. \n\nEnterprises benefit from AWS governance, IAM permissions, and logging/monitoring via CloudWatch. Pricing is pay‑as‑you‑go per character with a free tier; usage can be optimized with caching and batch synthesis strategies. Amazon’s tutorials and re:Invent sessions provide deep dives into SSML, pronunciation tuning, and scaling patterns.",
+  "main_category": "Text-to-Speech / Voice AI",
+  "subcategory": null,
+  "categories": [
+    "Voice",
+    "Media Generation",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Text‑to‑speech",
+    "Streaming TTS",
+    "SSML & lexicons",
+    "Batch synthesis"
+  ],
+  "use_cases": [
+    "IVR/Contact center",
+    "E‑learning",
+    "Newsreading",
+    "Accessibility",
+    "Localization"
+  ],
+  "best_for": [
+    "Enterprises",
+    "Startups on AWS",
+    "Telephony & CX"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Neural TTS (NTTS)",
+    "Standard TTS"
+  ],
+  "platforms": [
+    "AWS Console",
+    "SDKs",
+    "API (REST)"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [
+    "S3",
+    "Lambda",
+    "CloudFront",
+    "Transcribe/Translate"
+  ],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "12‑month free tier within limits; pay‑as‑you‑go thereafter",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Pay‑as‑you‑go",
+    "plans": [
+      {
+        "name": "On‑demand (per character)",
+        "price": null,
+        "billing": "usage"
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Wide language/voice catalog",
+      "Strong SSML control",
+      "AWS governance"
+    ],
+    "cons": [
+      "Per‑character costs at scale; voice style selection varies"
+    ]
+  },
+  "key_differentiators": [
+    "AWS integration & reliability",
+    "Speech marks for lip‑sync"
+  ],
+  "limitations": [
+    "Requires AWS setup/permissions"
+  ],
+  "import_export": [
+    "MP3/OGG/PCM; presigned URLs; streaming"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Amazon Web Services",
+    "hq_country": null,
+    "twitter": "https://twitter.com/awscloud",
+    "linkedin": "https://www.linkedin.com/company/amazon-web-services/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://aws.amazon.com/polly/pricing/",
+    "docs": "https://docs.aws.amazon.com/polly/",
+    "changelog": null,
+    "support": "https://aws.amazon.com/support"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:02:51Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://aws.amazon.com/polly/favicon.ico",
+      "caption": "Amazon Polly icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Amazon Polly overview (AWS)",
+      "youtube": "https://www.youtube.com/watch?v=h8XUue3SLeU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "SSML with Polly (AWS)",
+      "youtube": "https://www.youtube.com/watch?v=zWvH5tXxY1I",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Build scalable TTS with Polly (AWS)",
+      "youtube": "https://www.youtube.com/watch?v=0s7C9W0K1Cw",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

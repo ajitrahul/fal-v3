@@ -1,0 +1,51 @@
+{
+  "inventory": [
+    {
+      "slot": "homepage_hero",
+      "label": "Homepage Masthead",
+      "specs": "Max 900x200 image or text CTA",
+      "active": true
+    },
+    {
+      "slot": "category_native",
+      "label": "Category Native",
+      "specs": "Single card within list",
+      "active": true
+    },
+    {
+      "slot": "task_native",
+      "label": "Task Native",
+      "specs": "Single card within list",
+      "active": true
+    }
+  ],
+  "creatives": [
+    {
+      "slot": "homepage_hero",
+      "id": "spn-001",
+      "title": "SuperPrompt \u2014 Prompt like a pro",
+      "body": "Level-up your outputs with curated prompt recipes.",
+      "cta": "Try SuperPrompt",
+      "url": "https://example.com/superprompt?utm_source=insightforge",
+      "image": "https://dummyimage.com/900x200/111827/ffffff.png&text=Sponsored:+SuperPrompt",
+      "sponsor": "SuperPrompt Inc.",
+      "flight_start": "2025-10-01",
+      "flight_end": "2025-10-31",
+      "targets": {}
+    },
+    {
+      "slot": "category_native",
+      "id": "spn-002",
+      "title": "Acme Vision API",
+      "body": "High-accuracy image understanding with generous free tier.",
+      "cta": "Explore Vision API",
+      "url": "https://example.com/vision?utm_source=insightforge",
+      "sponsor": "Acme AI",
+      "targets": {
+        "categories": [
+          "image-generation"
+        ]
+      }
+    }
+  ]
+}

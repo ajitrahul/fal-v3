@@ -1,0 +1,161 @@
+{
+  "id": "soniox",
+  "name": "Soniox",
+  "slug": "soniox",
+  "logo_url": "https://soniox.com/favicon.ico",
+  "icon_url": "https://soniox.com/favicon.ico",
+  "images": [
+    "https://soniox.com/favicon.ico"
+  ],
+  "website_url": "https://soniox.com",
+  "tagline": "High-accuracy ASR with real-time & batch APIs, diarization, numerals.",
+  "summary": "Soniox provides high-accuracy automatic speech recognition via cloud APIs for streaming and batch audio. The platform focuses on clean transcripts with proper punctuation, numerals, casing, and speaker diarization, and it offers domain adaptation features to improve recognition on industry-specific terminology. Developers integrate using REST or WebSocket endpoints and can test quickly with a browser console and sample code. \n\nTypical use cases include call analytics, captions and subtitles, voice-enabled features in apps, meeting notes, and searchable media archives. Soniox supports time-aligned words for subtitle generation and downstream analysis. Pricing is usage-based with self-serve tiers and enterprise contracts; documentation covers authentication, streaming setups, and best practices for audio formats and sampling rates.\n\nSoniox suits product teams who need strong baseline accuracy, real-time streaming, and robust formatting without heavy configuration.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Batch transcription",
+    "Streaming ASR",
+    "Diarization",
+    "Word timestamps"
+  ],
+  "use_cases": [
+    "Contact center analytics",
+    "Captioning",
+    "Meetings",
+    "Media search"
+  ],
+  "best_for": [
+    "Developers",
+    "Analytics teams",
+    "SaaS products"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Soniox ASR"
+  ],
+  "platforms": [
+    "Web console",
+    "REST/WebSocket APIs",
+    "SDKs"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Strong accuracy/formatting",
+      "Realtime & batch",
+      "Clear API"
+    ],
+    "cons": [
+      "Self-serve catalog smaller than hyperscalers"
+    ]
+  },
+  "key_differentiators": [
+    "Clean numerals & punctuation out of the box",
+    "Good diarization"
+  ],
+  "limitations": [],
+  "import_export": [
+    "JSON transcripts; SRT/VTT via tooling"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Soniox",
+    "hq_country": null,
+    "twitter": null,
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://soniox.com/pricing",
+    "docs": "https://soniox.com/docs",
+    "changelog": null,
+    "support": "https://soniox.com/contact"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:08:09Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://soniox.com/favicon.ico",
+      "caption": "Soniox icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Soniox quickstart (community overview)",
+      "youtube": "https://www.youtube.com/watch?v=Yl4m2HkM8tA",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Streaming with WebSocket (community)",
+      "youtube": "https://www.youtube.com/watch?v=a9EnqSKxvXk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Soniox demo (community)",
+      "youtube": "https://www.youtube.com/watch?v=X0bOj6A0E8o",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

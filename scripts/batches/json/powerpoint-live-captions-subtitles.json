@@ -1,0 +1,128 @@
+{
+  "id": "powerpoint-live-captions-subtitles",
+  "name": "PowerPoint Live Captions & Subtitles",
+  "slug": "powerpoint-live-captions-subtitles",
+  "logo_url": "https://support.microsoft.com/office/present-with-live-captions-and-subtitles/favicon.ico",
+  "icon_url": "https://support.microsoft.com/office/present-with-live-captions-and-subtitles/favicon.ico",
+  "images": [
+    "https://support.microsoft.com/office/present-with-live-captions-and-subtitles/favicon.ico"
+  ],
+  "website_url": "https://support.microsoft.com/office/present-with-live-captions-and-subtitles",
+  "tagline": "Real-time captions in Microsoft PowerPoint.",
+  "summary": "PowerPoint Live Captions & Subtitles focuses on accessibility by providing real-time captions on device or via apps for conversations, events, or presentations.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Transcription",
+    "Captions",
+    "Timestamps"
+  ],
+  "use_cases": [
+    "Meetings",
+    "Media",
+    "Contact center"
+  ],
+  "best_for": [
+    "Builders & teams needing STT"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "ASR engine or service (varies)"
+  ],
+  "platforms": [
+    "APIs/SDKs/Apps (varies)"
+  ],
+  "languages": [
+    "Varies by vendor"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Microsoft",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Microsoft365",
+    "linkedin": "https://www.linkedin.com/showcase/microsoft-365/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://support.microsoft.com/office/present-with-live-captions-and-subtitles",
+    "changelog": null,
+    "support": "https://support.microsoft.com/office/present-with-live-captions-and-subtitles"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:51:44Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": true,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://support.microsoft.com/office/present-with-live-captions-and-subtitles/favicon.ico",
+      "caption": "PowerPoint Live Captions & Subtitles icon"
+    }
+  ],
+  "tutorials": [],
+  "q_and_a": []
+}

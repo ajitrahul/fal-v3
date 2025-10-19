@@ -1,0 +1,161 @@
+{
+  "id": "pixverse",
+  "name": "PixVerse",
+  "slug": "pixverse",
+  "logo_url": "https://pixverse.ai/favicon.ico",
+  "icon_url": "https://pixverse.ai/favicon.ico",
+  "images": [
+    "https://pixverse.ai/favicon.ico"
+  ],
+  "website_url": "https://pixverse.ai",
+  "tagline": "Text‑to‑video in the browser with styles and templates.",
+  "summary": "PixVerse is a web‑based text‑to‑video generator offering style presets, length/aspect controls, and simple editing options for social‑first motion content. The platform focuses on fast results and shareability, providing export formats tailored to short‑form platforms. Tutorials and community examples show prompt patterns for character shots, product spins, and logo animations; users can import stills to drive motion or stylization.\n\nPixVerse is aimed at creators and marketers who want quick ideation without installing software. A free tier is typically available with paid upgrades for higher limits and priority rendering. Projects can be downloaded and further edited in traditional NLEs.\n\nIt’s a good fit for short promotional videos, teaser loops, and concept motion for pitches and social channels.",
+  "main_category": "Text-to-Video",
+  "subcategory": null,
+  "categories": [
+    "Media Generation",
+    "Video"
+  ],
+  "tasks": [
+    "Text‑to‑video",
+    "Image‑to‑video",
+    "Stylization"
+  ],
+  "use_cases": [
+    "Promos",
+    "Teasers",
+    "Logo motion",
+    "Social loops"
+  ],
+  "best_for": [
+    "Creators",
+    "Marketers",
+    "Indies"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "PixVerse service‑managed"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "languages": [
+    "English"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": "Free tier; paid upgrades",
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": "Freemium + paid",
+    "plans": [
+      {
+        "name": "Free/paid",
+        "price": null,
+        "billing": null
+      }
+    ]
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [
+      "Quick results",
+      "Share‑ready formats"
+    ],
+    "cons": [
+      "Short‑form focus; feature set evolves"
+    ]
+  },
+  "key_differentiators": [
+    "Templates & style presets for short‑form"
+  ],
+  "limitations": [],
+  "import_export": [
+    "MP4 exports"
+  ],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "PixVerse",
+    "hq_country": null,
+    "twitter": "https://twitter.com/pixverse_ai",
+    "linkedin": null,
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://pixverse.ai",
+    "docs": "https://pixverse.ai",
+    "changelog": null,
+    "support": "https://pixverse.ai"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:00:01Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://pixverse.ai/favicon.ico",
+      "caption": "PixVerse icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "PixVerse channel (official)",
+      "youtube": "https://www.youtube.com/@pixverseai",
+      "provider": "YouTube"
+    },
+    {
+      "title": "PixVerse tutorial (community)",
+      "youtube": "https://www.youtube.com/watch?v=3LzZ2TqkKQk",
+      "provider": "YouTube"
+    },
+    {
+      "title": "PixVerse quick tips (community)",
+      "youtube": "https://www.youtube.com/watch?v=b5k5jvLZK9U",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

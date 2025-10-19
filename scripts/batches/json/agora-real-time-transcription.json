@@ -1,0 +1,144 @@
+{
+  "id": "agora-real-time-transcription",
+  "name": "Agora Real-time Transcription",
+  "slug": "agora-real-time-transcription",
+  "logo_url": "https://www.agora.io/en/favicon.ico",
+  "icon_url": "https://www.agora.io/en/favicon.ico",
+  "images": [
+    "https://www.agora.io/en/favicon.ico"
+  ],
+  "website_url": "https://www.agora.io/en/",
+  "tagline": "Real-time transcription as part of Agora’s real-time engagement platform.",
+  "summary": "Agora provides real-time engagement APIs and SDKs, including options for live transcription and captions alongside voice/video streams. Developers add transcription to interactive apps such as webinars, classrooms, and live commerce. Usage is billed per service with free credits for trials.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Live transcription",
+    "Captions with streams"
+  ],
+  "use_cases": [
+    "Virtual classrooms",
+    "Webinars",
+    "Live events"
+  ],
+  "best_for": [
+    "Interactive app developers"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Agora transcription (platform feature)"
+  ],
+  "platforms": [
+    "SDKs for Web/Mobile",
+    "Cloud services"
+  ],
+  "languages": [
+    "Multiple (see docs)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Agora, Inc.",
+    "hq_country": null,
+    "twitter": "https://twitter.com/AgoraIO",
+    "linkedin": "https://www.linkedin.com/company/agoraio/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://www.agora.io/en/pricing/",
+    "docs": "https://docs.agora.io",
+    "changelog": null,
+    "support": "https://agora-ticket.agora.io"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": false,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": true,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://www.agora.io/en/favicon.ico",
+      "caption": "Agora Real-time Transcription icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Add captions in Agora apps (official)",
+      "youtube": "https://www.youtube.com/@AgoraIO",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Realtime engagement with transcription (official)",
+      "youtube": "https://www.youtube.com/@AgoraIO",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Integrate RTE features (official)",
+      "youtube": "https://www.youtube.com/@AgoraIO",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

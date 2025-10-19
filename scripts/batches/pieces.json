@@ -1,0 +1,133 @@
+{
+  "id": "pieces",
+  "name": "Pieces for Developers",
+  "slug": "pieces",
+  "logo_url": "https://pieces.app/favicon.ico",
+  "icon_url": "https://pieces.app/favicon.ico",
+  "images": [
+    "https://pieces.app/favicon.ico"
+  ],
+  "website_url": "https://pieces.app",
+  "tagline": "In‑flow developer copilot for snippets, context, and automation.",
+  "summary": "Pieces for Developers is a developer productivity suite with a copilot that captures snippets, context, and artifacts across your tools and uses that information to assist with coding tasks. It integrates with IDEs and browsers to save, enrich, and retrieve relevant code, links, and media. The copilot leverages this personal knowledge base to provide grounded answers and actions during development. Official materials highlight workflows such as saving error traces, pairing snippets with their sources, and sharing context with teammates.\n\nInstallation covers desktop apps and plugins for editors and browsers; once connected, Pieces automatically collects and associates context around your work. Tutorials from the official channel cover using the copilot, creating and organizing snippets, and connecting integrations like JetBrains, VS Code, and Chrome. Teams can use Pieces Cloud for synchronization across devices and collaboration, with documentation describing privacy and security controls.\n\nPieces is best for developers who want a personal knowledge layer alongside an assistant—especially helpful when switching tasks, revisiting bugs, or onboarding to new projects.",
+  "main_category": "Code Assistant",
+  "subcategory": null,
+  "categories": [
+    "Developer Tools",
+    "Productivity",
+    "Code Assistant"
+  ],
+  "tasks": [],
+  "use_cases": [],
+  "best_for": [],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [],
+  "platforms": [
+    "Desktop app",
+    "VS Code",
+    "JetBrains",
+    "Browser extensions"
+  ],
+  "languages": [],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": null,
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Pieces",
+    "hq_country": null,
+    "twitter": "https://twitter.com/getpieces",
+    "linkedin": "https://www.linkedin.com/company/pieces-app/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": "https://pieces.app/pricing",
+    "docs": "https://docs.pieces.app",
+    "changelog": "https://pieces.app/blog",
+    "support": "https://support.pieces.app"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-11T23:52:31Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": false,
+    "no_signup": false,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": false,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://pieces.app/favicon.ico",
+      "caption": "Pieces for Developers icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Pieces Copilot overview (official)",
+      "youtube": "https://www.youtube.com/watch?v=YkX8-9P_xqU",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Save & reuse code with Pieces (official)",
+      "youtube": "https://www.youtube.com/watch?v=58sO_6o4j9I",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Pieces channel (official)",
+      "youtube": "https://www.youtube.com/@PiecesForDevelopers",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}

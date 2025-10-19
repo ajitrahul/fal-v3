@@ -1,0 +1,144 @@
+{
+  "id": "mozilla-deepspeech",
+  "name": "Mozilla DeepSpeech",
+  "slug": "mozilla-deepspeech",
+  "logo_url": "https://github.com/mozilla/DeepSpeech/favicon.ico",
+  "icon_url": "https://github.com/mozilla/DeepSpeech/favicon.ico",
+  "images": [
+    "https://github.com/mozilla/DeepSpeech/favicon.ico"
+  ],
+  "website_url": "https://github.com/mozilla/DeepSpeech",
+  "tagline": "Open-source end-to-end speech recognition based on Baidu’s Deep Speech architecture.",
+  "summary": "Mozilla DeepSpeech is an open‑source ASR engine inspired by Baidu’s Deep Speech architecture. It provides pretrained English models (community-maintained) and tools to train on your own datasets. Developers run inference locally using TensorFlow or compatible runtimes and can fine‑tune for domain adaptation. While the official Mozilla project has slowed, the codebase and community forks remain useful for offline ASR experiments and embedded deployments.\n\nTypical uses: research, prototypes, and offline utilities that require controllable inference pipelines without a hosted service.",
+  "main_category": "Speech-to-Text / ASR",
+  "subcategory": null,
+  "categories": [
+    "Speech-to-Text",
+    "Media AI",
+    "Developer Tools"
+  ],
+  "tasks": [
+    "Offline ASR",
+    "Fine‑tuning"
+  ],
+  "use_cases": [
+    "Research",
+    "Prototyping",
+    "Edge/embedded"
+  ],
+  "best_for": [
+    "Developers comfortable with OSS toolchains"
+  ],
+  "ideal_industries": [],
+  "roles": [],
+  "job_roles": [],
+  "models": [
+    "Pretrained English models (community)",
+    "Custom‑trained models"
+  ],
+  "platforms": [
+    "Local/Server (TensorFlow)"
+  ],
+  "languages": [
+    "Primarily English (community models may vary)"
+  ],
+  "integrations": [],
+  "compliance": [],
+  "data_controls": [],
+  "governance": [],
+  "security": {
+    "certifications": [],
+    "sso": null
+  },
+  "technical": {
+    "context_tokens": null,
+    "latency_ms": null,
+    "throughput_rps": null,
+    "sdk_languages": []
+  },
+  "benchmarks": {
+    "latency_ms_p50": null,
+    "latency_ms_p95": null,
+    "note": null
+  },
+  "privacy": {
+    "training_policy": null,
+    "data_retention": null
+  },
+  "limits": {
+    "free_tier": null,
+    "rate_limits": null
+  },
+  "uptime_slo": null,
+  "pricing": {
+    "model": null,
+    "plans": []
+  },
+  "pricing_notes": null,
+  "pros_cons": {
+    "pros": [],
+    "cons": []
+  },
+  "key_differentiators": [],
+  "limitations": [],
+  "import_export": [],
+  "setup_time": "Minutes",
+  "case_studies": [],
+  "migration_paths": [],
+  "roadmap_highlights": [],
+  "alternatives_notes": null,
+  "vendor": {
+    "name": "Mozilla (community-maintained)",
+    "hq_country": null,
+    "twitter": "https://twitter.com/Mozilla",
+    "linkedin": "https://www.linkedin.com/company/mozilla/",
+    "contact_email": null
+  },
+  "links": {
+    "pricing": null,
+    "docs": "https://github.com/mozilla/DeepSpeech",
+    "changelog": null,
+    "support": "https://github.com/mozilla/DeepSpeech/issues"
+  },
+  "release_date": null,
+  "updated_at": "2025-10-12T00:17:25Z",
+  "status": "active",
+  "flags": {
+    "free": true,
+    "open_source": true,
+    "no_signup": true,
+    "api_available": false,
+    "mobile_app": false,
+    "privacy_first": true,
+    "verified": true
+  },
+  "community": {
+    "rating": null,
+    "votes": null,
+    "reviews": []
+  },
+  "gallery": [
+    {
+      "src": "https://github.com/mozilla/DeepSpeech/favicon.ico",
+      "caption": "Mozilla DeepSpeech icon"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "DeepSpeech quickstart (community)",
+      "youtube": "https://www.youtube.com/watch?v=v9XyIGL9lNw",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Train DeepSpeech (community)",
+      "youtube": "https://www.youtube.com/watch?v=YqDTg3bNB2w",
+      "provider": "YouTube"
+    },
+    {
+      "title": "Deploy DeepSpeech on device (community)",
+      "youtube": "https://www.youtube.com/watch?v=6a3KQbrw9o4",
+      "provider": "YouTube"
+    }
+  ],
+  "q_and_a": []
+}
