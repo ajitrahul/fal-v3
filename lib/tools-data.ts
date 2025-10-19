@@ -1,88 +1,103 @@
 // lib/tools-data.ts
-import fs from "node:fs";
-import path from "node:path";
+// Server-side helpers to read tool data from data/tools/*.json
 
-const TOOLS_DIR = path.join(process.cwd(), "data", "tools"); // adjust if different
+import { readdir, readFile } from "fs/promises";
+import path from "path";
 
-export type ToolEntry = {
-  name: string;
+export type ToolBrief = {
   slug: string;
-  website_url: string;
-  logo_url: string;
-  description: string;
-  category: string;
-  best_for?: string[];
-  use_cases?: Array<{ title: string; details: string; industries?: string[] }>;
-  pros?: string[];
-  cons?: string[];
-  pricing_plans?: Array<{
-    name: string;
-    price?: number | string;
-    currency?: string;
-    billing_cycle?: "monthly" | "yearly" | "lifetime" | "one-time";
-  }>;
-  company_details?: {
-    name?: string;
-    hq_city?: string | null;
-    hq_country?: string | null;
-    team_size_range?: string | null;
-    founded_year?: number | null;
-  };
-  reviews_and_ratings?: Array<{
-    source_name?: string | null;
-    rating?: number | null;
-    rating_scale_max?: number | null;
-    rating_count?: number | null;
-  }>;
+  name?: string;
+  category?: string;            // normalized single category for list views
+  description?: string;
+  website_url?: string;
+  logo_url?: string;
   image?: string;
-  models?: Array<{
-    name?: string | null;
-    provider?: string | null;
-    version?: string | null;
-    modality?: string | null;
-  }>;
-  technical_information?: {
-    api_available?: boolean | null;
-    hosting_options?: string[];
-    sdk_languages?: string[];
-    inference_endpoints?: string[];
-    rate_limits?: string | null;
-    data_retention_policy?: string | null;
-    security?: {
-      encryption_at_rest?: boolean | null;
-      encryption_in_transit?: boolean | null;
-      pii_processing_supported?: boolean | null;
-      compliance_certifications?: string[];
-      subprocessors_url?: string | null;
-    };
-    integrations?: string[];
-  };
-  key_differentiator?: string | string[];
-  case_studies?: any[];
-  vendor_details?: any;
-  flags?: Record<string, boolean | null>;
-  gallery?: any[];
-  tutorials_youtube?: Array<{ title?: string | null; url: string; channel?: string | null; published_date?: string | null }>;
-  qa?: any[];
-  official_video?: string | null;
 };
 
-export async function getAllTools(): Promise<ToolEntry[]> {
-  const files = fs.existsSync(TOOLS_DIR) ? fs.readdirSync(TOOLS_DIR) : [];
-  const tools: ToolEntry[] = [];
+const TOOLS_DIR = path.join(process.cwd(), "data", "tools");
+
+function pickCategory(obj: any): string {
+  // Prefer string "category"; else first of string[] "categories"; else "Uncategorized"
+  const c =
+    (typeof obj?.category === "string" && obj.category) ||
+    (Array.isArray(obj?.categories) && typeof obj.categories[0] === "string" && obj.categories[0]) ||
+    "Uncategorized";
+  return String(c);
+}
+
+/** List all slugs (filenames without .json) under data/tools */
+export async function listToolSlugs(): Promise<string[]> {
+  try {
+    const files = await readdir(TOOLS_DIR);
+    return files
+      .filter((f) => f.toLowerCase().endsWith(".json"))
+      .map((f) => f.replace(/\.json$/i, ""));
+  } catch {
+    return [];
+  }
+}
+
+/** Read a single tool JSON by slug. Returns the parsed object or null on error. */
+export async function readTool(slug: string): Promise<any | null> {
+  try {
+    const raw = await readFile(path.join(TOOLS_DIR, `${slug}.json`), "utf8");
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
+/** Read all tools, normalize category, and de-duplicate by slug/filename. */
+export async function readAllTools(): Promise<ToolBrief[]> {
+  let files: string[] = [];
+  try {
+    files = await readdir(TOOLS_DIR);
+  } catch {
+    return [];
+  }
+
+  const seen = new Set<string>();
+  const out: ToolBrief[] = [];
+
   for (const f of files) {
-    if (!f.endsWith(".json")) continue;
-    const raw = fs.readFileSync(path.join(TOOLS_DIR, f), "utf8");
+    if (!f.toLowerCase().endsWith(".json")) continue;
+
+    const slug = f.replace(/\.json$/i, "");
+    if (seen.has(slug)) {
+      // Optional: console.warn(`[data] Duplicate slug skipped: ${slug}`);
+      continue;
+    }
+
     try {
-      const t = JSON.parse(raw);
-      // minimal guard for required fields so card never crashes
-      if (t?.name && t?.slug && t?.website_url && t?.logo_url && t?.description && t?.category) {
-        tools.push(t);
-      }
+      const raw = await readFile(path.join(TOOLS_DIR, f), "utf8");
+      const obj = JSON.parse(raw);
+
+      // Some files also contain a "slug" field; prefer filename for stability
+      const normalized: ToolBrief = {
+        slug,
+        name: obj?.name,
+        category: pickCategory(obj),
+        description: obj?.description,
+        website_url: obj?.website_url,
+        logo_url: obj?.logo_url,
+        image: obj?.image,
+      };
+
+      out.push(normalized);
+      seen.add(slug);
     } catch {
-      // skip invalid JSON
+      // skip malformed file; continue
     }
   }
-  // simple sort by name
-  return tools.sort((a, b) => a.name.localeCompare(b.name));
+  return out;
+}
+
+/** Compute category counts from normalized ToolBriefs. */
+export function computeCategoryCounts(tools: ToolBrief[]): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const t of tools) {
+    const c = t.category || "Uncategorized";
+    counts[c] = (counts[c] || 0) + 1;
+  }
+  return counts;
 }

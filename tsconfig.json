@@ -49,6 +49,7 @@
     "dist",
     "build",
     "**/_archive/**",
+    "**/app/admin/**",
     "**/deprecated/**",
     "**/scripts/**",
     "**/tests/**",

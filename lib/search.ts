@@ -1,12 +1,11 @@
 // lib/search.ts
-import "server-only";
 import { readAllTools, type ToolBrief } from "@/lib/tools-data";
 
 export type QueryInput = {
-  q?: string;                 // free-text
-  categories?: string[];      // category filters (case-insensitive)
-  limit?: number;             // cap results
-  sort?: "name-asc" | "name-desc"; // simple sort
+  q?: string;
+  categories?: string[];
+  limit?: number;
+  sort?: "name-asc" | "name-desc";
 };
 
 export type QueryResult = {
@@ -16,16 +15,16 @@ export type QueryResult = {
 };
 
 function norm(s?: string) {
-  return String(s || "").toLowerCase().trim();
+  return String(s ?? "").toLowerCase().trim();
 }
 
+/** Server-side search over data/tools/*.json */
 export async function queryTools(input: QueryInput = {}): Promise<QueryResult> {
   const { q = "", categories = [], limit, sort = "name-asc" } = input;
 
-  // Load all tool briefs from data/tools/*.json
   const all = await readAllTools();
 
-  // Build category counts (before filtering so the facet reflects the corpus)
+  // Build category counts from the whole corpus
   const categoryCounts: Record<string, number> = {};
   for (const t of all) {
     const c = String(t.category || "Uncategorized");
@@ -35,22 +34,13 @@ export async function queryTools(input: QueryInput = {}): Promise<QueryResult> {
   const qn = norm(q);
   const catSet = new Set(categories.map(norm));
 
-  // Filter
   let out = all.filter((t) => {
-    // category filter (if provided)
     if (catSet.size > 0) {
       const tc = norm(t.category);
       if (!catSet.has(tc)) return false;
     }
-    // free text match across a few fields
     if (qn) {
-      const hay = [
-        t.name,
-        t.category,
-        t.description,
-        t.website_url,
-        t.slug,
-      ]
+      const hay = [t.name, t.category, t.description, t.website_url, t.slug]
         .map((x) => norm(x))
         .join(" ");
       if (!hay.includes(qn)) return false;
@@ -58,7 +48,6 @@ export async function queryTools(input: QueryInput = {}): Promise<QueryResult> {
     return true;
   });
 
-  // Sort
   out.sort((a, b) => {
     const an = norm(a.name);
     const bn = norm(b.name);
@@ -66,12 +55,8 @@ export async function queryTools(input: QueryInput = {}): Promise<QueryResult> {
     return an.localeCompare(bn);
   });
 
-  // Limit
-  const limited = typeof limit === "number" && limit > 0 ? out.slice(0, limit) : out;
+  const limited =
+    typeof limit === "number" && limit > 0 ? out.slice(0, limit) : out;
 
-  return {
-    tools: limited,
-    total: out.length,
-    categoryCounts,
-  };
+  return { tools: limited, total: out.length, categoryCounts };
 }
