@@ -1,101 +1,77 @@
 // lib/search.ts
-import type { Tool } from "./types";
+import "server-only";
+import { readAllTools, type ToolBrief } from "@/lib/tools-data";
 
-export type SortKey = "relevance" | "newest" | "top_rated" | "free_first";
-export type Filters = {
-  q: string;
-  category?: string;        // single category slug/name
-  pricing?: string[];       // ["free","freemium","paid","open-source","contact"]
-  platforms?: string[];     // ["Web","API",...]
-  models?: string[];        // ["GPT-4o","Llama",...]
-  tags?: string[];          // quick flags: ["open_source","no_signup","api","mobile"]
-  languages?: string[];     // ["en","hi","es",...]
-  verified?: boolean | null;
-  launch_since?: string | null; // ISO date lower bound
+export type QueryInput = {
+  q?: string;                 // free-text
+  categories?: string[];      // category filters (case-insensitive)
+  limit?: number;             // cap results
+  sort?: "name-asc" | "name-desc"; // simple sort
 };
-export type SearchResult = { items: Tool[]; total: number };
 
-const text = (s?: string) => (s || "").toLowerCase();
+export type QueryResult = {
+  tools: ToolBrief[];
+  total: number;
+  categoryCounts: Record<string, number>;
+};
 
-function score(tool: Tool, q: string): number {
-  if (!q) return 0.0001; // when no query, keep stable but non-zero for sort weighting
-  const hay = [
-    tool.name,
-    tool.tagline,
-    tool.summary,
-    ...(tool.categories || []),
-    ...(tool.tasks || []),
-    ...(tool.integrations || []),
-  ]
-    .join(" ")
-    .toLowerCase();
-
-  let sc = 0;
-  const words = q.toLowerCase().split(/\s+/).filter(Boolean);
-  for (const w of words) {
-    if (hay.includes(w)) sc += 2;
-  }
-  if (text(tool.name).startsWith(words[0] || "")) sc += 4;
-  if (text(tool.slug).includes(q)) sc += 2;
-  return sc;
+function norm(s?: string) {
+  return String(s || "").toLowerCase().trim();
 }
 
-function passFilters(t: Tool, f: Filters): boolean {
-  if (f.category && !(t.categories || []).map((x) => x.toLowerCase()).includes(f.category.toLowerCase())) {
-    return false;
+export async function queryTools(input: QueryInput = {}): Promise<QueryResult> {
+  const { q = "", categories = [], limit, sort = "name-asc" } = input;
+
+  // Load all tool briefs from data/tools/*.json
+  const all = await readAllTools();
+
+  // Build category counts (before filtering so the facet reflects the corpus)
+  const categoryCounts: Record<string, number> = {};
+  for (const t of all) {
+    const c = String(t.category || "Uncategorized");
+    categoryCounts[c] = (categoryCounts[c] || 0) + 1;
   }
-  if (f.pricing?.length && !f.pricing.includes(t.pricing?.model || "")) return false;
-  if (f.platforms?.length && !f.platforms.some((p) => (t.platforms || []).includes(p))) return false;
-  if (f.models?.length && !f.models?.some((m) => (t.models || []).includes(m))) return false;
-  if (f.languages?.length && !f.languages?.some((lng) => (t.languages || []).includes(lng))) return false;
-  if (Array.isArray(f.tags) && f.tags.length) {
-    for (const tag of f.tags) {
-      if (tag === "open_source" && !t.flags?.open_source) return false;
-      if (tag === "no_signup" && !t.flags?.no_signup) return false;
-      if (tag === "api" && !t.flags?.api_available) return false;
-      if (tag === "mobile" && !t.flags?.mobile_app) return false;
-      if (tag === "on_device" && !t.flags?.on_device) return false;
+
+  const qn = norm(q);
+  const catSet = new Set(categories.map(norm));
+
+  // Filter
+  let out = all.filter((t) => {
+    // category filter (if provided)
+    if (catSet.size > 0) {
+      const tc = norm(t.category);
+      if (!catSet.has(tc)) return false;
     }
-  }
-  if (typeof f.verified === "boolean") {
-    if ((t.flags?.verified ?? false) !== f.verified) return false;
-  }
-  if (f.launch_since) {
-    const tdate = new Date(t.release_date || "1970-01-01").getTime();
-    const bound = new Date(f.launch_since).getTime();
-    if (Number.isFinite(bound) && tdate < bound) return false;
-  }
-  return true;
-}
+    // free text match across a few fields
+    if (qn) {
+      const hay = [
+        t.name,
+        t.category,
+        t.description,
+        t.website_url,
+        t.slug,
+      ]
+        .map((x) => norm(x))
+        .join(" ");
+      if (!hay.includes(qn)) return false;
+    }
+    return true;
+  });
 
-export function searchTools(all: Tool[], f: Filters, sort: SortKey): SearchResult {
-  const q = f.q || "";
-  const withScore = all
-    .filter((t) => passFilters(t, f))
-    .map((t) => ({ t, s: score(t, q) }));
+  // Sort
+  out.sort((a, b) => {
+    const an = norm(a.name);
+    const bn = norm(b.name);
+    if (sort === "name-desc") return bn.localeCompare(an);
+    return an.localeCompare(bn);
+  });
 
-  switch (sort) {
-    case "newest":
-      withScore.sort((a, b) => (b.t.release_date || "").localeCompare(a.t.release_date || ""));
-      break;
-    case "top_rated":
-      withScore.sort(
-        (a, b) =>
-          (b.t.community?.rating || 0) - (a.t.community?.rating || 0) ||
-          (b.t.community?.votes || 0) - (a.t.community?.votes || 0)
-      );
-      break;
-    case "free_first":
-      withScore.sort((a, b) => {
-        const fa = a.t.pricing?.model === "free" ? 1 : 0;
-        const fb = b.t.pricing?.model === "free" ? 1 : 0;
-        if (fb !== fa) return fb - fa;
-        return (b.s || 0) - (a.s || 0);
-      });
-      break;
-    default: // relevance
-      withScore.sort((a, b) => (b.s || 0) - (a.s || 0));
-  }
+  // Limit
+  const limited = typeof limit === "number" && limit > 0 ? out.slice(0, limit) : out;
 
-  return { items: withScore.map((x) => x.t), total: withScore.length };
+  return {
+    tools: limited,
+    total: out.length,
+    categoryCounts,
+  };
 }
