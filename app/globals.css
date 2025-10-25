@@ -1,154 +1,111 @@
-/* app/globals.css */
-
-/* Tailwind layers */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* -------------------------------------------------
-   Base theme + typography
--------------------------------------------------- */
+/* ------------------------------
+   Light/Dark design tokens
+   (controlled by <html class="dark">)
+------------------------------ */
 :root {
-  /* Let native UI (inputs, scrollbars) adapt to theme */
-  color-scheme: light dark;
+  /* Surfaces */
+  --bg: #ffffff;
+  --card: #ffffff;
+  --muted: #f6f7f9;
+
+  /* Text */
+  --fg: #111827;      /* gray-900 */
+  --muted-fg: #4b5563;/* gray-600 */
+
+  /* Lines / focus */
+  --border: #e5e7eb;  /* gray-200 */
+  --ring: #3b82f6;    /* blue-500 */
+
+  /* Links & chips */
+  --link: #2563eb;            /* blue-600 */
+  --link-hover-bg: #eff6ff;   /* blue-50 */
+  --chip-bg: #f3f4f6;         /* gray-100 */
+  --chip-fg: #374151;         /* gray-700 */
+  --chip-border: #e5e7eb;     /* gray-200 */
+
+  /* Buttons */
+  --btn-bg: #111827;          /* gray-900 */
+  --btn-fg: #ffffff;
+  --btn-hover-bg: #0b1220;    /* slightly darker */
+  --btn-outline-fg: #374151;  /* gray-700 */
+  --btn-outline-border: #d1d5db; /* gray-300 */
+  --btn-outline-hover-bg: #f3f4f6; /* gray-100 */
 }
 
-html {
-  -webkit-text-size-adjust: 100%;
+html.dark {
+  --bg: #0b0b0f;              /* near-zinc-950 */
+  --card: #111114;            /* near-zinc-900 */
+  --muted: #16161a;
+
+  --fg: #f4f4f5;              /* zinc-100 */
+  --muted-fg: #a1a1aa;        /* zinc-400 */
+
+  --border: #26262b;          /* zinc-800-ish */
+  --ring: #60a5fa;            /* blue-400 */
+
+  --link: #93c5fd;            /* blue-300 */
+  --link-hover-bg: #0b1220;   /* blue-ish dark */
+  --chip-bg: #18181b;         /* zinc-900 */
+  --chip-fg: #e4e4e7;         /* zinc-200 */
+  --chip-border: #2a2a31;
+
+  --btn-bg: #e4e4e7;          /* zinc-200 */
+  --btn-fg: #0a0a0b;
+  --btn-hover-bg: #cfcfd4;
+  --btn-outline-fg: #d4d4d8;  /* zinc-300 */
+  --btn-outline-border: #3f3f46; /* zinc-700 */
+  --btn-outline-hover-bg: #1a1a1f;
 }
 
-body {
-  @apply min-h-screen bg-white text-gray-900 antialiased dark:bg-zinc-950 dark:text-zinc-100;
-}
+/* Base typography & elements */
+@layer base {
+  * { @apply border-[var(--border)]; }
+  html, body { @apply bg-[var(--bg)] text-[var(--fg)]; }
+  a { color: var(--link); }
+  a:hover { background-color: var(--link-hover-bg); }
 
-/* Improve default link behavior */
-a {
-  @apply underline-offset-2;
-}
-a:hover {
-  @apply underline;
-}
-
-/* Make selections readable in both themes */
-::selection {
-  @apply bg-black text-white dark:bg-zinc-100 dark:text-zinc-900;
-}
-
-/* Accessible focus style (only when keyboarding) */
-:focus-visible {
-  @apply outline-none ring-2 ring-offset-2 ring-gray-900 ring-offset-white
-         dark:ring-zinc-200 dark:ring-offset-zinc-950;
-}
-
-/* Images + embeds */
-img {
-  @apply select-none;
-  image-rendering: auto;
-}
-iframe {
-  border: 0;
-}
-
-/* -------------------------------------------------
-   Utilities
--------------------------------------------------- */
-
-/* Small-caps utility:
-   Write text as lowercase in markup; this styles it with small-caps
-   (first letters appear slightly larger than the rest). */
-.small-caps {
-  font-variant-caps: small-caps;
-  text-transform: lowercase;
-  letter-spacing: 0.015em;
-}
-
-/* Container padding helper (optional) */
-.container-px {
-  @apply px-4 sm:px-6 lg:px-8;
-}
-
-/* Visually hidden but accessible (Tailwind has sr-only, this keeps parity) */
-.sr-only:not(:focus):not(:active) {
-  clip: rect(0, 0, 0, 0);
-  clip-path: inset(50%);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-}
-
-/* -------------------------------------------------
-   Scrollbar (subtle) — modern browsers
--------------------------------------------------- */
-* {
-  scrollbar-width: thin;                 /* Firefox */
-  scrollbar-color: #d4d4d8 transparent;  /* zinc-300 on light */
-}
-.dark * {
-  scrollbar-color: #52525b transparent;  /* zinc-600 on dark */
-}
-
-/* WebKit scrollbars */
-::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.25);
-  border-radius: 9999px;
-}
-.dark ::-webkit-scrollbar-thumb {
-  background-color: rgba(255, 255, 255, 0.25);
-}
-::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-/* -------------------------------------------------
-   Prose tweaks (if you use @tailwindcss/typography)
--------------------------------------------------- */
-.prose :where(h1, h2, h3, h4) {
-  @apply scroll-mt-24;
-}
-.prose :where(a) {
-  @apply text-blue-600 underline-offset-2 hover:underline dark:text-blue-400;
-}
-.prose :where(code) {
-  @apply rounded bg-zinc-100 px-1 py-0.5 text-zinc-900 dark:bg-zinc-800 dark:text-zinc-100;
-}
-
-/* -------------------------------------------------
-   Card + Button helpers (optional, used by some UI)
--------------------------------------------------- */
-.card {
-  @apply rounded-2xl border bg-white shadow-sm border-gray-200
-         dark:bg-zinc-900 dark:border-zinc-800;
-}
-.card-hover:hover {
-  transition: transform 150ms, box-shadow 150ms;
-  @apply -translate-y-1 shadow-lg ring-2 ring-gray-900/5 dark:ring-zinc-100/10;
-}
-
-.btn-solid {
-  @apply inline-flex items-center rounded-lg px-3 py-1.5 text-sm
-         bg-gray-900 text-white hover:bg-black
-         dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-white;
-}
-.btn-outline {
-  @apply inline-flex items-center rounded-lg px-3 py-1.5 text-sm
-         border border-gray-200 text-gray-700 hover:bg-gray-100
-         dark:border-zinc-800 dark:text-zinc-300 dark:hover:bg-zinc-800;
-}
-
-/* -------------------------------------------------
-   Motion preference
--------------------------------------------------- */
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.001ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.001ms !important;
-    scroll-behavior: auto !important;
+  /* Small-caps styling used in headers/titles */
+  .small-caps {
+    font-variant-caps: all-small-caps;
+    letter-spacing: 0.02em;
   }
+
+  /* Focus visible ring */
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+}
+
+/* Utility shorthands (use anywhere without adding dark: classes) */
+@layer utilities {
+  .ui-bg { @apply bg-[var(--bg)] text-[var(--fg)]; }
+  .ui-muted { color: var(--muted-fg); }
+  .ui-card { @apply bg-[var(--card)] text-[var(--fg)] border rounded-xl; border-color: var(--border); }
+  .ui-border { border-color: var(--border); }
+  .ui-sep { @apply border-t; border-color: var(--border); }
+  .ui-chip { @apply inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs; background-color: var(--chip-bg); color: var(--chip-fg); border-color: var(--chip-border); }
+
+  .ui-btn {
+    @apply inline-flex items-center justify-center rounded-lg px-3 py-1.5 text-sm font-medium transition;
+    background-color: var(--btn-bg);
+    color: var(--btn-fg);
+  }
+  .ui-btn:hover { background-color: var(--btn-hover-bg); }
+
+  .ui-btn-outline {
+    @apply inline-flex items-center justify-center rounded-lg px-3 py-1.5 text-sm font-medium transition border;
+    color: var(--btn-outline-fg);
+    border-color: var(--btn-outline-border);
+  }
+  .ui-btn-outline:hover { background-color: var(--btn-outline-hover-bg); }
+
+  .ui-link { color: var(--link); }
+  .ui-link:hover { background-color: var(--link-hover-bg); }
+
+  .ui-ring-hover { box-shadow: 0 0 0 2px var(--ring); }
 }

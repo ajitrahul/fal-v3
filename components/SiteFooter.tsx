@@ -31,11 +31,10 @@ export default function SiteFooter() {
       <div className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 sm:grid-cols-4 sm:px-6 lg:px-8">
         <div className="col-span-2">
           <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-gray-900 dark:text-zinc-100">
-            AI Tools Directory
+            find ai list
           </h3>
           <p className="max-w-xl">
-            Discover, filter, and compare AI tools, models, and platforms. Theme follows{" "}
-            <code>NEXT_PUBLIC_TOOLCARD_THEME</code>.
+            Discover, filter, and compare AI tools, models, and platforms. 
           </p>
         </div>
 
@@ -82,7 +81,7 @@ export default function SiteFooter() {
 
       <div className="mx-auto mt-8 max-w-7xl px-4 sm:px-6 lg:px-8">
         <p className="text-xs text-gray-500 dark:text-zinc-500">
-          © {new Date().getFullYear()} AI Tools Directory
+          © {new Date().getFullYear()} findAIlist
         </p>
       </div>
     </footer>

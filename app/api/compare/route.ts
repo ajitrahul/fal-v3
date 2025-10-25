@@ -1,45 +1,98 @@
-// app/api/compare/route.ts
-// Non-AI comparison API (fallback & default table data)
-
+// app/api/compare/ai/route.ts
+import "server-only";
 import { NextResponse } from "next/server";
-import { compareBySlugs } from "@/lib/compare";
 
+// Force Node runtime to avoid any edge-bundling issues
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-function bad(status: number, msg: string) {
-  return NextResponse.json({ ok: false, error: msg }, { status });
-}
+import { compareBySlugs } from "@/lib/compare";
+import { tryParseJson } from "@/lib/ai/json";
+import { AiCompareSchema } from "@/lib/ai/schema-compare";
 
-function parseSlugsParam(s: string | null) {
-  if (!s) return [];
-  return Array.from(new Set(s.split(/[,\|]/g).map((x) => x.trim()).filter(Boolean))).slice(0, 3);
-}
+// Optional: centralize model + key
+function getGeminiConfig() {
+  const apiKey =
+    process.env.GEMINI_API_KEY ||
+    process.env.GOOGLE_API_KEY || // fallback if you used a different name
+    "";
+  if (!apiKey) throw new Error("Missing GEMINI_API_KEY env var.");
 
-export async function GET(req: Request) {
-  const { searchParams } = new URL(req.url);
-  const slugs = parseSlugsParam(searchParams.get("slugs"));
-  if (!slugs.length) return bad(400, "Provide ?slugs=a,b[,c]");
+  const model =
+    process.env.GEMINI_MODEL?.trim() ||
+    "models/gemini-1.5-flash";
 
-  const cmp = compareBySlugs(slugs);
-  if (!cmp.raw.length) return bad(404, "No tools matched the provided slugs");
-
-  return NextResponse.json({ ok: true, slugs: cmp.slugs, names: cmp.names, fields: cmp.fields });
+  return { apiKey, model };
 }
 
 export async function POST(req: Request) {
-  let slugs: string[] = [];
   try {
-    const body = await req.json().catch(() => ({}));
-    if (Array.isArray(body?.slugs)) slugs = body.slugs.map((s: any) => String(s));
-    else if (typeof body?.slugs === "string") slugs = parseSlugsParam(body.slugs);
-  } catch {
-    // ignore
+    const body = await req.json().catch(() => ({} as any));
+    const slugs: string[] = Array.isArray(body?.slugs) ? body.slugs.slice(0, 3) : [];
+
+    if (slugs.length < 2) {
+      return NextResponse.json(
+        { error: "Provide 2–3 tool slugs in the body: { slugs: [\"a\",\"b\", \"c?\"] }" },
+        { status: 400 }
+      );
+    }
+
+    // Dynamic import ensures webpack doesn’t try to bundle this for any client path
+    const { GoogleGenerativeAI } = await import("@google/generative-ai");
+
+    const { apiKey, model } = getGeminiConfig();
+    const genAI = new GoogleGenerativeAI(apiKey);
+    const client = genAI.getGenerativeModel({ model });
+
+    // 1) Build a deterministic comparison matrix from your local data
+    const matrix = await compareBySlugs(slugs);
+
+    // 2) Build the prompt (your existing prompt file)
+    const { buildPrompt } = await import("@/lib/ai/prompt-compare");
+    const prompt = await buildPrompt(matrix);
+
+    // 3) Call Gemini
+    const result = await client.generateContent({
+      contents: [
+        {
+          role: "user",
+          parts: [{ text: prompt }],
+        },
+      ],
+      generationConfig: {
+        temperature: 0.2,
+        maxOutputTokens: 2048,
+      },
+    });
+
+    const text = result?.response?.text?.() ?? "";
+    if (!text) {
+      return NextResponse.json(
+        { error: "Empty response from model." },
+        { status: 502 }
+      );
+    }
+
+    // 4) Parse to JSON (your helper) and validate against your schema
+    const parsed = tryParseJson(text);
+    const ok = AiCompareSchema.safeParse(parsed);
+
+    if (!ok.success) {
+      return NextResponse.json(
+        {
+          error: "Model output failed schema validation.",
+          modelText: text,
+          issues: ok.error.issues,
+        },
+        { status: 422 }
+      );
+    }
+
+    return NextResponse.json({ ok: true, data: ok.data });
+  } catch (err: any) {
+    return NextResponse.json(
+      { error: err?.message || "Server error in compare AI route." },
+      { status: 500 }
+    );
   }
-  if (!slugs.length) return bad(400, "POST body: { slugs: string[] | string }");
-
-  const cmp = compareBySlugs(slugs);
-  if (!cmp.raw.length) return bad(404, "No tools matched the provided slugs");
-
-  return NextResponse.json({ ok: true, slugs: cmp.slugs, names: cmp.names, fields: cmp.fields });
 }

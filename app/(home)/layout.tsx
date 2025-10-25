@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "Explore verified AI tools across categories. Compare features side-by-side, see pricing, and jump to official docs quickly.",
   alternates: { canonical: base ? `${base}/` : "/" },
   openGraph: {
-    title: `${SITE_NAME} — AI tools directory`,
+    title: `${SITE_NAME} — find AI tools`,
     description:
       "Browse the latest AI tools, filter by task and industry, and compare options instantly.",
     url: base ? `${base}/` : undefined,
@@ -18,9 +18,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_NAME} — AI tools directory`,
+    title: `${SITE_NAME} — find AI tools`,
     description:
-      "Browse the latest AI tools, filter by task and industry, and compare options instantly.",
+      "Browse the latest find AI tools, filter by task and industry, and compare options instantly.",
   },
 };
 
