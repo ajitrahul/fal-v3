@@ -2,261 +2,184 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 
-/* -----------------------------------------------------------
-   Inline icons
------------------------------------------------------------ */
-const Svg = ({ d, className = "h-5 w-5" }: { d: string; className?: string }) => (
+/* ---------- helpers ---------- */
+function cx(...parts: Array<string | false | null | undefined>) {
+  return parts.filter(Boolean).join(" ");
+}
+
+/* ---------- icons (inline, no deps) ---------- */
+const Svg = ({ d, className = "h-4 w-4" }: { d: string; className?: string }) => (
   <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
     <path fill="currentColor" d={d} />
   </svg>
 );
-
 const Icons = {
-  home: "M12 3l9 7h-3v9H6v-9H3l9-7z",
-  compare: "M7 3h2v18H7V3zm8 4h2v14h-2V7z",
-  fav: "M12 21s-6.2-4.35-8.4-7.1C1.6 11.3 2 8.5 4.2 7.1C6 6 8.3 6.6 9.6 8.1L12 10.8l2.4-2.7c1.3-1.5 3.6-2.1 5.4-1c2.2 1.4 2.6 4.2.6 6.8C18.2 16.65 12 21 12 21z",
-  plus: "M11 11V6h2v5h5v2h-5v5h-2v-5H6v-2h5z",
-  globe: "M12 2a10 10 0 1 0 0 20a10 10 0 0 0 0-20zm-1 2.1A7.98 7.98 0 0 0 4 12h7V4.1zM13 4.1V12h7a8 8 0 0 0-7-7.9zM4 14a8 8 0 0 0 7 7.9V14H4zm9 0v7.9A8 8 0 0 0 20 14h-7z",
-  user: "M12 12a5 5 0 1 0-5-5a5 5 0 0 0 5 5zm0 2c-4.4 0-8 2.2-8 5v1h16v-1c0-2.8-3.6-5-8-5z",
-  search: "M15.5 14h-.7l-.3-.3A6 6 0 1 0 14 15.5l.3.3v.7l4.3 4.3 1.4-1.4L15.5 14z",
+  home: (c?: string) => <Svg className={c} d="M12 3l9 8h-3v9h-5v-6H11v6H6v-9H3l9-8z" />,
+  news: (c?: string) => <Svg className={c} d="M4 5h14a2 2 0 0 1 2 2v11H6a2 2 0 0 1-2-2V5zm2 3v8h12V7H6zm-2 12h16v2H4zM8 9h8v2H8V9zm0 3h8v2H8v-2z" />,
+  compare: (c?: string) => <Svg className={c} d="M7 5h4v14H7V5zm6 4h4v10h-4V9zM5 3h8v2H5V3zm10 6h4V7h-4v2z" />,
+  menu: (c?: string) => <Svg className={c} d="M3 6h18v2H3V6zm0 5h18v2H3v-2zm0 5h18v2H3v-2z" />,
+  close: (c?: string) => <Svg className={c} d="M6 6l12 12M18 6L6 18" />,
 };
 
-/* -----------------------------------------------------------
-   Small helpers
------------------------------------------------------------ */
-function cx(...args: Array<string | false | null | undefined>) {
-  return args.filter(Boolean).join(" ");
-}
-
-/** Icon colors (light/dark aware). */
-function iconColor(kind: string, isDark: boolean) {
-  const map: Record<string, { light: string; dark: string }> = {
-    home: { light: "text-emerald-600", dark: "text-emerald-400" },
-    compare: { light: "text-violet-600", dark: "text-violet-400" },
-    news: { light: "text-amber-600", dark: "text-amber-400" },
-    favorites: { light: "text-rose-600", dark: "text-rose-400" },
-    submit: { light: "text-teal-600", dark: "text-teal-400" },
-    search: { light: "text-blue-600", dark: "text-blue-400" },
-    lang: { light: "text-orange-600", dark: "text-orange-400" },
-    signin: { light: "text-indigo-600", dark: "text-indigo-400" },
-  };
-  const picked = map[kind] || map.home;
-  return isDark ? picked.dark : picked.light;
-}
-
-/** Read global theme from <html>.classList (set by layout no-flash script). */
-function useIsDark() {
-  const [isDark, setIsDark] = useState<boolean>(false);
-
-  useEffect(() => {
-    const root = document.documentElement;
-    const get = () => root.classList.contains("dark");
-    setIsDark(get());
-
-    const obs = new MutationObserver(() => setIsDark(get()));
-    obs.observe(root, { attributes: true, attributeFilter: ["class"] });
-
-    const m = window.matchMedia?.("(prefers-color-scheme: dark)");
-    const onChange = () => setIsDark(get());
-    m?.addEventListener?.("change", onChange);
-
-    return () => {
-      obs.disconnect();
-      m?.removeEventListener?.("change", onChange);
-    };
-  }, []);
-
-  return isDark;
-}
-
-/** Text color tokens bound to theme. */
-function textCls(isDark: boolean) {
-  return {
-    brand: isDark ? "text-zinc-100" : "text-gray-900",
-    link: isDark ? "text-zinc-300" : "text-gray-700",
-    linkHoverText: isDark ? "hover:text-zinc-100" : "hover:text-gray-900",
-    linkHoverBg: isDark ? "hover:bg-zinc-900" : "hover:bg-gray-100",
-    menuBorder: isDark ? "border-zinc-800" : "border-gray-200",
-    menuBg: isDark ? "bg-zinc-950" : "bg-white",
-    menuItemActive: isDark ? "bg-zinc-100 text-zinc-900" : "bg-gray-900 text-white",
-  };
-}
-
-/* Language list */
-const LANGS = [
-  { code: "en", label: "EN" },
-  { code: "hi", label: "HI" },
-  { code: "id", label: "ID" },
-  { code: "es", label: "ES" },
-  { code: "fr", label: "FR" },
-];
-
-/* Logo paths from env (light required, dark optional) */
-const LIGHT_LOGO = process.env.NEXT_PUBLIC_LOGO_LIGHT || "/brand/findailist-logo-ng.svg";
-const DARK_LOGO = process.env.NEXT_PUBLIC_LOGO_DARK || LIGHT_LOGO;
+/* ---------- config from env ---------- */
+const SITE_NAME = process.env.NEXT_PUBLIC_SITE_NAME || "AI Tools Directory";
+const LOGO_SRC =
+  process.env.NEXT_PUBLIC_LOGO_SRC || "/brand/findailist-logo-ng.svg"; // default path in /public
+const THEME_MODE = (process.env.NEXT_PUBLIC_TOOLCARD_THEME || "auto").toLowerCase(); // "light" | "auto"
 
 export default function SiteHeader() {
-  const isDark = useIsDark();
-  const t = textCls(isDark);
-
-  const [lang, setLang] = useState<string>("en");
+  const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
 
+  // treat "light" as forced-light; otherwise allow dark styles
+  const forceLight = THEME_MODE === "light";
+
+  // close mobile menu on route change
   useEffect(() => {
-    try {
-      const urlLang = new URLSearchParams(window.location.search).get("lang");
-      const saved = localStorage.getItem("lang");
-      setLang((urlLang || saved || "en").toLowerCase());
-    } catch {}
-  }, []);
+    setMenuOpen(false);
+  }, [pathname]);
 
-  function applyLang(next: string) {
-    try {
-      setLang(next);
-      localStorage.setItem("lang", next);
-      const sp = new URLSearchParams(window.location.search);
-      sp.set("lang", next);
-      const to = window.location.pathname + "?" + sp.toString();
-      window.history.replaceState(null, "", to);
-    } catch {}
-  }
+  // color classes (respect env theme)
+  const baseBar = forceLight
+    ? "bg-white border-b border-gray-200"
+    : "bg-white dark:bg-zinc-950 border-b border-gray-200 dark:border-zinc-800";
 
-  // Pick logo by theme with safe fallback
-  const desiredLogo = isDark ? DARK_LOGO : LIGHT_LOGO;
-  const [logoSrc, setLogoSrc] = useState<string>(desiredLogo);
-  const [failedOnce, setFailedOnce] = useState(false);
+  const linkBase = forceLight
+    ? "text-gray-700 hover:text-gray-900"
+    : "text-gray-700 hover:text-gray-900 dark:text-zinc-300 dark:hover:text-white";
 
-  useEffect(() => {
-    setLogoSrc(isDark ? DARK_LOGO : LIGHT_LOGO);
-    setFailedOnce(false);
-  }, [isDark]);
+  const badge = forceLight
+    ? "text-[10px] rounded-full bg-emerald-50 text-emerald-700 px-2 py-[2px] border border-emerald-200"
+    : "text-[10px] rounded-full bg-emerald-900/20 text-emerald-200 px-2 py-[2px] border border-emerald-800";
 
-  const headerFrame = isDark
-    ? "border-b border-zinc-800 bg-zinc-950/80 backdrop-blur supports-[backdrop-filter]:bg-zinc-950/60"
-    : "border-b border-gray-200 bg-white/80 backdrop-blur supports-[backdrop-filter]:bg-white/60";
+  const btn = (solid = false) =>
+    forceLight
+      ? solid
+        ? "inline-flex items-center gap-1 rounded-lg bg-gray-900 text-white px-3 py-1.5 text-sm hover:bg-black"
+        : "inline-flex items-center gap-1 rounded-lg border border-gray-200 text-gray-700 px-3 py-1.5 text-sm hover:bg-gray-50"
+      : solid
+      ? "inline-flex items-center gap-1 rounded-lg bg-zinc-900 text-white px-3 py-1.5 text-sm hover:bg-black"
+      : "inline-flex items-center gap-1 rounded-lg border border-zinc-700 text-zinc-200 px-3 py-1.5 text-sm hover:bg-zinc-800";
 
-  const linkBase =
-    "inline-flex items-center gap-1 rounded-md px-2 py-1 text-sm transition";
+  const icon = (active = false) =>
+    cx(
+      "h-4 w-4",
+      active
+        ? forceLight
+          ? "text-gray-900"
+          : "text-white"
+        : forceLight
+        ? "text-gray-600"
+        : "text-zinc-300"
+    );
 
-  const linkTone = `${t.link} ${t.linkHoverBg} ${t.linkHoverText}`;
+  const nav = [
+    { href: "/", label: "Home", icon: Icons.home },
+    { href: "/ai-news", label: "AI News", icon: Icons.news },
+    { href: "/compare", label: "Compare", icon: Icons.compare },
+  ];
 
   return (
-    <header className={headerFrame}>
-      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
-        {/* Left: Brand + primary nav */}
-        <div className="flex items-center gap-2">
-          <Link
-            href="/"
-            className={cx("inline-flex items-center gap-2 text-sm font-semibold tracking-tight hover:opacity-90", t.brand)}
-            aria-label="AI Tools Directory — Home"
-          >
-            <Image
-              src={logoSrc}
-              alt="Find AI List logo"
-              width={20}
-              height={20}
-              priority
-              className="h-5 w-5"
-              onError={() => {
-                if (!failedOnce && logoSrc !== LIGHT_LOGO) {
-                  setFailedOnce(true);
-                  setLogoSrc(LIGHT_LOGO);
-                }
-              }}
-            />
-            <span className="small-caps">find Ai list</span>
-          </Link>
-
-          <nav className="ml-3 hidden items-center gap-1 sm:flex">
-            <Link href="/" className={cx(linkBase, linkTone)} title="Home">
-              <Svg d={Icons.home} className={cx(iconColor("home", isDark), "h-4 w-4")} />
-              <span className="hidden md:inline">Home</span>
-            </Link>
-
-            <Link href="/compare" className={cx(linkBase, linkTone)} title="Compare">
-              <Svg d={Icons.compare} className={cx(iconColor("compare", isDark), "h-4 w-4")} />
-              <span className="hidden md:inline">Compare</span>
-            </Link>
-
-            <Link href="/ai-news" className={cx(linkBase, linkTone)} title="AI News">
-              <Svg d={Icons.globe} className={cx(iconColor("news", isDark), "h-4 w-4")} />
-              <span className="hidden md:inline">AI News</span>
-            </Link>
-
-            <Link href="/?favorites=1" className={cx(linkBase, linkTone)} title="Favorites">
-              <Svg d={Icons.fav} className={cx(iconColor("favorites", isDark), "h-4 w-4")} />
-              <span className="hidden md:inline">Favorites</span>
-            </Link>
-
-            <Link href="/submit" className={cx(linkBase, linkTone)} title="Submit / Edit">
-              <Svg d={Icons.plus} className={cx(iconColor("submit", isDark), "h-4 w-4")} />
-              <span className="hidden md:inline">Submit</span>
-            </Link>
-          </nav>
-        </div>
-
-        {/* Right: Search + language + sign-in */}
-        <div className="flex items-center gap-2">
-          <Link href="/#tool-search" className={cx(linkBase, linkTone)} title="Search">
-            <Svg d={Icons.search} className={cx(iconColor("search", isDark), "h-4 w-4")} />
-            <span className="hidden md:inline">Search</span>
-          </Link>
-
-          {/* Language */}
-          <div className="relative">
-            <button
-              type="button"
-              onClick={() => setMenuOpen((v) => !v)}
-              className={cx(linkBase, linkTone)}
-              aria-haspopup="listbox"
-              aria-expanded={menuOpen}
-              title="Change language"
-            >
-              <Svg d={Icons.globe} className={cx(iconColor("lang", isDark), "h-4 w-4")} />
-              <span className="text-xs font-medium">{lang.toUpperCase()}</span>
-            </button>
-
-            {menuOpen && (
-              <ul
-                role="listbox"
+    <header className={cx("w-full", baseBar)}>
+      <div className="mx-auto max-w-7xl px-3 sm:px-4">
+        <div className="flex h-14 items-center justify-between">
+          {/* Left: Logo + brand */}
+          <div className="flex items-center gap-2">
+            <Link href="/" className="flex items-center gap-2" aria-label={SITE_NAME}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={LOGO_SRC}
+                alt={SITE_NAME}
+                className="h-6 w-auto"
+                loading="eager"
+                decoding="async"
+              />
+              <span
                 className={cx(
-                  "absolute right-0 z-50 mt-1 w-28 overflow-hidden rounded-lg border p-1 text-sm shadow",
-                  t.menuBorder,
-                  t.menuBg
+                  "hidden sm:inline-block font-semibold tracking-tight",
+                  forceLight ? "text-gray-900" : "text-gray-900 dark:text-zinc-100"
                 )}
+                style={{ fontVariant: "small-caps" as any }}
               >
-                {LANGS.map((l) => (
-                  <li key={l.code}>
-                    <button
-                      type="button"
-                      role="option"
-                      aria-selected={lang === l.code}
-                      onClick={() => {
-                        applyLang(l.code);
-                        setMenuOpen(false);
-                      }}
-                      className={cx(
-                        "w-full rounded-md px-2 py-1 text-left",
-                        lang === l.code ? t.menuItemActive : "hover:bg-gray-100 hover:text-gray-900"
-                      )}
-                    >
-                      {l.label}
-                    </button>
-                  </li>
-                ))}
-              </ul>
-            )}
+                {SITE_NAME}
+              </span>
+              <span className={badge}>Beta</span>
+            </Link>
           </div>
 
-          {/* Sign-in */}
-          <Link href="/auth" className={cx(linkBase, linkTone)} title="Sign in">
-            <Svg d={Icons.user} className={cx(iconColor("signin", isDark), "h-4 w-4")} />
-            <span className="hidden md:inline">Sign in</span>
-          </Link>
+          {/* Center: Desktop nav */}
+          <nav className="hidden md:flex items-center gap-4">
+            {nav.map((n) => {
+              const active = pathname === n.href;
+              return (
+                <Link
+                  key={n.href}
+                  href={n.href}
+                  className={cx(
+                    "inline-flex items-center gap-1.5 px-2 py-1 rounded-md transition-colors",
+                    linkBase,
+                    active && (forceLight ? "bg-gray-100" : "dark:bg-zinc-800")
+                  )}
+                >
+                  {n.icon(icon(active))}
+                  <span className="text-sm">{n.label}</span>
+                </Link>
+              );
+            })}
+          </nav>
+
+          {/* Right: Submit + Mobile menu */}
+          <div className="flex items-center gap-2">
+            <Link href="/submit" className={btn(false)}>
+              <Svg d="M12 5v6h6v2h-6v6h-2v-6H4v-2h6V5z" className="h-4 w-4" />
+              <span>Submit</span>
+            </Link>
+
+            {/* Mobile menu button */}
+            <button
+              type="button"
+              className={cx(btn(false), "md:hidden px-2 py-1")}
+              aria-label="Toggle menu"
+              onClick={() => setMenuOpen((v) => !v)}
+            >
+              {menuOpen ? Icons.close("h-4 w-4") : Icons.menu("h-4 w-4")}
+            </button>
+          </div>
         </div>
+
+        {/* Mobile menu panel */}
+        {menuOpen && (
+          <div
+            className={cx(
+              "md:hidden border-t mt-2 pt-2 pb-3",
+              forceLight ? "border-gray-200" : "dark:border-zinc-800"
+            )}
+          >
+            <nav className="flex flex-col gap-1">
+              {nav.map((n) => {
+                const active = pathname === n.href;
+                return (
+                  <Link
+                    key={n.href}
+                    href={n.href}
+                    onClick={() => setMenuOpen(false)}
+                    className={cx(
+                      "flex items-center gap-2 rounded-md px-2 py-2",
+                      linkBase,
+                      active && (forceLight ? "bg-gray-100" : "dark:bg-zinc-800")
+                    )}
+                  >
+                    {n.icon(icon(active))}
+                    <span className="text-sm">{n.label}</span>
+                  </Link>
+                );
+              })}
+            </nav>
+          </div>
+        )}
       </div>
     </header>
   );

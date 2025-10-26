@@ -2,7 +2,6 @@
 import "server-only";
 import { NextResponse } from "next/server";
 
-// Force Node runtime (NOT edge) so the SDK can run in a Node context
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
@@ -10,16 +9,64 @@ import { compareBySlugs } from "@/lib/compare";
 import { tryParseJson } from "@/lib/ai/json";
 import { AiCompareSchema } from "@/lib/ai/schema-compare";
 
-// Config from env
 function getGeminiConfig() {
   const apiKey =
     process.env.GEMINI_API_KEY ||
-    process.env.GOOGLE_API_KEY || // fallback if you used a different name
+    process.env.GOOGLE_API_KEY || // allow either name
     "";
-  if (!apiKey) throw new Error("Missing GEMINI_API_KEY env var.");
+  if (!apiKey) throw new Error("Missing GEMINI_API_KEY (or GOOGLE_API_KEY).");
 
-  const model = (process.env.GEMINI_MODEL || "models/gemini-1.5-flash").trim();
+  let model = (process.env.GEMINI_MODEL || "models/gemini-1.5-flash").trim();
+  if (!model.startsWith("models/")) model = `models/${model}`;
+
   return { apiKey, model };
+}
+
+async function callGeminiREST(prompt: string) {
+  const { apiKey, model } = getGeminiConfig();
+
+  const endpoint = `https://generativelanguage.googleapis.com/v1beta/${encodeURIComponent(
+    model
+  )}:generateContent?key=${encodeURIComponent(apiKey)}`;
+
+  const payload = {
+    contents: [{ role: "user", parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.2, maxOutputTokens: 2048 },
+  };
+
+  const res = await fetch(endpoint, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    // @ts-ignore: next cache control
+    next: { revalidate: 0 },
+    body: JSON.stringify(payload),
+  });
+
+  if (!res.ok) {
+    const text = await res.text().catch(() => "");
+    throw new Error(
+      `Gemini HTTP ${res.status}: ${text || res.statusText || "Unknown error"}`
+    );
+  }
+
+  const data = await res.json();
+  // Extract text safely
+  let text = "";
+  try {
+    const parts =
+      data?.candidates?.[0]?.content?.parts ??
+      data?.candidates?.[0]?.content?.parts ??
+      [];
+    text = parts.map((p: any) => p?.text || "").join("").trim();
+  } catch {
+    // ignore
+  }
+  if (!text) text = data?.candidates?.[0]?.content?.parts?.[0]?.text || "";
+
+  if (!text) {
+    throw new Error("Empty response from Gemini.");
+  }
+  return text;
 }
 
 export async function POST(req: Request) {
@@ -34,57 +81,28 @@ export async function POST(req: Request) {
       );
     }
 
-    // ✅ DYNAMIC IMPORT — prevents bundler from resolving at build time
-    let GoogleGenerativeAI: any;
-    try {
-      ({ GoogleGenerativeAI } = await import("@google/generative-ai"));
-    } catch (e: any) {
-      return NextResponse.json(
-        {
-          error:
-            "Gemini SDK not installed or resolvable. Run: npm i @google/generative-ai",
-          detail: String(e?.message || e),
-        },
-        { status: 500 }
-      );
-    }
-
-    const { apiKey, model } = getGeminiConfig();
-    const genAI = new GoogleGenerativeAI(apiKey);
-    const client = genAI.getGenerativeModel({ model });
-
-    // 1) Deterministic matrix from local data
+    // 1) Deterministic matrix from your local repo data
     const matrix = await compareBySlugs(slugs);
 
-    // 2) Prompt for AI (your existing prompt builder)
+    // 2) Build prompt from your existing helper
     const { buildPrompt } = await import("@/lib/ai/prompt-compare");
     const prompt = await buildPrompt(matrix);
 
-    // 3) Call Gemini
-    const result = await client.generateContent({
-      contents: [{ role: "user", parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.2, maxOutputTokens: 2048 },
-    });
+    // 3) Call Gemini via REST (no SDK)
+    const modelText = await callGeminiREST(prompt);
 
-    const text = result?.response?.text?.() ?? "";
-    if (!text) {
-      return NextResponse.json(
-        { error: "Empty response from model." },
-        { status: 502 }
-      );
-    }
+    // 4) Parse and validate against your schema
+    const parsed = tryParseJson(modelText);
+    const check = AiCompareSchema.safeParse(parsed);
 
-    // 4) Parse/validate
-    const parsed = tryParseJson(text);
-    const ok = AiCompareSchema.safeParse(parsed);
-    if (!ok.success) {
+    if (!check.success) {
       return NextResponse.json(
-        { error: "Model output failed schema validation.", modelText: text, issues: ok.error.issues },
+        { error: "Model output failed schema validation.", modelText, issues: check.error.issues },
         { status: 422 }
       );
     }
 
-    return NextResponse.json({ ok: true, data: ok.data });
+    return NextResponse.json({ ok: true, data: check.data });
   } catch (err: any) {
     return NextResponse.json(
       { error: err?.message || "Server error in compare AI route." },

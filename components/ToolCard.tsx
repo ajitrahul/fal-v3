@@ -8,7 +8,7 @@ import YouTubeEmbed from "@/components/YouTubeEmbed";
 import type { ToolEntry } from "@/lib/tools-data";
 import { getCategoryTheme } from "@/lib/ui/category-theme";
 
-/* ---------------- Inline icons ---------------- */
+/* ---------------- Inline icons (no extra deps) ---------------- */
 const Svg = ({ d, className = "h-4 w-4" }: { d: string; className?: string }) => (
   <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
     <path fill="currentColor" d={d} />
@@ -32,6 +32,119 @@ const Icons = {
   check: (c?: string) => <Svg className={c} d="M9 16.2 4.8 12 3.4 13.4 9 19 21 7l-1.4-1.4z" />,
 };
 
+/* ---------------- lightweight UI label i18n shim ---------------- */
+declare global { interface Window { __t?: (s: string) => string; __lang?: string } }
+function tx(s: string) {
+  try { return typeof window !== "undefined" && typeof window.__t === "function" ? window.__t(s) : s; }
+  catch { return s; }
+}
+
+/* ---------------- on-the-fly content translator (lazy + cached) ---------------- */
+function getCurrentLang(): string {
+  try {
+    if (typeof window === "undefined") return "en";
+    const wlang = (window as any).__lang;
+    if (typeof wlang === "string" && wlang) return wlang.toLowerCase();
+    const htmlLang = document.documentElement.getAttribute("lang");
+    if (htmlLang) return htmlLang.toLowerCase();
+    const envDefault = (process.env.NEXT_PUBLIC_DEFAULT_LANG || "en").toLowerCase();
+    return envDefault;
+  } catch { return "en"; }
+}
+
+// tiny checksum (stable enough for small strings)
+function checksum(s: string) {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) { h = (h * 31 + s.charCodeAt(i)) >>> 0; }
+  return h.toString(16);
+}
+
+async function translateBatch(lang: string, items: string[]): Promise<string[]> {
+  if (!lang || lang === "en") return items;
+  // try global translator if present
+  try {
+    if (typeof window !== "undefined" && typeof (window as any).__translate === "function") {
+      const out = await (window as any).__translate(lang, items);
+      if (Array.isArray(out) && out.length === items.length) return out;
+    }
+  } catch {}
+
+  // fallback to our API
+  try {
+    const res = await fetch("/api/i18n/translate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ lang, items }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      if (Array.isArray(data?.items) && data.items.length === items.length) return data.items;
+    }
+  } catch {}
+  // if anything fails, return originals
+  return items;
+}
+
+function useTranslatedContent<T extends Record<string, any>>(
+  lang: string,
+  fields: { [K in keyof T]?: T[K] }
+): Partial<T> {
+  const [out, setOut] = useState<Partial<T>>({});
+  useEffect(() => {
+    let ignore = false;
+    const texts: string[] = [];
+    const keys: (keyof T)[] = [];
+
+    // collect strings / arrays of strings only
+    Object.entries(fields).forEach(([k, v]) => {
+      if (!v) return;
+      if (typeof v === "string") {
+        keys.push(k as keyof T); texts.push(v);
+      } else if (Array.isArray(v)) {
+        const joined = v.join(" • ");
+        keys.push(k as keyof T); texts.push(joined);
+      }
+    });
+
+    if (texts.length === 0 || lang === "en") {
+      // no work, pass-through
+      if (!ignore) {
+        const pass: Partial<T> = {};
+        Object.entries(fields).forEach(([k, v]) => ((pass as any)[k] = v));
+        setOut(pass);
+      }
+      return;
+    }
+
+    // cache key
+    const key = `i18n:v1:${lang}:${checksum(JSON.stringify(texts))}`;
+    const cached = typeof window !== "undefined" ? localStorage.getItem(key) : null;
+    if (cached) {
+      try {
+        const arr = JSON.parse(cached);
+        if (Array.isArray(arr) && arr.length === texts.length) {
+          const mapped: Partial<T> = {};
+          keys.forEach((k, i) => ((mapped as any)[k] = arr[i]));
+          if (!ignore) setOut(mapped);
+          return;
+        }
+      } catch {}
+    }
+
+    (async () => {
+      const translated = await translateBatch(lang, texts);
+      const mapped: Partial<T> = {};
+      keys.forEach((k, i) => ((mapped as any)[k] = translated[i]));
+      try { localStorage.setItem(key, JSON.stringify(translated)); } catch {}
+      if (!ignore) setOut(mapped);
+    })();
+
+    return () => { ignore = true; };
+  }, [lang, JSON.stringify(fields)]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  return out;
+}
+
 /* Category icon selector */
 function categoryIcon(category?: string) {
   const key = (category || "").toLowerCase();
@@ -52,7 +165,6 @@ function categoryIcon(category?: string) {
 
 /* ---------------- small helpers ---------------- */
 function stripDark(cls: string) {
-  // Remove classes prefixed by `dark:` so forcing light ignores site dark theme
   return cls.split(" ").filter((c) => !c.startsWith("dark:")).join(" ");
 }
 function truncate(str?: string | string[], max = 140) {
@@ -77,8 +189,7 @@ function isNewish(tool: ToolEntry) {
   const now = Date.now();
   for (const k of keys) {
     const raw = (tool as any)?.[k];
-    if (!raw) continue;
-    const ts = Date.parse(raw);
+    const ts = raw ? Date.parse(raw) : NaN;
     if (!Number.isNaN(ts)) {
       const days = (now - ts) / (1000 * 60 * 60 * 24);
       if (days <= 30) return true;
@@ -92,7 +203,7 @@ function getFromPrice(t: ToolEntry): { label: string } | null {
   if (!Array.isArray((t as any).pricing_plans)) return null;
   for (const p of (t as any).pricing_plans) {
     const v = (p as any)?.price;
-    if (v === 0 || v === "0" || String(v).toLowerCase() === "free") return { label: "Free" };
+    if (v === 0 || v === "0" || String(v).toLowerCase() === "free") return { label: tx("Free") };
     if (typeof v === "number" && !Number.isNaN(v)) {
       const cycle = (p as any)?.billing_cycle ? `/${(p as any).billing_cycle}` : "";
       const cur = (p as any)?.currency ? ` ${(p as any).currency}` : "";
@@ -116,6 +227,8 @@ function pickVideoUrl(t: ToolEntry) {
     "";
   return (typeof v === "string" ? v.trim() : "") || "";
 }
+
+/* ----- stars renderer ----- */
 function Stars({ rating, max = 5 }: { rating: number; max?: number }) {
   const pct = Math.max(0, Math.min(100, (rating / max) * 100));
   const starPath = "M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z";
@@ -156,8 +269,9 @@ type ThemeMode = "auto" | "light";
 
 export default function ToolCard({ tool }: { tool: ToolEntry }) {
   const theme = getCategoryTheme((tool as any).category);
+  const lang = getCurrentLang();
 
-  // Optional: allow forcing a light card via URL ?cardTheme=light (keeps your global env theme intact)
+  // Allow forcing a light card look via URL: ?cardTheme=light
   const [mode, setMode] = useState<ThemeMode>("auto");
   useEffect(() => {
     try {
@@ -174,10 +288,9 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
   const shot = screenshotUrl((tool as any).website_url);
   const hasShot = typeof shot === "string" && shot.length > 0;
 
-  // Default to SITE to guarantee something shows; user can switch to Video if present
+  // Show Site by default (always visible); user can switch to Video if present
   const [mediaTab, setMediaTab] = useState<"video" | "site">("site");
   useEffect(() => {
-    // If there is a video and the current tab was video, keep it; otherwise ensure a valid tab
     if (!hasVideo && mediaTab !== "site") setMediaTab("site");
   }, [hasVideo, mediaTab]);
 
@@ -207,11 +320,11 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
   const sdks = (tool as any).technical_information?.sdk_languages?.length || 0;
   const website = linkOf(tool, ["website_url", "homepage", "url"]);
 
+  // Existing differentiator logic (local + optional website summary)
   const kdLocal =
     (tool as any).key_differentiator ||
     (Array.isArray((tool as any).unique_selling_points) ? (tool as any).unique_selling_points.join(" • ") : "");
 
-  // Fetch extra differentiators from the official website (server route)
   const [kdWeb, setKdWeb] = useState<string>("");
   useEffect(() => {
     let ignore = false;
@@ -233,8 +346,28 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
     return () => { ignore = true; };
   }, [website, (tool as any).slug]);
 
-  const kd = kdWeb || kdLocal;
-  const kdText = kd ? truncate(kd, 180) : "";
+  const baseDesc = (tool as any).description || "";
+  const basePros = Array.isArray((tool as any).pros) ? (tool as any).pros.slice(0, 1) : [];
+  const baseBestFor = Array.isArray((tool as any).best_for) ? (tool as any).best_for.slice(0, 4) : [];
+  const baseKD = (kdWeb || kdLocal) ? (kdWeb || kdLocal) : "";
+
+  // 🔸 Translate the content fields on the fly (lazy + cached). If lang is 'en' or API missing, falls back seamlessly.
+  const translated = useTranslatedContent<{
+    description: string;
+    pros: string;
+    best_for: string;
+    kd: string;
+  }>(lang, {
+    description: baseDesc,
+    pros: basePros.length ? basePros.join(" • ") : "",
+    best_for: baseBestFor.length ? baseBestFor.join(" • ") : "",
+    kd: baseKD,
+  });
+
+  const descText = (translated.description || baseDesc) as string;
+  const prosText = (translated.pros || (basePros.join(" • "))) as string;
+  const bestForList = (translated.best_for || baseBestFor.join(" • ")).split(" • ").filter(Boolean);
+  const kdText = truncate((translated.kd || baseKD) as string, 180);
 
   const { top: topRatings, quote: reviewQuote } = getTopRatings(tool);
 
@@ -322,7 +455,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                       : "bg-gray-50 text-gray-700 border-gray-200 hover:bg-gray-100"
                   }`}
                 >
-                  Video
+                  {tx("Video")}
                 </button>
               )}
               {hasShot && (
@@ -336,7 +469,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                       : "bg-gray-50 text-gray-700 border-gray-200 hover:bg-gray-100"
                   }`}
                 >
-                  Site
+                  {tx("Site")}
                 </button>
               )}
             </div>
@@ -349,11 +482,11 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                   checked={selected}
                   onChange={toggleCompare}
                   disabled={compareDisabled}
-                  aria-label={selected ? "Remove from compare" : "Add to compare"}
+                  aria-label={selected ? tx("Remove from compare") : tx("Add to compare")}
                   className="h-3.5 w-3.5 accent-black disabled:opacity-50"
-                  title={compareDisabled ? "You can compare up to 3 tools" : "Compare this tool"}
+                  title={compareDisabled ? tx("You can compare up to 3 tools") : tx("Compare this tool")}
                 />
-                Compare
+                {tx("Compare")}
                 <span className={`ml-1 rounded-full px-1.5 py-[1px] text-[10px] ${forceLight ? "bg-gray-100 text-gray-600" : "bg-gray-100 text-gray-600 dark:bg-zinc-800 dark:text-zinc-300"}`}>
                   {compareSet.length}/3
                 </span>
@@ -364,9 +497,9 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                 type="button"
                 onClick={toggleFavorite}
                 aria-pressed={isFav}
-                aria-label={isFav ? "Remove from favorites" : "Add to favorites"}
+                aria-label={isFav ? tx("Remove from favorites") : tx("Add to favorites")}
                 className={`ml-1 inline-flex items-center justify-center rounded-full p-1.5 border text-gray-600 hover:bg-gray-50 ${forceLight ? "border-gray-200" : "border-gray-200 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-800"}`}
-                title={isFav ? "Remove from favorites" : "Add to favorites"}
+                title={isFav ? tx("Remove from favorites") : tx("Add to favorites")}
               >
                 <span className={isFav ? "text-rose-500" : ""}>{Icons.heart("h-4 w-4")}</span>
               </button>
@@ -380,38 +513,11 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
               ) : hasShot ? (
                 <img
                   src={shot!}
-                  alt={`${(tool as any).name} site preview`}
+                  alt={`${(tool as any).name} ${tx("site preview")}`}
                   className="w-full h-auto transition-transform duration-300 group-hover:scale-[1.01]"
                   loading="lazy"
                 />
               ) : null}
-
-              {/* Hover CTA */}
-              <div className="pointer-events-none absolute inset-0 hidden items-center justify-center bg-gradient-to-t from-black/40 to-black/10 group-hover:flex">
-                {mediaTab === "video" && hasVideo ? (
-                  <a
-                    href={videoUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="pointer-events-auto inline-flex items-center gap-2 rounded-full bg-white/95 px-3 py-1.5 text-sm font-medium shadow"
-                    aria-label="Open video in new tab"
-                  >
-                    {Icons.video("h-4 w-4")}
-                    Watch video
-                  </a>
-                ) : hasShot ? (
-                  <a
-                    href={website || (tool as any).website_url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="pointer-events-auto inline-flex items-center gap-2 rounded-full bg-white/95 px-3 py-1.5 text-sm font-medium shadow"
-                    aria-label="Open website in new tab"
-                  >
-                    {Icons.globe("h-4 w-4")}
-                    Visit site
-                  </a>
-                ) : null}
-              </div>
             </div>
           </div>
         </div>
@@ -424,7 +530,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
           <div className={`relative h-12 w-12 rounded-lg overflow-hidden flex items-center justify-center ring-1 ${forceLight ? "bg-gray-100 ring-gray-200" : "bg-gray-100 ring-gray-200 dark:bg-zinc-800 dark:ring-zinc-700"}`}>
             {newish && (
               <span className="absolute -top-1 -right-1 rounded-full bg-emerald-500 text-white text-[10px] px-1.5 py-[2px] shadow">
-                New
+                {tx("New")}
               </span>
             )}
             {(tool as any).logo_url ? (
@@ -466,16 +572,16 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                     descOpen ? "" : "line-clamp-2 group-hover:line-clamp-3",
                   ].join(" ")}
                 >
-                  {(tool as any).description}
+                  {descText}
                 </p>
-                {String((tool as any).description).length > 180 && (
+                {String(baseDesc).length > 180 && (
                   <button
                     type="button"
                     className={`mt-1 text-xs underline decoration-dotted underline-offset-2 ${forceLight ? "text-gray-600 hover:text-gray-900" : "text-gray-600 hover:text-gray-900 dark:text-zinc-400 dark:hover:text-zinc-200"}`}
                     onClick={() => setDescOpen((v) => !v)}
                     aria-expanded={descOpen}
                   >
-                    {descOpen ? "Less" : "More"}
+                    {descOpen ? tx("Less") : tx("More")}
                   </button>
                 )}
               </div>
@@ -487,7 +593,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
         {kdText && (
           <div className="mt-3">
             <p className={`text-[13.5px] ${forceLight ? "text-gray-600" : "text-gray-600 dark:text-zinc-400"}`}>
-              <span className={`font-medium ${forceLight ? "text-gray-800" : "text-gray-800 dark:text-zinc-200"}`}>Why it’s different — </span>
+              <span className={`font-medium ${forceLight ? "text-gray-800" : "text-gray-800 dark:text-zinc-200"}`}>{tx("Why it’s different — ")} </span>
               <em>{kdText}</em>
             </p>
           </div>
@@ -523,72 +629,72 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
         {/* Meta pills */}
         <div className="mt-3 flex flex-wrap items-center gap-2">
           {price && (
-            <span title="Starting price">
+            <span title={tx("Starting price")}>
               <Pill className={`bg-amber-50 text-amber-800 border-amber-200 ${forceLight ? "" : "dark:bg-amber-900/20 dark:text-amber-200 dark:border-amber-800"}`}>
-                From {price.label}
+                {tx("From")} {price.label}
               </Pill>
             </span>
           )}
 
           {modelsCount > 0 && (
-            <span title="Declared models">
+            <span title={tx("Declared models")}>
               <Pill className={`bg-indigo-50 text-indigo-700 border-indigo-200 ${forceLight ? "" : "dark:bg-indigo-900/20 dark:text-indigo-300 dark:border-indigo-800"}`}>
-                {modelsCount} {modelsCount === 1 ? "model" : "models"}{modelHint ? ` — ${modelHint}` : ""}
+                {modelsCount} {modelsCount === 1 ? tx("model") : tx("models")}{modelHint ? ` — ${modelHint}` : ""}
               </Pill>
             </span>
           )}
 
           {integrations > 0 && (
-            <span title="Available integrations">
+            <span title={tx("Available integrations")}>
               <Pill className={`bg-blue-50 text-blue-700 border-blue-200 ${forceLight ? "" : "dark:bg-blue-900/20 dark:text-blue-300 dark:border-blue-800"}`}>
-                {integrations} integrations
+                {integrations} {tx("integrations")}
               </Pill>
             </span>
           )}
 
           {sdks > 0 && (
-            <span title="SDK languages">
+            <span title={tx("SDK languages")}>
               <Pill className={forceLight ? "bg-gray-100 text-gray-700 border-gray-200" : "bg-gray-100 text-gray-700 border-gray-200 dark:bg-zinc-800 dark:text-zinc-300 dark:border-zinc-700"}>
-                {sdks} SDKs
+                {sdks} {tx("SDKs")}
               </Pill>
             </span>
           )}
 
           {hasEncryption && (
-            <span title="Encryption in transit or at rest">
+            <span title={tx("Encryption in transit or at rest")}>
               <Pill className={`bg-emerald-50 text-emerald-700 border-emerald-200 ${forceLight ? "" : "dark:bg-emerald-900/20 dark:text-emerald-300 dark:border-emerald-800"}`}>
-                Encryption
+                {tx("Encryption")}
               </Pill>
             </span>
           )}
 
           {hasCerts && (
-            <span title="Compliance certifications">
+            <span title={tx("Compliance certifications")}>
               <Pill className={`bg-teal-50 text-teal-700 border-teal-200 ${forceLight ? "" : "dark:bg-teal-900/20 dark:text-teal-300 dark:border-teal-800"}`}>
-                Compliance
+                {tx("Compliance")}
               </Pill>
             </span>
           )}
 
           {flags.map((label, i) => (
-            <span key={i} title={`Flag: ${label}`}>
+            <span key={i} title={`${tx("Flag")}: ${label}`}>
               <Pill className={forceLight ? "bg-gray-50 text-gray-700" : "bg-gray-50 text-gray-700 dark:bg-zinc-800 dark:text-zinc-300"}>{label}</Pill>
             </span>
           ))}
         </div>
 
         {/* Killer feature (first pro) */}
-        {Array.isArray((tool as any).pros) && (tool as any).pros.length > 0 && (
+        {prosText && (
           <ul className={forceLight ? "mt-3 text-[13.5px] text-gray-700 list-disc pl-5" : "mt-3 text-[13.5px] text-gray-700 list-disc pl-5 dark:text-zinc-300"}>
-            <li className={forceLight ? "marker:text-gray-400" : "marker:text-gray-400 dark:marker:text-zinc-500"}>{(tool as any).pros[0]}</li>
+            <li className={forceLight ? "marker:text-gray-400" : "marker:text-gray-400 dark:marker:text-zinc-500"}>{prosText}</li>
           </ul>
         )}
 
         {/* Best for */}
-        {Array.isArray((tool as any).best_for) && (tool as any).best_for.length > 0 && (
+        {bestForList.length > 0 && (
           <div className="mt-3 flex flex-wrap gap-2">
-            {(tool as any).best_for.slice(0, 4).map((bf: string, i: number) => (
-              <span key={i} title="Best for">
+            {bestForList.map((bf: string, i: number) => (
+              <span key={i} title={tx("Best for")}>
                 <Pill className={forceLight ? "bg-gray-50 text-gray-700" : "bg-gray-50 text-gray-700 dark:bg-zinc-800 dark:text-zinc-300"}>{bf}</Pill>
               </span>
             ))}
@@ -604,11 +710,11 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`inline-flex items-center gap-1.5 rounded-md px-2.5 py-1 ${btnOutline}`}
-                aria-label="Open documentation"
-                title="Documentation"
+                aria-label={tx("Open documentation")}
+                title={tx("Documentation")}
               >
                 <Svg d="M4 4h12a2 2 0 0 1 2 2v12a1 1 0 0 1-1 1H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm2 4h7v2H6V8z" className="h-3.5 w-3.5" />
-                Docs
+                {tx("Docs")}
               </a>
             )}
             {github && (
@@ -617,7 +723,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`inline-flex items-center gap-1.5 rounded-md px-2.5 py-1 ${btnOutline}`}
-                aria-label="Open GitHub"
+                aria-label={tx("Open GitHub")}
                 title="GitHub"
               >
                 {Icons.code("h-3.5 w-3.5")}
@@ -630,11 +736,11 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`inline-flex items-center gap-1.5 rounded-md px-2.5 py-1 ${btnOutline}`}
-                aria-label="Open pricing"
-                title="Pricing"
+                aria-label={tx("Open pricing")}
+                title={tx("Pricing")}
               >
                 {Icons.tag("h-3.5 w-3.5")}
-                Pricing
+                {tx("Pricing")}
               </a>
             )}
           </div>
@@ -646,7 +752,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
             href={`/tools/${(tool as any).slug}`}
             className={`inline-flex items-center rounded-lg px-3 py-1.5 text-sm ${btnSolid}`}
           >
-            View details
+            {tx("View details")}
           </Link>
 
           {website && (
@@ -656,7 +762,7 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
               rel="noopener noreferrer"
               className={`inline-flex items-center rounded-lg px-3 py-1.5 text-sm ${btnOutline}`}
             >
-              Visit website
+              {tx("Visit website")}
             </a>
           )}
 
@@ -664,10 +770,10 @@ export default function ToolCard({ tool }: { tool: ToolEntry }) {
             <Link
               href={compareHref}
               className={`inline-flex items-center rounded-lg px-3 py-1.5 text-sm ${btnOutline}`}
-              title="Open compare (uses your configured Gemini model)"
+              title={tx("Open compare (uses your configured Gemini model)")}
             >
               {Icons.check("h-4 w-4")}
-              <span className="ml-1">Open compare ({compareSet.length})</span>
+              <span className="ml-1">{tx("Open compare")} ({compareSet.length})</span>
             </Link>
           )}
         </div>
