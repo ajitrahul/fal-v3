@@ -1,1 +1,0 @@
-export default function Page(){return (<div className='prose'><h1 className='text-2xl font-semibold capitalize'>privacy</h1><p className='text-gray-600'>Original content placeholder for privacy.</p></div>);}

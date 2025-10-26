@@ -1,128 +1,77 @@
 // lib/ai/prompt-compare.ts
-// Grounded prompt for AI comparison, aligned to your tools schema.
-// Output shape stays consistent for your route's validator.
+// Prompt builder for AI tool comparison (Gemini). No external deps.
 
-type FieldsBySlug = Record<string, any>;
-
-export type ComparePayload = {
-  slugs: string[];        // tool slugs in request order
-  names: string[];        // human-readable tool names in the same order
-  fields: FieldsBySlug;   // { [slug]: toolJsonEntry }
+export type MatrixRow = {
+  slug: string;
+  name: string;
+  category: string;
+  from_price: string;
+  has_free_tier: boolean;
+  has_api: boolean;
+  is_open_source: boolean;
+  models_count: number;
+  modalities: string[];
+  sdk_count: number;
+  integrations_count: number;
+  security: { encryption: boolean; certifications: string[] };
+  best_for: string[];
 };
 
-// Axes aligned to your tools schema (incl. two derived axes from technical_information).
-const SCHEMA_ALIGNED_AXES = [
-  "key_differentiator",
-  "pros",
-  "cons",
-  "best_for",
-  "use_cases",
-  "pricing_plans",
-  "company_details",
-  "models",
-  "technical_information",
-  "security",        // derived from technical_information.security
-  "integrations",    // derived from technical_information.integrations
-  "flags",
-  "case_studies",
-  "reviews_and_ratings",
-  "tutorials_youtube",
-  "official_video",
-  "vendor_details",
-];
-
-// Output shape the route expects:
-//
-// {
-//   overview: string,
-//   key_differences: string[],
-//   strengths: Record<string /* tool name */, string[]>,
-//   best_for: Array<{ audience: string, pick: string, why: string }>,
-//   considerations: string[],
-//   data_used: string[],
-//   confidence: "low" | "medium" | "high"
-// }
-
-function buildExample(names: string[]) {
-  const a = names[0] ?? "Tool A";
-  const b = names[1] ?? "Tool B";
-  return JSON.stringify(
-    {
-      overview:
-        `${a} focuses on quick onboarding and native integrations; ${b} emphasizes customization and API breadth.`,
-      key_differences: [
-        `${a}: simpler pricing tiers vs ${b}: granular enterprise plans`,
-        `${a}: richer tutorials; ${b}: broader SDK/language support`,
-        `${a}: limited compliance claims; ${b}: more certifications listed`,
-      ],
-      strengths: {
-        [a]: ["Fast setup", "Good docs/tutorials", "Lower entry cost"],
-        [b]: ["Deep API/SDK", "Flexible hosting", "Enterprise support options"],
-      },
-      best_for: [
-        { audience: "Solo/SMB teams", pick: a, why: "Quick adoption and budget friendly" },
-        { audience: "Enterprise/platform teams", pick: b, why: "Customization + integrations depth" },
-      ],
-      considerations: [
-        `${a}: fewer compliance details available`,
-        `${b}: steeper learning curve; premium features gated`,
-      ],
-      data_used: ["pros", "cons", "pricing_plans", "technical_information", "tutorials_youtube", "security"],
-      confidence: "medium",
-    },
+export function buildComparePrompt(rows: MatrixRow[]) {
+  // Single source of truth the model can use.
+  const factsBlock = JSON.stringify(
+    rows.map((r) => ({
+      slug: r.slug,
+      name: r.name,
+      category: r.category,
+      from_price: r.from_price,
+      has_free_tier: r.has_free_tier,
+      has_api: r.has_api,
+      is_open_source: r.is_open_source,
+      models_count: r.models_count,
+      modalities: r.modalities,
+      sdk_count: r.sdk_count,
+      integrations_count: r.integrations_count,
+      security: r.security,
+      best_for: r.best_for,
+    })),
     null,
-    0
+    2
   );
+
+  return `
+You are comparing up to three AI tools for a buyer. You are given only the structured FACTS below.
+Base every statement on these facts. When something is unknown, say “Not enough data”.
+
+FACTS (array of tools):
+${factsBlock}
+
+Return a single **JSON object** only (no prose outside JSON) that matches:
+
+{
+  "criteria": { "id": string; "label": string; "weight": number }[];  // 6-8 criteria; weights sum to ~1.0
+  "scores": { [slug: string]: { [criteriaId: string]: 0|1|2|3|4|5 } };
+  "analysis": {
+    [slug: string]: {
+      "strengths": string[];    // 3–6 short, FACT-based bullets, SPECIFIC to that tool (no duplicates across tools)
+      "weaknesses": string[];   // 3–6 short, FACT-based bullets, SPECIFIC to that tool (no duplicates across tools)
+      "notes"?: string;         // optional single sentence
+    }
+  };
+  "verdict": {
+    "best_overall"?: string;                  // slug
+    "by_use_case"?: { "use_case": string; "slug": string }[]  // pick 1–4 relevant use cases based on 'best_for'
+  };
+  "final_recommendation": string; // 13–16 sentences: clearly name winner(s) and trade-offs; grounded in FACTS
 }
 
-export function buildAiComparePrompt(
-  payload: ComparePayload,
-  requestedSlugs?: string[]
-): { system: string; user: string } {
-  const { slugs, names, fields } = payload;
-  const example = buildExample(names);
+GUIDELINES:
+- Prefer contrasts: free tier vs none, multimodal vs text-only, #SDKs/integrations, encryption/certs present vs missing.
+- Keep bullets concise and free of hype. No markdown.
+- NEVER return empty arrays; if little data, use “Not enough data” but still give at least 3 items per list.
+- If two tools are similar, spell out what actually differs (price hint, modalities, API, SDK count, integrations count).
+- Ensure the JSON is valid and complete.
 
-  const system = [
-    "You are an impartial product analyst.",
-    "Use ONLY the provided tool JSON fields. Do NOT invent facts.",
-    "If a field is missing/empty for a tool, treat it as unknown.",
-    "Return STRICT JSON using the exact shape described; no Markdown or extra text.",
-  ].join("\n");
-
-  const userLines: string[] = [];
-  userLines.push("TASK: Compare the following AI tools using these schema-aligned axes.");
-  userLines.push("");
-  userLines.push(`Tools (slugs → names): ${slugs.map((s, i) => `${s} → ${names[i] || s}`).join(" | ")}`);
-  userLines.push(`Requested slugs: ${(requestedSlugs && requestedSlugs.length ? requestedSlugs : slugs).join(", ")}`);
-  userLines.push(`Axes (ordered): ${SCHEMA_ALIGNED_AXES.join(", ")}`);
-  userLines.push("");
-  userLines.push("Tool JSON (by slug):");
-  userLines.push(JSON.stringify(fields));
-  userLines.push("");
-  userLines.push("OUTPUT SHAPE (EXACT KEYS, STRICT TYPES):");
-  userLines.push(`{
-  "overview": string,
-  "key_differences": string[],
-  "strengths": Record<string, string[]>,
-  "best_for": Array<{ "audience": string, "pick": string, "why": string }>,
-  "considerations": string[],
-  "data_used": string[],
-  "confidence": "low" | "medium" | "high"
-}`);
-  userLines.push("");
-  userLines.push("RULES:");
-  userLines.push("- For `strengths`, object keys MUST be the exact tool NAMES (not slugs).");
-  userLines.push("- For `best_for`, include 1–3 succinct entries.");
-  userLines.push("- For `key_differences`, list 3–6 short bullets that truly distinguish the tools.");
-  userLines.push("- For `considerations`, mention gaps/unknowns (e.g., pricing/compliance missing).");
-  userLines.push(`- For "data_used", pick only the axes you actually referenced: ${SCHEMA_ALIGNED_AXES.join(", ")}.`);
-  userLines.push("- Use only the provided JSON; if unknown, do not guess.");
-  userLines.push("- Keep total text concise (~300–350 words).");
-  userLines.push("");
-  userLines.push("EXAMPLE (FORMAT GUIDE ONLY; DO NOT COPY CONTENT):");
-  userLines.push(example);
-  userLines.push("");
-  userLines.push("Return ONLY the JSON object.");
-
-  return { system, user: userLines.join("\n") };
+Now output ONLY the JSON object, no extra text.
+`.trim();
 }

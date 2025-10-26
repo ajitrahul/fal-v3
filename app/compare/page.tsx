@@ -1,414 +1,377 @@
 // app/compare/page.tsx
-import Link from "next/link";
 import { headers } from "next/headers";
-import CompareAiSummary from "@/components/CompareAiSummary";
-import ClearCompareOnMount from "@/components/ClearCompareOnMount";
-import ComparePickerUrl from "@/components/ComparePickerUrl.server";
-import { DB } from "@/lib/data";
-import { buildAliasIndexFromDB } from "@/lib/aliases";
-import { ACCENT, ACCENTS } from "@/lib/compareTheme";
+import Image from "next/image";
+import Link from "next/link";
 
-const A = ACCENTS[ACCENT];
+/** Build an absolute URL for server-side fetches */
+async function getBaseURL() {
+  const h = await headers();
+  const proto = h.get("x-forwarded-proto") || "http";
+  const host = h.get("x-forwarded-host") || h.get("host") || "localhost:3000";
+  return `${proto}://${host}`;
+}
 
-// ---------- Types ----------
-type CompareAI = {
-  overview?: string;
-  key_differences?: string[];
-  strengths?: Record<string, string[]>;
-  best_for?: Array<{ audience: string; pick: string; why: string }>;
-  considerations?: string[];
-  data_used?: string[];
+/** Small helpers */
+function ensureArray(input: string): string[] {
+  return input
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
+function k(n: number | null | undefined) {
+  if (n == null) return "";
+  if (n < 1000) return `${n}`;
+  if (n < 1_000_000) return `${(n / 1000).toFixed(n % 1000 === 0 ? 0 : 1)}k`;
+  return `${(n / 1_000_000).toFixed(n % 1_000_000 === 0 ? 0 : 1)}m`;
+}
+
+/** Types mirroring /api/compare/ai response */
+type MatrixRow = {
+  slug: string;
+  name: string;
+  category: string;
+  from_price: string;
+  has_free_tier: boolean;
+  has_api: boolean;
+  is_open_source: boolean;
+  models_count: number;
+  modalities: string[];
+  sdk_count: number;
+  integrations_count: number;
+  security: { encryption: boolean; certifications: string[] };
+  best_for: string[];
+};
+type AiResult = {
+  criteria: { id: string; label: string; weight: number }[];
+  scores: Record<string, Record<string, number>>;
+  analysis: Record<string, { strengths: string[]; weaknesses: string[]; notes?: string }>;
+  verdict: { best_overall?: string; by_use_case?: { use_case: string; slug: string }[] };
+  final_recommendation?: string; // ← NEW
+  ai_error?: string;
+};
+type ApiResp = {
+  ok: boolean;
+  matrix?: MatrixRow[];
+  ai?: AiResult;
+  error?: string;
+  detail?: string;
+  promptChars?: number;
 };
 
-type FieldRow = {
-  field?: string;
-  label?: string;
-  name?: string;
-  key?: string;
-  id?: string;
-  values: Array<string | null>;
-};
-
-type CompareBase = {
-  slugs: string[];
-  names: string[];
-  fields: FieldRow[];
-};
-
-type CompareResponse =
-  | { ok: true; slugs: string[]; names: string[]; fields: FieldRow[]; error?: null }
-  | {
-      ok?: false;
-      error?: string | null;
-      base?: CompareBase | null;
-      ai?: CompareAI | null;
-      slugs?: unknown;
-      names?: unknown;
-      fields?: unknown;
-    };
-
-// ---------- Utils (no behavior change) ----------
-function parseSlugsRaw(raw: string | undefined): string[] {
-  if (!raw) return [];
-  const parts = raw.split(",").map((s) => s.trim()).filter(Boolean);
-  const seen = new Set<string>();
-  const out: string[] = [];
-  for (const p of parts) {
-    const k = p.toLowerCase();
-    if (!seen.has(k)) {
-      seen.add(k);
-      out.push(p);
-      if (out.length >= 3) break;
-    }
-  }
-  return out;
-}
-
-function isValidBase(x: any): x is CompareBase {
-  return (
-    x &&
-    Array.isArray(x.slugs) &&
-    Array.isArray(x.names) &&
-    Array.isArray(x.fields) &&
-    x.fields.every((f: any) => f && typeof f === "object" && Array.isArray(f.values))
-  );
-}
-
-function humanize(s: string): string {
-  if (!s) return "";
-  const spaced = s
-    .replace(/([a-z])([A-Z])/g, "$1 $2")
-    .replace(/[_\-.]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-  return spaced
-    .split(" ")
-    .map((w) => (w ? w[0].toUpperCase() + w.slice(1).toLowerCase() : w))
-    .join(" ");
-}
-
-function getFieldLabel(f: Partial<FieldRow>, index: number): string {
-  const raw =
-    (typeof f.field === "string" && f.field) ||
-    (typeof f.label === "string" && f.label) ||
-    (typeof f.name === "string" && f.name) ||
-    (typeof f.key === "string" && f.key) ||
-    (typeof f.id === "string" && f.id) ||
-    "";
-  const pretty = humanize(raw);
-  return pretty || `Field ${index + 1}`;
-}
-
-// Canonicalize with shared alias map (DRY)
-function canonicalizeAll(rawSlugs: string[]): string[] {
-  const index = buildAliasIndexFromDB();
-  const out: string[] = [];
-  const seen = new Set<string>();
-  for (const s of rawSlugs) {
-    const c = (index[s.toLowerCase()] ?? s).toLowerCase();
-    if (!seen.has(c)) {
-      seen.add(c);
-      out.push(c);
-      if (out.length >= 3) break;
-    }
-  }
-  return out;
-}
-
-// ---------- Pretty value rendering (UI only) ----------
-function isUrl(s: string) {
-  return /^https?:\/\//i.test(s);
-}
-function isYes(s: string) {
-  const x = s.trim().toLowerCase();
-  return ["yes", "true", "supported", "available"].includes(x);
-}
-function isNo(s: string) {
-  const x = s.trim().toLowerCase();
-  return ["no", "false", "unsupported", "unavailable"].includes(x);
-}
-function splitList(s: string): string[] | null {
-  const parts = s.split(/[;,|]/).map((t) => t.trim()).filter(Boolean);
-  if (parts.length >= 2 && parts.length <= 6 && parts.every((p) => p.length <= 40))
-    return Array.from(new Set(parts));
-  return null;
-}
-function renderCell(v: string | null) {
-  if (!v || v === "-") return <span className="text-gray-400 italic text-base">-</span>;
-  const s = String(v).trim();
-  if (isUrl(s))
-    return (
-      <a
-        href={s}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="underline underline-offset-2 break-words text-base"
-        title={s}
-      >
-        {s}
-      </a>
-    );
-  if (isYes(s))
-    return (
-      <span className="inline-flex items-center rounded-full bg-green-50 px-2 py-0.5 text-base font-medium text-green-700 ring-1 ring-inset ring-green-200">
-        Yes
-      </span>
-    );
-  if (isNo(s))
-    return (
-      <span className="inline-flex items-center rounded-full bg-rose-50 px-2 py-0.5 text-base font-medium text-rose-700 ring-1 ring-inset ring-rose-200">
-        No
-      </span>
-    );
-  const list = splitList(s);
-  if (list)
-    return (
-      <div className="flex flex-wrap gap-1">
-        {list.map((item, i) => (
-          <span
-            key={i}
-            className="inline-flex items-center rounded-md bg-gray-100 px-2 py-0.5 text-base font-medium text-gray-700 ring-1 ring-inset ring-gray-200"
-          >
-            {item}
-          </span>
-        ))}
-      </div>
-    );
-  return <span className="whitespace-pre-wrap break-words leading-relaxed text-base">{s}</span>;
-}
-
-function initials(name: string) {
-  const parts = name.split(/\s+/).filter(Boolean);
-  if (parts.length === 0) return "?";
-  if (parts.length === 1) return parts[0].slice(0, 2).toUpperCase();
-  return (parts[0][0] + parts[1][0]).toUpperCase();
-}
-
-// ---------- Header meta (icon + link) ----------
-type ToolHeaderMeta = { name: string; slug: string; href: string; iconUrl?: string | null };
-function getHeaderMeta(base: CompareBase): ToolHeaderMeta[] {
-  const tools = (DB.tools as any[]) ?? [];
-  const bySlug = new Map<string, any>();
-  for (const t of tools) bySlug.set(String(t.slug).toLowerCase(), t);
-
-  return base.names.map((name, i) => {
-    const slug = (base.slugs[i] || "").toLowerCase();
-    const tool = bySlug.get(slug);
-    const iconUrl =
-      (tool?.logo_url as string) ||
-      (tool?.icon_url as string) ||
-      (tool?.logo as string) ||
-      (tool?.icon as string) ||
-      (tool?.image as string) ||
-      (tool?.images?.logo as string) ||
-      (Array.isArray(tool?.images)
-        ? (tool.images.find((x: any) => typeof x === "string") as string)
-        : null) ||
-      (tool?.brand?.logo as string) ||
-      (tool?.avatar as string) ||
-      (tool?.thumbnail as string) ||
-      (tool?.og_image as string) ||
-      (tool?.banner as string) ||
-      (tool?.favicon as string) ||
-      null;
-
-  return {
-      name: String(name),
-      slug,
-      href: `/tools/${slug}`,
-      iconUrl: iconUrl || null,
-    };
-  });
-}
-
-// ---------- Page ----------
+/* -------------------- page -------------------- */
 export default async function ComparePage({
   searchParams,
 }: {
   searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
+  // ✅ await searchParams (Next.js 15 sync dynamic APIs rule)
   const sp = await searchParams;
 
-  // 1) Raw slugs (aliases allowed)
-  const rawSlugs = parseSlugsRaw(
-    typeof sp?.slugs === "string"
-      ? (sp.slugs as string)
-      : Array.isArray(sp?.slugs)
-      ? (sp.slugs as string[]).join(",")
-      : undefined
-  );
+  // Accept ?tools= or ?slugs=
+  const input =
+    (typeof sp.tools === "string" && sp.tools) ||
+    (typeof sp.slugs === "string" && sp.slugs) ||
+    "";
 
-  // 2) Canonicalize BEFORE calling API (shared helper)
-  const canonicalSlugs = canonicalizeAll(rawSlugs);
+  const slugs = ensureArray(input).slice(0, 3);
 
-  // 0 or 1 slug → no fetch; keep picker visible
-  if (canonicalSlugs.length < 2) {
-    const need =
-      canonicalSlugs.length === 0
-        ? "Select at least 2 tools to start comparing."
-        : "Add one more tool to start comparing.";
+  if (slugs.length === 0) {
     return (
-      <main className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
-        <h1 className="mb-4 text-xl font-semibold">Compare tools</h1>
-        <ComparePickerUrl />
-        <div className="rounded-md border bg-white p-4">
-          <p className="text-sm text-gray-700">
-            {need} You can also start from the{" "}
-            <Link href="/tools" className="underline underline-offset-2">
-              Explore
-            </Link>{" "}
-            page and use “Compare” there.
-          </p>
-        </div>
+      <main className="mx-auto max-w-6xl px-4 py-10">
+        <h1 className="text-2xl font-semibold text-gray-900 dark:text-zinc-100">Compare</h1>
+        <p className="mt-3 text-sm text-gray-600 dark:text-zinc-300">
+          Select up to 3 tools on the home page (use the “Compare” checkbox), then open the compare view —
+          or pass them in the URL, e.g.{" "}
+          <code className="rounded bg-gray-100 px-1 py-0.5 dark:bg-zinc-800">
+            /compare?tools=openai-chatgpt,anthropic-claude-3
+          </code>
+          .
+        </p>
       </main>
     );
   }
 
-  // 3) Absolute API URL; encode each slug; join with RAW comma
-  const hdrs = await headers();
-  const host = hdrs.get("x-forwarded-host") || hdrs.get("host") || "localhost:3000";
-  const proto = hdrs.get("x-forwarded-proto") || (host.includes("localhost") ? "http" : "https");
-  const baseUrl = `${proto}://${host}`;
-  const qs = canonicalSlugs.map(encodeURIComponent).join(",");
+  // Build absolute API URL and fetch
+  const base = await getBaseURL();
+  const apiURL = `${base}/api/compare/ai?slugs=${encodeURIComponent(slugs.join(","))}`;
 
-  // 4) Fetch; accept both shapes
-  let json: CompareResponse | null = null;
-  let fetchError: string | null = null;
-  try {
-    const res = await fetch(`${baseUrl}/api/compare?slugs=${qs}`, { cache: "no-store" });
-    if (!res.ok) fetchError = `Compare API returned ${res.status}`;
-    else json = (await res.json()) as CompareResponse;
-  } catch (e: any) {
-    fetchError = e?.message || "Compare API request failed";
-  }
+  const res = await fetch(apiURL, { cache: "no-store" });
+  const data = (await res.json()) as ApiResp;
 
-  let base: CompareBase | null = null;
-  let ai: CompareAI | null = null;
-
-  if (json?.base && isValidBase(json.base)) {
-    base = json.base;
-    ai = json.ai ?? null;
-  } else if (json?.ok === true && Array.isArray(json.names) && Array.isArray(json.fields)) {
-    base = {
-      slugs: Array.isArray(json.slugs) ? (json.slugs as string[]) : canonicalSlugs,
-      names: json.names as string[],
-      fields: json.fields as FieldRow[],
-    };
-    ai = null;
-  }
-
-  if (fetchError || !base || base.fields.length === 0) {
+  if (!data.ok || !data.matrix) {
     return (
-      <main className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
-        <h1 className="mb-4 text-xl font-semibold">Compare tools</h1>
-        <ComparePickerUrl />
-        <div className="rounded-md border bg-red-50 p-4 text-sm text-red-700">
-          <p className="font-medium">Failed to generate comparison.</p>
-          {fetchError ? <p className="mt-1">Details: {fetchError}</p> : null}
-          {!fetchError && (json as any)?.error ? (
-            <p className="mt-1">Details: {(json as any).error}</p>
-          ) : null}
-          {!fetchError && (!base || base.fields.length === 0) ? (
-            <p className="mt-1">
-              The server did not return comparable fields for {canonicalSlugs.join(", ")}. Try
-              adding a third tool or changing selection.
-            </p>
-          ) : null}
-        </div>
+      <main className="mx-auto max-w-6xl px-4 py-10">
+        <h1 className="text-2xl font-semibold text-gray-900 dark:text-zinc-100">Compare</h1>
+        <p className="mt-3 text-sm text-red-600 dark:text-red-400">
+          Failed to compare. {data.error || data.detail || `HTTP ${res.status}`}
+        </p>
       </main>
     );
   }
 
-  const headerMeta = getHeaderMeta(base);
+  const matrix = data.matrix;
+  const ai = data.ai;
+
+  function badge(ok: boolean, labelTrue = "Yes", labelFalse = "No") {
+    return (
+      <span
+        className={[
+          "inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ring-1",
+          ok
+            ? "bg-emerald-50 text-emerald-700 ring-emerald-200 dark:bg-emerald-900/20 dark:text-emerald-200 dark:ring-emerald-800"
+            : "bg-gray-100 text-gray-700 ring-gray-200 dark:bg-zinc-800 dark:text-zinc-300 dark:ring-zinc-700",
+        ].join(" ")}
+      >
+        {ok ? labelTrue : labelFalse}
+      </span>
+    );
+  }
+
+  function scoreBar(val: number) {
+    const pct = Math.max(0, Math.min(100, (val / 5) * 100));
+    return (
+      <div className="h-2 w-full rounded bg-gray-100 dark:bg-zinc-800">
+        <div
+          className="h-2 rounded bg-indigo-500 dark:bg-indigo-400"
+          style={{ width: `${pct}%` }}
+          aria-hidden
+        />
+      </div>
+    );
+  }
 
   return (
-    <main className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
-      <ClearCompareOnMount />
-
-      <h1 className="mb-4 text-xl font-semibold">Compare tools</h1>
-      <ComparePickerUrl />
-
-      {ai ? (
-        <section className="mb-8">
-          <CompareAiSummary ai={ai} />
-        </section>
-      ) : null}
-
-      <section aria-labelledby="facts-title" className="rounded-xl border bg-white p-4 shadow-sm">
-        <h2 id="facts-title" className="mb-3 text-sm font-semibold text-gray-700">Facts</h2>
-        <div className="overflow-x-auto relative">
-          <table className="min-w-full table-fixed border-collapse">
-            <thead>
-              <tr className="border-b border-gray-300 sticky top-0 z-30 bg-white/90 backdrop-blur supports-[backdrop-filter]:bg-white/60 shadow-sm">
-                <th
-                  className="sticky left-0 top-0 z-40 w-56 bg-transparent text-left text-base font-semibold text-gray-700 px-4 py-3"
-                  scope="col"
-                >
-                  Field
-                </th>
-                {headerMeta.map((h, i) => (
-                  <th key={i} className="text-left px-4 py-3" scope="col" title={h.name}>
-                    <Link href={h.href} className="group block">
-                      <div className="flex items-center gap-2 min-w-0">
-                        <div className={`relative h-8 w-8 shrink-0 overflow-hidden rounded-md ring-1 ${A.ring}`}>
-                          {h.iconUrl ? (
-                            // use <img> to avoid next/image domain config
-                            // eslint-disable-next-line @next/next/no-img-element
-                            <img
-                              src={h.iconUrl}
-                              alt={`${h.name} logo`}
-                              className="h-full w-full object-cover"
-                              loading="lazy"
-                            />
-                          ) : (
-                            <div
-                              className={`h-full w-full grid place-items-center text-xs font-semibold ${A.avatar}`}
-                            >
-                              {initials(h.name)}
-                            </div>
-                          )}
-                        </div>
-                        <div className="min-w-0">
-                          <div
-                            className="text-base font-semibold text-gray-800 truncate group-hover:underline group-hover:underline-offset-2"
-                            title={h.name}
-                          >
-                            {h.name}
-                          </div>
-                        </div>
-                      </div>
-                    </Link>
-                  </th>
-                ))}
-              </tr>
-            </thead>
-
-            <tbody>
-              {base.fields.map((f, r) => {
-                const label = getFieldLabel(f, r);
-                const cols = base.names.length;
-                return (
-                  <tr
-                    key={r}
-                    className={`align-middle odd:bg-white ${A.even} ${A.hover} border-b border-gray-200 last:border-b-0`}
-                  >
-                    <td className="sticky left-0 z-20 w-56 bg-inherit px-4 py-3 text-base font-semibold text-gray-900 align-middle">
-                      {label}
-                    </td>
-                    {Array.from({ length: cols }).map((_, c) => {
-                      const v = (f.values && f.values[c]) ?? null;
-                      return (
-                        <td key={c} className="px-4 py-3 text-base text-gray-900 align-middle bg-inherit">
-                          {renderCell(v)}
-                        </td>
-                      );
-                    })}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+    <main className="mx-auto max-w-6xl px-4 py-6 md:py-10">
+      {/* Header: selected tools */}
+      <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
+        <div className="flex flex-wrap gap-2">
+          {matrix.map((m) => (
+            <Link
+              key={m.slug}
+              href={`/tools/${m.slug}`}
+              className="group inline-flex items-center gap-2 rounded-lg border px-3 py-1.5 text-sm hover:shadow-sm dark:border-zinc-700"
+            >
+              <Image
+                src={`https://www.google.com/s2/favicons?sz=64&domain=${encodeURIComponent(
+                  `https://${m.slug}.com`
+                )}`}
+                alt=""
+                width={16}
+                height={16}
+                className="opacity-60 group-hover:opacity-100"
+              />
+              <span className="font-medium text-gray-900 dark:text-zinc-100">{m.name}</span>
+              <span className="text-xs text-gray-500 dark:text-zinc-400">({m.slug})</span>
+            </Link>
+          ))}
         </div>
+      </div>
+
+      {/* Summary (AI or fallback) */}
+      {ai && (
+        <section className="mt-6 rounded-2xl border p-4 md:p-6 dark:border-zinc-700">
+          <h2 className="text-lg font-semibold text-gray-900 dark:text-zinc-100">Comparison Summary</h2>
+
+          {/* Final recommendation (NEW) */}
+          {ai.final_recommendation && (
+            <div className="mt-3 rounded-lg bg-amber-50 p-3 text-sm text-amber-900 ring-1 ring-amber-200 dark:bg-amber-900/20 dark:text-amber-200 dark:ring-amber-800">
+              <div className="font-medium">Final Recommendation</div>
+              <p className="mt-1">{ai.final_recommendation}</p>
+            </div>
+          )}
+
+          {/* Verdict */}
+          {(ai.verdict?.best_overall || (ai.verdict?.by_use_case?.length ?? 0) > 0) && (
+            <div className="mt-3 text-sm text-gray-700 dark:text-zinc-300">
+              {ai.verdict?.best_overall && (
+                <p>
+                  <span className="font-medium">Best overall:</span>{" "}
+                  <code className="rounded bg-gray-100 px-1 py-0.5 dark:bg-zinc-800">
+                    {ai.verdict.best_overall}
+                  </code>
+                </p>
+              )}
+              {(ai.verdict?.by_use_case?.length ?? 0) > 0 && (
+                <ul className="mt-2 list-disc pl-5">
+                  {ai.verdict!.by_use_case!.map((v, i) => (
+                    <li key={i}>
+                      <span className="font-medium">{v.use_case}:</span>{" "}
+                      <code className="rounded bg-gray-100 px-1 py-0.5 dark:bg-zinc-800">{v.slug}</code>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          )}
+
+          {/* Per-tool analysis */}
+          <div className="mt-5 grid gap-4 md:grid-cols-3">
+            {matrix.map((m) => {
+              const a = ai.analysis?.[m.slug];
+              return (
+                <div key={m.slug} className="rounded-xl border p-3 dark:border-zinc-700">
+                  <div className="text-sm font-semibold text-gray-900 dark:text-zinc-100">{m.name}</div>
+                  {a?.strengths?.length ? (
+                    <>
+                      <div className="mt-2 text-xs font-medium text-emerald-700 dark:text-emerald-300">
+                        Strengths
+                      </div>
+                      <ul className="mt-1 list-disc pl-5 text-sm text-gray-700 dark:text-zinc-300">
+                        {a.strengths.slice(0, 4).map((s, i) => (
+                          <li key={i}>{s}</li>
+                        ))}
+                      </ul>
+                    </>
+                  ) : null}
+                  {a?.weaknesses?.length ? (
+                    <>
+                      <div className="mt-3 text-xs font-medium text-rose-700 dark:text-rose-300">
+                        Weaknesses
+                      </div>
+                      <ul className="mt-1 list-disc pl-5 text-sm text-gray-700 dark:text-zinc-300">
+                        {a.weaknesses.slice(0, 4).map((w, i) => (
+                          <li key={i}>{w}</li>
+                        ))}
+                      </ul>
+                    </>
+                  ) : null}
+                  {a?.notes ? (
+                    <p className="mt-3 text-xs text-gray-500 dark:text-zinc-400 italic">{a.notes}</p>
+                  ) : null}
+                </div>
+              );
+            })}
+          </div>
+
+          {ai.ai_error && (
+            <p className="mt-4 text-xs text-amber-600 dark:text-amber-400">
+              AI note: {ai.ai_error}. Falling back to deterministic analysis where needed.
+            </p>
+          )}
+        </section>
+      )}
+
+      {/* Scores */}
+      {ai?.scores && ai?.criteria && (
+        <section className="mt-6 rounded-2xl border p-4 md:p-6 dark:border-zinc-700">
+          <h2 className="text-lg font-semibold text-gray-900 dark:text-zinc-100">Scores</h2>
+          <div className="mt-4 grid gap-4 md:grid-cols-2">
+            {ai.criteria.map((c) => (
+              <div key={c.id} className="rounded-xl border p-3 dark:border-zinc-700">
+                <div className="mb-2 flex items-center justify-between">
+                  <div className="text-sm font-medium text-gray-900 dark:text-zinc-100">{c.label}</div>
+                  <div className="text-xs text-gray-500 dark:text-zinc-400">weight {c.weight}</div>
+                </div>
+                <div className="space-y-2">
+                  {matrix.map((m) => {
+                    const val = ai.scores?.[m.slug]?.[c.id] ?? 0;
+                    return (
+                      <div key={m.slug}>
+                        <div className="mb-1 flex items-center justify-between text-xs">
+                          <span className="font-medium text-gray-700 dark:text-zinc-300">{m.name}</span>
+                          <span className="text-gray-500 dark:text-zinc-400">{val}/5</span>
+                        </div>
+                        {scoreBar(val)}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Facts table */}
+      <section className="mt-6 overflow-x-auto rounded-2xl border dark:border-zinc-700">
+        <table className="min-w-[720px] w-full text-sm">
+          <thead>
+            <tr className="bg-gray-50 text-gray-700 dark:bg-zinc-800 dark:text-zinc-300">
+              <th className="px-3 py-2 text-left font-semibold">Field</th>
+              {matrix.map((m) => (
+                <th key={m.slug} className="px-3 py-2 text-left font-semibold">
+                  {m.name}
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody className="divide-y divide-gray-100 dark:divide-zinc-800">
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Category</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{m.category}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">From price</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{m.from_price}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Free tier</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{badge(m.has_free_tier)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">API</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{badge(m.has_api)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Open source</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{badge(m.is_open_source)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Models</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{k(m.models_count)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Modalities</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{m.modalities.join(", ") || "—"}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">SDKs</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{k(m.sdk_count)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Integrations</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{k(m.integrations_count)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Encryption</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{badge(m.security.encryption)}</td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Certifications</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">
+                  {m.security.certifications.join(", ") || "—"}
+                </td>
+              ))}
+            </tr>
+            <tr>
+              <td className="px-3 py-2 text-gray-500 dark:text-zinc-400">Best for</td>
+              {matrix.map((m) => (
+                <td key={m.slug} className="px-3 py-2">{m.best_for.join(", ") || "—"}</td>
+              ))}
+            </tr>
+          </tbody>
+        </table>
       </section>
     </main>
   );

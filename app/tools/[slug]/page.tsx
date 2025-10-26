@@ -91,8 +91,13 @@ function kFormat(n?: number) {
 }
 
 /* -------------------- page -------------------- */
-export default async function ToolDetailsPage({ params }: { params: { slug: string } }) {
-  const tool = await loadTool(params.slug);
+export default async function ToolDetailsPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params; // ← await params per Next 15 dynamic APIs
+  const tool = await loadTool(slug);
   if (!tool) return notFound();
 
   const theme = getCategoryTheme(tool.category);
@@ -354,7 +359,7 @@ export default async function ToolDetailsPage({ params }: { params: { slug: stri
                 {tool.technical_information.security.encryption_at_rest ? "Yes" : "No"}
               </div>
             </div>
-            <div className="rounded-lg border p-3 bg-white border-gray-200 dark:bg-zinc-950 dark:border-zinc-800">
+            <div className="rounded-lg border p-3 bg-white border-gray-200 dark:bg/zinc-950 dark:border-zinc-800">
               <div className="text-sm font-medium text-gray-900 dark:text-zinc-100">Compliance</div>
               {certs.length > 0 ? (
                 <div className="mt-1 flex flex-wrap gap-2">
