@@ -1,14 +1,13 @@
-// This is your Prisma schema file,
-// learn more: https://pris.ly/d/prisma-schema
+// Prisma schema
 
 generator client {
   provider = "prisma-client-js"
 }
 
 datasource db {
-  // Dev uses SQLite. For production, switch to "postgresql" and set a Postgres DATABASE_URL.
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")  // pooled (e.g., PRISMA_DATABASE_URL from Vercel)
+  directUrl = env("DIRECT_URL")    // non-pooled (e.g., POSTGRES_URL)
 }
 
 model User {
