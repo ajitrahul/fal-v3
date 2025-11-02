@@ -20,6 +20,7 @@ model User {
   updatedAt    DateTime @updatedAt
 
   resetTokens  PasswordResetToken[]
+  comments     Comment[]   // relation: one-to-many user -> comments
 }
 
 model PasswordResetToken {
@@ -33,4 +34,27 @@ model PasswordResetToken {
 
   @@index([userId])
   @@index([expiresAt])
+}
+
+/*
+  Comment model — new
+  - toolSlug: link comments to a tool's slug (no change required to tools data format)
+  - userId: relation to User.id (optional null not allowed for auth-only; we keep non-null)
+  - author: display snapshot (name or email) for convenience
+  - body: the comment text
+  - isApproved: keep true by default (auto-approve); can be changed to false for moderation workflow
+*/
+model Comment {
+  id        String   @id @default(cuid())
+  toolSlug  String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId    String
+  author    String?
+  body      String
+  isApproved Boolean @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([toolSlug])
+  @@index([userId])
 }

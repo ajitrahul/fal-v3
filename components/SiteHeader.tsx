@@ -240,7 +240,7 @@ export default function SiteHeader() {
             </div>
           ) : (
             <Link href={LOGIN_URL} className={primaryBtnClass} aria-label="Log in">
-              Login
+              Logxin
             </Link>
           )}
 

@@ -17,22 +17,10 @@ export default function ComingSoonPage() {
         />
         <h1 className="text-3xl font-semibold tracking-tight">Coming Soon</h1>
         <p className="text-base leading-relaxed opacity-80">
-          We’re putting the final touches on Find AI List. You can access the latest build at our
-          preview site while we prepare the main site for launch.
+          We’re putting the final touches on Find AI List.
         </p>
-        <div className="pt-2">
-          <a
-            href="https://preview.findailist.com"
-            className="inline-flex items-center justify-center rounded-md px-4 py-2 text-sm font-medium
-                       bg-black text-white hover:bg-gray-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200
-                       focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black dark:focus:ring-white
-                       dark:focus:ring-offset-zinc-900"
-          >
-            Go to Preview
-          </a>
-        </div>
         <p className="text-xs opacity-60">
-          If you expected production here, it’s temporarily on hold. Thanks for your patience!
+          The live page is currently undergoing some updates and improvements. Our team is actively working behind the scenes to resolve the remaining issues. As soon as the fixes are complete, the live version will be available again. We truly appreciate your patience and understanding in the meantime.
         </p>
       </div>
     </main>
