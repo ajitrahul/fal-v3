@@ -6,8 +6,8 @@ generator client {
 
 datasource db {
   provider  = "postgresql"
-  url       = env("DATABASE_URL")  // pooled (e.g., PRISMA_DATABASE_URL from Vercel)
-  directUrl = env("DIRECT_URL")    // non-pooled (e.g., POSTGRES_URL)
+  url       = env("DATABASE_URL")  // pooled Accelerate URL (PRISMA_DATABASE_URL)
+  directUrl = env("DIRECT_URL")    // non-pooled Postgres URL (POSTGRES_URL)
 }
 
 model User {
