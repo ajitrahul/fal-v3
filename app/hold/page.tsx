@@ -20,7 +20,7 @@ export default function ComingSoonPage() {
           We’re putting the final touches on Find AI List.
         </p>
         <p className="text-xs opacity-60">
-          If you expected production here, it’s temporarily on hold. Thanks for your patience!
+          The live page is currently undergoing some updates and improvements. Our team is actively working behind the scenes to resolve the remaining issues. As soon as the fixes are complete, the live version will be available again. We truly appreciate your patience and understanding in the meantime.
         </p>
       </div>
     </main>
