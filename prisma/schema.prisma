@@ -1,4 +1,4 @@
-// Prisma schema
+// prisma/schema.prisma
 
 generator client {
   provider = "prisma-client-js"
@@ -6,8 +6,8 @@ generator client {
 
 datasource db {
   provider  = "postgresql"
-  url       = env("DATABASE_URL")  // pooled Accelerate URL (PRISMA_DATABASE_URL)
-  directUrl = env("DIRECT_URL")    // non-pooled Postgres URL (POSTGRES_URL)
+  url       = env("DATABASE_URL")  // pooled (Accelerate) URL
+  directUrl = env("DIRECT_URL")    // non-pooled Postgres URL
 }
 
 model User {
