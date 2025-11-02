@@ -34,10 +34,10 @@ function getLoginUrl() {
 const LOGIN_URL = getLoginUrl();
 
 /**
- * return boolean isDark derived from env and current document state.
+ * Derive boolean isDark from env + document state.
  * - If env is 'dark' → true
  * - If env is 'light' → false
- * - If env is 'auto' → read <html>.classList and listen for changes (storage/mutation/media)
+ * - If env is 'auto' → read <html>.classList and listen for changes
  */
 function useIsDarkFromEnv() {
   const [isDark, setIsDark] = useState<boolean>(() => {
@@ -147,19 +147,24 @@ export default function SiteHeader() {
     { href: "/ai-news", label: "AI News" },
   ];
 
-  const submitBtnBase =
-    "inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-offset-2";
-  const submitBtnLight =
+  // Primary (filled) button style — ensures high contrast on both themes
+  const primaryBtnBase =
+    "inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium shadow-sm transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2";
+  const primaryBtnLight =
     "text-white bg-black hover:bg-gray-800 focus:ring-black focus:ring-offset-white";
-  const submitBtnDark =
+  const primaryBtnDark =
     "text-black bg-white hover:bg-zinc-200 focus:ring-white focus:ring-offset-zinc-900";
-  const submitBtnClass = [
-    submitBtnBase,
-    isDark ? submitBtnDark : submitBtnLight,
+  const primaryBtnClass = [
+    primaryBtnBase,
+    isDark ? primaryBtnDark : primaryBtnLight,
   ].join(" ");
 
+  // Submit uses the same primary style for visual consistency
+  const submitBtnClass = primaryBtnClass;
+
+  // Outline style (kept for Sign out only)
   const outlineBtnBase =
-    "inline-flex items-center rounded-md px-3 py-1.5 text-sm font-medium border focus:outline-none focus:ring-2 focus:ring-offset-2";
+    "inline-flex items-center rounded-md px-3 py-1.5 text-sm font-medium border transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2";
   const outlineBtnLight =
     "text-gray-800 border-gray-300 hover:bg-gray-100 focus:ring-black focus:ring-offset-white";
   const outlineBtnDark =
@@ -218,7 +223,7 @@ export default function SiteHeader() {
             Submit AI Tool
           </Link>
 
-          {/* Auth area: Log in (when unauthenticated) or user chip + Sign out */}
+          {/* Auth area: Log in (filled for clarity) or user chip + Sign out */}
           {status === "authenticated" ? (
             <div className="flex items-center gap-2">
               <span className={userChipClass} title={session?.user?.email || undefined}>
@@ -234,8 +239,8 @@ export default function SiteHeader() {
               </button>
             </div>
           ) : (
-            <Link href={LOGIN_URL} className={outlineBtnClass} aria-label="Log in">
-              Log in
+            <Link href={LOGIN_URL} className={primaryBtnClass} aria-label="Log in">
+              Login
             </Link>
           )}
 
