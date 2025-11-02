@@ -1,0 +1,16 @@
+TXT		_dmarc			v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;
+
+@		
+
+
+
+
+
+A 				@					216.198.79.1
+CNAME			www					cname.vercel-dns.com.
+TXT				_vercel				vc-domain-verify=findailist.com,aeeb2f17e073c7b1eac8
+
+
+CNAME			www					06baf63312775c8b.vercel-dns-017.com.
+TXT				_vercel				vc-domain-verify=www.findailist.com,8b2ac8834793d567da35
+									
